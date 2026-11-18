@@ -1,0 +1,851 @@
+@pac21
+T: ඕවාද සික්ඛාපදය || Exhorting the Nuns
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සම්මුතියකින් තොරව භික්ෂුණීන්ට අවවාද කිරීම || Exhorting nuns without authorisation
+K: PD sd=a an=a anu=1
+Z: උද්දේශය හෝ පරිපෘච්ඡාව දීම; "කියන්න" යි කී විට කීම; ප්‍රශ්නයට පිළිතුරු; අනුන් සඳහා කියද්දී භික්ෂුණීන් ඇසීම; ශික්ෂමානා / සාමණේරීන්ට; උමතු ආදීන් || Giving a recitation or explanation; reciting when asked; answering a question; nuns overhearing talk meant for another; to probationers or novices; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+භික්ෂුණීන්ට අවවාද කරන ස්ථවිරයන්ට **සිවුරු, පිණ්ඩපාත, සෙනසුන්, ගිලන්පස** බොහෝ සෙයින් ලැබෙන බව දුටු **ෂඩ්වර්ගීය භික්ෂූහු** "අපි ද අවවාද කරමු" යි භික්ෂුණීන් කැඳවා ==සුළු ධර්ම කථාවක් පමණක් කොට, දවස ම තිරශ්චීන කථාවෙන් ගෙවා== පිටත් කළහ. භික්ෂුණීන් භාග්‍යවතුන් වහන්සේට "අවවාදය සඵල නොවීය" යි සැළ කළහ. භාග්‍යවතුන් වහන්සේ **අංග අටකින් යුත් භික්ෂුවක් ඤත්තිචතුත්ථ කර්මයෙන් "භික්ඛුනොවාදක" ලෙස සම්මත කිරීම** අනුදැන "අසම්මත භික්ෂුවක් භික්ෂුණීන්ට අවවාද කරයි නම් පාචිත්තිය" යි පැනවූහ.
+ඉන්පසු ෂඩ්වර්ගීයයෝ ==**සීමාවෙන් පිටතට ගොස් එකිනෙකා සම්මත කොට**== "අපි ද සම්මත වූවෝ ය" යි නැවත එසේ ම කළහ. එවිට භාග්‍යවතුන් වහන්සේ සම්මත කළ යුතු භික්ෂුවගේ **අංග අට** නියම කළහ.
+## (අ) පද විවරණය
+**අසම්මතො** — භාග්‍යවතුන් වහන්සේ **ඤත්තිචතුත්ථ කර්මයෙන්** අනුදත් **භික්ඛුනොවාදක සම්මුතිය** නොලැබූ.
+**භික්ඛුනියො** — **උභතෝ සංඝයා** කෙරෙහි උපසම්පදාව ලද භික්ෂුණීන්.
+**ඔවදෙය්‍ය** — භික්ෂුණී සංඝයාට, බොහෝ දෙනෙකුට හෝ එක් භික්ෂුණියකට **අෂ්ට ගරුධර්ම** අවවාද වශයෙන් කියයි. **අවවාදය අවසානයේ** පාචිත්තිය වේ.
+## (ආ) භික්ඛුනොවාදකගේ අංග අට හා ගරුධර්ම අට
+**සම්මත කළ හැකි භික්ෂුවගේ අංග අට:**
+# **සීලවත්** වීම — ප්‍රාතිමෝක්ෂ සංවරයෙන් සංවෘත ව, ස්වල්ප වරදෙහි ද භය දක්නා.
+# **බහුශ්‍රැත** වීම.
+# **උභය ප්‍රාතිමෝක්ෂය** විස්තර වශයෙන් මනාව ප්‍රගුණ, සූත්‍ර හා අනුව්‍යඤ්ජන වශයෙන් විනිශ්චය කළ හැකි වීම.
+# **කල්‍යාණ වාක්** — පැහැදිලි, නිදොස් කථා ඇති වීම.
+# බොහෝ භික්ෂුණීන්ට **ප්‍රිය මනාප** වීම.
+# භික්ෂුණීන්ට අවවාද කිරීමට **සමර්ථ** වීම.
+# භාග්‍යවතුන් වහන්සේ උදෙසා පැවිදි වූ කසාවත් හැඳි කාන්තාවක් සමඟ **පෙර ගරු ඇවතකට (මෛථුනයට) නොපැමිණි** අයෙකු වීම.
+# **වස් විස්සක්** හෝ ඊට වැඩි වීම.
+**අවවාද කරන ක්‍රමය** — සම්මත භික්ෂුව පිරිවෙන අතුගා, පැන් තබා, ආසන පනවා, **දෙවැන්නෙකු සමඟ** හිඳිය යුතුය. භික්ෂුණීන් පැමිණ වැඳ හුන් කල්හි —
+|! භික්ෂුව අසයි | පිළිතුර | කළ යුත්ත
+| "සමග්ගාත්ථ, භගිනියො?" | "සමග්ගාම්හාය්‍යා" | ගරුධර්ම ගැන ඇසිය යුතුය
+| "වත්තන්ති, භගිනියො, අට්ඨ ගරුධම්මා?" | "වත්තන්තාය්‍යා" | "**එසො, භගිනියො, ඔවාදො**" යි අවවාදය භාර දිය යුතුය
+| — | "න වත්තන්තාය්‍යා" | **ගරුධර්ම අට කියා දිය යුතුය**
+**ගරුධර්ම අට:**
+|! # | ගරුධර්මය
+| 1 | වස් සියයක් උපසම්පදා වූ භික්ෂුණිය වුව ද **එදින උපසම්පදා වූ භික්ෂුවට** වැඳීම, නැගිටීම, ඇඳිලි බැඳීම, සාමීචි කර්ම කළ යුතුය.
+| 2 | **භික්ෂූන් නැති ආවාසයක** වස් නොවිසිය යුතුය.
+| 3 | සෑම අඩ මසකම භික්ෂු සංඝයාගෙන් **උපෝසථ දිනය විමසීම** හා **අවවාදයට පැමිණීම** යන දෙක බලාපොරොත්තු විය යුතුය.
+| 4 | වස් විසූ පසු **උභතෝ සංඝයා** කෙරෙහි දිට්ඨ, සුත, පරිසංකිත කරුණු තුනෙන් **පවාරණය** කළ යුතුය.
+| 5 | ගරු ඇවතකට පැමිණි භික්ෂුණිය උභතෝ සංඝයා කෙරෙහි **අඩ මසක් මානත්ත** පිරිය යුතුය.
+| 6 | ධර්ම සයෙහි අවුරුදු දෙකක් හික්මුණු **ශික්ෂමානාව** උභතෝ සංඝයාගෙන් උපසම්පදාව සෙවිය යුතුය.
+| 7 | කිසිදු ආකාරයකින් **භික්ෂුවකට ආක්‍රෝශ, පරිභව** නොකළ යුතුය.
+| 8 | අද පටන් **භික්ෂූන්ට භික්ෂුණීන්ගේ වචන මාර්ගය** (අවවාදය) වැසී ඇත; භික්ෂුණීන්ට භික්ෂූන්ගේ වචන මාර්ගය නොවැසී ඇත.
+සෑම ගරුධර්මයක් ම "**සත්කාර කොට, ගරු කොට, බුහුමන් කොට, පුදා දිවි ඇති තෙක් නොඉක්මවිය යුතු**" ධර්මයකි.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා අවවාද කිරීමේ වස්තුවෙහි පැනවිණි. අංග අට නියම කිරීම **අනුප්‍රඥප්තියයි**. **අසාධාරණ ප්‍රඥප්තියකි** (භික්ෂූන්ට පමණි). **අනාණත්තිකයි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| අසම්මත භික්ෂුවක් ගරුධර්ම අටෙන් අවවාද කිරීම — අවවාදය අවසානයේ | PC
+| ගරුධර්ම හැර **වෙනත් ධර්මයකින්** අවවාද කිරීම; **එක් පැත්තකින් පමණක් (භික්ෂුණී සංඝයාගෙන්) උපසම්පන්න** භික්ෂුණියකට අවවාද කිරීම | DK
+| සම්මුති කර්මය **අධර්ම කර්මයක්** නම් — අධර්ම යැයි දැන, සැක ඇතිව, හෝ ධර්ම යැයි සිතා; **වග්ග** භික්ෂුණී සංඝයාට තික තුනකින් 9ක්; **සමග්ග** සංඝයාට තවත් 9ක් = **පාචිත්තිය 18** | PC
+| සම්මුති කර්මය **ධර්ම කර්මයක්** නම් — "ධර්මකර්මයෙහි ධර්මකර්ම සඤ්ඤී සමග්ග සංඝයාට සමග්ග සඤ්ඤීව" යන අවසාන පදය හැර ඒ ක්‍රමයෙන් ම **දුක්කට 17** | DK
+| "සමග්ගම්හ" යි කී විට වෙනත් ධර්මයක් කීම; "වග්ගම්හ" යි කී විට ගරුධර්ම අට කීම; අවවාදය භාර නොදී වෙනත් ධර්මයක් කීම | DK
+## (ඉ) අනාපත්ති
+# ධර්ම කර්මයෙන් සම්මත ව, ධර්ම කර්ම සඤ්ඤීව, **සමග්ග** සංඝයාට සමග්ග සඤ්ඤීව අවවාද කිරීම.
+# ගරුධර්ම පාළිය **උද්දේශයක්** ලෙස දීම; **පරිපෘච්ඡාව** දීම.
+# "**ඔසාරෙහි අය්‍යා**" (කියන්න ආර්‍යයෙනි) යි කී විට කීම; **ප්‍රශ්නයක් අසූ විට** පිළිතුරු දීම.
+# **අනුන් සඳහා** කියද්දී භික්ෂුණීන් ඇසීම.
+# **ශික්ෂමානාවකට** හෝ **සාමණේරියකට** කීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **අසම්මත** බව.
+# භික්ෂුණිය **පරිපූර්ණ උපසම්පන්න** (උභතෝ සංඝයාගෙන්) වීම.
+# **අවවාද වශයෙන් ගරුධර්ම අට කීම**.
+## (උ) සමුට්ඨානාදිය
+**පදසෝධම්ම සමුට්ඨානයි** (වාචා, වාචා-චිත්ත), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Seeing that the elders who exhorted the nuns received plenty of **robes, alms-food, lodgings and medicines**, **the group-of-six** said, “Let's exhort them too,” called the nuns, ==gave only a short Dhamma talk and spent the whole day in pointless talk==, then sent them away. The nuns told the Blessed One the exhortation had been fruitless. The Blessed One allowed **a monk with eight qualities to be authorised as exhorter of nuns by a motion-and-three-announcements act**, and laid down: “Should an unauthorised monk exhort the nuns — pācittiya.”
+Then the group-of-six ==**went outside the boundary and authorised one another**==, saying, “We too are authorised,” and did the same again. So the Blessed One specified **the eight qualities** of the monk to be authorised.
+## (A) Explanation of terms
+**Asammato** — not granted the **authorisation as exhorter of nuns** that the Blessed One allowed by a **motion-and-three-announcements act**.
+**Bhikkhuniyo** — nuns fully ordained **in both Saṅghas**.
+**Ovadeyya** — speaks **the eight heavy rules** by way of exhortation to the Saṅgha of nuns, to several, or to one nun. The pācittiya falls **at the end of the exhortation**.
+## (B) The eight qualities and the eight heavy rules
+**The eight qualities of a monk who may be authorised:**
+# **Virtuous** — restrained by the Pātimokkha, seeing danger in the slightest fault.
+# **Learned**.
+# Has **both Pātimokkhas** well learnt in detail, able to analyse them by rule and detail.
+# **Of good speech** — clear and faultless.
+# **Liked and agreeable** to most of the nuns.
+# **Able** to exhort the nuns.
+# Has **never before committed a heavy offence (intercourse)** with a woman gone forth in the Blessed One's name and wearing the ochre robe.
+# Of **twenty rains** or more.
+**How to exhort** — the authorised monk should sweep the cell, set out water, prepare seats, and sit **with a companion**. When the nuns have come, bowed and sat down —
+|! The monk asks | Reply | Then
+| “Samaggāttha, bhaginiyo?” | “Samaggāmhāyyā” | he asks about the heavy rules
+| “Vattanti, bhaginiyo, aṭṭha garudhammā?” | “Vattantāyyā” | he hands over the exhortation: “**Eso, bhaginiyo, ovādo**”
+| — | “Na vattantāyyā” | he **recites the eight heavy rules**
+**The eight heavy rules:**
+|! # | Heavy rule
+| 1 | A nun ordained a hundred years must bow to, rise for, salute and pay respect to **a monk ordained that day**.
+| 2 | She must not spend the rains **in a residence without monks**.
+| 3 | Every half-month she should look to the monks' Saṅgha for two things: **asking the Uposatha date** and **coming for exhortation**.
+| 4 | After the rains she must hold the **Pavāraṇā before both Saṅghas** on what was seen, heard or suspected.
+| 5 | A nun who has committed a heavy offence must undergo **half a month's mānatta** before both Saṅghas.
+| 6 | A **probationer** trained two years in the six rules should seek ordination from both Saṅghas.
+| 7 | A monk must not be **abused or reviled** in any way.
+| 8 | From today **admonition of monks by nuns** is barred; admonition of nuns by monks is not barred.
+Each heavy rule is one “**to be honoured, respected, revered and venerated, not to be transgressed as long as life lasts**.”
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of exhorting. The specification of the eight qualities is a **supplementary rule**. It is a **rule not shared** (monks only), and **anāṇattika**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| An unauthorised monk exhorting with the eight heavy rules — at the end of the exhortation | PC
+| Exhorting with **some other Dhamma**; exhorting a nun **ordained on one side only** (by the nuns' Saṅgha) | DK
+| If the authorising act was **not legitimate** — perceived as illegitimate, in doubt, or as legitimate; to an **incomplete** Saṅgha of nuns, three triads = 9; to a **complete** one, another 9 = **18 pācittiyas** | PC
+| If the authorising act was **legitimate** — the same pattern except the last case (“legitimate act perceived as legitimate, complete Saṅgha perceived as complete”) = **17 dukkaṭas** | DK
+| When told “We are complete,” speaking another Dhamma; when told “We are incomplete,” reciting the eight rules; speaking another Dhamma without handing over the exhortation | DK
+## (E) No offence
+# Authorised by a legitimate act, perceiving it as such, exhorting a **complete** Saṅgha perceived as complete.
+# Giving the text of the heavy rules as a **recitation lesson**; giving an **explanation**.
+# Reciting when told “**Osārehi ayyā**” (please recite, venerable sir); **answering a question** put to him.
+# Nuns listening while he speaks **for another's benefit**.
+# Speaking to a **probationer** or **novice nun**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Not authorised**.
+# The nun **fully ordained** (by both Saṅghas).
+# **Speaking the eight heavy rules by way of exhortation**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Padasodhamma origin** (speech; speech–mind), **by doing, no release by perception, without intention, an offence by convention, verbal action, three kinds of consciousness, three feelings**.
+
+@pac22
+T: අත්ථඞ්ගත සික්ඛාපදය || After Sunset
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: චූළපන්ථක ස්ථවිර || Ven. Cūḷapanthaka
+V: හිරු බැස ගිය පසුත් භික්ෂුණීන්ට අවවාද කිරීම || Exhorting the nuns after sunset
+K: PD sd=a an=a anu=0
+Z: උද්දේශය දීම ආදිය ; ශික්ෂමානා / සාමණේරීන්ට; උමතු ආදීන් || Giving a recitation etc. ; to probationers or novices; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+ස්ථවිර භික්ෂූන් වාරයෙන් භික්ෂුණීන්ට අවවාද කරද්දී **චූළපන්ථක** තෙරුන්ගේ වාරය පැමිණියේය. "අද අවවාදය සඵල නොවේ; ආර්‍ය චූළපන්ථක **එක ම උදානය නැවත නැවත** කියන්නේ ය" යි භික්ෂුණීහු කියා ගත්හ. තෙරුන් "**අධිචෙතසො අප්පමජ්ජතො…**" යන උදාන ගාථාව ම නැවත නැවත කී කල්හි ඔවුහු එසේ ම කීහ. එවිට තෙරුන් ==අහසට නැගී, අහසේ සක්මන් කොට, සිටගෙන, හිඳ, සැතපී, දුම් දමා, දැල්වී, අතුරුදන් වී== නොයෙක් ඍද්ධි ප්‍රාතිහාර්‍ය පා, ඒ උදානය ද බොහෝ ධර්ම කථා ද කළහ. "**පෙර කිසිදා මෙබඳු සඵල අවවාදයක් නොවීය**" යි භික්ෂුණීහු පැහැදුණහ.
+එහෙත් තෙරුන් ==**හිරු බසින තුරු** අවවාද කළ හෙයින්== භික්ෂුණීන් ආපසු යද්දී **නගර දොරටු වැසී**, ඔවුහු **නගරයෙන් පිට රැය ගෙවූහ**. අලුයම නගරයට පිවිසි ඔවුන් දුටු මිනිස්සු "**මේ භික්ෂුණීහු භික්ෂූන් සමඟ ආරාමයේ රැය ගෙවා දැන් එති**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සම්මතොපි** — ඤත්තිචතුත්ථ කර්මයෙන් සම්මත වූයේ වුව ද.
+**අත්ථඞ්ගතෙ සූරියෙ** — **හිරු බැස ගිය පසු** (අරුණ නැගෙන තුරු).
+**ඔවදෙය්‍ය** — **අෂ්ට ගරුධර්මයෙන් හෝ වෙනත් ඕනෑම ධර්මයකින්** අවවාද කිරීම — සම්මත වූවකු වුව ද ==**පාචිත්තිය ම ය**==. (පෙර ශික්ෂාපදයේ වෙනත් ධර්මයකින් දුක්කට වූ නමුත් මෙහි කාලය නිසා පාචිත්තිය වේ.)
+## (ආ) පෙර ශික්ෂාපදය සමඟ සැසඳීම
+|! කරුණ | ඕවාද (පා. 21) | අත්ථඞ්ගත (පා. 22)
+| වරද | **සම්මුතියක් නොමැතිව** අවවාදය | **හිරු බැසීමෙන් පසු** අවවාදය
+| අදාළ වන්නේ | අසම්මත භික්ෂුවට | **සම්මත භික්ෂුවට ද**
+| ධර්මය | ගරුධර්ම අට → PC; වෙනත් ධර්ම → DK | ගරුධර්ම **හෝ වෙනත් ඕනෑම ධර්මයක්** → PC
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ආයුෂ්මත් **චූළපන්ථක** තෙරුන් අරබයා හිරු බැස ගිය පසු අවවාද කිරීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| හිරු බැස ගිය පසු අවවාද කිරීම — බැස ගිය බව දැන, සැක ඇතිව, හෝ නොබැස ගිය යැයි සිතා (**තික පාචිත්තිය**) | PC
+| හිරු නොබැස තිබියදී බැස ගිය යැයි සිතීම හෝ සැක කිරීම | DK
+| **එක් පැත්තකින් උපසම්පන්න** භික්ෂුණියකට අවවාද කිරීම | DK
+## (ඉ) අනාපත්ති
+# ගරුධර්ම **උද්දේශයක්** හෝ **පරිපෘච්ඡාවක්** ලෙස දීම.
+# "ඔසාරෙහි" යි කී විට කීම; **ප්‍රශ්නයකට** පිළිතුරු දීම.
+# **අනුන් සඳහා** කියද්දී භික්ෂුණීන් ඇසීම.
+# **ශික්ෂමානාවකට, සාමණේරියකට** කීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **හිරු බැස ගොස්** තිබීම.
+# භික්ෂුණිය **පරිපූර්ණ උපසම්පන්න** වීම.
+# **අවවාද කිරීම**.
+## (උ) සමුට්ඨානාදිය
+**පදසෝධම්ම සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+The elder monks took turns exhorting the nuns, and Ven. **Cūḷapanthaka**'s turn came. The nuns said to one another, “Today's exhortation won't be fruitful; Ven. Cūḷapanthaka will **repeat the same inspired verse over and over**.” When he recited the verse “**Adhicetaso appamajjato…**” again and again, they said just that. Then the elder ==rose into the air, walked, stood, sat and lay down in the sky, emitted smoke, blazed and vanished==, displaying many psychic wonders, and spoke that verse and much other Dhamma. “**Never before has there been so fruitful an exhortation**,” the nuns rejoiced.
+But because he ==exhorted them **until the sun set**==, by the time the nuns returned **the city gates were shut**, and they **spent the night outside the city**. Seeing them enter at dawn, people complained, “**These nuns have spent the night in the monastery with the monks and are only now coming back!**” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sammatopi** — even one authorised by a motion-and-three-announcements act.
+**Atthaṅgate sūriye** — **after the sun has set** (until dawn).
+**Ovadeyya** — exhorting **with the heavy rules or any other Dhamma** — even an authorised monk incurs ==**a pācittiya**==. (In the previous rule another Dhamma was only dukkaṭa; here the time makes it pācittiya.)
+## (B) Compared with the previous rule
+|! Point | Exhortation (Pāc. 21) | After sunset (Pāc. 22)
+| Fault | exhorting **without authorisation** | exhorting **after sunset**
+| Applies to | an unauthorised monk | **an authorised monk too**
+| Content | heavy rules → PC; other Dhamma → DK | heavy rules **or any Dhamma** → PC
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning Ven. **Cūḷapanthaka**, on the matter of exhorting after sunset. It is a **rule not shared**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Exhorting after sunset — perceiving it as set, in doubt, or as not set (**triple pācittiya**) | PC
+| The sun not yet set, perceived as set or in doubt | DK
+| Exhorting a nun **ordained on one side only** | DK
+## (E) No offence
+# Giving the heavy rules as a **recitation** or **explanation**.
+# Reciting when asked; **answering a question**.
+# Nuns listening to talk **meant for another**.
+# Speaking to a **probationer** or **novice nun**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **The sun having set**.
+# The nun **fully ordained**.
+# **Exhorting**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Padasodhamma origin, by doing, no release by perception, without intention, an offence by convention, verbal action, three kinds of consciousness, three feelings**.
+
+@pac23
+T: භික්ඛුනුපස්සය සික්ඛාපදය || At the Nuns' Quarters
+R: - || -
+N: ශාක්‍ය ජනපදය, කපිලවස්තු නිග්‍රෝධාරාමය || Sakyan country, Nigrodhārāma at Kapilavatthu
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: භික්ෂුණී ආරාමයට ගොස් අවවාද කිරීම || Going to the nuns' quarters to exhort them
+K: KT sd=a an=a anu=1 kr=K
+Z: සමය (භික්ෂුණිය ගිලන් වූ විට); අනුපසම්පන්නාවකට; උද්දේශය දීම ආදිය; උමතු ආදීන් || The proper occasion (a nun is ill); to an unordained woman; giving a recitation etc.; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ කපිලවස්තු · නිග්‍රෝධාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==භික්ෂුණී ආරාමයට (උපස්සයට) ගොස් **ෂඩ්වර්ගීය භික්ෂුණීන්ට** අවවාද කළහ==. "ඔබ අපට අවවාදයට එන්න" යි අනෙක් භික්ෂුණීන් කී කල්හි "ආර්‍යයන් මෙහි ම ඇවිත් ෂඩ්වර්ගීය භික්ෂුණීන්ට අවවාද කරති" යි ඔවුහු පිළිතුරු දුන්හ. මේ ගැන උපාලි තෙරුන් ද භික්ෂූන් ද දොස් කීහ; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+පසුව **මහා ප්‍රජාපතී ගෝතමී** භික්ෂුණිය **ගිලන්** වූ කල්හි ස්ථවිරයෝ "භික්ෂුණී ආරාමයට ගොස් අවවාද කිරීම තහනම්" යි කුකුස් ඇතිව නොගියහ. ඇය "ධර්ම දේශනාවක් ඕනෑ" යි පැවසූ හෙයින් භාග්‍යවතුන් වහන්සේ "**අඤ්ඤත්‍ර සමයා — ගිලන් භික්ෂුණියක් ඇති කල්හි හැර**" යන අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**භික්ඛුනුපස්සයං** — භික්ෂුණියක් **එක් රැයක්** වාසය කරන තැන ද භික්ෂුණී උපස්සයයි.
+**ඔවදෙය්‍ය** — මෙහි **ගරුධර්මවලින්** අවවාද කිරීමෙන් පමණක් පාචිත්තිය වේ.
+**සමයො** — **භික්ෂුණිය ගිලන් වූ කල්හි** — එනම් අවවාදයට හෝ සංවාසයට (උපෝසථයට) යාමට ඇයට නොහැකි වූ කල්හි.
+## (ආ) ඇවැත් එකතු වීම
+|! භික්ෂුව | භික්ෂුණී උපස්සයේ ගරුධර්මවලින් අවවාදය | ඇවැත් ගණන
+| **අසම්මත** — දිවා කාලයේ | මෙම ශික්ෂාපදය + ඕවාද (පා. 21) | **පාචිත්තිය 2**
+| **අසම්මත** — හිරු බැස ගිය පසු | + අත්ථඞ්ගත (පා. 22) | **පාචිත්තිය 3**
+| **සම්මත** — රාත්‍රියේ | මෙම ශික්ෂාපදය + අත්ථඞ්ගත | **පාචිත්තිය 2** (සම්මත බැවින් ගරුධර්ම-අවවාදය නිසා පාචිත්තියක් නැත)
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**ශාක්‍ය ජනපදයේදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා භික්ෂුණී උපස්සයට ගොස් අවවාද කිරීමේ වස්තුවෙහි පැනවිණි. "**අඤ්ඤත්‍ර සමයා**" අනුප්‍රඥප්තියයි. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| සමයක් නොමැතිව උපස්සයට ගොස් පරිපූර්ණ උපසම්පන්න භික්ෂුණියකට ගරුධර්මවලින් අවවාදය — උපසම්පන්න බව දැන, සැක ඇතිව, හෝ අනුපසම්පන්න යැයි සිතා (**තික පාචිත්තිය**) | PC
+| අනුපසම්පන්නාවක් උපසම්පන්න යැයි සිතීම හෝ සැක කිරීම | DK
+| **එක් පැත්තකින් උපසම්පන්නාවකට** ඕනෑම ධර්මයකින්; පරිපූර්ණ උපසම්පන්නාවකට **වෙනත් ධර්මයකින්** අවවාදය | DK
+## (ඉ) අනාපත්ති
+# **සමයයේ** — ගිලන් භික්ෂුණියකට.
+# **අනුපසම්පන්නාවකට**.
+# ගරුධර්ම **උද්දේශය, පරිපෘච්ඡාව** දීම; ඉල්ලූ විට කීම; ප්‍රශ්නයකට පිළිතුරු; අනුන් සඳහා කියද්දී ඇසීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **උපස්සයට යාම**.
+# **පරිපූර්ණ උපසම්පන්න** භික්ෂුණියක් වීම.
+# **සමයක් නැති** බව.
+# **ගරුධර්මවලින් අවවාද කිරීම**.
+## (උ) සමුට්ඨානාදිය
+**කථින සමුට්ඨානයි** (කාය-වාචා, කාය-වාචා-චිත්ත), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Kapilavatthu · Nigrodhārāma
+**The group-of-six monks** ==went to the nuns' quarters and exhorted **the group-of-six nuns**==. When other nuns told them, “Come to us for exhortation,” they replied, “The venerables come right here and exhort the group-of-six nuns.” The monks criticised this, and the Blessed One laid down the rule.
+Later, when the nun **Mahāpajāpatī Gotamī** was **ill**, the elders, scrupulous about going to the nuns' quarters to exhort, did not go. Since she wished for a Dhamma talk, the Blessed One added the supplementary rule “**aññatra samayā — except on the proper occasion, when a nun is ill**.”
+## (A) Explanation of terms
+**Bhikkhunupassayaṃ** — even a place where a nun stays **a single night** counts as nuns' quarters.
+**Ovadeyya** — here only exhorting **with the heavy rules** is pācittiya.
+**Samayo** — **when a nun is ill**, i.e. unable to go for the exhortation or for communion (Uposatha).
+## (B) How offences add up
+|! The monk | Exhorting with the heavy rules at the nuns' quarters | Offences
+| **unauthorised** — by day | this rule + Exhortation (Pāc. 21) | **2 pācittiyas**
+| **unauthorised** — after sunset | + After sunset (Pāc. 22) | **3 pācittiyas**
+| **authorised** — at night | this rule + After sunset | **2 pācittiyas** (being authorised, no pācittiya for the heavy-rule exhortation)
+## (C) The laying down of the rule and the command
+It was laid down **among the Sakyans** concerning the group-of-six, on the matter of going to the nuns' quarters to exhort. “**Aññatra samayā**” is a supplementary rule. It is a **rule not shared**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Without the occasion, going to the quarters and exhorting a fully ordained nun with the heavy rules — perceiving her as ordained, in doubt, or as unordained (**triple pācittiya**) | PC
+| An unordained woman perceived as ordained, or in doubt | DK
+| Exhorting a nun **ordained on one side only** with anything; a fully ordained nun with **another Dhamma** | DK
+## (E) No offence
+# **On the occasion** — a sick nun.
+# **To an unordained woman**.
+# Giving the heavy rules as **recitation** or **explanation**; reciting when asked; answering a question; nuns overhearing talk meant for another.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **Going to the quarters**.
+# A **fully ordained** nun.
+# **No proper occasion**.
+# **Exhorting with the heavy rules**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Kathina origin** (body–speech, body–speech–mind), **by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac24
+T: ආමිස සික්ඛාපදය || "For Gain"
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: "ස්ථවිරයෝ ලාභය සඳහා අවවාද කරති" යි අපහාස කිරීම || Saying the elders exhort the nuns for the sake of gain
+K: AD sd=a an=a anu=0 ved=D
+Z: ලාභය සඳහා ම අවවාද කරන්නා ගැන එසේ කීම; උමතු ආදීන් || Saying so of one who really does exhort for gain; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+අංග අට නියම කිරීමෙන් පසු ==සම්මුතිය අහිමි වූ **ෂඩ්වර්ගීය භික්ෂූහු**==, අවවාද කරන ස්ථවිරයන්ට සිවුරු ආදී ලාභ ලැබෙන බව දැක "**ස්ථවිර භික්ෂූහු භික්ෂුණීන්ට අවවාද කරන්නේ ආමිසය (ලාභය) හේතු කොට ගෙන ය**" යි කීහ. අල්පේච්ඡ භික්ෂූහු දොස් කීහ; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ආමිසහෙතු** — **සිවුරු, පිණ්ඩපාත, සෙනසුන්, ගිලන්පස බෙහෙත්, සත්කාර, ගෞරව, බුහුමන්, පූජා** යන මේවායින් එකක් හේතු කොට.
+**භික්ඛූ** — මෙහි අදහස් කෙරෙන්නේ **සම්මත භික්ෂූන්** ය — භික්ෂුණීන්ට අවවාද කිරීමට සංඝයා සම්මත කළ අය.
+**එවං වදෙය්‍ය** — ==**අගුණ කියනු කැමැත්තෙන් (අවණ්ණකාමතාව)**== මෙසේ කියන්නාට පාචිත්තිය.
+## (ආ) "සම්මත අනුපසම්පන්නයා"
+උපසම්පන්නයෙකු ගැන එසේ කීම පමණක් පාචිත්තියයි. **නිසි කාලයේ සම්මුතිය ලැබ, පසුව (ඇවතක් නිසා) සාමණේර භූමියෙහි සිටින** අය "සම්මත අනුපසම්පන්නයා" නම් වේ; ඔහු ගැන හෝ **අසම්මත** අයෙකු ගැන එසේ කීම **දුක්කට** ය.
+|! කා ගැන කියන්නේ ද | ඇවැත
+| **ධර්ම කර්මයෙන්** සම්මත උපසම්පන්න භික්ෂුවක් | PC
+| **අධර්ම කර්මයෙන්** සම්මත භික්ෂුවක් | DK
+| **අසම්මත** උපසම්පන්නයෙක් | DK
+| සම්මත හෝ අසම්මත **අනුපසම්පන්නයෙක්** | DK
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා "ලාභය සඳහා අවවාද කරති" යි කීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ධර්ම කර්මයෙන් සම්මත භික්ෂුවක් ගැන අගුණ කැමැත්තෙන් එසේ කීම — ධර්ම කර්ම බව දැන, සැක ඇතිව, හෝ අධර්ම යැයි සිතා (**තික පාචිත්තිය**) | PC
+| අධර්ම කර්මයෙහි — තුන් සඤ්ඤාවෙහි ම (**තික දුක්කට**) | DK
+| අසම්මත උපසම්පන්නයෙකු ගැන; සම්මත හෝ අසම්මත අනුපසම්පන්නයෙකු ගැන එසේ කීම | DK
+## (ඉ) අනාපත්ති
+# **ප්‍රකෘතියෙන් ම** සිවුරු ආදිය හේතු කොට අවවාද කරන්නෙකු ගැන එසේ කීම (සත්‍යය කීම).
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **උපසම්පන්න** භික්ෂුවක් වීම.
+# **ධර්මයෙන් සම්මුතිය ලැබූ** බව.
+# **ආමිසය අරමුණු නොකරන්නෙකු** වීම.
+# **අගුණ කියනු කැමැත්තෙන්** එසේ කීම.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+After the eight qualities were specified, **the group-of-six**, ==no longer authorised==, saw that the exhorting elders received robes and other gains, and said, “**The elder monks exhort the nuns for the sake of material gain.**” The monks of few wishes criticised them, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Āmisahetu** — for the sake of one of these: **robes, alms-food, lodgings, medicines, hospitality, respect, honour, veneration**.
+**Bhikkhū** — here meaning **authorised monks** — those the Saṅgha has authorised to exhort the nuns.
+**Evaṃ vadeyya** — saying so ==**wishing to disparage**== is pācittiya.
+## (B) “The authorised unordained”
+Only saying it of an ordained monk is pācittiya. One who **received authorisation at the proper time but afterwards (through an offence) stands at the novice's level** is called “authorised but unordained”; saying it of him, or of an **unauthorised** person, is **dukkaṭa**.
+|! Of whom it is said | Offence
+| an ordained monk authorised **by a legitimate act** | PC
+| a monk authorised **by an illegitimate act** | DK
+| an **unauthorised** ordained monk | DK
+| an authorised or unauthorised **unordained** person | DK
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of saying “they exhort for gain.” It is a **rule not shared**, and **anāṇattika**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Saying so, wishing to disparage, of a monk authorised by a legitimate act — perceiving it as legitimate, in doubt, or as illegitimate (**triple pācittiya**) | PC
+| For an illegitimate act — in all three perceptions (**triple dukkaṭa**) | DK
+| Saying so of an unauthorised ordained monk, or of an authorised or unauthorised unordained person | DK
+## (E) No offence
+# Saying so of one who **really does** exhort for the sake of robes and the like (speaking the truth).
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# The monk being **ordained**.
+# **Authorised by a legitimate act**.
+# **Not one who aims at gain**.
+# Saying so **wishing to disparage**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins, by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac25
+T: චීවරදාන සික්ඛාපදය || Giving a Robe to a Nun
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: එක්තරා භික්ෂුවක් || A certain monk
+V: ඥාති නොවන භික්ෂුණියකට සිවුරක් දීම || Giving a robe to an unrelated nun
+K: SC sd=a an=a anu=1 kr=KA
+Z: හුවමාරුවක් ලෙස; ඥාති භික්ෂුණියකට; සිවුර හැර අන් පිරිකර; ශික්ෂමානා / සාමණේරීන්ට; උමතු ආදීන් || By way of exchange; to a related nun; any requisite other than a robe; to probationers or novices; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+සැවැත් නුවර එක් වීදියක එක් භික්ෂුවක් ද එක් භික්ෂුණියක් ද පිඬු සිඟා යති. "නැගණියනි, අසවල් තැන භික්ෂාව දෙයි", "ආර්‍යයෙනි, අසවල් තැන භික්ෂාව දෙයි" යි කියමින් ==නිතර දැකීමෙන් ඔවුහු හඳුනන්නෝ වූහ==. සංඝයාට සිවුරු බෙදන කල්හි අවවාදයට පැමිණි ඒ භික්ෂුණියට "නැගණිය, මේ මගේ සිවුරු කොටසයි, පිළිගන්නෙහි ද?" යි ඇසූ විට "ආම ආර්‍යයෙනි, මගේ සිවුරු දුර්වල ය" යි කීවාය. ඔහු ==තමාගේ සිවුර ඇයට දුන්නේය==. ඔහුගේ සිවුර ද දුර්වල වූ හෙයින් භික්ෂූහු "දැන් සිවුරක් කර ගන්න" යි කීහ. සිදු වූ දේ ඇසූ භාග්‍යවතුන් වහන්සේ "ඥාතියක් ද?" යි අසා "**ඥාති නොවන තැනැත්තා ඥාති නොවන තැනැත්තියගේ සුදුසු නුසුදුසු බව, ඇති නැති බව නොදනී**" යි ගරහා ශික්ෂාපදය පැනවූහ.
+පසුව භික්ෂූහු කුකුස් ඇතිව **භික්ෂුණීන්ට හුවමාරුවක් ලෙස** ද සිවුරු නොදුන්හ. භික්ෂුණීහු දොස් කීහ; භාග්‍යවතුන් වහන්සේ "**සහධාර්මිකයන් පස් දෙනාට හුවමාරුවක් (පාරිවත්තක) දීමට**" අනුදැන "අඤ්ඤත්‍ර පාරිවත්තකා" අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**අඤ්ඤාතිකා** — මවගේ හෝ පියාගේ පැත්තෙන් **සත්වන මුත්තා පරම්පරාව** දක්වා සම්බන්ධයක් නැති.
+**භික්ඛුනී** — උභතෝ සංඝයා කෙරෙහි උපසම්පන්න.
+**චීවරං** — සය වර්ගයෙන් එකක් — **විකප්පනයට සුදුසු අවම ප්‍රමාණය**.
+**අඤ්ඤත්‍ර පාරිවත්තකා** — හුවමාරුව හැර දෙයි නම් පාචිත්තිය.
+## (ආ) නිස්සග්ගිය 5 සමඟ සැසඳීම
+**නිස්සග්ගිය 5** (සිවුරු පිළිගැනීම) සමඟ සැසඳීම —
+|! කරුණ | නිස්සග්ගිය 5 | පාචිත්තිය 25
+| ක්‍රියාව | ඥාති නොවන භික්ෂුණියගෙන් සිවුරක් **ගැනීම** | ඥාති නොවන භික්ෂුණියකට සිවුරක් **දීම**
+| ගන්නා තැනැත්තා | **භික්ෂුව** | **භික්ෂුණිය**
+| ඇවැත | නිස්සග්ගිය පාචිත්තිය (සිවුර අත්හළ යුතුය) | සුද්ධ පාචිත්තිය
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** එක්තරා භික්ෂුවක් අරබයා සිවුරක් දීමේ වස්තුවෙහි පැනවිණි. "අඤ්ඤත්‍ර පාරිවත්තකා" **අනුප්‍රඥප්තියයි**. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| හුවමාරුවක් නොවී ඥාති නොවන භික්ෂුණියකට සිවුරක් දීම — ඥාති නොවන බව දැන, සැක ඇතිව, හෝ ඥාතියක යැයි සිතා (**තික පාචිත්තිය**) | PC
+| **එක් පැත්තකින් උපසම්පන්නාවකට** දීම | DK
+| ඥාති භික්ෂුණියක ඥාති නොවේ යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# **ඥාති** භික්ෂුණියකට.
+# **හුවමාරුවක්** ලෙස — මහත් දෙයකට කුඩා දෙයක් හෝ කුඩා දෙයකට මහත් දෙයක් වුව ද.
+# භික්ෂුණිය **විශ්වාසයෙන්** ගැනීම; **තාවකාලිකව** ගැනීම.
+# සිවුර හැර **අන් පිරිකරක්** දීම.
+# **ශික්ෂමානාවකට, සාමණේරියකට** දීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **විකප්පනයට සුදුසු සිවුරක්** වීම.
+# **හුවමාරුවක් නොවීම**.
+# **ඥාති නොවන භික්ෂුණියකට** දීම.
+## (උ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (සමුට්ඨාන සය), **කිරියාකිරියයි** (දීම කිරියාව, හුවමාරුව නොගැනීම අකිරියාව), **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+In a certain street of Sāvatthī a monk and a nun both went for alms. Telling each other, “Go, sister, alms are being given at such-and-such place,” “Go, venerable sir, alms are being given there,” ==they became acquainted through seeing each other often==. When robes were being distributed to the Saṅgha, he asked the nun, who had come for the exhortation, “Sister, this is my share of robe-cloth; will you accept it?” “Yes, venerable sir, my robes are worn out.” ==He gave her his robe==. Since his own robe was worn too, the monks told him, “Now make yourself a robe.” Hearing what had happened, the Blessed One asked, “Is she a relative?” and rebuked him: “**An unrelated man does not know what is fitting or unfitting, available or unavailable, for an unrelated woman**,” and laid down the rule.
+Later monks, being scrupulous, would not give robes to nuns **even in exchange**. The nuns complained, and the Blessed One allowed **exchange (pārivattaka) with the five co-religionists**, adding “aññatra pārivattakā.”
+## (A) Explanation of terms
+**Aññātikā** — not related on the mother's or father's side back **to the seventh generation**.
+**Bhikkhunī** — ordained in both Saṅghas.
+**Cīvaraṃ** — any of the six kinds — **the minimum assignable size**.
+**Aññatra pārivattakā** — giving other than by exchange is pācittiya.
+## (B) Compared with nissaggiya 5
+Compared with **nissaggiya 5** (accepting a robe) —
+|! Point | Nissaggiya 5 | Pācittiya 25
+| Act | **receiving** a robe from an unrelated nun | **giving** a robe to an unrelated nun
+| Recipient | **the monk** | **the nun**
+| Offence | nissaggiya pācittiya (robe forfeited) | pure pācittiya
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a certain monk, on the matter of giving a robe. “Aññatra pārivattakā” is a **supplementary rule**. It is a **rule not shared**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Giving a robe, not in exchange, to an unrelated nun — perceiving her as unrelated, in doubt, or as related (**triple pācittiya**) | PC
+| Giving to a nun **ordained on one side only** | DK
+| A related nun perceived as unrelated, or in doubt | DK
+## (E) No offence
+# To a **related** nun.
+# **In exchange** — even something small for something large, or large for small.
+# The nun taking it **on trust**; taking it **temporarily**.
+# Giving **some requisite other than a robe**.
+# Giving to a **probationer** or **novice nun**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **A robe of assignable size**.
+# **Not an exchange**.
+# Giving **to an unrelated nun**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Go-between origin** (six origins), **by doing and not doing** (giving; not taking an exchange), **no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac26
+T: චීවරසිබ්බන සික්ඛාපදය || Sewing a Nun's Robe
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උදායී ස්ථවිර || Ven. Udāyī
+V: ඥාති නොවන භික්ෂුණියකගේ සිවුරක් මැසීම || Sewing a robe for an unrelated nun
+K: SC sd=a an=s anu=0
+Z: සිවුර හැර පසුම්බි ආදී අන් පිරිකර; ඥාති භික්ෂුණියකට; ශික්ෂමානා / සාමණේරීන්ට; උමතු ආදීන් || Requisites other than a robe (bags etc.); for a related nun; for probationers or novices; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**උදායී** තෙරුන් **සිවුරු මැසීමෙහි දක්ෂ** වූහ. එක් භික්ෂුණියක් "ආර්‍යයන් මට සිවුරක් මසා දෙනු මැනවි" යි ඉල්ලුවාය. තෙරුන් සිවුර මසා, මනාව පඬු පොවා, ==**මැද කාම සහගත චිත්‍රයක්** (පටිභාන චිත්‍ර) ඇඳ== නවා තැබූහ. "මෙය නවා තබාගෙන, භික්ෂුණී සංඝයා අවවාදයට එන කල්හි මෙය පොරොවා **සංඝයාට පිටුපසින්** එන්න" යි කීහ. ඇය එසේ කළ කල්හි මිනිස්සු "**මේ භික්ෂුණීහු කොතරම් නිර්ලජ්ජ ද, සිවුරෙහි චිත්‍ර අඳිති**" යි දොස් කීහ. "කාගේ වැඩක් ද?" යි ඇසූ භික්ෂුණීහු "ආර්‍ය උදායීගේ" යි අසා "**ලජ්ජා නැති ධූර්තයන්ට වත් මෙය නොසෑහේ; ආර්‍ය උදායීට කෙසේ ද?**" යි කීහ. භාග්‍යවතුන් වහන්සේ "ඥාතියක් ද?" යි අසා ගරහා ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**චීවරං** — **ඇඳීමට හෝ පෙරවීමට සුදුසු** සිවුර.
+**සිබ්බෙය්‍ය** — තමා ම මසයි: ==**ඉඳිකටුව ඇතුළු කොට කොට පිටතට ගන්නා වාරයක් පාසා**== පාචිත්තිය. සිය වරක් විද **එක් වරක්** පිටතට ගත්තේ නම් **එක්** පාචිත්තියයි.
+**සිබ්බාපෙය්‍ය** — අනුන් ලවා මසවයි.
+|! අණ කළ ආකාරය | අණ කළ තැනැත්තාගේ ඇවැත
+| "**මසන්න**" යි එක් වරක් — හේ සියලු මැසුම් වැඩ නිම කළ ද | **එක්** පාචිත්තිය
+| "**මේ සිවුරේ කළ යුතු සියල්ල ඔබේ භාරයයි**" — හේ නිම කළ විට | **මැසුම් පෙළක් (ආරාපථ) පාසා** පාචිත්තිය
+| එක් වචනයකින් බොහෝ දේ / නැවත නැවත අණ කිරීම | ඒ ගණනින් ම — කිව යුත්තක් නැත
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ආයුෂ්මත් **උදායී** තෙරුන් අරබයා සිවුරු මැසීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ඥාති නොවන භික්ෂුණියකගේ සිවුරක් මැසීම / මසවීම — ඥාති නොවන බව දැන, සැක ඇතිව, හෝ ඥාතියක යැයි සිතා (**තික පාචිත්තිය**) | PC
+| ඥාති භික්ෂුණියක ඥාති නොවේ යැයි සිතීම හෝ සැක කිරීම | DK
+| **එක් පැත්තකින් උපසම්පන්නාවකගේ** සිවුරක් මැසීම | DK
+## (ඈ) අනාපත්ති
+# සිවුර හැර **පසුම්බි, පාවහන් ආදී අන් පිරිකරක්** මැසීම.
+# **ඥාති** භික්ෂුණියකට.
+# **ශික්ෂමානාවකගේ, සාමණේරියකගේ** සිවුර වුව ද මැසීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **ඥාති නොවන භික්ෂුණියක සතු** වීම.
+# **ඇඳීමට හෝ පෙරවීමට සුදුසු** සිවුරක් වීම.
+# කී ආකාරයෙන් **මැසීම හෝ මසවීම**.
+## (ඊ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (සමුට්ඨාන සය), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Ven. **Udāyī** was **skilled at robe-making**. A nun asked him, “Venerable sir, please sew a robe for me.” He sewed it, dyed it well, ==drew **an erotic picture** in the middle==, folded it and put it away, telling her, “Keep it folded, and when the nuns' Saṅgha comes for exhortation, wear it and **walk behind** the Saṅgha.” When she did so, people complained, “**How shameless these nuns are — drawing pictures on their robes!**” Asked whose work it was, she said, “Ven. Udāyī's.” The nuns said, “**It wouldn't suit even shameless rogues — how much less Ven. Udāyī!**” The Blessed One asked, “Is she a relative?”, rebuked him and laid down the rule.
+## (A) Explanation of terms
+**Cīvaraṃ** — a robe **fit for wearing as lower or upper robe**.
+**Sibbeyya** — he sews it himself: ==**each time he pushes the needle in and draws it out**== is a pācittiya. If he pierces a hundred times and draws it out **once**, it is **one** pācittiya.
+**Sibbāpeyya** — has another sew it.
+|! How he orders | Offence of the one who orders
+| “**Sew it**,” once — even if the other finishes all the needlework | **one** pācittiya
+| “**Everything to be done on this robe is your job**” — when the other finishes | a pācittiya **for each run of stitching (ārāpatha)**
+| many things in one word / ordering again and again | by that count — nothing more to say
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning Ven. **Udāyī**, on the matter of sewing a robe. It is a **rule not shared**, **sāṇattika**, and a **triple pācittiya**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Sewing or having sewn a robe of an unrelated nun — perceiving her as unrelated, in doubt, or as related (**triple pācittiya**) | PC
+| A related nun perceived as unrelated, or in doubt | DK
+| Sewing a robe of a nun **ordained on one side only** | DK
+## (D) No offence
+# Sewing **some requisite other than a robe** — a bag, sandals etc.
+# For a **related** nun.
+# Sewing even a robe for a **probationer** or **novice nun**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Belonging to an unrelated nun**.
+# A robe **fit for wearing as lower or upper robe**.
+# **Sewing or having it sewn** in the way described.
+## (F) Origin and the rest (samuṭṭhāna)
+**Go-between origin** (six origins), **by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac27
+T: සංවිධාන සික්ඛාපදය || Travelling with Nuns by Arrangement
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: භික්ෂුණීන් සමඟ කතිකා කොට එක් මගක යාම || Travelling the same road with nuns by arrangement
+K: AH sd=a an=a anu=1
+Z: සමය (සැක සහිත, බිය සහිත, ගැල් සමඟ යා යුතු මග); තමා කතිකා නොකිරීම; කාලය වෙනස් වීම; ආපදාවලදී; උමතු ආදීන් || The occasion (a risky, dangerous road to be travelled with a caravan); not arranging oneself; the time changed; emergencies; the insane etc.
+G: 5
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==භික්ෂුණීන් සමඟ කතිකා කොට එක ම දීර්ඝ මාර්ගයක ගමන් කළහ==. මිනිස්සු "**අපි අපගේ බිරින්දෑවරුන් සමඟ ඇවිදින්නාක් මෙන් මේ ශාක්‍යපුත්‍රීය ශ්‍රමණයෝ ද භික්ෂුණීන් සමඟ කතිකා කොට ඇවිදිති**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+පසුව බොහෝ භික්ෂූන් **සාකේතයේ සිට සැවැත් නුවරට** යද්දී භික්ෂුණීහු "අපි ද ආර්‍යයන් සමඟ යමු" යි කීහ. භික්ෂූහු කුකුස් ඇතිව "නොවටී" යි ඔවුන් ඉදිරියෙන් හෝ පසුපසින් එන්නැයි කීහ. භික්ෂූන් ගිය පසු එන ==භික්ෂුණීන් මගදී **සොරුන් විසින් කොල්ලකා දූෂණය** කරන ලදහ==. එය අසා භාග්‍යවතුන් වහන්සේ "**සැක සහිත, බිය සහිත, ගැල් සමඟ යා යුතු මාර්ගයක**" යන සමය අනුදැන අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**සංවිධාය** — කතිකා කොට — **යන කාලය ගැන සංකේතයක්** ඇති කොට ("අද යමු", "හෙට යමු").
+**එකද්ධානමග්ගං** — එක ම දීර්ඝ මාර්ගයක් — හෝ **එකට** දීර්ඝ මාර්ගයක.
+**අන්තමසො ගාමන්තරම්පි** — අවම වශයෙන් **එක් ගමක සිට අනෙක් ගමට** වුව ද.
+**සත්ථගමනීයො** — **ගැල් සමූහයක් (සාර්ථයක්) සමඟ** යා යුතු — තනිව යාමට බිය සහිත.
+## (ආ) කතිකාව හා ගම් උපචාර ගණන
+**කතිකා කරන තැන** — **භික්ෂුණී උපස්සය, අන්තරාරාමය, ආසනශාලාව, තීර්ථක සෙය්‍යාව** හැර සෙසු ස්ථාන **අකැප භූමි** ය. එහි සිට කතිකා කිරීමේ ම **දුක්කටයි**.
+**ගමන** — කතිකා කොට, "අද හෝ හෙට" යි නියම කළ **කාලය වෙනස් නොකොට** (දොරටුව හෝ මග වෙනස් කළ ද) භික්ෂුණිය සමඟ යද්දී —
+|! අවස්ථාව | ඇවැත
+| ළඟ ම ඇති අනෙක් ගමේ මිනිසුන් නියම කළ **ගම් උපචාරයට** ඇතුළු නොවන තුරු | අනාපත්ති
+| උපචාරයට ඇතුළු වන විට **පළමු පිය** | DK
+| **දෙවන පිය** — එසේ **ගම් උපචාරයක් පාසා** | PC
+| **ගම් නැති** කැලෑ මගක — **අඩ යොදුනක් පාසා** | PC
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා එක් මගක යාමේ වස්තුවෙහි පැනවිණි. "**අඤ්ඤත්‍ර සමයා**" අනුප්‍රඥප්තියයි. **අසාධාරණ ප්‍රඥප්තියකි** (භික්ෂුණීන්ට ද වෙනම ශික්ෂාපදයක් ඇත). **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| අකැප භූමියක කතිකා කිරීම | DK
+| කතිකා කොට සමයක් නොමැතිව ගම් උපචාරයට / අඩ යොදුනට ගමන් කිරීම — කතිකා කළ බව දැන, සැක ඇතිව, හෝ නොකළ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| කතිකා නොකළ දෙයක් කළ යැයි සිතීම හෝ සැක කිරීම | DK
+| **භික්ෂුණිය කතිකා නොකරද්දී** තමා පමණක් කතිකා කිරීම | DK
+| එක් පැත්තකින් උපසම්පන්නාවක් ආදීන් සමඟ — **මාතුගාම ශික්ෂාපදයෙන් (පා. 67)** | PC
+## (ඉ) අනාපත්ති
+# **සමයයේ** — සැක සහිත, බිය සහිත, ගැල් සමඟ යා යුතු මාර්ගයක — කතිකා කොට යාම.
+# **තමා කතිකා නොකිරීම** (භික්ෂුණිය පමණක් කතිකා කළ විට).
+# **කාලය වෙනස් වීම** (විසංකේතය) — නියම කළ දිනයේ නොව වෙනත් දිනයක යාම.
+# **ආපදාවලදී** (රාජ, සොර, ගිනි ආදී උවදුරු).
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= පඤ්ච — පහකි)
+# **දෙදෙනා ම කතිකා කොට** මගට පිළිපැදීම.
+# **කාලය වෙනස් නොවීම** (අවිසංකේත).
+# **සමයක් නැති** බව.
+# **ආපදාවක් නැති** බව.
+# **ගම් උපචාරයට ඇතුළු වීම** හෝ **අඩ යොදුන ඉක්මවීම**.
+## (උ) සමුට්ඨානාදිය
+**අද්ධාන සමුට්ඨානයි** (කාය, කාය-වාචා, කාය-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==travelled the same long road with nuns by arrangement==. People complained, “**Just as we go about with our wives, these Sakyan ascetics go about with nuns by arrangement!**” The Blessed One laid down the rule.
+Later, as many monks were going **from Sāketa to Sāvatthī**, some nuns said, “We'll come with you.” Being scrupulous, the monks said it was not allowed and told them to go ahead or behind. After the monks had gone, ==the nuns following were **robbed and raped by thieves** on the road==. Hearing this, the Blessed One allowed the occasion of “**a road that is risky, dangerous, to be travelled with a caravan**,” adding a supplementary rule.
+## (A) Explanation of terms
+**Saṃvidhāya** — having arranged, i.e. **made an appointment about the time of going** (“Let's go today / tomorrow”).
+**Ekaddhānamaggaṃ** — one and the same long road — or a long road **together**.
+**Antamaso gāmantarampi** — **even from one village to the next**.
+**Satthagamanīyo** — to be travelled **with a caravan** — dangerous to travel alone.
+## (B) The arrangement and counting village precincts
+**Where it is arranged** — except **the nuns' quarters, the monastery, the assembly hall and sectarians' lodgings**, any place is **unsuitable ground**; arranging there is itself **dukkaṭa**.
+**The journey** — having arranged, if he goes with the nun **without changing the agreed time** (“today or tomorrow”) — even by another gate or another road —
+|! Situation | Offence
+| until he enters the **village precinct** that people have marked for the next village | no offence
+| the **first foot** into the precinct | DK
+| the **second foot** — and so for **each village precinct** | PC
+| a **road without villages** — for **every half-yojana** | PC
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of travelling the same road. “**Aññatra samayā**” is a supplementary rule. It is a **rule not shared** (the nuns have their own), **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Arranging on unsuitable ground | DK
+| Having arranged, travelling without the occasion into a village precinct / over a half-yojana — perceiving it as arranged, in doubt, or as not (**triple pācittiya**) | PC
+| Not arranged, perceived as arranged or in doubt | DK
+| Arranging **by himself alone while the nun does not** | DK
+| With a woman ordained on one side only etc. — **under the woman rule (Pāc. 67)** | PC
+## (E) No offence
+# **On the occasion** — a risky, dangerous road to be travelled with a caravan.
+# **He himself does not arrange** (only the nun does).
+# **The time is changed** — going on a day other than the one agreed.
+# **In emergencies** (dangers from kings, thieves, fire etc.).
+# For the insane and so on, and the first offender.
+## (F) Factors (= pañca — five)
+# **Both set out on the road by arrangement**.
+# **The time not changed**.
+# **No proper occasion**.
+# **No emergency**.
+# **Entering a village precinct** or **passing a half-yojana**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Journey origin** (body; body–speech; body–mind; body–speech–mind), **by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac28
+T: නාවාභිරුහන සික්ඛාපදය || Boarding a Boat with a Nun
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: භික්ෂුණීන් සමඟ කතිකා කොට එක් ඔරුවකට නැග ක්‍රීඩා කිරීම || Boarding a boat with nuns by arrangement for amusement
+K: AH sd=a an=a anu=1
+Z: හරහට එතෙර වීම; තමා කතිකා නොකිරීම; කාලය වෙනස් වීම; ආපදාවලදී; තොටුපළට යාමට උඩුගං / යටිගං යාම; උමතු ආදීන් || Crossing over; not arranging oneself; time changed; emergencies; going up or down only to reach the landing; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==භික්ෂුණීන් සමඟ කතිකා කොට එක ම ඔරුවකට නැග ක්‍රීඩා කළහ==. මිනිස්සු "**අපි බිරින්දෑවරුන් සමඟ ඔරුවෙන් ක්‍රීඩා කරන්නාක් මෙන් මොවුහු ද කරති**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+පසුව බොහෝ භික්ෂූන් **සාකේතයේ සිට සැවැත් නුවරට** යද්දී මගදී ගඟක් එතෙර කළ යුතු විය. භික්ෂුණීහු "අපි ද ආර්‍යයන් සමඟ එතෙර වෙමු" යි කීහ. භික්ෂූහු කුකුස් ඇතිව නොඑකඟ වූහ. වෙන ම එතෙර වූ ==භික්ෂුණීන් සොරුන් විසින් කොල්ලකා දූෂණය කරන ලදහ==. භාග්‍යවතුන් වහන්සේ "**හරහට එතෙර වීම හැර**" යන අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**සංවිධාය** — **ක්‍රීඩාව පෙරදැරි කොට**, නගින කාලය ගැන සංකේතයක් ඇති කොට.
+**උද්ධංගාමිනිං** — ක්‍රීඩාව පිණිස ගඟේ **ඉහළට (උඩුගං බලා, ප්‍රවාහයට එරෙහිව)** යන.
+**අධොගාමිනිං** — එසේ ම **පහළට (යටිගං බලා, ප්‍රවාහය දිගේ)** යන.
+==තොටුපළට යාම පිණිස== ඉහළට හෝ පහළට ගෙන යාමේ වරදක් නැත.
+**අඤ්ඤත්‍ර තිරියං තරණාය** — **හරහට එතෙර වීම** හැර.
+## (ආ) ඇවැත් ගණන් කිරීම
+|! ගමන් කරන ආකාරය | ඇවැත
+| **ගම් සහිත ඉවුරක්** දිගේ | **ගම් උපචාරයක් පාසා** PC
+| **ගම් නැති ඉවුරක්** දිගේ, හෝ **යොදුනක් පළල ගඟක මැදින්** | **අඩ යොදුනක් පාසා** PC
+| **මුහුදේ** | කැමති සේ යාම වටී
+| ගඟ **හරහට** එතෙර වීම | අනාපත්ති
+කතිකා කිරීම **දුක්කට** ය. මෙහි **කාල විසංකේතයෙන් පමණක්** අනාපත්ති වේ — **තොටුපළ හෝ ඔරුව** වෙනස් කිරීමෙන් නොවේ.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා ඔරුවට නැගීමේ වස්තුවෙහි පැනවිණි. "**අඤ්ඤත්‍ර තිරියං තරණාය**" අනුප්‍රඥප්තියයි. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| කතිකා කොට ක්‍රීඩාව සඳහා උඩුගං / යටිගං යාම — කතිකා කළ බව දැන, සැක ඇතිව, හෝ නොකළ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| කතිකා නොකළ දෙයක් කළ යැයි සිතීම හෝ සැක කිරීම | DK
+| භික්ෂුණිය කතිකා නොකරද්දී තමා පමණක් කතිකා කිරීම | DK
+## (ඉ) අනාපත්ති
+# **හරහට එතෙර වීම**.
+# **තමා කතිකා නොකිරීම**.
+# **කාලය වෙනස් වීම**.
+# **ආපදාවලදී**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **දෙදෙනා ම කතිකා කොට** නැගීම.
+# **කාලය වෙනස් නොවීම**.
+# **හරහට එතෙර වීමක් නොවීම** හා **ආපදාවක් නැති** බව.
+# **ගම් උපචාරයක් හෝ අඩ යොදුනක්** ඉක්මවා යාම.
+## (උ) සමුට්ඨානාදිය
+**අද්ධාන සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==boarded the same boat with nuns by arrangement and amused themselves==. People complained, “**Just as we amuse ourselves in boats with our wives, so do these!**” The Blessed One laid down the rule.
+Later, as many monks were going **from Sāketa to Sāvatthī**, they had to cross a river. Some nuns said, “We'll cross with you.” Being scrupulous, the monks declined. Crossing separately, ==the nuns were **robbed and raped by thieves**==. The Blessed One added the supplementary rule “**except for crossing over**.”
+## (A) Explanation of terms
+**Saṃvidhāya** — **for the sake of amusement**, making an appointment about the time of boarding.
+**Uddhaṃgāminiṃ** — going **up-river (against the current)** for amusement.
+**Adhogāminiṃ** — likewise going **down-river (with the current)**.
+==Going up or down only to reach a landing== is no offence.
+**Aññatra tiriyaṃ taraṇāya** — **except for crossing over**.
+## (B) Counting the offences
+|! How one travels | Offence
+| along **a bank with villages** | PC for **each village precinct**
+| along **a bank without villages**, or **mid-stream on a river a yojana wide** | PC for **each half-yojana**
+| **at sea** | one may go as one likes
+| **crossing** the river | no offence
+Making the arrangement is **dukkaṭa**. Here **only a change of time** gives exemption — not a change of **landing or boat**.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of boarding a boat. “**Aññatra tiriyaṃ taraṇāya**” is a supplementary rule. It is a **rule not shared**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Having arranged, going up- or down-river for amusement — perceiving it as arranged, in doubt, or as not (**triple pācittiya**) | PC
+| Not arranged, perceived as arranged or in doubt | DK
+| Arranging by himself alone while the nun does not | DK
+## (E) No offence
+# **Crossing over**.
+# **Not arranging himself**.
+# **The time changed**.
+# **In emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **Boarding by mutual arrangement**.
+# **The time not changed**.
+# **Not crossing over** and **no emergency**.
+# **Passing a village precinct or a half-yojana**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Journey origin, by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac29
+T: පරිපාචිත සික්ඛාපදය || Food Procured by a Nun
+R: - || -
+N: රජගහ නුවර, වේළුවනය || Rājagaha, Veḷuvana
+P: දේවදත්ත || Devadatta
+V: භික්ෂුණියක ගිහියන් පොළඹවා ලබා දුන් පිණ්ඩපාතය දැන දැන අනුභව කිරීම || Knowingly eating alms procured by a nun's prompting
+K: P1 sd=a an=a anu=1 vj=P cit=3 ved=3
+Z: නොදැන; පෙරාතුව ගිහියන් සූදානම් කළ දෙය; ශික්ෂමානා / සාමණේරී ආදීන් පොළඹවා ලද දෙය; භෝජන පහ හැර අන් දේ; උමතු ආදීන් || Not knowing; food already prepared by householders; procured by probationers, novices etc.; anything other than the five staple foods; the insane etc.
+G: 5
+#si
+## කථා වස්තුව
+@ රජගහ නුවර · වේළුවනය කලන්දක නිවාපය
+**ථුල්ලනන්දා** භික්ෂුණිය එක් පවුලක **නිත්‍ය දානය ලබන කුලූපිකාවක්** වූවාය. ඒ ගෘහපතියා **ස්ථවිර භික්ෂූන්** — සාරිපුත්ත, මහාමොග්ගල්ලාන, මහාකච්චාන, මහාකොට්ඨිත, මහාකප්පින, මහාචුන්ද, අනුරුද්ධ, රේවත, උපාලි, ආනන්ද, රාහුල — දානයට ආරාධනා කළේය. ථුල්ලනන්දා "**මහා නාගයන් සිටියදී මේ චේටකයන් (කොලුවන්) ආරාධනා කළේ ඇයි?**" යි අසා, "**ආර්‍ය දේවදත්ත, කෝකාලික, කටමෝදකතිස්සක, ඛණ්ඩදේවියාගේ පුත්‍රයා, සමුද්දදත්ත**" යන්නෝ මහා නාගයෝ යැයි කීවාය. ඇය කථා කරමින් සිටියදී ම ස්ථවිරයෝ පැමිණියහ; එවිට ඇය "**ඇත්තෙන් ම ඔබ ආරාධනා කළේ මහා නාගයන් ය**" යි කීවාය. "**දැන් ම ඔබ මොවුන් චේටකයන් කළා ය, දැන් මහා නාගයන් කරන්නී ද?**" යි ගෘහපතියා ඇය ==නිවසින් පිටත් කොට, නිත්‍ය දානය ද නතර කළේය==.
+**දේවදත්ත** ==භික්ෂුණිය පොළඹවා (පරිපාචනය කොට) ලබා දුන් පිණ්ඩපාතය දැන දැන වැළඳූ බව== අසා භාග්‍යවතුන් වහන්සේ ගරහා ශික්ෂාපදය පැනවූහ. පසුව, භික්ෂුවකට පෙරාතුව ම සූදානම් කළ දානය ගැන කුකුස් ඇති වූ කල්හි "**අඤ්ඤත්‍ර පුබ්බෙ ගිහිසමාරම්භා**" අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**භික්ඛුනිපරිපාචිතං** — භික්ෂුණිය විසින් — තමාගේ හෝ ඒ භික්ෂුවගේ **ඥාති, පවාරණය කළ අය නොවන** ගිහියන් වෙත — භික්ෂුවගේ **ගුණ ප්‍රකාශ කොට**, "**ආර්‍යයන්ට දෙන්න, ආර්‍යයන්ට කරන්න**" යි නිපදවූ.
+**ජානං** — තමා දැනගෙන, හෝ අනුන් කියා, හෝ ඒ භික්ෂුණිය ම කියා.
+**පිණ්ඩපාතො** — **භෝජන පහෙන්** (බත, කොමු, සත්තු, මාළු, මස්) එකක්.
+**පුබ්බෙ ගිහිසමාරම්භා** — භික්ෂුණිය පොළඹවන්නට **පෙරාතුව ම** ගිහියන් භික්ෂූන් සඳහා **සූදානම් කළ** දෙය (සමාරම්භ = සූදානම් කිරීම); හෝ ඥාතීන්, පවාරණය කළ අයගේ දෙය. එය හැර අන් දෙයක් දැන දැන අනුභව කිරීම පාචිත්තියයි.
+## (ආ) ඇවැත් ගණන හා විශේෂ
+==**පිළිගැනීමේ දුක්කටයි**; ගිල දමන **පිඩක් පාසා** පාචිත්තියයි.==
+|! ආහාරය | විනිශ්චය
+| භික්ෂුණිය පොළඹවා ලද **භෝජන පහෙන්** එකක් | PC
+| **කැඳ, කැවිලි, පලතුරු** ආදී භෝජන පහ හැර සෙසු දෙය | අනාපත්ති
+| **ශික්ෂමානා, සාමණේර, සාමණේරී** ආදීන් පොළඹවා ලද දෙය | අනාපත්ති
+| **එක් පැත්තකින් උපසම්පන්නාවක්** පොළඹවා ලද දෙය | DK
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**රජගහ නුවරදී** **දේවදත්ත** අරබයා භික්ෂුණී පරිපාචිත පිණ්ඩපාතය වැළඳීමේ වස්තුවෙහි පැනවිණි. "**අඤ්ඤත්‍ර පුබ්බෙ ගිහිසමාරම්භා**" අනුප්‍රඥප්තියයි. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| පිළිගැනීම | DK
+| පරිපාචිත බව දැන ගිල දැමීම — පිඩක් පාසා | PC
+| එක් පැත්තකින් උපසම්පන්නාවක් පොළඹවා ලද දෙය වැළඳීම | DK
+| පරිපාචිත නොවූ දෙයක් පරිපාචිත යැයි සිතීම; දෙකෙහි ම සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# දෙකෙහි ම (පරිපාචිත / අපරිපාචිත) **පරිපාචිත නොවේ යැයි** සිතා වැළඳීම.
+# **ගිහියන් පෙරාතුව සූදානම්** කළ දෙය.
+# **ශික්ෂමානා, සාමණේරී** ආදීන් පොළඹවා ලද දෙය.
+# **භෝජන පහ හැර** සෙසු සියල්ල.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= පඤ්ච — පහකි)
+# **භික්ෂුණියක පරිපාචනය කළ** දෙයක් වීම.
+# **පරිපාචිත බව දැනීම**.
+# **ගිහියන් පෙරාතුව සූදානම් නොකළ** දෙයක් වීම.
+# **බත් ආදී භෝජන පහෙන්** එකක් වීම.
+# එය **ගිල දැමීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි** (කාය-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, පණ්ණත්තිවජ්ජයි, කායකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Rājagaha · Veḷuvana, the squirrels' feeding place
+The nun **Thullanandā** was a family-visitor at a certain household, **receiving a regular meal** there. The householder invited **the elder monks** — Sāriputta, Mahāmoggallāna, Mahākaccāna, Mahākoṭṭhita, Mahākappina, Mahācunda, Anuruddha, Revata, Upāli, Ānanda and Rāhula. Thullanandā asked, “**Why invite these small fry when there are great nāgas?**” — meaning “**Ven. Devadatta, Kokālika, Kaṭamodakatissaka, the son of Khaṇḍadevī, and Samuddadatta**.” While she was still speaking, the elders arrived, and she said, “**Indeed you have invited great nāgas!**” “**Just now you made them small fry, and now great nāgas?**” — the householder ==put her out of the house and stopped her regular meal==.
+Hearing that **Devadatta** ==knowingly ate alms procured through a nun's prompting==, the Blessed One rebuked him and laid down the rule. Later, when a monk was scrupulous about food already prepared before, he added “**aññatra pubbe gihisamārambhā**.”
+## (A) Explanation of terms
+**Bhikkhunīparipācitaṃ** — brought about by a nun, who **speaks of the monk's virtues** to householders who are **not relatives or inviters** of hers or his, saying, “**Give to the venerable, do for the venerable**.”
+**Jānaṃ** — knowing it himself, or others tell him, or the nun herself tells him.
+**Piṇḍapāto** — any of **the five staple foods** (rice, porridge, flour-cakes, fish, meat).
+**Pubbe gihisamārambhā** — what householders had **already prepared** for monks **before** the nun's prompting (samārambha = preparation), or what belongs to relatives or inviters. Knowingly eating other than that is pācittiya.
+## (B) Counting and details
+==**Dukkaṭa on receiving**; a pācittiya **for every mouthful** swallowed.==
+|! Food | Ruling
+| one of **the five staple foods** procured by a nun | PC
+| **gruel, snacks, fruit** and anything other than the five | no offence
+| procured by **probationers, novices, novice nuns** etc. | no offence
+| procured by a nun **ordained on one side only** | DK
+## (C) The laying down of the rule and the command
+It was laid down at **Rājagaha** concerning **Devadatta**, on the matter of eating alms procured by a nun. “**Aññatra pubbe gihisamārambhā**” is a supplementary rule. It is a **rule not shared**, and **anāṇattika**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Receiving | DK
+| Knowing it was procured, swallowing it — for each mouthful | PC
+| Eating what was procured by a nun ordained on one side only | DK
+| Not procured, perceived as procured; in doubt in either case | DK
+## (E) No offence
+# In either case **perceiving it as not procured**.
+# What **householders had already prepared**.
+# What was procured by **probationers, novice nuns** and the like.
+# **Anything other than the five staple foods**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= pañca — five)
+# **Procured by a nun**.
+# **Knowing** it was procured.
+# **Not already prepared by householders**.
+# **One of the five staple foods**, rice etc.
+# **Swallowing** it.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin** (body–mind), **by doing, release by perception, with intention, an offence by convention, bodily action, three kinds of consciousness, three feelings**.
+
+@pac30
+T: රහෝනිසජ්ජ සික්ඛාපදය || Sitting Alone with a Nun
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උදායී ස්ථවිර || Ven. Udāyī
+V: භික්ෂුණියක් සමඟ රහසිගත තැනක තනිව හිඳීම || Sitting in private, one with one, with a nun
+K: P1 sd=a an=a anu=0
+Z: විඤ්ඤු දෙවැන්නෙකු සිටින විට; සිටගෙන; රහසක් නොපතන්නාට; වෙනත් කටයුත්තක සිත යොමු වූවාට; උමතු ආදීන් || A discerning second person present; standing; not seeking privacy; mind on other business; the insane etc.
+G: 5
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**උදායී** තෙරුන්ගේ **පැරණි බිරිඳ** භික්ෂුණීන් අතර පැවිදි වූවාය. ඇය නිතර තෙරුන් වෙත ආවාය; තෙරුන් ද ඇය වෙත ගියහ. එකල තෙරුන් ==ඒ භික්ෂුණිය සමඟ **තනිව රහසිගත තැනක** හිඳ ගත්හ==. අල්පේච්ඡ භික්ෂූහු දොස් කීහ; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**භික්ඛුනියා සද්ධිං** — **උභතෝ සංඝයා** කෙරෙහි උපසම්පන්න භික්ෂුණියක් සමඟ.
+**එකො එකාය** — භික්ෂුව ද භික්ෂුණිය ද පමණක් — **දෙවැන්නෙකු නැතිව**.
+**රහො** — **ඇසට රහස** (බිත්ති, දොර, තිරය, ගස් ආදියෙන් වැසුණු) හා **කනට රහස** (සාමාන්‍ය කථාව නොඇසෙන).
+**නිසජ්ජං කප්පෙය්‍ය** — භික්ෂුණිය හුන් කල්හි භික්ෂුව ඉදිරියෙන් හිඳීම හෝ සැතපීම, නැතහොත් භික්ෂුව හුන් කල්හි භික්ෂුණිය හිඳීම හෝ සැතපීම — **දෙදෙනා ම හෝ** එසේ කිරීම.
+## (ආ) දෙවන අනියතය සමඟ
+මේ ශික්ෂාපදය **දෙවන අනියතය** සමඟ ද, ඉදිරියේ එන **උපනන්දගේ සතරවන ශික්ෂාපදය (පා. 45 — මාතුගාමයා සමඟ රහසිගත තැනක හිඳීම)** සමඟ ද **එක ම පරිච්ඡේදයකි**; **අට්ඨුප්පත්තිය** (සිදුවීම) නිසා වෙන ම පනවා ඇත.
+|! ශික්ෂාපදය | කා සමඟ ද
+| දෙවන අනියතය | මාතුගාමයා — ඇවත නියම නැත (SD / PC)
+| **පාචිත්තිය 30** | **භික්ෂුණියක්** සමඟ
+| පාචිත්තිය 45 | **මාතුගාමයා** (ස්ත්‍රියක්) සමඟ — වැසුණු තැනක
+**විඤ්ඤු පුරුෂයෙක්** — රහස බිඳිය හැකි, **අන්ධ නොවූ, බිහිරි නොවූ**, දුෂ්ට සහගත හා අදුෂ්ට සහගත කථාව දැනගත හැකි **දෙවැන්නෙක්** — **රියන් දොළහ** ඇතුළත සිටින විට රහසක් නොවේ.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ආයුෂ්මත් **උදායී** තෙරුන් අරබයා භික්ෂුණියක් සමඟ රහසිගත ව හිඳීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| භික්ෂුණියක් සමඟ තනිව රහසිගත තැනක හිඳීම / සැතපීම — භික්ෂුණිය බව දැන, සැක ඇතිව, හෝ නොවේ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| **එක් පැත්තකින් උපසම්පන්නාවක්** සමඟ | DK
+| රහස් ආස්වාදයෙන් ඇය වෙත යාමේ පූර්ව ප්‍රයෝග | DK
+## (ඉ) අනාපත්ති
+# **විඤ්ඤු** (අන්ධ හා බිහිරි නොවූ) **දෙවැන්නෙක්** සිටින විට.
+# **සිටගෙන** සිටින්නාට.
+# **රහසක් නොපතන්නාට**.
+# **වෙනත් කටයුත්තක** සිත යොමු කොට හිඳින්නාට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= පඤ්ච — පහකි)
+# **පරිපූර්ණ උපසම්පන්න භික්ෂුණියක්** වීම.
+# **ඇසට හා කනට රහසිගත** තැනක් වීම.
+# **රහසක් පතන** බව.
+# **විඤ්ඤු දෙවැන්නෙකු නැති** බව.
+# **හිඳීම හෝ සැතපීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි** (කාය-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, ද්විවේදනයි** (සුඛ / උපේක්ෂා).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Ven. **Udāyī**'s **former wife** had gone forth among the nuns. She often came to him, and he to her. Then he ==sat down **alone with that nun in a private place**==. The monks of few wishes criticised him, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Bhikkhuniyā saddhiṃ** — with a nun ordained **in both Saṅghas**.
+**Eko ekāya** — just the monk and the nun — **with no second person**.
+**Raho** — **private to the eye** (screened by a wall, door, curtain, trees etc.) and **private to the ear** (where ordinary talk cannot be heard).
+**Nisajjaṃ kappeyya** — when the nun is seated the monk sits or lies down close by, or when the monk is seated the nun does — or **both** do.
+## (B) With the second undetermined rule
+This rule forms **one section** with the second Aniyata and with **Upananda's fourth rule further on (Pāc. 45 — sitting with a woman in a screened place)**; it was laid down separately **because of the incident**.
+|! Rule | With whom
+| Second Aniyata | a woman — the offence undetermined (SD / PC)
+| **Pācittiya 30** | **a nun**
+| Pācittiya 45 | **a woman** — in a screened place
+**A discerning man** — a **second person** who can break the privacy, **neither blind nor deaf**, able to understand lewd and decent talk — present **within twelve cubits** means there is no privacy.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning Ven. **Udāyī**, on the matter of sitting in private with a nun. It is a **rule not shared**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Sitting or lying down alone with a nun in a private place — perceiving her as a nun, in doubt, or as not (**triple pācittiya**) | PC
+| With a nun **ordained on one side only** | DK
+| Preliminary efforts in going to her out of desire for privacy | DK
+## (E) No offence
+# A **discerning second person** (neither blind nor deaf) is present.
+# For one **standing**.
+# For one **not seeking privacy**.
+# For one sitting **with his mind on other business**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= pañca — five)
+# A **fully ordained nun**.
+# A place **private to eye and ear**.
+# **Seeking privacy**.
+# **No discerning second person**.
+# **Sitting or lying down**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin** (body–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, two feelings** (pleasant / neutral).

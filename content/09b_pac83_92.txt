@@ -1,0 +1,823 @@
+@pac83
+T: අන්තේපුර සික්ඛාපදය || Entering the King's Quarters
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ආනන්ද ස්ථවිර || Ven. Ānanda
+V: කලින් නොදන්වා රජුගේ සයනිඝරයට ඇතුළු වීම || Entering the king's bedchamber unannounced
+K: KT sd=a an=a anu=0 kr=KA
+Z: දන්වා ඇතුළු වීම; ක්ෂත්‍රිය නොවූ හෝ අභිෂේක නොලැබූ රජු; රජු හෝ බිසව හෝ දෙදෙනා ම නික්මුණු විට; සයනිඝරයක් නොවූ තැන; උමතු ආදීන් || Announced; a king not noble-born or not consecrated; king, queen or both have left; not a bedchamber; the insane etc.
+G: 5
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**පසේනදි කොසොල්** රජු භාග්‍යවතුන් වහන්සේගෙන් "**අපගේ අන්තඃපුරයට දහම් උගන්වන භික්ෂුවක් නියම කළ මැනවි**" යි ඉල්ලීය. භාග්‍යවතුන් වහන්සේ **ආනන්ද** තෙරුන්ට එය පැවරූහ; උන්වහන්සේ කලින් කල ගොස් දහම් ඉගැන්වූහ.
+එක් දිනක් ආනන්ද තෙරුන් මාලිගයට පැමිණෙද්දී රජු **මල්ලිකා දේවිය** සමඟ **සයනයෙහි** විය. ==දුර සිට ම තෙරුන් දුටු මල්ලිකා දේවිය හදිසියේ නැගිටිද්දී **රන්වන් සළුව ගිලිහී වැටිණ**==. තෙරුන් එතැනින් ම හැරී ආරාමයට ගොස් භික්ෂූන්ට දැන්වූහ. භාග්‍යවතුන් වහන්සේ **රාජාන්තඃපුරයට ඇතුළු වීමේ ආදීනව දසය** වදාරා ශික්ෂාපදය පැනවූහ.
+## (අ) රාජාන්තඃපුරයට ඇතුළු වීමේ ආදීනව දසය — පාළිය අනුව
+|! # | ආදීනවය
+| 1 | රජු බිසව සමඟ හිඳිද්දී භික්ෂුව පැමිණේ; එකිනෙකා දැක සිනාසෙති — "**මොවුන් අතර යමක් වූයේ හෝ වන්නේ ය**" යි රජුට සැක සිතේ
+| 2 | රජු නොසිහි කළ ස්ත්‍රියක ගැබ් ගනී — "**පැවිද්දා හැර අනෙකෙක් මෙහි නොඑයි**" යි සැක
+| 3 | අන්තඃපුරයේ **රත්නයක් නැති වේ** — පැවිද්දා කෙරෙහි සැක
+| 4 | අන්තඃපුරයේ **රහස් මන්ත්‍රණ පිටතට පැතිරේ** — පැවිද්දා කෙරෙහි සැක
+| 5 | පුතා පියාගේ හෝ පියා පුතාගේ **මරණය පතයි** — පැවිද්දා කෙරෙහි සැක
+| 6 | රජු **පහත් තනතුරක සිටි අයෙකු උසස් කරයි** — අකමැත්තවුන්ගේ සැක
+| 7 | රජු **උසස් තනතුරක සිටි අයෙකු පහත් කරයි** — අකමැත්තවුන්ගේ සැක
+| 8 | රජු **අකාලයේ සේනාව යවයි** — අකමැත්තවුන්ගේ සැක
+| 9 | කල්හි යැවූ සේනාව **අතරමඟින් නවත්වයි** — අකමැත්තවුන්ගේ සැක
+| 10 | අන්තඃපුරය **ඇතුන්, අසුන්, රථවලින් ගැවසී** ඇත; පැවිද්දාට නොගැළපෙන **රාගය උපදවන රූප, ශබ්ද, ගන්ධ, රස, ස්පර්ශ** ඇත
+## (ආ) පද විවරණය
+**ඛත්තියස්ස** — **මව්පිය දෙපසින් ම සුජාත**, **සත්වන මුත්තා පරම්පරාව දක්වා** ජාතිවාදයෙන් නොබැහැර කළ, නොගැරහූ ක්ෂත්‍රියයා.
+**මුද්ධාවසිත්තස්ස** — **ක්ෂත්‍රිය අභිෂේකයෙන් හිස් මුදුනෙහි අභිෂේක ලැබූ**.
+**අනික්ඛන්තරාජකෙ** — රජු සයනිඝරයෙන් **නික්ම නොගිය**. **අනිග්ගතරතනකෙ** — **"රතනය" නම් මහේෂිකාවයි**; ඇය නික්ම නොගිය, හෝ **දෙදෙනා ම** නික්ම නොගිය.
+**පුබ්බෙ අප්පටිසංවිදිතො** — **කලින් නොදන්වා**.
+**ඉන්දඛීලො** — **සයනිඝරයේ එළිපත්ත**.
+**සයනිඝරං** — රජුගේ **සයනය පනවා ඇති ඕනෑම තැනක්**, **තිර-පවුරකින් වට කළ තැනක් වුව ද**.
+## (ඇ) ඇවැත් පිළිවෙළ
+|! අවස්ථාව | ඇවැත
+| නොදන්වා **පළමු පාදය** එළිපත්තෙන් ඔබ්බට තැබීම | DK
+| **දෙවන පාදය** තැබීම | PC
+## (ඈ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ආනන්ද තෙරුන් අරබයා **රජුගේ අන්තඃපුරයට ඇතුළු වීමේ** වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි** (භික්ෂූන්ට පමණි). **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඉ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| නොදැන්වූ විට — නොදැන්වූ බව දැන, සැක ඇතිව, හෝ දැන්වූවා යැයි සිතා (**තික පාචිත්තිය**) | PC
+| දැන්වූ විට **නොදැන්වූවා යැයි සිතීම** හෝ **සැක කිරීම** | DK
+## (ඊ) අනාපත්ති
+# **දැන්වූ** විට (දැන්වූවා යැයි සිතා).
+# රජු **ක්ෂත්‍රියයෙකු නොවූ** විට, හෝ **ක්ෂත්‍රිය අභිෂේකය නොලැබූ** විට.
+# **රජු** හෝ **බිසව** හෝ **දෙදෙනා ම** සයනිඝරයෙන් **නික්ම ගිය** විට.
+# **සයනිඝරයක් නොවූ** තැනකට ඇතුළු වීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (උ) අංග (= පඤ්ච — පහකි)
+# **ක්ෂත්‍රිය** බව.
+# **අභිෂේක ලැබූ** බව.
+# **දෙදෙනා ම සයනිඝරයෙන් නික්ම නොගිය** බව.
+# **කලින් නොදැන්වූ** බව.
+# **එළිපත්ත ඉක්මවීම**.
+## (ඌ) සමුට්ඨානාදිය
+**කඨින සමුට්ඨානයි** (කාය-වාචා, කාය-වාචා-චිත්ත), **කිරියාකිරියයි** (ඇතුළු වීම කිරියාව; නොදැන්වීම අකිරියාව), **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**King Pasenadi of Kosala** asked the Blessed One, “**Please appoint a monk to teach Dhamma to our women's quarters.**” The Blessed One gave the task to Ven. **Ānanda**, who went from time to time to teach.
+One day, as Ānanda was arriving at the palace, the king was **in bed** with **Queen Mallikā**. ==Seeing him from afar, the queen got up suddenly and **her golden-yellow cloth slipped off**==. Ānanda turned back right there and told the monks at the monastery. The Blessed One spoke of **the ten dangers of entering a king's quarters** and laid down the rule.
+## (A) The ten dangers of entering a king's quarters — according to the Pāli
+|! # | Danger
+| 1 | the king sits with the queen and a monk enters; they smile at each other — the king suspects “**something has happened or will happen between them**”
+| 2 | a woman the king has forgotten becomes pregnant — suspicion: “**no one comes here but the monk**”
+| 3 | **a jewel goes missing** in the quarters — suspicion falls on the monk
+| 4 | **secret counsel leaks out** — suspicion falls on the monk
+| 5 | a son **wishes his father dead**, or a father his son — suspicion falls on the monk
+| 6 | the king **promotes someone of low position** — those displeased suspect the monk
+| 7 | the king **demotes someone of high position** — those displeased suspect the monk
+| 8 | the king **sends out the army at the wrong time** — those displeased suspect the monk
+| 9 | having sent it out at the right time, he **recalls it midway** — those displeased suspect the monk
+| 10 | the quarters are **crowded with elephants, horses and chariots**, and have **enticing sights, sounds, smells, tastes and touches** unsuitable for one gone forth
+## (B) Explanation of terms
+**Khattiyassa** — a noble **well born on both sides**, of pure descent, unchallenged as to birth **back to the seventh generation**.
+**Muddhāvasittassa** — **consecrated on the head with the noble's consecration**.
+**Anikkhantarājake** — the king **has not left** the bedchamber. **Aniggataratanake** — “**the jewel” is the chief queen**; she has not left, or **both** have not left.
+**Pubbe appaṭisaṃvidito** — **without being announced beforehand**.
+**Indakhīlo** — **the threshold** of the bedchamber.
+**Sayanigharaṃ** — **any place where the king's bed is prepared**, **even one enclosed by a screen wall**.
+## (C) How the offences fall
+|! Stage | Offence
+| unannounced, putting **the first foot** past the threshold | DK
+| putting **the second foot** | PC
+## (D) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning Ven. Ānanda, on the matter of **entering the king's quarters**. It is a **rule not shared** (for monks only), **anāṇattika**, and a **triple pācittiya**.
+## (E) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Not announced — perceiving it as unannounced, in doubt, or as announced (**triple pācittiya**) | PC
+| Announced, but **perceiving it as unannounced** or **in doubt** | DK
+## (F) No offence
+# When **announced** (and perceived as such).
+# When the king is **not a noble**, or **not consecrated** with the noble's consecration.
+# When **the king**, **the queen**, or **both** have **left** the bedchamber.
+# Entering **what is not a bedchamber**.
+# For the insane and so on, and the first offender.
+## (G) Factors (= pañca — five)
+# **A noble**.
+# **Consecrated**.
+# **Neither has left** the bedchamber.
+# **Not announced beforehand**.
+# **Crossing the threshold**.
+## (H) Origin and the rest (samuṭṭhāna)
+**Kaṭhina origin** (body–speech; body–speech–mind), **by doing and not doing** (entering; not announcing), **no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+
+@pac84
+T: රතන සික්ඛාපදය || Picking up Valuables
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: එක්තරා භික්ෂුවක් || A certain monk
+V: රත්නයක් හෝ රත්නසම්මත දෙයක් ගැනීම || Picking up a valuable or what is considered valuable
+K: SC sd=s an=s anu=2
+Z: අජ්ඣාරාමයේ / අජ්ඣාවසථයේ ගෙන "හිමියා ගෙන යාවි" යි තැබීම; රත්නසම්මතයක් විශ්වාසයෙන් හෝ තාවකාලිකව ගැනීම; පංසුකූල සංඥාවෙන්; උමතු ආදීන් || Picking up in a monastery or dwelling and putting aside for the owner; taking something considered valuable on trust or temporarily; perceiving it as discarded; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+එක් භික්ෂුවක් **අචිරවතී ගඟේ** නාද්දී, එක් බමුණෙක් **කහවණු පන්සියයක පසුම්බියක්** ගොඩබිම තබා නා, එය **අමතක කර** ගියේය. භික්ෂුව "**මෙය මෙහි නොනැසේවා**" යි එය ගත්තේය. බමුණා සිහි වී දිව ආ කල්හි භික්ෂුව එය දුන්නේය. බමුණා ==**"මේ භික්ෂුවට පුණ්ණපත්තය (ත්‍යාගය) නොදී සිටින්නේ කෙසේ ද?"** යි සිතා, "**මගේ පන්සියයක් නොව දහසකි**" යි කියා භික්ෂුවට බාධා කොට පසුව මුදා හැරියේය==. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+> **පුණ්ණපත්තං** — **සියයකට කහවණු පහක්** වූ ත්‍යාගය (අට්ඨකථාව).
+**පළමු අනුප්‍රඥප්තිය — අජ්ඣාරාම:** සැවැත් උත්සවයක දී **විසාඛා මිගාරමාතාව** උයනට යමින් සිට, භාග්‍යවතුන් වහන්සේ බැහැදකිනු පිණිස **මහාලතා පළඳනාව** (කෝටි නවයක් වටිනා) ගලවා උතුරු සළුවෙන් බැඳ දාසියට දුන්නාය. ආපසු යද්දී **දාසිය එය අමතක කළාය**. භාග්‍යවතුන් වහන්සේ "**ගෙන තබන්න**" යි වදාරා, **ආරාමය තුළ** ගෙන තැබීමට අවසර දුන්හ.
+**දෙවන අනුප්‍රඥප්තිය — අජ්ඣාවසථ:** කසී ජනපදයේ **අනේපිඬු සිටුගේ කම්මන්ත ගමේ** සේවකයෙක් භික්ෂූන්ට දන් දී, **ඇඟිලි මුද්ද අමතක කර** ගියේය. භික්ෂූහු "**අප ගියොත් මෙය නැසේ**" යි එහි ම රැඳී සිටියහ. භාග්‍යවතුන් වහන්සේ **ආවසථය තුළ** ද ගෙන තැබීමට අවසර දුන්හ.
+## (අ) පද විවරණය
+**රතනං** — **මුතු, මැණික්, වෛරෝඩි, සක්, ශිලා, පබළු, රිදී, රන්, ලෝහිතාංක, මසාරගල්ල** යන දස රත්න.
+**රතනසම්මතං** — **මිනිසුන්ගේ පරිභෝග-උපභෝගයට** යෙදෙන ඕනෑම දෙයක්.
+**අජ්ඣාරාමෙ** — වට කළ ආරාමයක **වැට ඇතුළත**; වට නොකළ එකක **ලෙඩ්ඩුපාත දෙකක්** ඇතුළත.
+**අජ්ඣාවසථෙ** — වට කළ ආවසථයක **වැට ඇතුළත**; වට නොකළ එකක **මෝල්ගස් පාතයක්** (මහාපච්චරියේ කුල්ලක් හෝ මෝල්ගස් පාතයක්) ඇතුළත.
+**උග්ගණ්හෙය්‍ය** — **තමා ගනී**. **උග්ගණ්හාපෙය්‍ය** — **අනෙකෙකු ලවා ගන්වයි** (සාණත්තික).
+## (ආ) කඞ්ඛාවිතරණී විනිශ්චය
+|! ආකාරය | ඇවැත
+| **රන්-රිදී** තමා පිණිස ගැනීම / ගන්වීම | NP (නිස්සග්ගිය 18)
+| රන්-රිදී **සංඝ, ගණ, පුද්ගල, චෛත්‍ය, නවකර්ම** පිණිස | DK
+| **මුතු ආදී සෙසු රත්න** — කවර කෙනෙකු පිණිස වුව ද | DK
+| **කැප හෝ අකැප** කවර දෙයක් වුව ද — **මවගේ දෙයක් වුව ද** — **භාණ්ඩාගාරිකයෙකු ලෙස** (ගිහි දේ) රැකබලා තැබීම | PC
+| තමාගේ දෙයක් කොට තැබීම | වටී
+==ගිහියෙක් "**මෙය තබාගන්න**" යි කී විට "**නොවටී**" යි ප්‍රතික්ෂේප කළ යුතුය==. ඔහු කිපී එය දමා ගියහොත් **පලිබෝධයකි** — තැබිය යුතුය. විහාරයේ වැඩ කරන වඩුවන් ආදීන් හෝ **රාජවල්ලභයන්** "**මේ උපකරණ / සයන භාණ්ඩ තබා දෙන්න**" යි කීව ද **කැමැත්තෙන් හෝ බියෙන් හෝ නොකළ යුතුය**; **ආරක්ෂිත තැනක් පෙන්වීම** පමණක් වටී.
+## (ඇ) අමතක වූ දෙයක් ලැබුණු විට — අජ්ඣාරාමයේ / අජ්ඣාවසථයේ
+# "**භික්ෂූන් හෝ සාමණේරයන් ගත්තා විය හැකිය**" යන සැකය ඇති වන තැනක ම **ගෙන හෝ ගන්වා**, **රූපයෙන් හෝ ලකුණෙන් සලකුණු කොට** තැබිය යුතුය.
+# "**යමෙකුගේ භාණ්ඩයක් නැති වී නම්, හෙතෙම පැමිණේවා**" යි දැන්විය යුතුය.
+# පැමිණි අයෙකුගෙන් "**ඔබේ භාණ්ඩය කෙබඳු ද?**" යි අසා, **ලකුණු ගැළපේ නම්** දිය යුතුය; නොගැළපේ නම් "**සොයන්න**" යි කිව යුතුය.
+# ආවාසයෙන් පිටත් වන්නේ නම් **සුදුසු භික්ෂූන්** අතේ, ඔවුන් නැත්නම් **සුදුසු ගෘහපතියන්** අතේ තබා යා යුතුය.
+# හිමියා කිසි දා නොපැමිණෙයි නම් ඒ ධනයෙන් **ස්ථාවර සෙනසුනක්, චෛත්‍යයක් හෝ පොකුණක්** කරවිය යුතුය. බොහෝ කලකට පසු හිමියා ආවොත් එය පෙන්වා "**අනුමෝදන් වන්න**" යි කිව යුතුය; ඔහු නොකැමතිව "**මගේ ධනය දෙන්න**" යි ඉල්ලුවොත් **සමාදන් කරවා (එකතු කර) දිය යුතුය**.
+## (ඈ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** එක්තරා භික්ෂුවක් අරබයා **රත්නයක් ගැනීමේ** වස්තුවෙහි පැනවිණි. "**අජ්ඣාරාමයේ හෝ අජ්ඣාවසථයේ හැර**" යන **අනුප්‍රඥප්ති දෙකකි**. **සාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**.
+## (ඉ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනුඤ්ඤාත ස්ථානයෙන් පිටත, අනුන් සතු රත්නයක් / රත්නසම්මතයක් ගැනීම හෝ ගන්වීම (පාළි විභංගය) | PC
+| **අනුඤ්ඤාත ස්ථානයේ** ගෙන **අනාදරයෙන්** නිසි ලෙස නොතැබීම | DK
+## (ඊ) අනාපත්ති
+# **අනුඤ්ඤාත ස්ථානයේ** (අජ්ඣාරාම / අජ්ඣාවසථ) ගෙන "**යමෙකුගේ නම් ඔහු ගෙන යාවි**" යි තැබීම.
+# **ස්පර්ශ කිරීමට සුදුසු (ආමාස) රත්නසම්මත** දෙයක් **විශ්වාසයෙන්** හෝ **තාවකාලිකව** ගැනීම.
+# **පංසුකූල** (අයිතිකරුවෙකු නැතැයි) සංඥාවෙන් ගැනීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (උ) අංග (= චත්තාරි — සතරකි)
+# **අනුඤ්ඤාත නොවූ ආකාරයෙන්** කිරීම.
+# **අනුන් සතු** බව.
+# **විශ්වාසග්‍රහණ හෝ පංසුකූල සංඥාව නැති** බව.
+# **ගැනීම හෝ ගන්වීම**.
+## (ඌ) සමුට්ඨානාදිය
+**ඡසමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+A monk was bathing in **the Aciravatī river**, and a brahmin who had put down **a purse of five hundred coins** on the bank while bathing **forgot it** and went off. The monk picked it up, thinking, “**Don't let it be lost here.**” When the brahmin remembered and came running, the monk gave it back. The brahmin, ==thinking “**How can I avoid giving this monk a finder's reward?**”, said “**It wasn't five hundred, it was a thousand**,” detained the monk and then let him go==. The Blessed One laid down the rule.
+> **Puṇṇapatta** — a reward of **five coins in every hundred** (commentary).
+**First amendment — within a monastery:** at a festival in Sāvatthī, **Visākhā, Migāra's mother**, on her way to the park, took off her **mahālatā ornament** (worth ninety million) to visit the Blessed One, tied it in her upper robe and gave it to a slave girl, who **forgot it** when leaving. The Blessed One said, “**Pick it up and put it aside**,” allowing this **within a monastery**.
+**Second amendment — within a dwelling:** at **Anāthapiṇḍika's work village** in Kāsi, a servant fed some monks and **forgot his signet ring**. The monks stayed there, thinking, “**If we go, it will be lost.**” The Blessed One allowed it **within a dwelling** as well.
+## (A) Explanation of terms
+**Ratanaṃ** — the ten valuables: **pearl, gem, beryl, conch, crystal, coral, silver, gold, ruby and cat's-eye**.
+**Ratanasammataṃ** — anything **people use or enjoy**.
+**Ajjhārāme** — **inside the fence** of a fenced monastery; within **two stone-throws** of an unfenced one.
+**Ajjhāvasathe** — **inside the fence** of a fenced dwelling; within **a pestle's throw** of an unfenced one (a winnowing-fan's or pestle's throw per the Mahāpaccarī).
+**Uggaṇheyya** — **picks it up himself**. **Uggaṇhāpeyya** — **has another pick it up** (sāṇattika).
+## (B) The Kaṅkhāvitaraṇī's ruling
+|! Case | Offence
+| **Gold or silver** picked up or had picked up for oneself | NP (nissaggiya 18)
+| Gold or silver for **the Saṅgha, a group, an individual, a shrine, building work** | DK
+| **Pearls and other valuables** — for anyone at all | DK
+| **Anything, allowable or not** — **even one's mother's** — kept **as a storekeeper** (lay property) | PC
+| Keeping it after making it one's own | allowable
+==When a lay person says “**Keep this**,” it should be refused: “**It is not allowable**.”== If he gets angry and drops it and goes, **it is an impediment** — it should be kept. If carpenters working at the monastery or **royal favourites** say, “**Store these tools / bedding for us**,” it must **not be done, whether out of goodwill or fear**; **showing a safe place** is all that is allowable.
+## (C) When a lost item is found — within a monastery or dwelling
+# In a place where suspicion might arise that “**monks or novices took it**,” he should **pick it up or have it picked up**, **note its form or marks**, and put it aside.
+# He should announce: “**Whoever has lost something, let him come**.”
+# Asking the one who comes, “**What is your item like?**”, he should give it **if the marks match**; if not, he should say, “**Keep looking**.”
+# On leaving the residence he should leave it in the hands of **suitable monks**, or if there are none, **suitable householders**.
+# If the owner never comes, he should have **a permanent lodging, a shrine or a pond** made with it. If the owner comes after a long time, he should show it and say, “**Rejoice in it**.” If he does not, and demands, “**Give me my money**,” it should be **collected and given back**.
+## (D) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a certain monk, on the matter of **picking up a valuable**. There are **two amendments**: “**except within a monastery or dwelling**.” It is a **common rule**, and **sāṇattika**.
+## (E) Division of offences
+|! Case | Offence
+| Outside the permitted places, picking up or having picked up another's valuable or valued item (Pāli analysis) | PC
+| Picking it up **in a permitted place** and **disrespectfully** not putting it aside properly | DK
+## (F) No offence
+# Picking it up **in a permitted place** and putting it aside: “**Whoever it belongs to will take it**.”
+# Taking **a touchable valued item on trust** or **temporarily**.
+# Taking it **perceiving it as discarded**.
+# For the insane and so on, and the first offender.
+## (G) Factors (= cattāri — four)
+# Doing it **other than as allowed**.
+# **Belonging to another**.
+# **No perception of trust or of its being discarded**.
+# **Picking it up or having it picked up**.
+## (H) Origin and the rest (samuṭṭhāna)
+**Six origins, by doing, no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+
+@pac85
+T: විකාලගාමප්පවේසන සික්ඛාපදය || Entering a Village at the Wrong Time
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිටින භික්ෂුවකගෙන් නොවිචාරා විකාලයේ ගමට ඇතුළු වීම || Entering a village at the wrong time without taking leave of an available monk
+K: KT sd=a an=a anu=3 kr=KA
+Z: හදිසි කටයුත්තක දී; සිටින භික්ෂුවකගෙන් විචාරා; භික්ෂුවක් නැති විට නොවිචාරා; අතුරු ආරාමයකට, භික්ෂුණී උපස්සයයකට, තීර්ථක නවාතැනකට හෝ දන්හලට යාම; ගම මැදින් මඟ යන විට; ආපදාවල දී; උමතු ආදීන් || An urgent matter; having asked an available monk; none available; going to another monastery, a nuns' residence, a sectarians' lodging or a refectory; the road passing through a village; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**විකාලයේ** ගමට ගොස් **සභා ශාලාවේ** හිඳ **රාජ කථා, චෝර කථා, යුද්ධ කථා, ස්ත්‍රී කථා** ආදී නොයෙක් **තිරශ්චීන කථා** කළහ==. මිනිස්සු "**කාමභෝගී ගිහියන් මෙනි**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ "**විකාලයේ ගමට ඇතුළු වන්නාට පාචිත්තිය**" යි පැනවූහ.
+**අනුප්‍රඥප්ති තුන:**
+|! # | සිදුවීම | එක් කළ කොටස
+| 1 | කොසොල් දනව්වේ සැවැත් බලා යන භික්ෂූන් සැන්දෑවේ ගමකට පැමිණ, කුකුසින් ඇතුළු නොවී, **සොරුන් විසින් පැහැර ගනු ලැබූහ** | "**නොවිචාරා**"
+| 2 | **තනි භික්ෂුවක්** එසේ ම විචාරීමට කෙනෙකු නැතිව ඇතුළු නොවී **පැහැර ගනු ලැබීය** | "**සිටින භික්ෂුවක්**"
+| 3 | භික්ෂුවකට **සර්පයෙකු දෂ්ට කළ** විට **ගිනි ගෙනෙනු** පිණිස යන භික්ෂුවක් කුකුසින් ඇතුළු නොවීය | "**එබඳු හදිසි කටයුත්තක් හැර**"
+## (අ) පද විවරණය
+**සන්තො භික්ඛු** — **විචාරා ඇතුළු විය හැකි** ලෙස සිටින භික්ෂුවක්. **අසන්තො** — විචාරිය නොහැකි වූ.
+**විකාලො** — **මධ්‍යාහ්නය ඉක්මුණු තැන් පටන් අරුණ නැගීම දක්වා**.
+**ගාමං පවිසෙය්‍ය** — වට කළ ගමක **වැට ඉක්මවන**, වට නොකළ ගමක **උපචාරයට බසින** —
+|! අවස්ථාව | ඇවැත
+| **පළමු පාදය** | DK
+| **දෙවන පාදය** | PC
+"**විකාලයේ ගමට ඇතුළු වීම විචාරමි**" හෝ "**ගමට ඇතුළු වන්නෙමි**" යි විචාරිය යුතුය.
+## (ආ) විචාරීම පිළිබඳ විනිශ්චය — කඞ්ඛාවිතරණී අනුව
+|! අවස්ථාව | විනිශ්චය
+| **බොහෝ දෙනා** කිසියම් කටයුත්තකට එකට ඇතුළු වෙති | **සියල්ලන් ම එකිනෙකාගෙන්** විචාරිය යුතුය
+| ඒ ගමේ කටයුත්ත නොසිදු නිසා **ඒ ම කටයුත්තට අන් ගමකට** යාම | නැවත විචාරීම **අවශ්‍ය නැත**
+| උත්සාහය අත්හැර විහාරයට එද්දී **අතරමඟ අන් ගමකට** ඇතුළු වනු කැමති වීම | **විචාරිය යුතුමය**
+| කුලගෙයක / ආසනශාලාවක දන් වළඳා **තෙල්, ගිතෙල් පිඬු පිණිස** යනු කැමති වීම | ළඟ භික්ෂුවක් සිටී නම් විචාරිය යුතුය; නැත්නම් "**නැත**" යි යා හැකිය
+| **වීථියට බැස** පසුව භික්ෂුවක් දැකීම | විචාරීම **අවශ්‍ය නැත**
+| **ගම මැදින් යන මඟේ** යද්දී "**තෙල් ආදිය පිණිස යන්නෙමි**" යි සිත උපදී | ළඟ භික්ෂුවක් දැක විචාරිය යුතුය; **මඟින් නොබැස** යන්නාට අවශ්‍ය නැත; බසින්නාට පාචිත්තිය
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා **විකාලයේ ගමට ඇතුළු වීමේ** වස්තුවෙහි පැනවිණි. "**සිටින භික්ෂුවක්**", "**නොවිචාරා**", "**එබඳු හදිසි කටයුත්තක් හැර**" යන **අනුප්‍රඥප්ති තුනකි**. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| විකාලයේ — විකාල බව දැන, සැක ඇතිව, හෝ කාලය යැයි සිතා — නොවිචාරා ඇතුළු වීම (**තික පාචිත්තිය**) | PC
+| **කාලයේ** දී **විකාල යැයි සිතීම** හෝ **සැක කිරීම** | DK
+## (ඉ) අනාපත්ති
+# **කාලය යැයි සිතන** අයට (කාලයේ දී).
+# **හදිසි කටයුත්තක** දී.
+# **සිටින භික්ෂුවකගෙන් විචාරා**, හෝ භික්ෂුවක් **නැති විට නොවිචාරා** ඇතුළු වීම.
+# **අතුරු ආරාමයකට, භික්ෂුණී උපස්සයයකට, තීර්ථක නවාතැනකට, දන්හලට** යාම.
+# **ගම මැදින් මඟ වැටී ඇති** විට එයින් යාම.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **සිටින භික්ෂුවකගෙන් නොවිචාරීම**.
+# **අනුඤ්ඤාත හේතුවක් නැති** බව.
+# **විකාලයේ ගමට ඇතුළු වීම**.
+## (උ) සමුට්ඨානාදිය
+**කඨින සමුට්ඨානයි**, **කිරියාකිරියයි** (ඇතුළු වීම කිරියාව; නොවිචාරීම අකිරියාව), **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went into the village **at the wrong time**, sat in **the meeting hall** and engaged in all kinds of **animal talk** — talk of **kings, thieves, wars, women** and so on==. People complained, “**Just like householders enjoying sensual pleasures!**” The Blessed One laid down, “**Entering a village at the wrong time: pācittiya.**”
+**The three amendments:**
+|! # | Incident | Added wording
+| 1 | monks travelling to Sāvatthī in Kosala reached a village in the evening, did not enter out of scruple, and **were robbed by thieves** | “**without taking leave**”
+| 2 | **a monk alone**, with no one to ask, likewise did not enter and **was robbed** | “**of an available monk**”
+| 3 | when a monk **was bitten by a snake**, a monk going **to fetch fire** did not enter out of scruple | “**except for an urgent matter of that kind**”
+## (A) Explanation of terms
+**Santo bhikkhu** — a monk available **so that one can enter after taking leave**. **Asanto** — one not available to ask.
+**Vikālo** — **from just after midday until dawn**.
+**Gāmaṃ paviseyya** — **crossing the fence** of a fenced village, or **entering the precincts** of an unfenced one —
+|! Stage | Offence
+| **first foot** | DK
+| **second foot** | PC
+One should take leave saying, “**I take leave to enter the village at the wrong time**,” or “**I will enter the village**.”
+## (B) Rulings on taking leave — according to the Kaṅkhāvitaraṇī
+|! Situation | Ruling
+| **several monks** enter together on some business | **all must take leave of one another**
+| the business fails in that village, so they go **to another village for the same business** | **no need** to ask again
+| giving up the effort and heading back, they wish to enter **another village on the way** | **must** ask
+| after a meal at a family house or seating hall, wishing to go **for alms of oil or ghee** | ask a monk nearby if there is one; if not, he may go, noting “**there is none**”
+| **having gone down into the street**, he then sees a monk | **no need** to ask
+| on **a road through a village**, the thought arises, “**I'll go for oil etc.**” | ask a monk seen nearby; **not leaving the road**, no need; leaving it, pācittiya
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of **entering a village at the wrong time**. There are **three amendments**: “**an available monk**,” “**without taking leave**,” “**except for an urgent matter of that kind**.” It is a **rule not shared**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| At the wrong time — perceiving it as the wrong time, in doubt, or as the right time — entering without taking leave (**triple pācittiya**) | PC
+| At **the right time**, **perceiving it as the wrong time** or **in doubt** | DK
+## (E) No offence
+# For one **perceiving the right time** (at the right time).
+# For **an urgent matter**.
+# Entering **having taken leave of an available monk**, or **without taking leave when none is available**.
+# Going **to another monastery, a nuns' residence, a sectarians' lodging or a refectory**.
+# Going by **a road that passes through a village**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Not taking leave of an available monk**.
+# **No allowed reason**.
+# **Entering a village at the wrong time**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Kaṭhina origin**, **by doing and not doing** (entering; not taking leave), **no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+
+@pac86
+T: සූචිඝර සික්ඛාපදය || Needle Case
+R: - || -
+N: ශාක්‍ය ජනපදය, නිග්‍රෝධාරාමය || Sakyan country, Nigrodhārāma
+P: බොහෝ භික්ෂූන් || A number of monks
+V: ඇට, ඇත්දළ, අං වලින් ඉඳිකටු කොපු කරවීම || Having needle cases made of bone, ivory or horn
+K: SC sd=s an=s anu=0
+Z: බොත්තම, ගිනි ගානා දුන්න, ගැටය, අඳුන් කරඬුව, අඳුන් කූර, වෑ මිට, දිය පිස්නාව ඇට ආදියෙන් කිරීම; උමතු ආදීන් || A toggle, fire-drill bow, buckle, ointment box, ointment stick, adze handle or water wiper of bone etc.; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ කපිලවස්තු · නිග්‍රෝධාරාමය
+එක් **ඇත්දළ කර්මාන්තකරුවෙක්** "**ඉඳිකටු කොපුවක් අවශ්‍ය ආර්‍යයන්ට මම දෙන්නෙමි**" යි භික්ෂූන්ට පවාරණය කළේය. ==භික්ෂූහු **බොහෝ ඉඳිකටු කොපු** ඉල්ලූහ — කුඩා ඒවා ඇත්තෝ විශාල ඒවා ද, විශාල ඒවා ඇත්තෝ කුඩා ඒවා ද==. ඔහු භික්ෂූන්ට කොපු සාදමින් **විකිණීමට වෙනත් භාණ්ඩ සෑදිය නොහැකිව**, තමාට ද යැපිය නොහැකි විය; **අඹුදරුවෝ ද පීඩා වින්දහ**. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**අට්ඨි** — **ඕනෑම ඇටයක්**. **දන්තො** — **ඇත්දළ**. **විසාණං** — **ඕනෑම අංයක්**.
+**කාරාපෙය්‍ය** — **කරයි හෝ කරවයි** — **පයෝගයේ දුක්කට**.
+**භෙදනකං** — "**බිඳිය යුතු**" — **ලැබීමෙන්** පසු **එය බිඳ** පාචිත්තිය **දේශනා කළ යුතුය**.
+## (ආ) චතුක්ක පාචිත්තිය
+|! ආරම්භය | නිම කිරීම | ඇවැත
+| තමා | තමා | PC
+| තමා | අනුන් ලවා | PC
+| අනුන් | තමා | PC
+| අනුන් | අනුන් ලවා | PC
+| **අනෙකෙකු පිණිස** කිරීම / කරවීම | — | DK
+| **අනෙකෙකු කළ එකක්** ලැබ පරිහරණය | — | DK
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**ශාක්‍ය ජනපදයේදී** බොහෝ භික්ෂූන් අරබයා **බොහෝ ඉඳිකටු කොපු ඉල්ලීමේ** වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**. **චතුක්ක පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ඇට / දළ / අං ඉඳිකටු කොපුවක් කරවීමේ පයෝගය | DK
+| තමා පිණිස — තමා හෝ අනුන් ආරම්භ කළ එකක් තමා හෝ අනුන් ලවා නිම කොට **ලැබීම** (**චතුක්ක පාචිත්තිය**) | PC
+| අනෙකෙකු පිණිස කිරීම / කරවීම; අනෙකෙකු කළ එකක් ලැබ පරිහරණය | DK
+## (ඉ) අනාපත්ති
+# **ගණ්ඨිකා** (බොත්තම / ගැටය), **අරණික** (ගිනි ගානා දුන්න), **විධ** (සළු ගැටය — වේධකය), **අඤ්ජනී** (අඳුන් කරඬුව), **අඤ්ජනීසලාකා** (අඳුන් කූර), **වාසිජට** (වෑ මිට), **උදකපුඤ්ඡනී** (දිය පිස්නාව) — මේවායින් කිසිවක් ඇට ආදියෙන් කිරීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **ඉඳිකටු කොපුවක්** වීම.
+# **ඇට, දළ, අං ආදියෙන්** කළ බව.
+# **තමා පිණිස කිරීම හෝ කරවා ලැබීම**.
+## (උ) සමුට්ඨානාදිය
+**ඡසමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Kapilavatthu · Nigrodhārāma
+An **ivory-worker** invited the monks: “**Any venerable who needs a needle case, I'll provide one.**” ==The monks asked for **many needle cases** — those with small ones asked for big ones, those with big ones for small ones==. Making needle cases for the monks, he **could not make other goods for sale**, could not support himself, and **his wife and children suffered**. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Aṭṭhi** — **any bone**. **Danto** — **ivory**. **Visāṇaṃ** — **any horn**.
+**Kārāpeyya** — **makes or has made** — **dukkaṭa in the effort**.
+**Bhedanakaṃ** — “**to be broken**” — **on obtaining it**, he must **break it** and **confess** the pācittiya.
+## (B) The fourfold pācittiya
+|! Begun by | Finished by | Offence
+| oneself | oneself | PC
+| oneself | others | PC
+| others | oneself | PC
+| others | others | PC
+| making / having made **for another** | — | DK
+| using **one made by another** after obtaining it | — | DK
+## (C) The laying down of the rule and the command
+It was laid down **in the Sakyan country** concerning a number of monks, on the matter of **asking for many needle cases**. It is a **common rule**, **sāṇattika**, and a **fourfold pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The effort of having a bone, ivory or horn needle case made | DK
+| For oneself — begun by oneself or others, finished by oneself or others — **obtaining** it (**fourfold pācittiya**) | PC
+| Making / having made for another; using one made by another | DK
+## (E) No offence
+# Making any of these of bone etc.: **a toggle**, **a fire-drill bow**, **a buckle**, **an ointment box**, **an ointment stick**, **an adze handle**, **a water wiper**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **A needle case**.
+# **Made of bone, ivory, horn** etc.
+# **Making it for oneself, or having it made and obtaining it**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Six origins, by doing, no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+
+@pac87
+T: මඤ්චපීඨ සික්ඛාපදය || Height of a Bed or Bench
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිර || Ven. Upananda the Sakyan
+V: ප්‍රමාණය ඉක්මවූ උස ඇඳක් කරවීම || Having a bed made with legs over the limit
+K: SC sd=s an=s anu=0
+Z: ප්‍රමාණික හෝ ඌන ලෙස කිරීම; ප්‍රමාණය ඉක්මවූ එකක් ලැබ කපා, හෝ බිම වළලා, උඩුකුරු කොට, අට්ටයක් ලෙස බැඳ පරිහරණය; උමතු ආදීන් || Making it to size or smaller; cutting down, sinking, upturning or raising as a platform one received over size; the insane etc.
+G: 2
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**උපනන්ද** තෙරුන් **උස ඇඳක** සයනය කළහ. බොහෝ භික්ෂූන් සමඟ **සෙනසුන් චාරිකාවේ** වඩින භාග්‍යවතුන් වහන්සේ දුර සිට ම දුටු උපනන්ද තෙරුන් ==**"ස්වාමීනි, භාග්‍යවතුන් වහන්සේ වැඩම කොට මගේ සයනය බලන සේක්වා"**== යි කීහ. භාග්‍යවතුන් වහන්සේ එතැනින් ම හැරී, "**මහණෙනි, හිස් පුරුෂයා ඔහුගේ වාසස්ථානයෙන් හඳුනාගත යුතුය**" යි වදාරා ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**නවං** — **කරන අවස්ථාව** සලකා කියනු ලැබේ.
+**මඤ්චො / පීඨං** — වර්ග **සතරකි**:
+|! වර්ගය | විස්තරය
+| **මසාරක** | පාද **ගැට්ටෙහි සිදුරු** විද ඒවාට ඇතුළු කළ
+| **බුන්දිකාබද්ධ** | ගැට්ට පාදවල **කෙළවරට** සවි කොට බැඳි
+| **කුළීරපාදක** | **කකුළුවෙකුගේ පා මෙන්** වක් වූ පාද ඇති
+| **ආහච්චපාදක** | **ගලවා සවි කළ හැකි** (ඇණ ගසා සවි කළ) පාද ඇති
+**පීඨය** ද එබඳු ම ය; එහෙත් **ඇඳ මෙන් ඉතා දිග නොවේ**, **ආසන්දිකය මෙන් සමචතුරස්‍ර ද නොවේ**.
+**අට්ඨඞ්ගුලපාදකං සුගතඞ්ගුලෙන, අඤ්ඤත්‍ර හෙට්ඨිමාය අටනියා** — ==**යටි ගැට්ට හැර** (බිම සිට ගැට්ටට), **සුගත අඟලින් අඟල් අටක** පාද ඇතිව== කළ යුතුය. එය ඉක්මවා කරයි හෝ කරවයි නම් **පයෝගයේ දුක්කට**.
+**ඡෙදනකං** — "**කැපිය යුතු**" — **ලැබීමෙන්** පසු **පමණට කපා** පාචිත්තිය දේශනා කළ යුතුය.
+## (ආ) කැපීමට අකමැති නම් — අට්ඨකථාව
+|! ක්‍රමය | විස්තරය
+| **බිම වළලා** | පමණ ම **උඩින් පෙනෙන සේ** පාද බිම වළලා
+| **උඩුකුරු කොට** | **පාද ඉහළට** හරවා
+| **අට්ටයක් කොට** | ඔසවා **තුලා-සංඝාටවල** තබා **අට්ටයක් (මැස්සක්)** ලෙස බැඳ
+මේ සියල්ල **වටී**.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** උපනන්ද තෙරුන් අරබයා **උස ඇඳක සයනය කිරීමේ** වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**, **සාණත්තිකයි**, **චතුක්ක පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ප්‍රමාණය ඉක්මවා කිරීමේ / කරවීමේ පයෝගය | DK
+| තමා පිණිස — තමා හෝ අනුන් ආරම්භ කළ එකක් නිම කොට **ලැබීම** (**චතුක්ක පාචිත්තිය**) | PC
+| අනෙකෙකු පිණිස කිරීම / කරවීම; අනෙකෙකු කළ එකක් ලැබ (නොකපා) පරිහරණය | DK
+## (ඉ) අනාපත්ති
+# **ප්‍රමාණික** ලෙස හෝ **ඌන** ලෙස කිරීම.
+# අනෙකෙකු කළ **ප්‍රමාණය ඉක්මවූ** එකක් ලැබ, පමණ ම උඩින් පෙනෙන සේ **කපා**, හෝ **බිම වළලා**, **උඩුකුරු කොට**, **අට්ටයක් ලෙස බැඳ** පරිහරණය.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= ද්වේ — දෙකකි)
+# ඇඳ / පුටුව **ප්‍රමාණය ඉක්මවූ** බව.
+# **තමා පිණිස කිරීම හෝ කරවා ලැබීම**.
+## (උ) සමුට්ඨානාදිය
+**ඡසමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Ven. **Upananda** slept on **a high bed**. When the Blessed One, **touring the lodgings** with many monks, was seen coming from afar, Upananda said, ==“**Venerable sir, may the Blessed One come and see my bed.**”== The Blessed One turned back right there, saying, “**Monks, a foolish man can be known by his dwelling,**” and laid down the rule.
+## (A) Explanation of terms
+**Navaṃ** — said with reference **to the making**.
+**Mañco / pīṭhaṃ** — of **four kinds**:
+|! Kind | Description
+| **masāraka** | legs **inserted into holes** bored in the frame
+| **bundikābaddha** | frame **fitted and bound onto the tops** of the legs
+| **kuḷīrapādaka** | legs **curved like a crab's**
+| **āhaccapādaka** | legs that are **detachable** (pegged in)
+**A bench** is the same, but is **not very long like a bed**, nor **square like a stool**.
+**Aṭṭhaṅgulapādakaṃ sugataṅgulena, aññatra heṭṭhimāya aṭaniyā** — it must be made ==with legs of **eight sugata fingerbreadths**, **not counting the lower frame** (from the ground to the frame)==. Making or having it made over that: **dukkaṭa in the effort**.
+**Chedanakaṃ** — “**to be cut down**” — **on obtaining it**, he must **cut it to size** and confess the pācittiya.
+## (B) If he does not wish to cut it — commentary
+|! Method | Description
+| **sink it** | bury the legs so that **just the proper size shows** above ground
+| **upturn it** | turn it **legs upward**
+| **make a platform** | raise it **onto cross-beams** and bind it **as a platform**
+All these are **allowable**.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning Upananda, on the matter of **sleeping on a high bed**. It is a **common rule**, **sāṇattika**, and a **fourfold pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The effort of making / having it made over size | DK
+| For oneself — begun by oneself or others — finishing and **obtaining** it (**fourfold pācittiya**) | PC
+| Making / having made for another; using (uncut) one made by another | DK
+## (E) No offence
+# Making it **to size** or **smaller**.
+# Receiving one made by another **over size** and using it after **cutting it down** so that just the proper size shows, or **sinking**, **upturning** or **binding it as a platform**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= dve — two)
+# A bed / bench **over the size**.
+# **Making it for oneself, or having it made and obtaining it**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Six origins, by doing, no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+
+@pac88
+T: තූලෝනද්ධ සික්ඛාපදය || Cotton-stuffed Furniture
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පුළුන් පුරවා ආවරණය කළ ඇඳ / පුටු කරවීම || Having beds and benches stuffed with cotton
+K: SC sd=s an=s anu=0
+Z: පටි, ඉණ පටිය, අංසබද්ධකය, පාත්‍ර පසුම්බිය, පෙරහන, හිස් ප්‍රමාණ කොට්ටය; අනෙකෙකු කළ එකක් ලැබ පුළුන් ඉවත් කොට පරිහරණය; උමතු ආදීන් || A strap, waistband, shoulder strap, bowl bag, water strainer, head-sized pillow; using one made by another after removing the stuffing; the insane etc.
+G: 2
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**ඇඳ ද පුටු ද පුළුන් පුරවා ආවරණය කොට** කරවූහ==. විහාර චාරිකාවේ ආ මිනිස්සු දැක "**කාමභෝගී ගිහියන් මෙනි**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**මඤ්චො / පීඨං** — වර්ග **සතරකි**: **මසාරක** (පාද ගැට්ටෙහි සිදුරුවලට ඇතුළු කළ), **බුන්දිකාබද්ධ** (ගැට්ට පාද කෙළවරට සවි කොට බැඳි), **කුළීරපාදක** (කකුළු පා මෙන් වක් පාද ඇති), **ආහච්චපාදක** (ගලවා සවි කළ හැකි පාද ඇති).
+**තූලං** — පුළුන් **තුන් වර්ගයකි**:
+|! වර්ගය | අර්ථය
+| **රුක්ඛතූල** | **ගස්වලින්** ලැබෙන පුළුන් (ඉඹුල් ආදී)
+| **ලතාතූල** | **වැල්වලින්** ලැබෙන පුළුන්
+| **පොටකිතූල** | **තණ වර්ගවලින්** ලැබෙන පුළුන්
+**තූලොනද්ධං** — **රෙදි කඩක් එළා පුළුන් දමා, උඩින් රෙදි කඩකින් ආවරණය කළ**.
+**කාරාපෙය්‍ය** — කරයි හෝ කරවයි — **පයෝගයේ දුක්කට**.
+**උද්දාලනකං** — "**ගැලවිය යුතු**" — **ලැබීමෙන්** පසු **පුළුන් ඉවත් කොට** පාචිත්තිය දේශනා කළ යුතුය.
+## (ආ) හිස් ප්‍රමාණ කොට්ටය — කඞ්ඛාවිතරණී අනුව
+කොට්ටය (**බිම්බෝහනය**) **හිස් ප්‍රමාණයෙන්** පමණක් වටී:
+|! මිනුම | ප්‍රමාණය
+| පළලින් — කොන් තුනෙහි දෙකක් අතර | **වියතක් හා අඟල් සතරක්**
+| මැද | **මිටක් සහිත රියනක්**
+| දිගින් | **රියන් එකහමාරක් හෝ දෙකක්**
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා **පුළුන් පිරවූ ඇඳ පුටු කරවීමේ** වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**. **චතුක්ක පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| පුළුන් පිරවූ ඇඳ / පුටු කිරීමේ / කරවීමේ පයෝගය | DK
+| තමා පිණිස — තමා හෝ අනුන් ආරම්භ කළ එකක් නිම කොට **ලැබීම** (**චතුක්ක පාචිත්තිය**) | PC
+| අනෙකෙකු පිණිස කිරීම / කරවීම; අනෙකෙකු කළ එකක් ලැබ (පුළුන් නොගලවා) පරිහරණය | DK
+## (ඉ) අනාපත්ති
+# **ආයෝග** (පටිය), **කායබන්ධන** (ඉණ පටිය), **අංසබද්ධක** (පාත්‍රය එල්ලන පටිය), **පාත්‍ර පසුම්බිය**, **පෙරහන** — මේවාට පුළුන් යෙදීම.
+# **බිම්බෝහනය** (හිස් ප්‍රමාණයෙන්) කිරීම.
+# අනෙකෙකු කළ පුළුන් පිරවූ එකක් ලැබ **පුළුන් ඉවත් කොට** පරිහරණය.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= ද්වේ — දෙකකි)
+# **පුළුන් පිරවූ ඇඳක් / පුටුවක්** වීම.
+# **තමා පිණිස කිරීම හෝ කරවා ලැබීම**.
+## (උ) සමුට්ඨානාදිය
+**ඡසමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==had **beds and benches made stuffed with cotton and covered over**==. People touring the monastery saw them and complained, “**Just like householders enjoying sensual pleasures!**” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Mañco / pīṭhaṃ** — of **four kinds**: **masāraka** (legs inserted into holes in the frame), **bundikābaddha** (frame bound onto the tops of the legs), **kuḷīrapādaka** (legs curved like a crab's), **āhaccapādaka** (detachable legs).
+**Tūlaṃ** — cotton of **three kinds**:
+|! Kind | Meaning
+| **rukkhatūla** | cotton **from trees** (silk-cotton etc.)
+| **latātūla** | cotton **from creepers**
+| **poṭakitūla** | cotton **from grasses**
+**Tūlonaddhaṃ** — **spreading a cloth, putting in cotton and covering it over with cloth**.
+**Kārāpeyya** — makes or has made — **dukkaṭa in the effort**.
+**Uddālanakaṃ** — “**to be torn out**” — **on obtaining it**, he must **remove the stuffing** and confess the pācittiya.
+## (B) The head-sized pillow — according to the Kaṅkhāvitaraṇī
+A pillow (**bimbohana**) is allowable only **of head size**:
+|! Measure | Size
+| width — between two of the three corners | **a span and four fingerbreadths**
+| middle | **a cubit with a fist**
+| length | **one and a half or two cubits**
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of **having cotton-stuffed beds and benches made**. It is a **common rule**, **sāṇattika**, and a **fourfold pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The effort of making / having made a cotton-stuffed bed or bench | DK
+| For oneself — begun by oneself or others — finishing and **obtaining** it (**fourfold pācittiya**) | PC
+| Making / having made for another; using (with stuffing) one made by another | DK
+## (E) No offence
+# Putting cotton into **a strap**, **a waistband**, **a shoulder strap** (for the bowl), **a bowl bag**, **a water strainer**.
+# Making **a pillow** (of head size).
+# Receiving a cotton-stuffed one made by another and using it after **removing the stuffing**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= dve — two)
+# **A cotton-stuffed bed or bench**.
+# **Making it for oneself, or having it made and obtaining it**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Six origins, by doing, no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+
+@pac89
+T: නිසීදන සික්ඛාපදය || Size of a Sitting Cloth
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ප්‍රමාණය ඉක්මවූ නිසීදන දැරීම || Using sitting cloths over the size
+K: SC sd=a an=s anu=1
+Z: ප්‍රමාණික හෝ ඌන ලෙස කිරීම; ප්‍රමාණය ඉක්මවූ එකක් ලැබ කපා පරිහරණය; වියන්, බිම් ඇතිරිලි, තිර පවුරු, මෙට්ට, කොට්ට කිරීම; උමතු ආදීන් || Making it to size or smaller; cutting down one received over size; making a canopy, floor covering, screen, mattress or pillow; the insane etc.
+G: 2
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+භාග්‍යවතුන් වහන්සේ **නිසීදනය** අනුදැන වදාළ කල්හි, **ෂඩ්වර්ගීය භික්ෂූහු** ==**ප්‍රමාණ රහිත නිසීදන** දරමින් ඇඳ පුටුවල **ඉදිරියෙන් ද පිටුපසින් ද එල්ලා** තැබූහ==. භාග්‍යවතුන් වහන්සේ "**දිගින් සුගත වියත් දෙකක්, පළලින් එකහමාරක්**" යි ප්‍රමාණය නියම කොට ශික්ෂාපදය පැනවූහ.
+**අනුප්‍රඥප්තිය:** **උදායි** තෙරුන් **මහා ශරීරයක්** ඇත්තෙක් විය. උන්වහන්සේ භාග්‍යවතුන් වහන්සේ ඉදිරියේ නිසීදනය පනවා ==**හාත්පසින් අදිමින්** හිඳගත්හ==. "**උදායි, පැරණි හම් කරුවෙකු මෙන් කුමට ඔබ නිසීදනය හාත්පසින් අදින්නේ ද?**" යි ඇසූ කල්හි, "**ස්වාමීනි, භාග්‍යවතුන් වහන්සේ ඉතා කුඩා නිසීදනයක් අනුදැන වදාළ නිසා**" යි කීහ. එවිට "**දසාව වියතකි**" යනුවෙන් **දාරයක්** එක් කළහ.
+> නිසීදනය අනුදැන වදාළේ **මහාවග්ගයේ චීවරක්ඛන්ධකයේ** — "**කය රැකීමට, සිවුර රැකීමට, සෙනසුන රැකීමට**" (අට්ඨකථාව).
+## (අ) පද විවරණය
+**නිසීදනං** — **දසාව සහිත** (සදසං) දෙයට කියනු ලැබේ: **සන්ථතයක් මෙන් එළා**, එක් කෙළවරක **සුගත වියතක් පමණ** තැන **දෙතැනක පළා** කළ **දසා (දාර) තුනකින්** යුත් පිරිකර.
+**සුගතවිදත්ථි** — **සුගත වියත**; අට්ඨකථාව අනුව "**දැන් මධ්‍යම පුරුෂයෙකුගේ වියත් තුනක්**, **වඩු රියනෙන් රියන් එකහමාරක්**" (කඞ්ඛාවිතරණී, සංඝාදිසේස 6).
+**ඡෙදනකං** — "**කැපිය යුතු**" — **ලැබීමෙන්** පසු **පමණට කපා** පාචිත්තිය දේශනා කළ යුතුය.
+## (ආ) රතන වර්ගයේ රෙදි ප්‍රමාණ
+|! පිරිකර | දිග (සුගත වියත්) | පළල (සුගත වියත්) | අට්ඨකථා මිනුමෙන් (සාමාන්‍ය වියත්)
+| **නිසීදනය** (පා. 89) | 2 | 1½ (+ දසාව 1) | 6 × 4½ (+ දසාව 3)
+| **කණ්ඩුප්පටිච්ඡාදිය** (පා. 90) | 4 | 2 | 12 × 6
+| **වස්සිකසාටිකාව** (පා. 91) | 6 | 2½ | 18 × 7½
+| **සුගත චීවරය** (පා. 92) | 9 | 6 | 27 × 18
+> සුගත වියතේ සැබෑ දිග පිළිබඳව **නූතන විද්වතුන් අතර වෙනස් මත** ඇත; මෙහි ඇත්තේ **අට්ඨකථා මතය** පමණි.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා **ප්‍රමාණ රහිත නිසීදන දැරීමේ** වස්තුවෙහි පැනවිණි. "**දසාව වියතකි**" යන **අනුප්‍රඥප්තියකි**. **අසාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**. **චතුක්ක පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ප්‍රමාණය ඉක්මවා කිරීමේ / කරවීමේ පයෝගය | DK
+| තමා පිණිස — තමා හෝ අනුන් ආරම්භ කළ එකක් නිම කොට **ලැබීම** (**චතුක්ක පාචිත්තිය**) | PC
+| අනෙකෙකු පිණිස කිරීම / කරවීම; අනෙකෙකු කළ එකක් ලැබ (නොකපා) පරිහරණය | DK
+## (ඉ) අනාපත්ති
+# **ප්‍රමාණික** ලෙස හෝ **ඌන** ලෙස කිරීම.
+# අනෙකෙකු කළ **ප්‍රමාණය ඉක්මවූ** එකක් ලැබ **කපා** පරිහරණය.
+# **වියන්, බිම් ඇතිරිලි, තිර පවුරු, මෙට්ට, කොට්ට** ආදී කිසිවක් කිරීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= ද්වේ — දෙකකි)
+# නිසීදනය **ප්‍රමාණය ඉක්මවූ** බව.
+# **තමා පිණිස කිරීම හෝ කරවා ලැබීම**.
+## (උ) සමුට්ඨානාදිය
+**ඡසමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+When the Blessed One had allowed **a sitting cloth**, **the group-of-six** ==used **sitting cloths of no fixed size**, letting them **hang down in front of and behind** beds and benches==. The Blessed One fixed the size — “**two sugata spans long, one and a half wide**” — and laid down the rule.
+**The amendment:** Ven. **Udāyī** had **a large body**. Spreading his sitting cloth before the Blessed One, he sat down ==**stretching it out all round**==. Asked, “**Udāyī, why do you stretch your sitting cloth all round like an old leather-worker?**”, he said, “**Venerable sir, because the Blessed One allowed too small a sitting cloth.**” A **border** was then added: “**the border one span**.”
+> The sitting cloth was allowed in **the Robe Chapter of the Mahāvagga** — “**for protecting the body, the robes and the lodging**” (commentary).
+## (A) Explanation of terms
+**Nisīdanaṃ** — said of one **with a border** (sadasaṃ): a requisite **spread like a felted rug**, with **three border strips** made by **slitting it in two places** over **a sugata span** at one end.
+**Sugatavidatthi** — **the sugata span**; per the commentary, “**now three spans of a medium-sized man**, **one and a half cubits by the carpenter's cubit**” (Kaṅkhāvitaraṇī, saṅghādisesa 6).
+**Chedanakaṃ** — “**to be cut down**” — **on obtaining it**, he must **cut it to size** and confess the pācittiya.
+## (B) Cloth sizes in the Ratana chapter
+|! Requisite | Length (sugata spans) | Width (sugata spans) | By the commentary's measure (ordinary spans)
+| **sitting cloth** (Pāc. 89) | 2 | 1½ (+ border 1) | 6 × 4½ (+ border 3)
+| **itch-cover cloth** (Pāc. 90) | 4 | 2 | 12 × 6
+| **rains cloth** (Pāc. 91) | 6 | 2½ | 18 × 7½
+| **the Sugata's robe** (Pāc. 92) | 9 | 6 | 27 × 18
+> **Modern scholars differ** on the actual length of the sugata span; only **the commentarial view** is given here.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of **using sitting cloths of no fixed size**. There is **one amendment**: “**the border one span**.” It is a **rule not shared**, **sāṇattika**, and a **fourfold pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The effort of making / having made one over size | DK
+| For oneself — begun by oneself or others — finishing and **obtaining** it (**fourfold pācittiya**) | PC
+| Making / having made for another; using (uncut) one made by another | DK
+## (E) No offence
+# Making it **to size** or **smaller**.
+# Receiving one made by another **over size** and using it after **cutting it down**.
+# Making **a canopy, floor covering, screen wall, mattress or pillow**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= dve — two)
+# A sitting cloth **over the size**.
+# **Making it for oneself, or having it made and obtaining it**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Six origins, by doing, no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+
+@pac90
+T: කණ්ඩුප්පටිච්ඡාදි සික්ඛාපදය || Size of an Itch-cover Cloth
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ප්‍රමාණය ඉක්මවූ කණ්ඩුප්පටිච්ඡාදි දැරීම || Using itch-cover cloths over the size
+K: SC sd=s an=s anu=0
+Z: ප්‍රමාණික හෝ ඌන ලෙස කිරීම; ප්‍රමාණය ඉක්මවූ එකක් ලැබ කපා පරිහරණය; වියන්, බිම් ඇතිරිලි, තිර පවුරු, මෙට්ට, කොට්ට කිරීම; උමතු ආදීන් || Making it to size or smaller; cutting down one received over size; making a canopy, floor covering, screen, mattress or pillow; the insane etc.
+G: 2
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+භාග්‍යවතුන් වහන්සේ **කණ්ඩුප්පටිච්ඡාදිය** අනුදැන වදාළ කල්හි, **ෂඩ්වර්ගීය භික්ෂූහු** ==**ප්‍රමාණ රහිත කණ්ඩුප්පටිච්ඡාදි** දරමින් **ඉදිරියෙන් ද පිටුපසින් ද ඇදගෙන** ඇවිද්දහ==. භික්ෂූහු දොස් කීහ; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+> කණ්ඩුප්පටිච්ඡාදිය අනුදැන වදාළේ **මහාවග්ගයේ චීවරක්ඛන්ධකයේ, බෙලට්ඨසීස** තෙරුන්ගේ වස්තුවෙහි (අට්ඨකථාව).
+## (අ) පද විවරණය
+**කණ්ඩුප්පටිච්ඡාදි** — ==**නාභියට පහළින්, දණහිස් මඬලට ඉහළින්**== **කැසීම, බිබිලි, සැරව ගැලීම, දරුණු කසනිය** ආදී ආබාධ ඇති භික්ෂුවකට එය **වසා ගැනීමට** අනුදැන වදාළ සිවුර.
+**ප්‍රමාණය** — **දිගින් සුගත වියත් සතරක්**, **පළලින් සුගත වියත් දෙකක්** (අට්ඨකථා මිනුමෙන් සාමාන්‍ය වියත් 12 × 6).
+**ඡෙදනකං** — "**කැපිය යුතු**" — **ලැබීමෙන්** පසු **පමණට කපා** පාචිත්තිය දේශනා කළ යුතුය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා **ප්‍රමාණ රහිත කණ්ඩුප්පටිච්ඡාදි දැරීමේ** වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**, **චතුක්ක පාචිත්තියකි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ප්‍රමාණය ඉක්මවා කිරීමේ / කරවීමේ පයෝගය | DK
+| තමා පිණිස — තමා හෝ අනුන් ආරම්භ කළ එකක් නිම කොට **ලැබීම** (**චතුක්ක පාචිත්තිය**) | PC
+| අනෙකෙකු පිණිස කිරීම / කරවීම; අනෙකෙකු කළ එකක් ලැබ (නොකපා) පරිහරණය | DK
+## (ඈ) අනාපත්ති
+# **ප්‍රමාණික** ලෙස හෝ **ඌන** ලෙස කිරීම.
+# අනෙකෙකු කළ **ප්‍රමාණය ඉක්මවූ** එකක් ලැබ **කපා** පරිහරණය.
+# **වියන්, බිම් ඇතිරිලි, තිර පවුරු, මෙට්ට, කොට්ට** ආදී කිසිවක් කිරීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= ද්වේ — දෙකකි)
+# කණ්ඩුප්පටිච්ඡාදිය **ප්‍රමාණය ඉක්මවූ** බව.
+# **තමා පිණිස කිරීම හෝ කරවා ලැබීම**.
+## (ඊ) සමුට්ඨානාදිය
+**ඡසමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+When the Blessed One had allowed **an itch-cover cloth**, **the group-of-six** ==used **itch-cover cloths of no fixed size**, walking about **dragging them in front and behind**==. The monks criticised them, and the Blessed One laid down the rule.
+> The itch-cover cloth was allowed in **the Robe Chapter of the Mahāvagga**, in the story of **Ven. Belaṭṭhasīsa** (commentary).
+## (A) Explanation of terms
+**Kaṇḍuppaṭicchādi** — a robe allowed for **covering** an ailment such as **itching, boils, discharge or severe scabies** ==**below the navel and above the knees**==.
+**Size** — **four sugata spans long**, **two sugata spans wide** (12 × 6 ordinary spans by the commentary's measure).
+**Chedanakaṃ** — “**to be cut down**” — **on obtaining it**, he must **cut it to size** and confess the pācittiya.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of **using itch-cover cloths of no fixed size**. It is a **common rule**. It is **sāṇattika**, a **fourfold pācittiya**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The effort of making / having made one over size | DK
+| For oneself — begun by oneself or others — finishing and **obtaining** it (**fourfold pācittiya**) | PC
+| Making / having made for another; using (uncut) one made by another | DK
+## (D) No offence
+# Making it **to size** or **smaller**.
+# Receiving one made by another **over size** and using it after **cutting it down**.
+# Making **a canopy, floor covering, screen wall, mattress or pillow**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= dve — two)
+# An itch-cover cloth **over the size**.
+# **Making it for oneself, or having it made and obtaining it**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Six origins, by doing, no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+
+@pac91
+T: වස්සිකසාටික සික්ඛාපදය || Size of a Rains Cloth
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ප්‍රමාණය ඉක්මවූ වස්සිකසාටිකා දැරීම || Using rains cloths over the size
+K: SC sd=a an=s anu=0
+Z: ප්‍රමාණික හෝ ඌන ලෙස කිරීම; ප්‍රමාණය ඉක්මවූ එකක් ලැබ කපා පරිහරණය; වියන්, බිම් ඇතිරිලි, තිර පවුරු, මෙට්ට, කොට්ට කිරීම; උමතු ආදීන් || Making it to size or smaller; cutting down one received over size; making a canopy, floor covering, screen, mattress or pillow; the insane etc.
+G: 2
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+භාග්‍යවතුන් වහන්සේ **වස්සිකසාටිකාව** අනුදැන වදාළ කල්හි, **ෂඩ්වර්ගීය භික්ෂූහු** ==**ප්‍රමාණ රහිත වස්සිකසාටිකා** දරමින් **ඉදිරියෙන් ද පිටුපසින් ද ඇදගෙන** ඇවිද්දහ==. භික්ෂූහු දොස් කීහ; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+> වස්සිකසාටිකාව අනුදැන වදාළේ **මහාවග්ගයේ චීවරක්ඛන්ධකයේ, විසාඛා** උපාසිකාවගේ වස්තුවෙහි (අට්ඨකථාව).
+## (අ) පද විවරණය
+**වස්සිකසාටිකා** — **වස්සානයේ සාර මාසය** සඳහා (වැසි දිය නෑමට) අනුදැන වදාළ සළුව.
+**ප්‍රමාණය** — **දිගින් සුගත වියත් සයක්**, **පළලින් අඩ තුනක් (2½)** (අට්ඨකථා මිනුමෙන් සාමාන්‍ය වියත් 18 × 7½).
+**ඡෙදනකං** — "**කැපිය යුතු**" — **ලැබීමෙන්** පසු **පමණට කපා** පාචිත්තිය දේශනා කළ යුතුය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා **ප්‍රමාණ රහිත වස්සිකසාටිකා දැරීමේ** වස්තුවෙහි පැනවිණි. කඞ්ඛාවිතරණිය අනුව — **අසාධාරණ ප්‍රඥප්තියකි**, **සාණත්තිකයි**, **චතුක්ක පාචිත්තියකි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ප්‍රමාණය ඉක්මවා කිරීමේ / කරවීමේ පයෝගය | DK
+| තමා පිණිස — තමා හෝ අනුන් ආරම්භ කළ එකක් නිම කොට **ලැබීම** (**චතුක්ක පාචිත්තිය**) | PC
+| අනෙකෙකු පිණිස කිරීම / කරවීම; අනෙකෙකු කළ එකක් ලැබ (නොකපා) පරිහරණය | DK
+## (ඈ) අනාපත්ති
+# **ප්‍රමාණික** ලෙස හෝ **ඌන** ලෙස කිරීම.
+# අනෙකෙකු කළ **ප්‍රමාණය ඉක්මවූ** එකක් ලැබ **කපා** පරිහරණය.
+# **වියන්, බිම් ඇතිරිලි, තිර පවුරු, මෙට්ට, කොට්ට** ආදී කිසිවක් කිරීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= ද්වේ — දෙකකි)
+# වස්සිකසාටිකාව **ප්‍රමාණය ඉක්මවූ** බව.
+# **තමා පිණිස කිරීම හෝ කරවා ලැබීම**.
+## (ඊ) සමුට්ඨානාදිය
+**ඡසමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+When the Blessed One had allowed **a rains cloth**, **the group-of-six** ==used **rains cloths of no fixed size**, walking about **dragging them in front and behind**==. The monks criticised them, and the Blessed One laid down the rule.
+> The rains cloth was allowed in **the Robe Chapter of the Mahāvagga**, in the story of **Visākhā** (commentary).
+## (A) Explanation of terms
+**Vassikasāṭikā** — a cloth allowed **for the four months of the rains** (for bathing in the rain).
+**Size** — **six sugata spans long**, **two and a half wide** (18 × 7½ ordinary spans by the commentary's measure).
+**Chedanakaṃ** — “**to be cut down**” — **on obtaining it**, he must **cut it to size** and confess the pācittiya.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of **using rains cloths of no fixed size**. Per the Kaṅkhāvitaraṇī, it is a **rule not shared**, **sāṇattika**, a **fourfold pācittiya**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The effort of making / having made one over size | DK
+| For oneself — begun by oneself or others — finishing and **obtaining** it (**fourfold pācittiya**) | PC
+| Making / having made for another; using (uncut) one made by another | DK
+## (D) No offence
+# Making it **to size** or **smaller**.
+# Receiving one made by another **over size** and using it after **cutting it down**.
+# Making **a canopy, floor covering, screen wall, mattress or pillow**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= dve — two)
+# A rains cloth **over the size**.
+# **Making it for oneself, or having it made and obtaining it**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Six origins, by doing, no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+
+@pac92
+T: නන්ද සික්ඛාපදය || The Size of the Sugata Robe
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: නන්ද ස්ථවිර || Ven. Nanda
+V: සුගත චීවර ප්‍රමාණයේ සිවුරක් දැරීම || Wearing a robe the size of the Sugata's robe
+K: SC sd=s an=s anu=0
+Z: ඌන ලෙස කිරීම; අනෙකෙකු කළ එකක් ලැබ කපා පරිහරණය; වියන්, බිම් ඇතිරිලි, තිර පවුරු, මෙට්ට, කොට්ට කිරීම; උමතු ආදීන් || Making it smaller; cutting down one made by another; making a canopy, floor covering, screen, mattress or pillow; the insane etc.
+G: 2
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+භාග්‍යවතුන් වහන්සේගේ **සුළු මවගේ පුත්** වූ ආයුෂ්මත් **නන්ද** තෙරුන් **රූමත්, දැකුම්කලු, පැහැපත්** වූහ; **භාග්‍යවතුන් වහන්සේට වඩා අඟල් සතරක් පමණක් කෙටි** වූහ. උන්වහන්සේ **සුගත චීවර ප්‍රමාණයේ සිවුරක්** දැරූහ. ==දුර සිට එන නන්ද තෙරුන් දුටු **ස්ථවිර භික්ෂූහු "භාග්‍යවතුන් වහන්සේ වඩිති" යි ආසනවලින් නැගිට්ටහ**==; ළං වූ කල්හි හඳුනාගෙන දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**චතුරඞ්ගුලොමකො** — (භාග්‍යවතුන් වහන්සේට වඩා) **අඟල් සතරකින් අඩු ප්‍රමාණ ඇති** (අට්ඨකථාව).
+**සුගතචීවරප්පමාණං** — **දිගින් සුගත වියත් නවයක්**, **පළලින් සුගත වියත් සයක්** (අට්ඨකථා මිනුමෙන් සාමාන්‍ය වියත් 27 × 18).
+**අතිරෙකං වා** — ==**සුගත චීවර ප්‍රමාණය හෝ** ඊට **වැඩි** ප්‍රමාණයක්== — එබැවින් **එම ප්‍රමාණය ම** ද ඇවැත් ය.
+**ඡෙදනකං** — "**කැපිය යුතු**" — **ලැබීමෙන්** පසු **ඊට අඩුවට කපා** පාචිත්තිය දේශනා කළ යුතුය.
+## (ආ) අනෙක් ප්‍රමාණ ශික්ෂාපද සමඟ
+|! ශික්ෂාපදය | ප්‍රමාණය (සුගත වියත්) | "ප්‍රමාණික ලෙස කිරීම" අනාපත්තියක් ද?
+| පා. 89 — නිසීදනය | 2 × 1½ (+ දසාව 1) | ඔව්
+| පා. 90 — කණ්ඩුප්පටිච්ඡාදිය | 4 × 2 | ඔව්
+| පා. 91 — වස්සිකසාටිකාව | 6 × 2½ | ඔව්
+| **පා. 92 — සුගත චීවරය** | **9 × 6** | **නැත — ඌන ලෙස පමණි**
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ආයුෂ්මත් නන්ද තෙරුන් අරබයා **සුගත චීවර ප්‍රමාණයේ සිවුරක් දැරීමේ** වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**, **චතුක්ක පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| සුගත චීවර ප්‍රමාණයෙන් හෝ ඊට වැඩියෙන් කිරීමේ / කරවීමේ පයෝගය | DK
+| තමා පිණිස — තමා හෝ අනුන් ආරම්භ කළ එකක් නිම කොට **ලැබීම** (**චතුක්ක පාචිත්තිය**) | PC
+| අනෙකෙකු පිණිස කිරීම / කරවීම; අනෙකෙකු කළ එකක් ලැබ (නොකපා) පරිහරණය | DK
+## (ඉ) අනාපත්ති
+# **ඌන** ලෙස කිරීම.
+# අනෙකෙකු කළ එකක් ලැබ **කපා** පරිහරණය.
+# **වියන්, බිම් ඇතිරිලි, තිර පවුරු, මෙට්ට, කොට්ට** ආදී කිසිවක් කිරීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= ද්වේ — දෙකකි)
+# සිවුර **සුගත චීවර ප්‍රමාණයේ හෝ ඊට වැඩි** බව.
+# **තමා පිණිස කිරීම හෝ කරවා ලැබීම**.
+## (උ) සමුට්ඨානාදිය
+**ඡසමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Ven. **Nanda**, **son of the Blessed One's maternal aunt**, was **handsome, good-looking and graceful**, **only four fingerbreadths shorter than the Blessed One**. He wore **a robe the size of the Sugata's robe**. ==Seeing him coming from afar, **elder monks rose from their seats, thinking “The Blessed One is coming”**==; recognising him as he drew near, they complained. The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Caturaṅgulomako** — **smaller by four fingerbreadths** (than the Blessed One) (commentary).
+**Sugatacīvarappamāṇaṃ** — **nine sugata spans long**, **six sugata spans wide** (27 × 18 ordinary spans by the commentary's measure).
+**Atirekaṃ vā** — ==**the size of the Sugata's robe or larger**== — so **that size itself** is an offence.
+**Chedanakaṃ** — “**to be cut down**” — **on obtaining it**, he must **cut it smaller** and confess the pācittiya.
+## (B) Compared with the other size rules
+|! Rule | Size (sugata spans) | Is “making it to size” no offence?
+| Pāc. 89 — sitting cloth | 2 × 1½ (+ border 1) | yes
+| Pāc. 90 — itch-cover cloth | 4 × 2 | yes
+| Pāc. 91 — rains cloth | 6 × 2½ | yes
+| **Pāc. 92 — the Sugata's robe** | **9 × 6** | **no — only smaller**
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning Ven. Nanda, on the matter of **wearing a robe the size of the Sugata's robe**. It is a **common rule**. It is **sāṇattika**, a **fourfold pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The effort of making / having made one of the Sugata's robe size or larger | DK
+| For oneself — begun by oneself or others — finishing and **obtaining** it (**fourfold pācittiya**) | PC
+| Making / having made for another; using (uncut) one made by another | DK
+## (E) No offence
+# Making it **smaller**.
+# Receiving one made by another and using it after **cutting it down**.
+# Making **a canopy, floor covering, screen wall, mattress or pillow**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= dve — two)
+# A robe **of the Sugata's robe size or larger**.
+# **Making it for oneself, or having it made and obtaining it**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Six origins, by doing, no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.

@@ -1,0 +1,625 @@
+@sk31
+T: සක්කච්ච භුඤ්ජන සික්ඛාපදය || Eating Appreciatively
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පිණ්ඩපාතය ගෞරවයෙන් තොරව (නොවළඳනු කැමැත්තෙකු මෙන්) වැළඳීම || Eating almsfood carelessly, as if unwilling to eat
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**නොවළඳනු කැමැත්තන් මෙන්**, **ගෞරවයෙන් තොරව** පිණ්ඩපාතය වැළඳූහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සක්කච්චං** — ==**සිහිය එළඹ සිටුවා**== — **ගෞරවයෙන්**.
+**අභුඤ්ජිතුකාමා විය** — **වළඳනු නොකැමැත්තන් මෙන්**.
+> පිළිගැනීම සම්බන්ධ **සේඛිය 27–30** හා **වැළඳීම** සම්බන්ධ **සේඛිය 31–34** යුගල ලෙස පවතී.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** ගෞරවයෙන් තොරව පිණ්ඩපාතය වැළඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **ගෞරවයෙන් තොරව වැළඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==ate almsfood **without care, as if unwilling to eat**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sakkaccaṃ** — ==**with mindfulness established**== — **appreciatively**.
+**Abhuñjitukāmā viya** — **as if unwilling to eat**.
+> The **receiving** rules (**sekhiya 27–30**) pair with the **eating** rules (**sekhiya 31–34**).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Eating almsfood carelessly **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Eating carelessly**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk32
+T: පත්තසඤ්ඤී භුඤ්ජන සික්ඛාපදය || Attention on the Bowl when Eating
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මෙහෙ අහෙ බලමින් පිණ්ඩපාතය වැළඳීම || Eating almsfood while looking here and there
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**මෙහෙ අහෙ බලමින්** පිණ්ඩපාතය වැළඳූහ; **තවත් දමද්දී ද ඉතිරී යද්දී ද නොදැන** සිටියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**පත්තසඤ්ඤී** — ==**පාත්‍රයෙහි සංඥාව** ඇති — **තම භාජනයට සිත බැඳ**== (කඞ්ඛාවිතරණී).
+**ආකිරන්තෙපි** — **තවත් ආහාර දමද්දී පවා**.
+**අතික්කන්තෙපි** — **පාත්‍රය ඉක්මවා (ඉතිරී) යද්දී පවා**.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** මෙහෙ අහෙ බලමින් පිණ්ඩපාතය වැළඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **පාත්‍රයට සිත නොයොමා වැළඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==ate almsfood **looking here and there**, **not noticing when more was given or when it overflowed**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Pattasaññī** — ==with **attention on the bowl** — **the mind fixed on one’s own vessel**== (Kaṅkhāvitaraṇī).
+**Ākirantepi** — **even while more food is being put in**.
+**Atikkantepi** — **even when it overflows the bowl**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Eating almsfood looking here and there **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Eating without attention on the bowl**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk33
+T: සපදාන සික්ඛාපදය || Eating in Order
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පාත්‍රයේ මෙතැනින් එතැනින් හාරමින් වැළඳීම || Eating by picking here and there in the bowl
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; අනුන්ට දෙමින් හෝ අනුන්ගේ භාජනයට දමමින් හාරීම; උත්තරිභංගය (ව්‍යඤ්ජන) පිළිවෙළ නොතකා ගැනීම; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; picking while giving to others or putting into another's vessel; taking side dishes out of order; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**මෙතැනින් එතැනින් හාරමින් (ඔමසමින්)** පිණ්ඩපාතය වැළඳූහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සපදානං** — ==**මෙතැන එතැන සීමා නොකොට, අනුපිළිවෙළින්**== (පාත්‍රයේ එක් පසෙක සිට පිළිවෙළින්).
+**ඔමසිත්වා** — **මෙතැනින් එතැනින් හාරා, අතගා**.
+**උත්තරිභඞ්ගං** — බත සමඟ ගන්නා **ව්‍යඤ්ජන ආදිය**; ඒවා **පිළිවෙළ නොතකා** ගැනීම ද **අනාපත්ති** ය (කඞ්ඛාවිතරණී).
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** මෙතැනින් එතැනින් හාරමින් පිණ්ඩපාතය වැළඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **අනුන්ට දෙමින්** හෝ **අනුන්ගේ භාජනයට දමමින්** හාරීම.
+# **උත්තරිභංගය** පිළිවෙළ නොතකා ගැනීම.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **පිළිවෙළ නොතකා හාරමින් වැළඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==ate almsfood **picking at it here and there**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sapadānaṃ** — ==**in order, without picking a spot here and there**== (working through the bowl from one side).
+**Omasitvā** — **digging and poking here and there**.
+**Uttaribhaṅgaṃ** — **side dishes** taken with the rice; taking these **out of order** is also **no offence** (Kaṅkhāvitaraṇī).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Eating almsfood picking here and there **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# Picking **while giving to others** or **putting it into another's vessel**.
+# Taking **side dishes** out of order.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Eating by picking out of order**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk34
+T: සමසූපක භුඤ්ජන සික්ඛාපදය || Eating Curry in Proportion
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සූපය පමණක් බොහෝ කොට වැළඳීම || Eating too much bean curry
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; රසරස (අනෙක් ව්‍යඤ්ජන); ඥාතීන්ගෙන් හෝ පවාරණය කළ අයගෙන්; තම ධනයෙන්; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; other curries; from relatives or those who invited; with one's own funds; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==පිණ්ඩපාතය වළඳන විට **සූපය ම බොහෝ කොට** වැළඳූහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සූපො** — **මුං සූපය** හා **මෑ (මාෂ) සූපය** යන සූප දෙක; ==**කොල්ලු ආදියෙන් කළ සූප ද** මෙයට ඇතුළත් ය== (මහාපච්චරිය).
+**හත්ථහාරියො** — **අතින් ගෙන යා හැකි** (බත සමඟ කලවම් කළ හැකි).
+**සමසූපකො** — ==සූපය **බතෙන් සතරෙන් පංගුවක්** පමණ== වූ පිණ්ඩපාතය. ඊට වැඩියෙන් වැළඳීම **දුක්කට** ය.
+|! ව්‍යඤ්ජනය | සීමාව
+| **මුං, මෑ, කොල්ලු** ආදී **සූප** | බතෙන් **¼** පමණ
+| **ඕලෝණී, එළවළු (සාක), මාළු හොදි, මස් හොදි** ආදී **රසරස** | **සීමාවක් නැත** — බොහෝ වැළඳීම ද අනාපත්ති
+> පාළියේ මෙහි අනාපත්ති ලැයිස්තුවේ **"අනෙකෙකු සඳහා" නැත** (සේඛිය 29 හි ඇත).
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** බතෙන් ¼ ට වඩා සූපය වැළඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **රසරස** බොහෝ වැළඳීම.
+# **ඥාතීන්ගෙන්** හෝ **පවාරණය කළ අයගෙන්**.
+# **තම ධනයෙන්** ලැබූ විට.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සූපය පමණ ඉක්මවා වැළඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==when eating almsfood, ate **a great deal of bean curry**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sūpo** — the two bean curries: **mung bean** and **black gram**; ==curries of **horse gram** etc. are also included== (Mahāpaccarī).
+**Hatthahāriyo** — **that can be taken up by hand** (mixed with rice).
+**Samasūpako** — almsfood where ==the curry is **about a quarter of the rice**==. Eating more is **dukkaṭa**.
+|! Curry | Limit
+| **bean curries** — mung, black gram, horse gram etc. | about **¼** of the rice
+| **rasarasa** — **olonī, vegetable, fish or meat sauces** etc. | **no limit** — eating much is no offence
+> In the Pāli the no-offence list here **lacks “for another”** (which sekhiya 29 has).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Eating more bean curry than a quarter of the rice **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# Eating much **rasarasa**.
+# From **relatives** or **those who have invited**.
+# When obtained **with one's own funds**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Eating curry beyond the proportion**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk35
+T: ථූපකත සික්ඛාපදය || Not Eating from the Top
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පිණ්ඩපාතය මුදුනින් / මැදින් මඩිමින් වැළඳීම || Eating almsfood by pressing it down from the top
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ඉතිරිය ස්වල්පයක් වූ විට එක් තැනකට එකතු කොට මඩා වැළඳීම; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; gathering and pressing together a small remainder; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**මුදුනින් මඩිමින් (ථූපකතො ඔමද්දිත්වා)** පිණ්ඩපාතය වැළඳූහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ථූපකතො** — ==**මුදුනින්**; එනම් **මැද සිට**==.
+**ඔමද්දිත්වා** — **මඩා, තද කොට**.
+**පරිත්තකෙ සෙසෙ** — ==පාත්‍රයේ **ඉතිරිය ස්වල්පයක්** වූ විට **එක් තැනකට එකතු කොට මඩා** වැළඳීම **අනාපත්ති** ය==.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** මුදුනින් මඩිමින් පිණ්ඩපාතය වැළඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ඉතිරිය ස්වල්පයක්** වූ විට එකතු කොට මඩා වැළඳීම.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **මුදුනින් මඩිමින් වැළඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==ate almsfood **pressing it down from the top**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Thūpakato** — ==**from the top**, i.e. **from the middle**==.
+**Omadditvā** — **pressing, squashing it down**.
+**Parittake sese** — ==when **only a little is left**, **gathering it together and pressing it** to eat is **no offence**==.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Eating almsfood pressing it down from the top **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# Gathering and pressing together **a small remainder**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Eating by pressing down from the top**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk36
+T: ඔදනප්පටිච්ඡාදන සික්ඛාපදය || Not Hiding Curry with Rice
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: තවත් ලැබීමේ කැමැත්තෙන් සූපය / ව්‍යඤ්ජනය බතින් වැසීම || Covering curry with rice, wanting more
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; දායකයන් ම වසා දීම; තවත් ලැබීමේ කැමැත්තක් නැතිව වැසීම; ආපදාවල දී; උමතු ආදීන් (ගිලනාට අනාපත්තියක් නැත) || Unintentionally, unmindfully, not knowing; the donors give it covered; covering without wanting more; emergencies; the insane etc. (no exemption for illness)
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**තවත් ලැබීමේ කැමැත්තෙන්** සූපය ද ව්‍යඤ්ජනය ද **බතින් වසා** සැඟවූහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**භිය්‍යොකම්‍යතං උපාදාය** — ==**තවත් ලැබීමේ කැමැත්ත** නිසා== — "**ව්‍යඤ්ජනය නැති යැයි සිතා තවත් දෙනු ඇත**" යි.
+**සාමිකා පටිච්ඡාදෙත්වා දෙන්ති** — ==**මාඝාත සමයාදියෙහි** (සතුන් මැරීම තහනම් කාලවල)== දායකයන් ම ව්‍යඤ්ජනය **සඟවා** දීම — අනාපත්ති.
+## (ආ) ගිලනාට ද අනාපත්තියක් නැත
+==මෙහි අනාපත්ති ලැයිස්තුවේ **ගිලානයා සඳහන් නොවන බැවින් ගිලනාට ද ඇවැත් ම ය**== (කඞ්ඛාවිතරණී). ගිලන් අනාපත්තිය නැති සේඛිය තුනෙන් එකකි (**30, 36, 38**).
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඈ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්**, තවත් ලැබීමේ කැමැත්තෙන් සූපය / ව්‍යඤ්ජනය බතින් වැසීම | DK
+## (ඉ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **දායකයන් ම වසා** දෙන විට.
+# **තවත් ලැබීමේ කැමැත්තක් නැතිව** වැසීම.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **තවත් ලැබීමේ කැමැත්තෙන් බතින් වැසීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==**covered** their curries and side dishes **with rice**, **wanting more**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Bhiyyokamyataṃ upādāya** — ==**out of wanting more**== — thinking, “**They’ll think I have no curry and give more**.”
+**Sāmikā paṭicchādetvā denti** — when ==**at times of a ban on slaughter** (māghāta) and the like== the donors themselves give the curry **hidden** — no offence.
+## (B) No exemption even for the sick
+==Since **the sick are not mentioned** in the no-offence list, **even one who is ill commits the offence**== (Kaṅkhāvitaraṇī). It is one of the three sekhiyas without the illness exemption (**30, 36, 38**).
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (D) Division of offences
+|! Case | Offence
+| Covering curry or side dishes with rice, wanting more, **out of disrespect** | DK
+## (E) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **the donors give it covered**.
+# Covering it **without wanting more**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Covering with rice wanting more**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk37
+T: සූපෝදනවිඤ්ඤත්ති සික්ඛාපදය || Not Asking for Curry or Rice
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: නොගිලන්ව තමා සඳහා සූප / බත් ඉල්ලා වැළඳීම || Asking for curry or rice for oneself when not ill
+K: TS vj=L cit=A ved=D sd=s an=a anu=1
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ඥාතීන්ගෙන් හෝ පවාරණය කළ අයගෙන්; අනෙකෙකු සඳහා; තම ධනයෙන්; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; from relatives or those who invited; for another; with one's own funds; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**තමන් සඳහා සූප ද බත් ද ඉල්ලා** වැළඳූහ==. මිනිස්සු ==**"කාට නම් සම්පන්න දේ අමනාප ද? කාට නම් මිහිරි දේ අරුචි ද?"**== යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+**අනුප්‍රඥප්තිය:** **ගිලන් භික්ෂූහු** "**පෙර අපි සූප බත් ඉල්ලා වැළඳුවෙමු; දැන් කුකුසින් නොඉල්ලන නිසා අපහසු ය**" යි කීහ. භාග්‍යවතුන් වහන්සේ "**නොගිලන්**" යන්න එක් කළහ.
+## (අ) පද විවරණය හා සමාන ශික්ෂාපද
+**විඤ්ඤාපෙත්වා** — **ඉල්ලා**.
+**අගිලානො** — නොගිලන් තැනැත්තා.
+|! ඉල්ලන දෙය | ශික්ෂාපදය | ඇවැත
+| ගිතෙල් ආදී **ප්‍රණීත භෝජන නවය** (නොගිලන්ව) | පාචිත්තිය 39 | PC
+| **සූප හෝ බත්** (නොගිලන්ව) | **සේඛිය 37** | DK
+> සමන්තපාසාදිකාව අනුව **සූපෝදන විඤ්ඤත්තියේ** භික්ෂු භික්ෂුණී **දෙපිරිසට ම සේඛිය දුක්කට** ය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්**, නොගිලන්ව තමා සඳහා සූප / බත් ඉල්ලා වැළඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ඥාතීන්ගෙන්** හෝ **පවාරණය කළ අයගෙන්**.
+# **අනෙකෙකු සඳහා**.
+# **තම ධනයෙන්** ලැබීම.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **නොගිලන්ව තමා සඳහා සූප / බත් ඉල්ලා වැළඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**ථෙය්‍යසත්ථ සමුට්ඨානයි** (කාය-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි** (කඞ්ඛාවිතරණී සාරාංශය).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==**asked for curry and rice for themselves** and ate them==. People complained: ==“**Who doesn’t like what is fine? Who doesn’t enjoy what is tasty?**”== The Blessed One laid down the rule.
+**The amendment:** **sick monks** said, “**We used to ask for curry and rice and were comfortable; now, out of scruple, we don’t ask and are uncomfortable.**” The Blessed One added “**not ill**.”
+## (A) Explanation of terms and related rules
+**Viññāpetvā** — **having asked**.
+**Agilāno** — one not ill.
+|! What is asked for | Rule | Offence
+| the **nine fine foods** such as ghee (not ill) | pācittiya 39 | PC
+| **curry or rice** (not ill) | **sekhiya 37** | DK
+> Per the Samantapāsādikā, **asking for curry and rice** is **a sekhiya dukkaṭa for both monks and nuns**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Asking for curry or rice for oneself when not ill and eating it, **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# From **relatives** or **those who have invited**.
+# **For another**.
+# Obtained **with one's own funds**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Asking for curry or rice for oneself when not ill**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Thieves'-caravan origin** (body–mind; body–speech–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling** (Kaṅkhāvitaraṇī summary).
+
+@sk38
+T: උජ්ඣානසඤ්ඤී සික්ඛාපදය || Not Looking at Others' Bowls Critically
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: දොස් සොයන අදහසින් අනුන්ගේ පාත්‍රය බැලීම || Looking at others' bowls with intent to find fault
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; "දෙන්නෙමි" හෝ "දෙවන්නෙමි" යි බැලීම; දොස් සොයන අදහසක් නැතිව; ආපදාවල දී; උමතු ආදීන් (ගිලනාට අනාපත්තියක් නැත) || Unintentionally, unmindfully, not knowing; looking with the thought “I’ll give” or “I’ll have it given”; without intent to find fault; emergencies; the insane etc. (no exemption for illness)
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**දොස් සොයන අදහසින්** අනුන්ගේ පාත්‍රය බැලූහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**උජ්ඣානසඤ්ඤී** — ==**දොස් සෙවීමේ (උජ්ඣාන) සංඥාව** ඇති==.
+**"දස්සාමී"ති වා "දාපෙස්සාමී"ති වා** — **"මම දෙන්නෙමි"** හෝ **"දෙවන්නෙමි"** යි අනුන්ගේ පාත්‍රය බැලීම **අනාපත්ති** ය.
+==මෙහි ද **ගිලනා නොමිදේ**== — ගිලන් අනාපත්තිය නැති සේඛිය තුනෙන් එකකි (**30, 36, 38**).
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්**, දොස් සොයන අදහසින් අනුන්ගේ පාත්‍රය බැලීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# "**දෙන්නෙමි**" හෝ "**දෙවන්නෙමි**" යි බැලීම.
+# **දොස් සොයන අදහසක් නැති** අයට.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **දොස් සොයන අදහසින් අනුන්ගේ පාත්‍රය බැලීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==looked at others' bowls **with intent to find fault**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Ujjhānasaññī** — ==with **the perception of finding fault**==.
+**“Dassāmī”ti vā “dāpessāmī”ti vā** — looking at another's bowl thinking **“I’ll give”** or **“I’ll have it given”** is **no offence**.
+==Here too **the sick are not released**== — one of the three sekhiyas without the illness exemption (**30, 36, 38**).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Looking at another's bowl with intent to find fault **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# Looking with the thought “**I’ll give**” or “**I’ll have it given**.”
+# For one **without intent to find fault**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Looking at another's bowl to find fault**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk39
+T: කබළ සික්ඛාපදය || Not Too Large a Mouthful
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ඉතා විශාල බත් පිඩක් කිරීම || Making too large a mouthful
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; කැවිලි (මුල් ආදී කෑ යුතු දේ); පලතුරු; උත්තරිභංගය; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; snacks (roots etc.); fruit; side dishes; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**ඉතා විශාල බත් පිඩු (කබළ)** කළහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**නාතිමහන්තං කබළං** — ==**මොනර බිත්තරය** ඉතා විශාල ය, **කුකුළු බිත්තරය** ඉතා කුඩා ය; **ඒ දෙක අතර ප්‍රමාණය**==.
+|! ප්‍රමාණය | විනිශ්චය
+| මොනර බිත්තරයක් තරම් | ඉතා විශාල — DK
+| මොනර හා කුකුළු බිත්තර අතර | සුදුසු
+| **මුල් ආදී කැවිලි (ඛජ්ජක), පලතුරු, උත්තරිභංගය** | සීමාවක් නැත — අනාපත්ති
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** ඉතා විශාල බත් පිඩක් කිරීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **කැවිලි** (මුල් ආදී කෑ යුතු දේ), **පලතුරු**, **උත්තරිභංගය**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **ඉතා විශාල බත් පිඩක් කිරීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==made **very large mouthfuls**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Nātimahantaṃ kabaḷaṃ** — ==**a peacock’s egg** is too large, **a hen’s egg** too small; **a size between the two**==.
+|! Size | Ruling
+| as big as a peacock’s egg | too large — DK
+| between a peacock’s and a hen’s egg | proper
+| **snacks such as roots (khajjaka), fruit, side dishes** | no limit — no offence
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Making too large a mouthful **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# **Snacks** (roots and other chewables), **fruit**, **side dishes**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Making too large a mouthful**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk40
+T: ආලෝප සික්ඛාපදය || Round Mouthfuls
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: දිග් වූ බත් පිඩු කිරීම || Making long mouthfuls
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; කැවිලි, පලතුරු සමඟ උත්තරිභංගය; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; side dishes with snacks and fruit; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**දිග් වූ බත් පිඩු (ආලෝප)** කළහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**පරිමණ්ඩලං ආලොපං** — ==**දිග් නොවූ (වටකුරු)** බත් පිඩ==.
+**ඛජ්ජක, ඵලාඵල සමඟ උත්තරිභංගය** — මෙහි ද **අනාපත්ති** ය (කඞ්ඛාවිතරණී).
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** දිග් වූ බත් පිඩු කිරීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **කැවිලි, පලතුරු** සමඟ **උත්තරිභංගය**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **දිග් වූ බත් පිඩු කිරීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==made **long mouthfuls**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Parimaṇḍalaṃ ālopaṃ** — ==a mouthful **not long (round)**==.
+**Side dishes with snacks and fruit** — here too **no offence** (Kaṅkhāvitaraṇī).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Making long mouthfuls **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# **Side dishes** with **snacks and fruit**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Making long mouthfuls**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.

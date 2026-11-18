@@ -1,0 +1,695 @@
+@sk1
+T: පරිමණ්ඩල නිවාසන සික්ඛාපදය || Wearing the Lower Robe Evenly
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අඳනය ඉදිරියෙන් හා පසුපසින් එල්ලා ඇඳීම || Wearing the lower robe hanging down in front and behind
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව (කකුලේ තුවාල ආදිය); ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill (sores on the leg etc.); emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අඳනය **ඉදිරියෙන් ද පිටුපසින් ද එල්ලා** ඇන්දහ==. මිනිස්සු "**කාමභෝගී ගිහියන් මෙනි**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ "**පරිමණ්ඩලව අඳින්නෙමි යි හික්මීමක් කළ යුතුය**" යි ශික්ෂාපදය පැනවූහ.
+## (අ) සේඛිය ශික්ෂාපදවල ස්වභාවය — කඞ්ඛාවිතරණී අනුව
+**සික්ඛා කරණීයා** — "**මෙසේ අඳින්නෙමි**" යි **ආරාමයේ ද ගම් අතර ද සෑම තැනම** හික්මීම කළ යුතුය.
+# **වත්තක්ඛන්ධකයේ කී වත්** ද හික්මිය යුතු බැවින් **සේඛිය ම වේ**. එබැවින් පාරාජිකාදියෙහි මෙන් **ගණන් සීමාවක් (පරිච්ඡේදයක්) නොකළේය**.
+# **චාරිත්ත විනය** (කළ යුතු පිළිවෙත්) දැක්වීමට, "**යම් භික්ෂුවක් එල්ලා අඳියි නම් දුක්කට**" යි ඇවැත් නමින් නොකියා, "**හික්මීමක් කළ යුතුය**" යි සියලු ශික්ෂාපදවල පාළිය නගා ඇත.
+# එහෙත් **පදභාජනයේ "දුක්කට ඇවැත"** යි කී බැවින්, ==සෑම තැනම **අනාදරයෙන් කිරීමෙහි දුක්කට**== බව දත යුතුය.
+## (ආ) පද විවරණය
+**පරිමණ්ඩලං** — **හාත්පසින් වටකුරු ලෙස**.
+==**නාභි මඬල** වසා, **දණහිස් මඬලට පහළින්**, කෙණ්ඩා ඇටයේ සිට **අඟල් අටක් පමණ** පහත් කොට== ඇඳි අඳනය **පරිමණ්ඩල නිවත්ථ** නම් වේ. මහාපච්චරියට අනුව **හිඳගත් විට දණහිසට පහළින් අඟල් සතරක් වැසෙන සේ**.
+|! කරුණ | අට්ඨකථා විනිශ්චය
+| **අඳනයේ ප්‍රමාණය** | දිගින් **මිටි-රියන් පහක්**, පළලින් **රියන් දෙකහමාරක්**; එය නොලැබේ නම් පළලින් **රියන් දෙකක්** ද වටී (දණහිස් වැසීමට)
+| නාභිය | **සිවුරෙන්** ද වැසිය හැකිය
+| **තනි පට** අඳනය | එසේ ඇන්ද ද **නිසි තැන නොරැඳේ**; **දෙපට** රැඳේ
+| **කෙට්ටු කෙණ්ඩා** හෝ **මහත් පිණ්ඩි මස්** ඇත්තෙකු | සුදුසු පෙනුම සඳහා **අඟල් අටට වඩා පහත්** කොට ඇඳීම වටී
+## (ඇ) ඛන්ධකයේ තහනම් අඳින ක්‍රම
+ඉදිරියෙන් පිටුපසින් එල්ලීම පමණක් නොව, **චූළවග්ගයේ** "**ගිහි ඇඳුම්**" ලෙස තහනම් කළ මේ ක්‍රමවලට ද **දුක්කට** ය:
+|! ක්‍රමය | විස්තරය
+| **හත්ථිසොණ්ඩක** | නාභිය මුල සිට **ඇත් සොඬක් මෙන්** එල්ලෙන සේ (චෝළ දේශයේ ස්ත්‍රීන් මෙන්)
+| **මච්ඡවාලක** | එක් පසෙකින් **දාර කෙළවර**, අනෙක් පසින් **පට කෙළවර** එල්ලෙන සේ (මාළු වලිගයක් මෙන්)
+| **චතුක්කණ්ණක** | උඩින් දෙකක්, යටින් දෙකක් ලෙස **කොන් සතරක්** පෙනෙන සේ
+| **තාලවණ්ටක** | **තල් අතු මිටක හැඩයට** රෙද්ද එල්ලෙන සේ
+| **සතවලික** | දිග රෙද්ද **නොයෙක් වර නමා රැළි** සහිතව; හෝ වම් දකුණු පැතිවල **නොකඩවා රැළි** පෙනෙන සේ (දණහිසේ සිට රැළි එකක් දෙකක් පමණක් පෙනේ නම් වටී)
+| **සංවල්ලිය** | **මල්ලවයන්, කම්කරුවන්** මෙන් **කච්ච බැඳ** (කකුල් අතරින් ගසා)
+==මේ ක්‍රමවලට **ගිලනාට ද මඟ යන්නාට ද නොවටී**==. මඟ යද්දී කොන් **ඔසවා අඳනය උඩ එල්ලීම**, හෝ ඇතුළින් එක් කසාවතක් එසේ ඇඳ පිටතින් තවෙකක් ඇඳීම ද **නොවටී**. **ගිලනාට** ඇතුළත කසාවතේ ඉණ රැළිය පෙන්වා උඩින් අනෙක ඇඳීම වටී; **නොගිලන්** දෙකක් අඳින්නේ නම් **දෙක එකට** (සගුණ කොට) ඇඳිය යුතුය.
+## (ඈ) ප්‍රඥප්තිය හා ආණත්තිය — සියලු සේඛියවලට පොදු
+|! කරුණ | විනිශ්චය
+| පැනවූ තැන | **සුරුසුරු** ශික්ෂාපදය **කොසඹෑ** නුවරදී; **ආමිස සහිත අතින් පැන් භාජනය** හා **පාත්‍රය සේදූ දිය** යන දෙක **භග්ග** ජනපදයේදී; **සෙසු සියල්ල සැවැත් නුවරදී** ෂඩ්වර්ගීයයන් අරබයා
+| අනුප්‍රඥප්ති | **සූපෝදන විඤ්ඤත්තියේ** හා **ධර්ම දේශනා** ආදියෙහි **ගිලන් බව අනුව** එක් අනුප්‍රඥප්තියක්
+| ප්‍රඥප්තිය | සියල්ල **සාධාරණ ප්‍රඥප්ති** ය
+| ආණත්තිය | සියල්ල **අනාණත්තික** ය
+| ඇවැත | **සෑම තැනම දුක්කට ම ය**; වෙනත් ආපත්ති භේදයක් නැත
+## (ඉ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** ඉදිරියෙන් / පිටුපසින් එල්ලා ඇඳීම | DK
+| ඛන්ධකයේ තහනම් **ඕනෑම විකාරයකින්** ඇඳීම | DK
+| ආරාමයේ වුව ද, ගම් අතර වුව ද | DK
+## (ඊ) අනාපත්ති හා ඒවායේ අර්ථය
+|! අනාපත්තිය | අර්ථය — අට්ඨකථා අනුව
+| **අසඤ්චිච්ච** (නොසිතා) | "එල්ලා අඳින්නෙමි" යි නොසිතා, **පරිමණ්ඩලව ම අඳින්නට ගොස් වරදී** අපරිමණ්ඩල වීම
+| **අස්සතියා** (නොසිහියෙන්) | **වෙනත් දෙයකට සිත යොමු වී** එසේ ඇඳීම
+| **අජානන්ත** (නොදැන) | **අඳින වත දැන උගත් අයෙකු** වුව ද **උඩට ගොස් හෝ පහළට ගොස්** ඇති බව නොදැනීම. ==**අඳින වත නොඋගත් අයෙකුට මිදීමක් නැත**== — එය හිතාමතා නොඋගැනීම ම **අනාදරයයි** (සමන්තපාසාදිකා). කුරුන්දියේ "පරිමණ්ඩලව අඳින්නට නොදන්නාට අනාපත්ති" යි කියයි; එහෙත් **අඳින වත උගත යුතුය**
+| **ගිලාන** (ගිලන්) | **කෙණ්ඩාවේ හෝ පාදයේ තුවාලයක්** ඇත්නම් ඔසවා හෝ පහත් කොට ඇඳීම
+| **ආපදා** | **චණ්ඩ මෘගයන් හෝ සොරුන්** ලුහුබඳින විට
+| **උම්මත්තක ආදී** | උමතු, සිත වික්ෂිප්ත, වේදනාවෙන් පෙළෙන අයට හා ආදිකම්මිකයාට
+## (උ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **අපරිමණ්ඩලව ඇඳීම**.
+> කඞ්ඛාවිතරණිය අනුව **සෑම සේඛියයකම** අංග **තුනකි** — මුල් දෙක පොදු ය; තුන්වැන්න **ඒ ඒ ශික්ෂාපදයේ කී දෙයට විරුද්ධව කිරීම** යි.
+## (ඌ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි** (කාය-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+|! ස්ථවිර මතය | ලෝකවජ්ජ / චිත්ත / වේදනා
+| **ඵුස්සදේව** ස්ථවිර | **අචිත්තක, පණ්ණත්තිවජ්ජ, තිවේදන**
+| **උපතිස්ස** ස්ථවිර | "**අනාදරය නිසා**" යි කී බැවින් **ලෝකවජ්ජ, අකුසලචිත්ත, දුක්ඛවේදන**
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==wore their lower robes **hanging down in front and behind**==. People complained, “**Just like householders enjoying sensual pleasures!**” The Blessed One laid down the rule: “**I will wear the lower robe evenly all round: a training to be done.**”
+## (A) The nature of the sekhiya rules — according to the Kaṅkhāvitaraṇī
+**Sikkhā karaṇīyā** — the training “**I will wear it thus**” must be done **everywhere — in the monastery and among the houses**.
+# Since **the duties given in the Vatta-khandhaka** must also be trained in, **they too are sekhiya**. Hence, unlike the pārājikas etc., **no fixed count is given**.
+# To show **the Vinaya of conduct**, the Pāli of every rule is framed as “**a training to be done**,” not by naming an offence (“**whoever wears it hanging down: dukkaṭa**”).
+# But since **the word analysis says “an offence of dukkaṭa,”** it should be understood that ==**doing it out of disrespect** is **dukkaṭa** in every case==.
+## (B) Explanation of terms
+**Parimaṇḍalaṃ** — **evenly round all over**.
+==A lower robe worn **covering the navel**, and let down **below the kneecaps** to **about eight fingerbreadths** below the top of the shin== is “worn evenly.” Per the Mahāpaccarī, **so that four fingerbreadths below the knee are covered when sitting**.
+|! Point | Commentarial ruling
+| **size of the lower robe** | **five fist-cubits** long, **two and a half cubits** wide; if not available, **two cubits** wide is allowable (to cover the knees)
+| the navel | may also be covered **by the upper robe**
+| a **single-layer** lower robe | even worn thus, **it does not stay in place**; a **double-layer** one does
+| one with **thin shins** or **heavy calves** | may wear it **more than eight fingerbreadths lower** for a seemly look
+## (C) Ways of dressing forbidden in the Khandhaka
+Not only hanging it front and back, but also these ways forbidden in **the Cūḷavagga** as “**householders' dress**” are **dukkaṭa**:
+|! Style | Description
+| **hatthisoṇḍaka** | hanging from the navel **like an elephant's trunk** (as Cola women dress)
+| **macchavālaka** | the **fringed end** hanging on one side and the **other end** on the other (**like a fish's tail**)
+| **catukkaṇṇaka** | showing **four corners**, two above and two below
+| **tālavaṇṭaka** | the cloth hanging **like a bunch of palm leaves**
+| **satavalika** | a long cloth **folded many times into pleats**, or showing **continuous pleats** down the left and right sides (one or two pleats showing from the knee is allowable)
+| **saṃvalliya** | **tucked between the legs** like **wrestlers and labourers**
+==These are **not allowable even for one ill or travelling**==. On the road, **lifting the corners and hanging them over the lower robe**, or wearing one such cloth inside and another outside, is also **not allowable**. **One who is ill** may show the waist-roll of the inner cloth and wear another on top; one **not ill** wearing two must wear them **together as one** (doubled).
+## (D) Laying down and command — common to all sekhiyas
+|! Point | Ruling
+| where laid down | **slurping** at **Kosambī**; **the drinking-water pot with a food-soiled hand** and **bowl-rinsing water**, in **the Bhagga country**; **all the rest at Sāvatthī**, concerning the group-of-six
+| amendments | one amendment **on account of illness** in **asking for curry and rice** and in **teaching Dhamma** etc.
+| sharing | all are **common rules**
+| command | all are **anāṇattika**
+| offence | **dukkaṭa in every case**; no other division of offences
+## (E) Division of offences
+|! Case | Offence
+| wearing it hanging down in front or behind **out of disrespect** | DK
+| wearing it in **any distorted way** forbidden in the Khandhaka | DK
+| whether in the monastery or among the houses | DK
+## (F) No offence — and what it means
+|! Exemption | Meaning — per the commentaries
+| **asañcicca** (unintentionally) | not meaning to wear it hanging, but **trying to wear it evenly and getting it wrong**
+| **assatiyā** (unmindfully) | wearing it so **with the mind on something else**
+| **ajānanta** (not knowing) | one **who has learnt the dressing duty** but does not notice it **has ridden up or slipped down**. ==**For one who has not learnt the duty there is no release**== — not learning it deliberately is itself **disrespect** (Samantapāsādikā). The Kurundī says “no offence for one who does not know how to wear it evenly,” but **the dressing duty must be learnt**
+| **gilāna** (ill) | with **a sore on the shin or foot**, wearing it higher or lower
+| **āpadā** (emergencies) | when **wild beasts or thieves** are in pursuit
+| **the insane etc.** | the insane, deranged, those in pain, and the first offender
+## (G) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Wearing it unevenly**.
+> Per the Kaṅkhāvitaraṇī, **every sekhiya** has **three** factors — the first two are common; the third is **doing the opposite of what that rule says**.
+## (H) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin** (body–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+|! Elder's view | Blame / mind / feeling
+| Elder **Phussadeva** | **without intention, blameworthy by convention, three feelings**
+| Elder **Upatissa** | because it says “**out of disrespect**”: **blameworthy by nature, unwholesome mind, painful feeling**
+
+@sk2
+T: පරිමණ්ඩල පාරුපන සික්ඛාපදය || Wearing the Robes Evenly
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: තනිපට සිවුර හා දෙපට සිවුර ඉදිරියෙන් හා පසුපසින් එල්ලා පෙරවීම || Wearing the upper and double robes hanging down in front and behind
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==සිවුර **ඉදිරියෙන් ද පිටුපසින් ද එල්ලා** පෙරවූහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ "**පරිමණ්ඩලව (සිවුර) පොරවන්නෙමි යි හික්මීමක් කළ යුතුය**" යි ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**පාරුපිස්සාමි** — ==පෙරවීම සම්බන්ධ මෙම ශික්ෂාපදය **තනිපට සිවුර (උත්තරාසංගය)** හා **දෙපට සිවුර (සංඝාටිය)** යන **සිවුරු දෙක ම** පෙරවීමට අදාළ ය==. (අඳනය — අන්තරවාසකය — පළමු සේඛියයට අයත් ය.)
+**පරිමණ්ඩලං පාරුපිතබ්බං** — ==**කොන් දෙක සම කොට**== පෙරවිය යුතුය.
+"**මහණෙනි, ගිහි පෙරවුමෙන් නොපෙරවිය යුතුය**" යි ඛන්ධකයේ තහනම් කළ **ගිහි පෙරවුම්** නොකොට, **නිර්විකාරව** පරිමණ්ඩලව පෙරවිය යුතුය.
+==මේ ශික්ෂාපද දෙක (අඳනය හා පෙරවීම) **කිසිදු සීමාවක් නැතිව** කී බැවින්, **විහාරයේ ද ගම් අතර ද** පරිමණ්ඩලව ම ඇඳිය යුතුය, පෙරවිය යුතුය== (සමන්තපාසාදිකා).
+## (ආ) "ගිහි පෙරවුම්" — කඞ්ඛාවිතරණී අනුව
+|! පෙරවුම | කරන ආකාරය
+| **සේතපට** | **අඩ්ඪපාලක නිගණ්ඨයන්** පොරවන පරිදි
+| **පරිබ්බාජක** | සමහර පරිබ්‍රාජකයන් මෙන් **ළය විවෘත කොට, උරහිස් දෙකෙහි** පොරෝනය තබා
+| **එකසාටක** | තනි රෙද්දක් ඇති අය මෙන් **ඇඳි රෙද්දේ එක් කෙළවරකින් පිට වසා**, කොන් දෙක උරහිස් දෙකෙහි තබා
+| **සුරාසොණ්ඩ** | සුරාසොඬුන් මෙන් රෙද්දෙන් **ගෙල වටා** දමා කෙළවර දෙක **ළයෙහි එල්ලා** හෝ **පිටට** දමා
+| **අන්තෙපුරික** | අන්තඃපුර ස්ත්‍රීන් මෙන් **ඇස් පමණක් පෙන්වා** හිස ද වසා
+| **මහාජෙට්ඨ** | මහා ජ්‍යෙෂ්ඨයන් මෙන් දිග රෙද්දක් ඇඳ **එහි ම එක් කෙළවරකින් මුළු සිරුර** වසා
+| **කුටිප්පවෙසක** | **කෙත් පැලට යන ගොවියන්** මෙන් රෙද්ද එතා **කිසිල්ල යට** ඔබා එහි කෙළවරකින් සිරුර වසා
+| **බ්‍රාහ්මණ** | බමුණන් මෙන් **කිසිලි දෙක අතරින්** රෙද්ද යවා උරහිස්වල දමා
+| **පාළිකාරක** | **එකංස** කොට පෙරවා **වම් අත විවෘත කොට** සිවුර උරහිසට නංවා
+මේ හා මෙබඳු **සියලු පෙරවීමේ දෝෂ** වළක්වා පරිමණ්ඩලව පෙරවිය යුතුය.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඈ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** ඉදිරියෙන් / පිටුපසින් එල්ලා පෙරවීම | DK
+| ගිහි පෙරවුම් ආදී **ඕනෑම විකාරයකින්** — **ආරාමයේ හෝ ගම් අතර** | DK
+## (ඉ) අනාපත්ති
+# **නොසිතා** (පරිමණ්ඩලව පොරවන්නට ගොස් වරදීම); **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව** (සිරුරේ තුවාල ආදිය).
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **අපරිමණ්ඩලව පෙරවීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි** (කාය-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+|! ස්ථවිර මතය | ලෝකවජ්ජ / චිත්ත / වේදනා
+| **ඵුස්සදේව** ස්ථවිර | **අචිත්තක, පණ්ණත්තිවජ්ජ, තිවේදන**
+| **උපතිස්ස** ස්ථවිර | "**අනාදරය නිසා**" යි කී බැවින් **ලෝකවජ්ජ, අකුසලචිත්ත, දුක්ඛවේදන**
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==wore their robes **hanging down in front and behind**==. People complained. The Blessed One laid down the rule: “**I will wear the robe evenly all round: a training to be done.**”
+## (A) Explanation of terms
+**Pārupissāmi** — ==this rule on wearing applies to **both robes that are worn over the body**: **the upper robe (uttarāsaṅga)** and **the double robe (saṅghāṭi)**==. (The lower robe — antaravāsaka — belongs to the first sekhiya.)
+**Parimaṇḍalaṃ pārupitabbaṃ** — it must be worn ==**with both corners even**==.
+Not wearing it in the **householders' styles** forbidden in the Khandhaka (“**Monks, one should not wear it as householders do**”), one should wear it evenly, **without distortion**.
+==Since these two rules (lower and upper robe) are stated **without qualification**, one must wear them evenly **both in the monastery and among the houses**== (Samantapāsādikā).
+## (B) “Householders' styles” — according to the Kaṅkhāvitaraṇī
+|! Style | How it is worn
+| **setapaṭa** | as **the Aḍḍhapālaka Jains** wear it
+| **paribbājaka** | like some wanderers, **leaving the chest bare** and placing the wrap **on both shoulders**
+| **ekasāṭaka** | like those with one cloth, **covering the back with one end of the lower cloth**, both corners on the shoulders
+| **surāsoṇḍa** | like drunkards, cloth **around the neck**, both ends **hanging on the chest** or **thrown behind**
+| **antepurika** | like harem women, **showing only the eyes**, head covered
+| **mahājeṭṭha** | like great elders, wearing a long cloth and covering **the whole body with one end of it**
+| **kuṭippavesaka** | like **farmers entering a field hut**, wrapping the cloth, **tucking it under the armpit**, covering the body with one end
+| **brāhmaṇa** | like brahmins, passing the cloth **between both armpits** and onto the shoulders
+| **pāḷikāraka** | worn **over one shoulder**, **baring the left arm**, the robe lifted onto the shoulder
+All these and **similar faults** are to be avoided, wearing it evenly.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (D) Division of offences
+|! Case | Offence
+| wearing it hanging down in front or behind **out of disrespect** | DK
+| in **any distorted way**, such as householders' styles — **in the monastery or among the houses** | DK
+## (E) No offence
+# **Unintentionally** (trying to wear it evenly and getting it wrong); **unmindfully**; **not knowing**.
+# When **ill** (sores on the body etc.).
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Wearing it unevenly**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin** (body–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+|! Elder's view | Blame / mind / feeling
+| Elder **Phussadeva** | **without intention, blameworthy by convention, three feelings**
+| Elder **Upatissa** | because it says “**out of disrespect**”: **blameworthy by nature, unwholesome mind, painful feeling**
+
+@sk3
+T: සුප්පටිච්ඡන්න ගමන සික්ඛාපදය || Going Well-covered
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිරුර විවෘත කොට ගම් අතර යාම || Going among the houses with the body uncovered
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**සිරුර විවෘත කොට** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**කායං විවරිත්වා** — **කරපටි ඇටය (ජත්තු)** ද **ළය** ද විවෘත කොට.
+**සුප්පටිච්ඡන්නො** — **මනාව වැසී**: ==**හිස සහිතව පොරවා නොව**==, මෙසේ —
+# **ගැටය (ගණ්ඨිකය) පළඳා**,
+# **අනුවාත කෙළවරින් ගෙල වසා**,
+# **කොන් දෙක සම කොට** එකට ගෙන,
+# **අත් මැණික් කටුව දක්වා** වසා — ගම් අතර යා යුතුය.
+**අන්තරඝරං** — ගම තුළ නිවාස අතර.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** **දණහිස** හෝ **ළය** හෝ විවෘත කොට ගම් අතර යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සිරුර විවෘත කොට ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **with their bodies uncovered**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Kāyaṃ vivaritvā** — baring **the collarbone** and **the chest**.
+**Supaṭicchanno** — **well covered**: ==**not with the head covered**==, but thus —
+# **fastening the toggle**,
+# **covering the neck with the upper edge**,
+# bringing **both corners together evenly**,
+# covering **down to the wrists** — so one should go among the houses.
+**Antaragharaṃ** — among the houses in a village.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| going among the houses **out of disrespect** with **knee** or **chest** bared | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses with the body uncovered**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk4
+T: සුප්පටිච්ඡන්න නිසීදන සික්ඛාපදය || Sitting Well-covered
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිරුර විවෘත කොට ගම් අතර හිඳීම || Sitting among the houses with the body uncovered
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; වාසය සඳහා පැමිණ සිටින විට; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; when staying there; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**සිරුර විවෘත කොට** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සුප්පටිච්ඡන්නො නිසීදිස්සාමි** — ගම් අතර හිඳින විට විවෘත විය හැක්කේ මේවා පමණි:
+|! සිරුරේ කොටස | විවෘත විය හැකි සීමාව
+| **හිස** | **ගෙල ඇටයේ (ගලවාටක) සිට** ඉහළ
+| **අත්** | **අත් මැණික් කටුවේ සිට**
+| **පාද** | **කෙණ්ඩා මසේ (පිණ්ඩිකමංස) සිට** පහළ
+සෙසු සිරුර වසා හුන් තැනැත්තා **සුප්පටිච්ඡන්න** වේ.
+**වාසූපගතස්ස** — ගම් අතර **වාසය සඳහා පැමිණ සිටින** කෙනෙකුට, **රාත්‍රියේ හෝ දිවා කාලයේ** සිරුර විවෘත කොට හිඳීම ද **අනාපත්ති** ය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** සිරුර විවෘත කොට ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# ==**වාසය සඳහා පැමිණ සිටින** විට (වාසූපගත)==.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සිරුර විවෘත කොට ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **with their bodies uncovered**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Supaṭicchanno nisīdissāmi** — when sitting among the houses, only these may be bare:
+|! Part of the body | Limit of what may be bare
+| **head** | above **the throat**
+| **hands** | from **the wrists**
+| **feet** | from **the calves** down
+One who sits with the rest covered is **well covered**.
+**Vāsūpagatassa** — for one **who has come to stay** among the houses, sitting with the body uncovered **by night or day** is **no offence**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| sitting among the houses with the body uncovered **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# ==When **staying there** (vāsūpagata)==.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses with the body uncovered**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk5
+T: සුසංවුත ගමන සික්ඛාපදය || Going Well-restrained
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත් පා සොලවමින් ගම් අතර යාම || Going among the houses fidgeting with hands and feet
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**අත් ද පා ද සොලවමින් (කෙළිමින්)** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සුසංවුතො** — ==**අතක් හෝ පාදයක් හෝ නොකෙළවමින්**== — **මනාව හික්මුණු** (සුවිනීත) ලෙස.
+**කීළාපෙන්තො** — අත් පා **සොලවමින්, කෙළිමින්**.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** අතක් හෝ පාදයක් සොලවමින් ගම් අතර යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+> පාළියේ මේ ශික්ෂාපදයේ අනාපත්ති ලැයිස්තුවේ "**ආපදා**" **සඳහන් නොවේ**.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **අත් පා සොලවමින් ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **fidgeting (playing) with their hands and feet**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Susaṃvuto** — ==**not playing with hand or foot**== — **well trained** (suvinīta).
+**Kīḷāpento** — **moving about, playing with** the hands and feet.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| going among the houses fidgeting with hand or foot **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# For the insane and so on, and the first offender.
+> In the Pāli the no-offence list of this rule **does not mention “emergencies.”**
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses fidgeting with hands and feet**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk6
+T: සුසංවුත නිසීදන සික්ඛාපදය || Sitting Well-restrained
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත් පා සොලවමින් ගම් අතර හිඳීම || Sitting among the houses fidgeting with hands and feet
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**අත් ද පා ද සොලවමින්** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සුසංවුතො** — ==**අතක් හෝ පාදයක් හෝ නොකෙළවමින්**== — **මනාව හික්මුණු** (සුවිනීත) ලෙස **හිඳිය යුතුය**.
+**කීළාපෙන්තො** — අත් පා **සොලවමින්, කෙළිමින්**.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** අතක් හෝ පාදයක් සොලවමින් ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **අත් පා සොලවමින් ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **fidgeting with their hands and feet**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Susaṃvuto** — ==**not playing with hand or foot**== — one should **sit well trained** (suvinīta).
+**Kīḷāpento** — **moving about, playing with** the hands and feet.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| sitting among the houses fidgeting with hand or foot **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses fidgeting with hands and feet**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk7
+T: ඔක්ඛිත්තචක්ඛු ගමන සික්ඛාපදය || Going with Eyes Downcast
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මෙහෙ අහෙ බලමින් ගම් අතර යාම || Going among the houses looking here and there
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**මෙහෙ අහෙ බලමින්** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ඔක්ඛිත්තචක්ඛු** — **ඇස් පහත් කොට**.
+**යුගමත්තං පෙක්ඛමානො** — ==**වියගසට යෙදූ හික්මුණු ආජානීය ගොනා** වියගස් පමණ — **ඉදිරියෙන් රියන් සතරක් පමණ** — බිම බලන්නාක් මෙන්== බලමින් යා යුතුය.
+**තහං තහං ඔලොකෙන්තො** — **ඒ ඒ දිශාවන්, ප්‍රාසාද, කූටාගාර, වීථි** බලමින් යාම.
+## (ආ) බැලීම පිළිබඳ විනිශ්චය
+|! අවස්ථාව | විනිශ්චය
+| ඇස් පහත් කොට **රියන් සතරක් පමණ** ඉදිරි බිම බලමින් යාම | වටී
+| ගමන් කරමින් **දිශා, ගෙවල්, වීථි** බලමින් යාම (අනාදරයෙන්) | DK
+| **එක් තැනක නැවතී**, **ඇතුන්, අසුන්** ආදී **අනතුරු නැති බව** බැලීම | වටී
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **මෙහෙ අහෙ බලමින් ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **looking here and there**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Okkhittacakkhu** — **with eyes lowered**.
+**Yugamattaṃ pekkhamāno** — ==looking, as **a trained thoroughbred ox in the yoke** looks a yoke's length ahead — **about four cubits** of ground in front==.
+**Tahaṃ tahaṃ olokento** — going along looking at **this direction and that, at mansions, gabled halls, streets**.
+## (B) Rulings on looking
+|! Situation | Ruling
+| going with eyes lowered, looking **about four cubits** ahead | allowable
+| looking at **directions, buildings, streets** while going (out of disrespect) | DK
+| **stopping in one place** and looking to see there is **no danger from elephants, horses** etc. | allowable
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses looking here and there**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk8
+T: ඔක්ඛිත්තචක්ඛු නිසීදන සික්ඛාපදය || Sitting with Eyes Downcast
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මෙහෙ අහෙ බලමින් ගම් අතර හිඳීම || Sitting among the houses looking here and there
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**මෙහෙ අහෙ බලමින්** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ඔක්ඛිත්තචක්ඛු නිසීදිස්සාමි** — ==**හිඳින විට ද** ඇස් පහත් කොට, **වියගස් පමණ (රියන් සතරක් පමණ)** බිම බලමින්== හිඳිය යුතුය (සමන්තපාසාදිකා).
+**තහං තහං ඔලොකෙන්තො** — හිඳගෙන **ඒ ඒ දිශා, ගෙවල්, මිනිසුන්** බලමින් සිටීම.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** මෙහෙ අහෙ බලමින් ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **මෙහෙ අහෙ බලමින් ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **looking here and there**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Okkhittacakkhu nisīdissāmi** — ==**when sitting too**, one should sit with eyes lowered, looking at the ground **a yoke's length (about four cubits)** ahead== (Samantapāsādikā).
+**Tahaṃ tahaṃ olokento** — sitting and looking at **this direction and that, at houses, at people**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| sitting among the houses looking here and there **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses looking here and there**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk9
+T: උක්ඛිත්තක ගමන සික්ඛාපදය || Not Going with Robes Lifted
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිවුර ඔසවා ගම් අතර යාම || Going among the houses with the robe lifted
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**සිවුර ඔසවා (උක්ඛිත්තක ලෙස)** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**උක්ඛිත්තකාය** — **ඔසවීමෙන්** (ඉත්ථම්භූත ලක්ෂණයෙහි කරණ විභක්තිය): ==**එක් පසෙකින් හෝ දෙපසින් සිවුර ඔසවා**== ගන්නා ආකාරයෙන්.
+**අන්තරඝරෙ** — ==**ගම් දොරටුවේ එළිපත්ත (ඉන්දඛීලය) ඇතුළත සිට**== මෙසේ නොයා යුතුය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** සිවුර **එක් පසෙකින්** ඔසවා ගම් අතර යාම | DK
+| **දෙපසින් ම** ඔසවා යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සිවුර ඔසවා ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **with their robes lifted**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Ukkhittakāya** — **with lifting** (instrumental of manner): ==with the robe **lifted on one side or both**==.
+**Antaraghare** — one should not go thus ==**from inside the village gate-post (threshold)** onward==.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| going among the houses with the robe lifted **on one side**, **out of disrespect** | DK
+| lifted **on both sides** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses with the robe lifted**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk10
+T: උක්ඛිත්තක නිසීදන සික්ඛාපදය || Not Sitting with Robes Lifted
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිවුර ඔසවා ගම් අතර හිඳීම || Sitting among the houses with the robe lifted
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; වාසය සඳහා පැමිණ සිටින විට; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; when staying there; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**සිවුර ඔසවා** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**න උක්ඛිත්තකාය නිසීදිස්සාමි** — සිවුර එක් පසෙකින් හෝ දෙපසින් ඔසවා නොහිඳිමි.
+==හිඳගෙන සිටියදී **ධමකරණය (පෙරහන)** පිටතට ගන්නා විට පවා **සිවුර නොඔසවා ම** ගත යුතුය== (කඞ්ඛාවිතරණී).
+**වාසූපගතස්ස** — ගම් අතර **වාසය සඳහා පැමිණ සිටින** කෙනෙකුට **අනාපත්ති** ය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** සිවුර එක් පසෙකින් හෝ දෙපසින් ඔසවා ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# ==**වාසය සඳහා පැමිණ සිටින** විට (වාසූපගත)==.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සිවුර ඔසවා ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **with their robes lifted**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Na ukkhittakāya nisīdissāmi** — I will not sit with the robe lifted on one side or both.
+==Even when taking out **the water strainer** while seated, one should take it out **without lifting the robe**== (Kaṅkhāvitaraṇī).
+**Vāsūpagatassa** — for one **who has come to stay** among the houses, **no offence**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| sitting among the houses with the robe lifted on one side or both **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# ==When **staying there** (vāsūpagata)==.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses with the robe lifted**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.

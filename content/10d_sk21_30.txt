@@ -1,0 +1,631 @@
+@sk21
+T: ඛම්භකත ගමන සික්ඛාපදය || Not Going with Arms Akimbo
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ඉණෙහි අත් තබා ගම් අතර යාම || Arms akimbo while going among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**ඉණෙහි අත් තබාගෙන (ඛම්භකතව)** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ඛම්භකතො** — ==**ඉණෙහි අත තබා** කළ "කණුව" (ඛම්භය) ඇති== — **දෑත ඉඟටියේ තබා වැලමිට දෙපසට** යොමු කළ ඉරියව්ව.
+**එකතො වා උභතො වා** — **එක් අතකින් හෝ දෑතින් ම** ඛම්භය කොට.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** එක් අතකින් හෝ දෑතින් ඛම්භය කොට ගම් අතර යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **ඛම්භකතව ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **with arms akimbo**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Khambhakato** — ==with **a “pillar” made by placing the hand on the hip**== — the posture with hands on the waist and elbows turned out.
+**Ekato vā ubhato vā** — making the akimbo with **one arm or both**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Going among the houses with one or both arms akimbo **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses with arms akimbo**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk22
+T: ඛම්භකත නිසීදන සික්ඛාපදය || Not Sitting with Arms Akimbo
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ඉණෙහි අත් තබා ගම් අතර හිඳීම || Arms akimbo while sitting among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; වාසය සඳහා පැමිණ සිටින විට; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; when staying there; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**ඉණෙහි අත් තබාගෙන (ඛම්භකතව)** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ඛම්භකතො** — ==**ඉණෙහි අත තබා** කළ "කණුව" (ඛම්භය) ඇති== — **දෑත ඉඟටියේ තබා වැලමිට දෙපසට** යොමු කළ ඉරියව්ව.
+**එකතො වා උභතො වා** — **එක් අතකින් හෝ දෑතින් ම** ඛම්භය කොට.
+**වාසූපගතස්ස** — ==හිඳීම සම්බන්ධ **ඛම්භකත (22), ඔගුණ්ඨිත (24), පල්ලත්ථික (26)** යන ශික්ෂාපදවල **වාසය සඳහා පැමිණ සිටින්නාට අනාපත්ති**== (කඞ්ඛාවිතරණී).
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** එක් අතකින් හෝ දෑතින් ඛම්භය කොට ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# ==**වාසය සඳහා පැමිණ සිටින** විට (වාසූපගත)==.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **ඛම්භකතව ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **with arms akimbo**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Khambhakato** — ==with **a “pillar” made by placing the hand on the hip**== — the posture with hands on the waist and elbows turned out.
+**Ekato vā ubhato vā** — making the akimbo with **one arm or both**.
+**Vāsūpagatassa** — ==in the sitting rules **arms akimbo (22), head covered (24), clasping the knees (26)**, **no offence for one staying there**== (Kaṅkhāvitaraṇī).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Sitting among the houses with one or both arms akimbo **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# ==When **staying there** (vāsūpagata)==.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses with arms akimbo**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk23
+T: ඔගුණ්ඨිත ගමන සික්ඛාපදය || Not Going with the Head Covered
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිස වසා පොරවාගෙන ගම් අතර යාම || Head covered while going among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**හිස සහිතව පොරවාගෙන** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ඔගුණ්ඨිතො** — ==**හිස සහිතව** සිවුරෙන් **පොරවා**== (හිස වසාගෙන).
+> සේඛිය 3 හි "**හිස සහිතව පොරවා නොව**" යි කී සුප්පටිච්ඡන්න ලක්ෂණය ද බලන්න.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** හිස සහිතව පොරවා ගම් අතර යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **හිස වසා ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **with their heads covered**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Oguṇṭhito** — ==**covered with the robe including the head**==.
+> See also the sign of “well covered” in sekhiya 3: “**not with the head covered**.”
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Going among the houses with the head covered **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses with the head covered**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk24
+T: ඔගුණ්ඨිත නිසීදන සික්ඛාපදය || Not Sitting with the Head Covered
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිස වසා පොරවාගෙන ගම් අතර හිඳීම || Head covered while sitting among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; වාසය සඳහා පැමිණ සිටින විට; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; when staying there; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**හිස සහිතව පොරවාගෙන** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ඔගුණ්ඨිතො** — ==**හිස සහිතව** සිවුරෙන් **පොරවා**== (හිස වසාගෙන).
+> සේඛිය 3 හි "**හිස සහිතව පොරවා නොව**" යි කී සුප්පටිච්ඡන්න ලක්ෂණය ද බලන්න.
+**වාසූපගතස්ස** — ==හිඳීම සම්බන්ධ **ඛම්භකත (22), ඔගුණ්ඨිත (24), පල්ලත්ථික (26)** යන ශික්ෂාපදවල **වාසය සඳහා පැමිණ සිටින්නාට අනාපත්ති**== (කඞ්ඛාවිතරණී).
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** හිස සහිතව පොරවා ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# ==**වාසය සඳහා පැමිණ සිටින** විට (වාසූපගත)==.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **හිස වසා ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **with their heads covered**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Oguṇṭhito** — ==**covered with the robe including the head**==.
+> See also the sign of “well covered” in sekhiya 3: “**not with the head covered**.”
+**Vāsūpagatassa** — ==in the sitting rules **arms akimbo (22), head covered (24), clasping the knees (26)**, **no offence for one staying there**== (Kaṅkhāvitaraṇī).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Sitting among the houses with the head covered **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# ==When **staying there** (vāsūpagata)==.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses with the head covered**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk25
+T: උක්කුටික සික්ඛාපදය || Not Walking on Toes or Heels
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ඇඟිලි තුඩින් හෝ විලුඹෙන් පමණක් ගම් අතර යාම || Walking among the houses on toes or heels
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**උක්කුටිකව (ඇඟිලි තුඩින් හෝ විලුඹෙන්)** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**උක්කුටිකා** — ==**විලුඹ ඔසවා පා ඇඟිලි තුඩින් පමණක්**, හෝ **පා ඇඟිලි ඔසවා විලුඹෙන් පමණක්** බිම ස්පර්ශ කරමින්== යාම. කරණ විභක්තිය **ඉත්ථම්භූත ලක්ෂණයෙහි** ය.
+> **සේඛිය 25** ගමනට පමණක් අදාළ ය; හිඳීම සම්බන්ධ යුගලය **පල්ලත්ථික (26)** ය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** ඇඟිලි තුඩින් හෝ විලුඹෙන් පමණක් ගම් අතර යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **උක්කුටිකව ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **on their toes or heels**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Ukkuṭikā** — walking ==touching the ground **only with the toes, heels raised**, or **only with the heels, toes raised**==. The instrumental is **of manner**.
+> **Sekhiya 25** concerns going only; its sitting pair is **clasping the knees (26)**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Walking among the houses on toes or heels **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Walking among the houses on toes or heels**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk26
+T: පල්ලත්ථික සික්ඛාපදය || Not Sitting Clasping the Knees
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: දණහිස් බැඳගෙන ගම් අතර හිඳීම || Sitting among the houses clasping the knees
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; වාසය සඳහා පැමිණ සිටින විට; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; when staying there; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**පල්ලත්ථිකයෙන් (දණහිස් බැඳගෙන)** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**පල්ලත්ථිකා** — ==දණහිස් ඔසවා **ඒවා වටා බැඳගෙන** හිඳීම==:
+|! වර්ගය | අර්ථය
+| **හත්ථපල්ලත්ථිකා** | **අත්වලින්** දණහිස් වටා බැඳගෙන
+| **දුස්සපල්ලත්ථිකා** | **රෙද්දකින්** බැඳගෙන — **ආයෝග පටියකින්** බැඳීම ද මෙයට ම අයත් ය (සමන්තපාසාදිකා)
+**වාසූපගතස්ස** — ==හිඳීම සම්බන්ධ **ඛම්භකත (22), ඔගුණ්ඨිත (24), පල්ලත්ථික (26)** යන ශික්ෂාපදවල **වාසය සඳහා පැමිණ සිටින්නාට අනාපත්ති**== (කඞ්ඛාවිතරණී).
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** අතින් හෝ රෙද්දෙන් දණහිස් බැඳගෙන ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# ==**වාසය සඳහා පැමිණ සිටින** විට (වාසූපගත)==.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **දණහිස් බැඳගෙන ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **clasping their knees**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Pallatthikā** — ==sitting with knees raised and **bound around**==:
+|! Kind | Meaning
+| **hatthapallatthikā** | holding the knees **with the arms**
+| **dussapallatthikā** | binding them **with a cloth** — binding with **a strap (āyoga)** also counts as this (Samantapāsādikā)
+**Vāsūpagatassa** — ==in the sitting rules **arms akimbo (22), head covered (24), clasping the knees (26)**, **no offence for one staying there**== (Kaṅkhāvitaraṇī).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Sitting among the houses clasping the knees with the arms or a cloth **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# ==When **staying there** (vāsūpagata)==.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses clasping the knees**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk27
+T: සක්කච්ච පටිග්ගහණ සික්ඛාපදය || Receiving Alms Appreciatively
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පිණ්ඩපාතය ගෞරවයෙන් තොරව (ඉවත දමනු කැමැත්තෙකු මෙන්) පිළිගැනීම || Receiving almsfood carelessly, as if wanting to throw it away
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**ඉවත දමනු කැමැත්තන් මෙන්**, **ගෞරවයෙන් තොරව** පිණ්ඩපාතය පිළිගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සක්කච්චං** — ==**සිහිය එළඹ සිටුවා**== (සතිං උපට්ඨාපෙත්වා) — **ගෞරවයෙන්**.
+**ඡඩ්ඩෙතුකාමො විය** — **ඉවත දමනු කැමැත්තෙකු මෙන්**.
+> **භෝජන සම්බන්ධ සේඛිය** මෙතැන් සිට ආරම්භ වේ (සේඛිය 27–56). ඒවා **ගම් අතර පමණක් නොව සෑම තැනම** අදාළ ය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** ඉවත දමනු කැමැත්තෙකු මෙන් පිණ්ඩපාතය පිළිගැනීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **ගෞරවයෙන් තොරව පිණ්ඩපාතය පිළිගැනීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==received almsfood **without care, as if wanting to throw it away**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sakkaccaṃ** — ==**with mindfulness established**== (satiṃ upaṭṭhāpetvā) — **appreciatively**.
+**Chaḍḍetukāmo viya** — **as if wanting to throw it away**.
+> **The sekhiyas on food** begin here (sekhiya 27–56). They apply **everywhere, not only among the houses**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Receiving almsfood **out of disrespect**, as if wanting to throw it away | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Receiving almsfood carelessly**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk28
+T: පත්තසඤ්ඤී පටිග්ගහණ සික්ඛාපදය || Attention on the Bowl when Receiving
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මෙහෙ අහෙ බලමින් පිණ්ඩපාතය පිළිගැනීම || Receiving almsfood while looking here and there
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**මෙහෙ අහෙ බලමින්** පිණ්ඩපාතය පිළිගත්හ; **දායකයන් දමද්දී ද පාත්‍රය පිරී ඉතිරී යද්දී ද නොදැන** සිටියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**පත්තසඤ්ඤී** — ==**පාත්‍රයෙහි සංඥාව** ඇති — **තම භාජනයට සිත බැඳ**== (කඞ්ඛාවිතරණී).
+**ආකිරන්තෙපි** — **පිණ්ඩපාතය දෙද්දී පවා** (සමන්තපාසාදිකා).
+**අතික්කන්තෙපි** — **පාත්‍රය ඉක්මවා (ඉතිරී) යද්දී පවා**.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** මෙහෙ අහෙ බලමින් පිණ්ඩපාතය පිළිගැනීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **පාත්‍රයට සිත නොයොමා පිණ්ඩපාතය පිළිගැනීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==received almsfood **looking here and there**, **not noticing even when food was being given or was overflowing**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Pattasaññī** — ==with **attention on the bowl** — **the mind fixed on one's own vessel**== (Kaṅkhāvitaraṇī).
+**Ākirantepi** — **even while almsfood is being given** (Samantapāsādikā).
+**Atikkantepi** — **even when it overflows the bowl**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Receiving almsfood looking here and there **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Receiving almsfood without attention on the bowl**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk29
+T: සමසූපක පටිග්ගහණ සික්ඛාපදය || Receiving Curry in Proportion
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සූපය පමණක් බොහෝ කොට පිළිගැනීම || Receiving too much bean curry
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; රසරස (අනෙක් ව්‍යඤ්ජන); ඥාතීන්ගෙන් හෝ පවාරණය කළ අයගෙන්; අනෙකෙකු සඳහා; තම ධනයෙන්; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; other curries; from relatives or those who invited; for another; with one's own funds; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==පිණ්ඩපාතය පිළිගන්නා විට **සූපය ම බොහෝ කොට** පිළිගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සූපො** — **මුං සූපය** හා **මෑ (මාෂ) සූපය** යන සූප දෙක; ==**කොල්ලු ආදියෙන් කළ සූප ද** මෙයට ඇතුළත් ය== (මහාපච්චරිය).
+**හත්ථහාරියො** — **අතින් ගෙන යා හැකි** (බත සමඟ කලවම් කළ හැකි).
+**සමසූපකො** — ==සූපය **බතෙන් සතරෙන් පංගුවක්** පමණ== වූ පිණ්ඩපාතය. ඊට වැඩියෙන් ගැනීම **දුක්කට** ය.
+## (ආ) රසරස — සීමාවක් නැති ව්‍යඤ්ජන
+|! ව්‍යඤ්ජනය | සීමාව
+| **මුං, මෑ, කොල්ලු** ආදී **සූප** | බතෙන් **¼** පමණ
+| **ඕලෝණී, එළවළු (සාක), මාළු හොදි, මස් හොදි** ආදී **රසරස** | **සීමාවක් නැත** — බොහෝ ගැනීම ද අනාපත්ති
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඈ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** බතෙන් ¼ ට වඩා සූපය පිළිගැනීම | DK
+## (ඉ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **රසරස** (සූප හැර අනෙක් ව්‍යඤ්ජන) බොහෝ ගැනීම.
+# **ඥාතීන්ගෙන්** හෝ **පවාරණය කළ අයගෙන්**.
+# **අනෙකෙකු සඳහා**.
+# **තම ධනයෙන්** ලැබූ විට.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සූපය පමණ ඉක්මවා පිළිගැනීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==when receiving almsfood, took **a great deal of bean curry**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sūpo** — the two bean curries: **mung bean** and **black gram**; ==curries of **horse gram** etc. are also included== (Mahāpaccarī).
+**Hatthahāriyo** — **that can be taken up by hand** (mixed with rice).
+**Samasūpako** — almsfood where ==the curry is **about a quarter of the rice**==. Taking more is **dukkaṭa**.
+## (B) Rasarasa — curries without limit
+|! Curry | Limit
+| **bean curries** — mung, black gram, horse gram etc. | about **¼** of the rice
+| **rasarasa** — **olonī, vegetable, fish or meat sauces** etc. | **no limit** — taking much is no offence
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (D) Division of offences
+|! Case | Offence
+| Receiving more bean curry than a quarter of the rice **out of disrespect** | DK
+## (E) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# Taking much **rasarasa** (curries other than bean curries).
+# From **relatives** or **those who have invited**.
+# **For another**.
+# When obtained **with one's own funds**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Receiving curry beyond the proportion**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk30
+T: සමතිත්තික සික්ඛාපදය || Receiving Level with the Rim
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පාත්‍රයේ මුව දාරය ඉක්මවා ගොඩ ගසා පිණ්ඩපාතය පිළිගැනීම || Receiving almsfood heaped above the rim
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ආපදාවල දී; උමතු ආදීන් (ගිලනාට අනාපත්තියක් නැත) || Unintentionally, unmindfully, not knowing; emergencies; the insane etc. (no exemption for illness)
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**ගොඩ ගසා (ථූපීකත කොට)** පිණ්ඩපාතය පිළිගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සමතිත්තිකං** — ==**සමව පිරුණු, සමව පිරවූ**== — **අධිෂ්ඨාන කළ හැකි පාත්‍රයක** **මුව ඇතුළත දාර රේඛාව** ඉක්මවා නොගොස් පිරවූ.
+**ථූපීකතං** — **මුව ඇතුළත දාර රේඛාව ඉක්මවා** පාත්‍රයේ දමා **ගොඩ ගසා පිරවූ**.
+**පිණ්ඩපාතං** — ඕනෑම **යාවකාලිකයක්**.
+!dgm: sk-tittika **සමතිත්තික හා ථූපීකත** — පාත්‍රයේ මුව ඇතුළත දාර රේඛාවට සාපේක්ෂව.
+## (ආ) "ථූපීකත" — ස්ථවිර මත
+|! ස්ථවිරයා | මතය
+| **අභය** ස්ථවිර | **භෝජන පසින්** කළ දෙය
+| **තිපිටක චූළනාග** ස්ථවිර | "පිණ්ඩපාතය නම් කැඳ, බත්, කෑම, සුණු පිඬු, **දැහැටි, දසා නූල** ද" යන සූත්‍රය අනුව **දසා නූලක් වුව ද** ගොඩ ගසා නොවටී
+| **චූළසුමන** ස්ථවිර (රෝහණයේ) | "**චූළනාග ශාසනයෙන් පිරිහුණේය**" යි කියා, **යාවකාලිකයෙන්** සීමා වේ යැයි නියම කළේය — මෙය පිළිගත් මතයයි
+## (ඇ) ගොඩ ගැසුව ද වටින දේ
+|! අවස්ථාව | විනිශ්චය
+| **අධිෂ්ඨාන කළ නොහැකි** භාජනයක | ගොඩ ගැසුව ද වටී
+| **යාමකාලික, සත්තාහකාලික, යාවජීවික** | අධිෂ්ඨාන පාත්‍රයේ වුව ද වටී
+| **පාත්‍ර දෙකක** ගෙන එකක් පුරවා විහාරයට යැවීම | වටී (මහාපච්චරිය)
+| දමද්දී **පහළට බසින** කැවුම්, උක් කැබලි, පලතුරු | ථූපීකත නොවේ
+| **තක්කෝල, වටංසක** ආදිය **උඩින් තබා** දීම | ථූපීකත නොවේ
+| **කොළයක හෝ තැටියක** දමා පාත්‍රය මත තැබීම | ථූපීකත නොවේ
+## (ඈ) ගිලනාට ද අනාපත්තියක් නැත
+==මෙහි අනාපත්ති ලැයිස්තුවේ **ගිලානයා සඳහන් නොවේ**; එබැවින් **ගිලනා ද සමතිත්තිකව ම** පිළිගත යුතුය==. සියලු සේඛියවල **ආබාධ හේතුවෙන් අනාපත්ති** වුව ද, **ථූපීකත පිණ්ඩපාතය** (30), **සූප ව්‍යඤ්ජන බතින් වැසීම** (36), **උජ්ඣානසඤ්ඤී** (38) යන **තුනෙහි ගිලානයෙක් නැත**.
+> වරද ඇත්තේ **පිළිගැනීමෙහි** පමණි; **පිළිගත් දෙය මනාව පිළිගත්තක් ම වේ** — වැළඳීම වටී.
+## (ඉ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඊ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** මුව ඇතුළත දාර රේඛාව ඉක්මවා ගොඩ ගසා පිණ්ඩපාතය පිළිගැනීම | DK
+## (උ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඌ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **ගොඩ ගසා පිණ්ඩපාතය පිළිගැනීම**.
+## (එ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==received almsfood **heaped up**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Samatittikaṃ** — ==**evenly filled, evenly full**== — filled in **a bowl fit for determination** without going past **the inner rim line**.
+**Thūpīkataṃ** — put in the bowl and **heaped up past the inner rim line**.
+**Piṇḍapātaṃ** — any **food allowed until noon**.
+!dgm: sk-tittika **Level and heaped** — against the inner rim line of the bowl.
+## (B) “Heaped” — the Elders' views
+|! Elder | View
+| Elder **Abhaya** | what is made of **the five foods**
+| Elder **Cūḷanāga**, master of the Tipiṭaka | quoting “almsfood means porridge, rice, snacks, powder-balls, **tooth sticks, fringe threads**,” said **even a fringe thread** may not be heaped
+| Elder **Cūḷasumana** (in Rohaṇa) | said “**Cūḷanāga has strayed from the teaching**,” and ruled that it is limited **by food allowed until noon** — the accepted view
+## (C) What is allowed even if heaped
+|! Situation | Ruling
+| in a vessel **not fit for determination** | allowable even heaped
+| **juice drinks, seven-day tonics, lifetime medicines** | allowable even in the determined bowl
+| receiving in **two bowls**, filling one to send to the monastery | allowable (Mahāpaccarī)
+| cakes, sugarcane pieces, fruit that **sink down** as they are put in | not “heaped”
+| **takkola, vaṭaṃsaka** etc. **placed on top** | not “heaped”
+| put **on a leaf or plate** set on the bowl | not “heaped”
+## (D) No exemption even for the sick
+==The no-offence list here **does not mention the sick**; so **even one who is ill must receive it level**==. Though in all sekhiyas there is **no offence on account of illness**, in **three** — **heaped almsfood** (30), **covering curry with rice** (36), **looking critically** (38) — **there is no “ill” exemption**.
+> The fault is only **in receiving**; **what is received is properly received** — it may be eaten.
+## (E) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (F) Division of offences
+|! Case | Offence
+| Receiving almsfood heaped past the inner rim line **out of disrespect** | DK
+## (G) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (H) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Receiving almsfood heaped up**.
+## (I) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.

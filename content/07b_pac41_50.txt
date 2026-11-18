@@ -1,0 +1,809 @@
+@pac41
+T: අචේලක සික්ඛාපදය || Giving Food to Sectarians
+R: - || -
+N: වේසාලිය, මහාවනය || Vesālī, Great Wood
+P: ආනන්ද ස්ථවිර || Ven. Ānanda
+V: පරිබ්‍රාජිකාවකට කැවිලි දෙකක් දීම || Giving two cakes to a female wanderer
+K: EL sd=a an=a anu=0
+Z: අනුන් ලවා දෙවීම; ඔවුන් ළඟ බඳුන තබා "ගන්න" යි කීම; ඔවුන් තැබූ බඳුනට දීම; බාහිර ආලේපන දීම; උමතු ආදීන් || Having someone else give; setting the vessel near them and saying “take it”; putting it into a vessel they have set down; giving ointment for external use; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ වේසාලිය · මහාවනය කූටාගාර ශාලාව
+සංඝයාට **කැවිලි** බොහෝ සෙයින් ලැබී ඉතිරි විය. භාග්‍යවතුන් වහන්සේ "**ආනන්ද, ඉඳුල් කන්නන්ට (විඝාසාද) කැවිලි දෙන්න**" යි වදාළහ. ආනන්ද තෙරුන් ඔවුන් පෙළට හිඳුවා **එක් අයෙකුට එක බැගින්** දුන්හ. එක් **පරිබ්‍රාජිකාවකට** ==එකක් යැයි සිතා **එකට ඇලුණු කැවිලි දෙකක්**== දුන්හ. අසල වූ පරිබ්‍රාජිකාවෝ "**මේ ශ්‍රමණයා ඔබේ ජාරයෙක් දැ?**" යි ඇසූහ. "නැත, ඔහු එකක් යැයි සිතා දෙකක් දුන්නේ ය" යි ඇය කීවාය.
+තවද, එක් **ආජීවකයෙක්** දාන ශාලාවකින් බත් ලැබ "**ගිහියනි, මම මේ බත මේ මුඩු ගෘහපතියාගෙන් (ශ්‍රමණයාගෙන්) ලැබුවෙමි**" යි ==ගරහමින් කීවේය==. මේ දෙකෙහි ම භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**අචෙලකො** — **නිරුවත්** පැවිද්දෙක් (ආජීවක ආදීන්).
+**පරිබ්බාජකො** — **භික්ෂු, සාමණේර** හැර **ඕනෑම පැවිද්දෙක්** (තීර්ථකයෙක්).
+**පරිබ්බාජිකා** — **භික්ෂුණී, ශික්ෂමානා, සාමණේරී** හැර ඕනෑම **පැවිදි කාන්තාවක්**.
+**ඛාදනීයං වා භොජනීයං වා** — ජලය හා දැහැටි හැර **ගිල දැමිය හැකි ඕනෑම දෙයක්**.
+**සහත්ථා දදෙය්‍ය** — **කයින්, කායප්පටිබද්ධයකින් හෝ විසි කොට** දෙයි.
+## (ආ) ඇවැත් ගණන
+|! දෙන ආකාරය | ඇවැත
+| **එක් ප්‍රයෝගයකින්** ආමිසය දීම | **එක්** PC
+| **නවත්වා නවත්වා** (වෙන් වෙන් වර) දීම | **ප්‍රයෝගයක් පාසා** PC
+| **ජලය, දැහැටි** දීම | DK
+| තීර්ථකයෙකු නොවන අයෙකු තීර්ථකයෙක් යැයි සිතීම / සැක කිරීම | DK
+ඔවුන්ගේ ආහාර කැපීම නොව, **පැවිද්දන් අතර සම්බන්ධතා ගැන ලෝකයා ගරහන** බැවින් සහ ඔවුන් ශාසනයට **ගරහන** බැවින් මෙය පනවා ඇත; එබැවින් **අනුපසම්පන්නයෙකු ලවා** දෙවීම වරදක් නොවේ.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**වේසාලියේදී** ආයුෂ්මත් **ආනන්ද** තෙරුන් අරබයා පරිබ්‍රාජිකාවකට කැවිලි දෙකක් දීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| අචේලක, පරිබ්‍රාජක, පරිබ්‍රාජිකාවකට තම අතින් ආමිසයක් දීම — තීර්ථක බව දැන, සැක ඇතිව, හෝ නොවේ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| ජලය හා දැහැටි දීම | DK
+| තීර්ථකයෙකු නොවන අයෙකු තීර්ථක යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# තීර්ථකයෙකු නොවන අයෙකු නොවේ යැයි සිතා.
+# **අනුපසම්පන්නයෙකු ලවා දෙවීම**.
+# ඔවුන් ළඟ **බඳුන තබා "ගන්න"** යි කීම.
+# **ඔවුන් තැබූ බඳුනට** දීම.
+# **බාහිර ආලේපනයක්** (ගෑමට තෙල් ආදිය) දීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **අන්‍ය තීර්ථකයෙක්** වීම.
+# **අනුදත් නොවූ** දෙයක් වීම (ජලය, දැහැටි නොවේ).
+# ගිල දැමිය හැකි දෙයක් **ගිල දැමීම පිණිස**, **තම අතින්**, **ඔවුන් තැබූ බඳුනකට නොව** දීම.
+## (උ) සමුට්ඨානාදිය
+**එළකලෝම සමුට්ඨානයි** (කාය, කාය-චිත්ත), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කායකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Vesālī · the Gabled Hall in the Great Wood
+The Saṅgha had received plenty of **cakes**, and some were left over. The Blessed One said, “**Ānanda, give the cakes to those who eat scraps.**” Ven. Ānanda seated them in a row and gave **one each**. To a certain **female wanderer** he gave ==**two cakes stuck together**, thinking it was one==. The wanderers nearby asked her, “**Is this ascetic your lover?**” “No — he gave me two thinking it was one.”
+Again, an **Ājīvaka** who got rice at a food distribution said, “**Householders, I got this rice from that shaven-headed householder,**” ==speaking scornfully==. On both incidents the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Acelako** — a **naked** ascetic (Ājīvakas etc.).
+**Paribbājako** — **anyone gone forth** (a sectarian) other than a monk or novice.
+**Paribbājikā** — any **woman gone forth** other than a nun, probationer or novice nun.
+**Khādanīyaṃ vā bhojanīyaṃ vā** — **anything that can be swallowed**, except water and tooth-sticks.
+**Sahatthā dadeyya** — gives **by body, by something attached to the body, or by tossing**.
+## (B) Counting the offences
+|! How given | Offence
+| giving food **in one effort** | **one** PC
+| giving **with breaks** (separate acts) | PC **for each effort**
+| giving **water or tooth-sticks** | DK
+| one not a sectarian perceived as one, or in doubt | DK
+The rule was laid down not to deprive them of food but because **the world gossips about relations between those gone forth** and because they **disparage the teaching**; hence having **an unordained person** give is no offence.
+## (C) The laying down of the rule and the command
+It was laid down at **Vesālī** concerning Ven. **Ānanda**, on the matter of giving two cakes to a female wanderer. It is a **rule not shared**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Giving food with one's own hand to a naked ascetic or male / female wanderer — perceiving them as sectarian, in doubt, or as not (**triple pācittiya**) | PC
+| Giving water or tooth-sticks | DK
+| One not a sectarian perceived as one, or in doubt | DK
+## (E) No offence
+# Perceiving one not a sectarian as not.
+# **Having an unordained person give**.
+# **Setting the vessel near them** and saying “Take it.”
+# Giving **into a vessel they have set down**.
+# Giving **ointment for external use**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **A member of another sect**.
+# Something **not allowed** (not water or tooth-stick).
+# Giving something swallowable **to be swallowed**, **with one's own hand**, **not into a vessel they set down**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Eḷakaloma origin** (body; body–mind), **by doing, no release by perception, without intention, an offence by convention, bodily action, three kinds of consciousness, three feelings**.
+
+@pac42
+T: උය්‍යෝජන සික්ඛාපදය || Sending a Monk Away
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිර || Ven. Upananda the Sakyan
+V: අනාචාරයක් කිරීමට භික්ෂුවක් පිටත් කර හැරීම || Sending a monk away in order to misbehave
+K: AD sd=s an=s anu=0
+Z: "දෙදෙනා එකට යැපිය නොහැක" වැනි සුදුසු හේතුවක් නිසා පිටත් කිරීම; උමතු ආදීන් || Sending him away for a proper reason, such as “the two of us can't get by together”; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**උපනන්ද** තෙරුන් සිය සහෝදරයාගේ සද්ධිවිහාරික භික්ෂුවකට "**එන්න ඇවැත්නි, ගමට පිඬු සිඟා යමු**" යි කැඳවාගෙන ගියහ. එහෙත් ඔහුට කිසිවක් **නොදෙවා**, "**යන්න ඇවැත්නි, ඔබ සමඟ කථා කිරීම, හිඳීම මට පහසු නැත; මම තනිව කථා කරමි, හිඳිමි**" යි ==පිටත් කර හැරියහ==. ඔහු දන් වේලාවට ආපසු එන්නට නොහැකිව **දානය මඟ හැරී, දුර්වල** විය. භික්ෂූහු දොස් කීහ; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**දාපෙත්වා වා අදාපෙත්වා වා** — යම් ආමිසයක් **දෙවා හෝ නොදෙවා**.
+**උය්‍යොජෙය්‍ය** — **මාතුගාමයා සමඟ සිනාසීම, ක්‍රීඩා කිරීම, රහසින් හිඳීම** ආදිය කිරීමට කැමතිව "යන්න" ආදිය කියා පිටත් කරයි.
+**එතදෙව** — **මේ අනාචාරය ම** හේතු කොට — වෙනත් සුදුසු හේතුවක් නිසා නොවේ.
+## (ආ) ඇවැත් පිළිවෙළ
+|! අවස්ථාව | ඇවැත
+| පිටත් කිරීම පමණක් | DK
+| පිටත් කළ භික්ෂුව **දර්ශන උපචාරය** හෝ **ශ්‍රවණ උපචාරය** **පළමු පියෙන්** ඉක්මවීම | DK
+| **දෙවන පියෙන්** ඉක්මවීම | PC
+**උපචාරය** — එළිමහනේ **රියන් දොළහක්** (දර්ශන හා ශ්‍රවණ උපචාර දෙකම). අතර **බිත්ති, දොර, ප්‍රාකාර** ආදිය ඇත්නම් **ඒවායින් වැසීම ම** උපචාරය ඉක්මවීමයි.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** **උපනන්ද** තෙරුන් අරබයා පිටත් කර හැරීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. "**පිටත් කරන්න**" යි අණ කිරීමෙන් ද වන බැවින් **සාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| අනාචාරය සඳහා උපසම්පන්නයෙකු පිටත් කොට ඔහු උපචාරය ඉක්මවීම — උපසම්පන්න බව දැන, සැක ඇතිව, හෝ අනුපසම්පන්න යැයි සිතා (**තික පාචිත්තිය**) | PC
+| **අනුපසම්පන්නයෙකු** පිටත් කිරීම — තුන් සඤ්ඤාවෙහි ම (**තික දුක්කට**) | DK
+| **දෙදෙනාට ම ආරවුලක් පැටවීම** (කලිසාසනාරෝපණය) | DK
+## (ඉ) අනාපත්ති
+# "**අපි දෙදෙනා එකට යැපිය නොහැක**" ආදී **සුදුසු හේතුවකින්** පිටත් කිරීම — උදා: මිල අධික බඩුවක් දැක ලෝභ ඇති වේ යැයි, ස්ත්‍රියක දැක කලකිරේ යැයි, ගිලනෙකුට හෝ ආරාමයට කැඳ, බත ගෙනයාමට.
+# **වරදක් කරනු කැමැත්තකින් තොරව**, කළ යුත්තක් නිසා පිටත් කිරීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **අනාචාරයක් කිරීමේ කැමැත්ත**.
+# **ඒ සඳහා ම** උපසම්පන්නයෙකු පිටත් කිරීම.
+# එසේ පිටත් කළ තැනැත්තා **උපචාරය ඉක්මවීම**.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි** (කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Ven. **Upananda** said to a co-resident pupil of his brother, “**Come, friend, let's go to the village for alms,**” and took him along. But **without having anything given to him**, he ==sent him away==: “**Go, friend; talking or sitting with you isn't comfortable for me; I talk and sit better alone.**” The monk could not get back in time for the meal, **missed it and grew weak**. The monks criticised Upananda, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Dāpetvā vā adāpetvā vā** — **having had food given to him or not**.
+**Uyyojeyya** — wishing to **laugh, play, sit in private** etc. with a woman, he sends him off with “Go” or the like.
+**Etadeva** — **for that misconduct alone** — not for any other proper reason.
+## (B) How the offences fall
+|! Stage | Offence
+| merely sending him away | DK
+| the monk sent away passing **the range of sight** or **of hearing** **with the first foot** | DK
+| **with the second foot** | PC
+**The range** — in the open, **twelve cubits** (for both sight and hearing). If **walls, doors, ramparts** etc. intervene, **being screened by them** is itself passing the range.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning **Upananda**, on the matter of sending a monk away. It is a **common rule**. Since it also happens by ordering “Send him away,” it is **sāṇattika**. A **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Sending an ordained person away for misconduct and his passing the range — perceiving him as ordained, in doubt, or as unordained (**triple pācittiya**) | PC
+| Sending away **an unordained person** — in all three perceptions (**triple dukkaṭa**) | DK
+| **Saddling both with a quarrel** | DK
+## (E) No offence
+# Sending him away for **a proper reason** such as “**The two of us can't get by together**” — e.g. lest greed arise on seeing costly goods, lest discontent arise on seeing a woman; to take gruel or rice to a sick monk or to the monastery.
+# Sending him away **on business, without wishing to misbehave**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Wishing to misbehave**.
+# Sending an ordained person away **for that very purpose**.
+# The one sent away **passing the range**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins** (body–mind, speech–mind, body–speech–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, three feelings**.
+
+@pac43
+T: සභෝජන සික්ඛාපදය || Sitting in with a Couple
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිර || Ven. Upananda the Sakyan
+V: ස්වාමිපුරුෂයා හා බිරිඳ සිටින නිවසක ශයන කාමරයට ඇතුළු වී හිඳීම || Intruding and sitting down in the bedroom of a house where husband and wife are
+K: P1 sd=s an=a anu=0
+Z: ශයන කාමරය නොවේ යැයි සිතා; කී සීමාව නොඉක්මවා හිඳීම; දෙවන භික්ෂුවක් සිටින විට; දෙදෙනා ම පිටත්ව ගිය විට; විතරාගී අය සිටින විට; උමතු ආදීන් || Perceiving it as not a bedroom; sitting without passing the limit; a second monk present; both having gone out; the couple free of passion; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**උපනන්ද** තෙරුන් තම මිතුරෙකුගේ නිවසට ගොස් ==ඔහුගේ බිරිඳ සමඟ **ශයන කාමරයේ** හිඳ ගත්හ==. ස්වාමිපුරුෂයා තෙරුන් වෙත ගොස් වැඳ හිඳ, බිරිඳට "**ආර්‍යයන්ට දන් දෙන්න**" යි කීවේය; ඇය දුන්නාය. ඉන්පසු ඔහු "**ස්වාමීනි, ඔබ වැළඳුවා නේ; දැන් වඩින්න**" යි කීවේය. **රාගයෙන් පෙළුණු** බිරිඳ "හිඳින්න ස්වාමීනි, නොයන්න" යි කීවාය. දෙවනුව ද තෙවනුව ද එසේ විය. පිටතට ගිය ස්වාමිපුරුෂයා භික්ෂූන්ට "**ආර්‍ය උපනන්ද මගේ බිරිඳ සමඟ ශයන කාමරයේ හිඳී; යන්නැයි කීවත් නොයයි; අපට බොහෝ කටයුතු ඇත**" යි කීවේය. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සභොජනෙ** — "**දෙදෙනා ම සිටින**" (සහ උභොහි ජනෙහි) නිවසක; නැතහොත් "**සභෝග**" — **රාගයෙන් පෙළුණු පුරුෂයාට ස්ත්‍රිය ද, ස්ත්‍රියට පුරුෂයා ද භෝගයකි**. එබැවින් පදභාජනයේ "**ස්ත්‍රිය ද පුරුෂයා ද වෙති; දෙදෙනා ම පිටත නොගිය, දෙදෙනා ම විතරාගී නොවූ**" යි කීහ.
+**අනුපඛජ්ජ නිසජ්ජං කප්පෙය්‍ය** — **ඇතුළු වී හිඳියි**.
+## (ආ) සීමාව — ශයන කාමරය
+ඒ පවුලේ **ශයන ගෘහය (සයනිඝර)** —
+|! කාමරය | ඇවැත් සීමාව
+| මහා චතුශ්ශාලා ආදීයෙහි **විශාල** කාමරයක් | **පිටුපස බිත්තියේ (පිට්ඨසඞ්ඝාට) සිට හත්ථපාසය ඉක්මවා**, ඇතුළත ඇඳට ආසන්න තැනක හිඳීම
+| **කුඩා** කාමරයක් | **මැද ඉක්මවා** හිඳීම
+එසේ හුන් කල්හි පාචිත්තිය.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** **උපනන්ද** තෙරුන් අරබයා ඇතුළු වී හිඳීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ශයන කාමරයේ කී සීමාව ඉක්මවා හිඳීම — ශයන කාමරය බව දැන, සැක ඇතිව, හෝ නොවේ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| ශයන කාමරයක් නොවූ තැනක් එසේ යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# ශයන කාමරයක් **නොවේ යැයි** සිතා.
+# **කී සීමාව නොඉක්මවා** හිඳීම.
+# **දෙවන භික්ෂුවක්** සිටින විට.
+# **දෙදෙනා ම පිටතට** ගොස් ඇති විට.
+# **දෙදෙනා ම විතරාගී** (රාගය දුරු වූ) විට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **විතරාගී නොවූ** අඹුසැමියන් **සිටීම**.
+# **ශයන කාමරයක්** වීම.
+# **දෙවන භික්ෂුවක් නැති** බව.
+# **ඇතුළු වී හිඳීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි** (කාය-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, ද්විවේදනයි** (සුඛ / උපේක්ෂා).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Ven. **Upananda** went to a friend's house and ==sat down in the **bedroom** with his wife==. The husband came, bowed, sat down and told his wife, “**Give the venerable alms**”; she did. Then he said, “**Venerable sir, you have eaten; now please go.**” The wife, **overcome by passion**, said, “Sit, venerable sir; don't go.” A second and a third time the same happened. Going out, the husband told the monks, “**Ven. Upananda is sitting in the bedroom with my wife; told to go, he won't; we have much to do.**” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sabhojane** — a house “**with both people**” (saha ubhohi janehi); or “**sabhoga**” — **to a man overcome by passion the woman is an object of enjoyment, and the man to the woman**. Hence the word-analysis says: “**There is a woman and a man; both have not gone out; both are not free of passion.**”
+**Anupakhajja nisajjaṃ kappeyya** — **intrudes and sits down**.
+## (B) The limit — the bedroom
+In that family's **bedroom (sayanighara)** —
+|! Room | Offence limit
+| a **large** room, as in a great four-sided hall | sitting **beyond arm's reach from the back wall**, near the bed inside
+| a **small** room | sitting **past the middle**
+Sitting thus is pācittiya.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning **Upananda**, on the matter of intruding and sitting down. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Sitting past the limit in a bedroom — perceiving it as a bedroom, in doubt, or as not (**triple pācittiya**) | PC
+| Not a bedroom, perceived as one or in doubt | DK
+## (E) No offence
+# Perceiving it **as not a bedroom**.
+# Sitting **without passing the limit**.
+# **A second monk** is present.
+# **Both have gone out**.
+# **Both are free of passion**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# A husband and wife **not free of passion** being **present**.
+# **A bedroom**.
+# **No second monk**.
+# **Intruding and sitting down**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin** (body–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, two feelings** (pleasant / neutral).
+
+@pac44
+T: රහෝපටිච්ඡන්න සික්ඛාපදය || Sitting with a Woman in a Screened Place
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිර || Ven. Upananda the Sakyan
+V: මාතුගාමයා සමඟ වැසුණු ආසනයක රහසින් හිඳීම || Sitting in private with a woman on a screened seat
+K: P1 sd=s an=a anu=0
+Z: විඤ්ඤු පුරුෂයෙක් සිටින විට; සිටගෙන; රහසක් නොපතන්නාට; වෙනත් කටයුත්තක සිත යොමු වූවාට; උමතු ආදීන් || A discerning man present; standing; not seeking privacy; mind on other business; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+පෙර ශික්ෂාපදය පැනවූ පසු **උපනන්ද** තෙරුන් ඒ පවුලට ම ගොස් ==ඒ කාන්තාව සමඟ **වැසුණු ආසනයක රහසින්**== හිඳ ගත්හ. ස්වාමිපුරුෂයා දොස් කීය; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**මාතුගාමෙන** — **මනුෂ්‍ය ස්ත්‍රියක්** — **එදින උපන් දැරියක** වුව ද; යක්ෂිණියක්, ප්‍රේතියක්, තිරිසන් සතියක් නොවේ.
+**රහො** — **ඇසට රහස** — ඇස් පිය ගසන මොහොතේ ද, ඇහිබැම ඔසවන මොහොතේ ද, හිස ඔසවන මොහොතේ ද **දැකිය නොහැකි** තැන.
+**පටිච්ඡන්නං ආසනං** — **බිත්ති, දොර, පැදුරු, තිරය, ගස්, කණු, ගෝනි** ආදී ඕනෑම දෙයකින් **වැසුණු** ආසනය.
+**නිසජ්ජං කප්පෙය්‍ය** — කාන්තාව හුන් කල්හි භික්ෂුව ළඟ හිඳීම හෝ සැතපීම, භික්ෂුව හුන් කල්හි කාන්තාව එසේ කිරීම, හෝ **දෙදෙනා ම**.
+## (ආ) අනියත සමඟ
+මේ ශික්ෂාපදය **පළමු අනියතයේ** පාචිත්තිය කොටසට අදාළ ය.
+|! ශික්ෂාපදය | ස්ථානය | රහස බිඳින්නා
+| **පාචිත්තිය 44** | **වැසුණු** ආසනය (ඇසට රහස) | ඇස් ඇති, රියන් 12 ඇතුළත **විඤ්ඤු පුරුෂයෙක්**
+| **පාචිත්තිය 45** | **විවෘත** තැනක තනිව (කනට රහස) | අන්ධ නොවූ, **බිහිරි නොවූ** විඤ්ඤු **ස්ත්‍රියක හෝ පුරුෂයෙක්**
+| **පාචිත්තිය 30** | **භික්ෂුණියක්** සමඟ | අන්ධ නොවූ, **බිහිරි නොවූ** විඤ්ඤු **ස්ත්‍රියක හෝ පුරුෂයෙක්**
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** **උපනන්ද** තෙරුන් අරබයා වැසුණු ආසනයක හිඳීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි** (භික්ෂුණීන්ට පුරුෂයෙකු සමඟ). **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| මනුෂ්‍ය ස්ත්‍රියක් සමඟ වැසුණු ආසනයක රහසින් හිඳීම / සැතපීම — ස්ත්‍රිය බව දැන, සැක ඇතිව, හෝ නොවේ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| **යක්ෂිණියක්, ප්‍රේතියක්, පණ්ඩකයෙක්, තිරිසන් ස්ත්‍රී විග්‍රහයක් ඇති** සතෙක් සමඟ | DK
+| රහස් ආස්වාදයෙන් යාමේ පූර්ව ප්‍රයෝග | DK
+## (ඉ) අනාපත්ති
+# ඇස් ඇති **විඤ්ඤු පුරුෂයෙක්** රියන් දොළහ ඇතුළත සිටින විට.
+# **සිටගෙන** සිටින්නාට.
+# **රහසක් නොපතන්නාට**.
+# **වෙනත් කටයුත්තක** සිත යොමු කොට හිඳින්නාට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **මාතුගාමයෙක්** වීම.
+# **වැසුණු (රහසිගත) තැනක්** වීම.
+# **විඤ්ඤු දෙවැන්නෙකු නැති** බව — රහසක් පතා.
+# **හිඳීම හෝ සැතපීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, ද්විවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+After the previous rule was laid down, Ven. **Upananda** went to the same family and ==sat **in private on a screened seat**== with that woman. The husband complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Mātugāmena** — **a human female** — **even a girl born that day**; not a yakkhinī, peta-woman or animal.
+**Raho** — **private to the eye** — a place where one **cannot be seen** when the eyes blink, the brows are raised or the head is lifted.
+**Paṭicchannaṃ āsanaṃ** — a seat **screened** by anything — wall, door, mat, curtain, tree, pillar, sack.
+**Nisajjaṃ kappeyya** — when the woman is seated the monk sits or lies close by, when the monk is seated the woman does — or **both** do.
+## (B) With the Aniyata rules
+This rule corresponds to the pācittiya part of **the first Aniyata**.
+|! Rule | Place | Who breaks the privacy
+| **Pācittiya 44** | a **screened** seat (private to the eye) | a **discerning man** with eyes, within 12 cubits
+| **Pācittiya 45** | alone in an **open** place (private to the ear) | a discerning **woman or man**, not blind, **not deaf**
+| **Pācittiya 30** | with **a nun** | a discerning **woman or man**, not blind and **not deaf**
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning **Upananda**, on the matter of sitting on a screened seat. It is a **common rule** (for nuns, with a man), **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Sitting or lying in private on a screened seat with a human woman — perceiving her as a woman, in doubt, or as not (**triple pācittiya**) | PC
+| With **a yakkhinī, peta-woman, paṇḍaka, or a female animal in human form** | DK
+| Preliminary efforts in going there desiring privacy | DK
+## (E) No offence
+# A **discerning man** with eyes is present within twelve cubits.
+# For one **standing**.
+# For one **not seeking privacy**.
+# For one sitting **with his mind on other business**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **A woman**.
+# **A screened (private) place**.
+# **No discerning second person** — seeking privacy.
+# **Sitting or lying down**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, two feelings**.
+
+@pac45
+T: රහෝනිසජ්ජ සික්ඛාපදය || Sitting Alone with a Woman
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිර || Ven. Upananda the Sakyan
+V: මාතුගාමයා සමඟ තනිව රහසින් හිඳීම || Sitting in private, one with one, with a woman
+K: P1 sd=s an=a anu=0
+Z: අන්ධ හා බිහිරි නොවූ විඤ්ඤු ස්ත්‍රියක හෝ පුරුෂයෙක් සිටින විට; සිටගෙන; රහසක් නොපතන්නාට; වෙනත් කටයුත්තක සිත යොමු වූවාට; උමතු ආදීන් || A discerning woman or man present, neither blind nor deaf; standing; not seeking privacy; mind on other business; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+"වැසුණු ආසනයක හිඳීම තහනම්" යි සිතූ **උපනන්ද** තෙරුන් ඒ පවුලට ම ගොස් ==ඒ කාන්තාව සමඟ **තනිව, කනට රහසින්**== හිඳ ගත්හ. ස්වාමිපුරුෂයා දොස් කීය; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**එකො එකාය** — භික්ෂුව ද කාන්තාව ද පමණක්.
+**රහො** — මෙහි **කනට රහස** — **සාමාන්‍ය කථාව නොඇසෙන** තැන; ඇසට රහස් නොවූව ද.
+**මාතුගාමො** — **ජීවමාන මනුෂ්‍ය ස්ත්‍රියක**, එදින උපන් වුව ද. **නිසජ්ජං කප්පෙය්‍ය** — හිඳී; **සැතපීම ද** ඇතුළත් ය.
+## (ආ) දෙවන අනියතය සමඟ
+මෙය දෙවන අනියතයේ **පාචිත්තිය** කොටසට අදාළ වේ; **පාචිත්තිය 30** සමඟ එක ම පරිච්ඡේදයකි.
+|! සිටින තැනැත්තා | රහස බිඳේ ද
+| අන්ධ නොවූ, බිහිරි නොවූ **විඤ්ඤු ස්ත්‍රියක හෝ පුරුෂයෙක්** — රියන් 12 ඇතුළත | ✓ බිඳේ — අනාපත්ති
+| **ඇස් ඇති බිහිරියෙක්** | ✕ නොබිඳේ
+| **නොබිහිරි අන්ධයෙක්** | ✕ නොබිඳේ
+| **නිදන** තැනැත්තෙක්, **කුඩා දරුවෙක්**, නොවිඤ්ඤුවෙක් | ✕ නොබිඳේ
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** **උපනන්ද** තෙරුන් අරබයා රහසින් හිඳීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| මනුෂ්‍ය ස්ත්‍රියක් සමඟ තනිව රහසින් හිඳීම / සැතපීම — ස්ත්‍රිය බව දැන, සැක ඇතිව, හෝ නොවේ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| යක්ෂිණියක්, ප්‍රේතියක්, පණ්ඩකයෙක්, තිරිසන් ස්ත්‍රී විග්‍රහයක් සමඟ | DK
+| රහස් ආස්වාදයෙන් යාමේ පූර්ව ප්‍රයෝග | DK
+## (ඉ) අනාපත්ති
+# අන්ධ හා බිහිරි නොවූ **විඤ්ඤු දෙවැන්නෙක්** සිටින විට.
+# **සිටගෙන** සිටින්නාට.
+# **රහසක් නොපතන්නාට**.
+# **වෙනත් කටයුත්තක** සිත යොමු කොට හිඳින්නාට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **මාතුගාමයෙක්** වීම.
+# **කනට රහසිගත** තැනක් වීම.
+# **විඤ්ඤු දෙවැන්නෙකු නැති** බව — රහසක් පතා.
+# **හිඳීම හෝ සැතපීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, ද්විවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Thinking, “Sitting on a screened seat is forbidden,” Ven. **Upananda** went to the same family and ==sat **alone with the woman, private to the ear**==. The husband complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Eko ekāya** — just the monk and the woman.
+**Raho** — here **private to the ear** — where **ordinary talk cannot be heard**, even if not private to the eye.
+**Mātugāmo** — **a living human woman**, even one born that day. **Nisajjaṃ kappeyya** — sits; **lying down** is included.
+## (B) With the second Aniyata
+This rule corresponds to its **pācittiya** part and forms one section with **Pācittiya 30**.
+|! Person present | Privacy broken?
+| a **discerning woman or man**, neither blind nor deaf — within 12 cubits | ✓ broken — no offence
+| **a deaf person with eyes** | ✕ not broken
+| **a blind person who can hear** | ✕ not broken
+| one **asleep**, **a small child**, one not discerning | ✕ not broken
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning **Upananda**, on the matter of sitting in private. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Sitting or lying alone in private with a human woman — perceiving her as a woman, in doubt, or as not (**triple pācittiya**) | PC
+| With a yakkhinī, peta-woman, paṇḍaka, or a female animal in human form | DK
+| Preliminary efforts in going there desiring privacy | DK
+## (E) No offence
+# A **discerning second person**, neither blind nor deaf, is present.
+# For one **standing**.
+# For one **not seeking privacy**.
+# For one sitting **with his mind on other business**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **A woman**.
+# **A place private to the ear**.
+# **No discerning second person** — seeking privacy.
+# **Sitting or lying down**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, two feelings**.
+
+@pac46
+T: චාරිත්ත සික්ඛාපදය || Visiting Families Before or After a Meal
+R: - || -
+N: රජගහ නුවර, වේළුවනය || Rājagaha, Veḷuvana
+P: උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිර || Ven. Upananda the Sakyan
+V: දානයට ආරාධිතව අනුන්ට නොදන්වා වෙනත් පවුල්වලට යාම || Visiting other families, when invited to a meal, without informing a monk
+K: KT sd=s an=a anu=4 kr=KA
+Z: සමයේ; සිටින භික්ෂුවකට දන්වා; භික්ෂුවක් නැති විට නොදන්වා; අනුන්ගේ නිවස හරහා මග ඇති විට; ආරාමය, භික්ෂුණී උපස්සය, තීර්ථක සෙය්‍යාව, ආසනශාලාව, දාන නිවසට යාම; ආපදාවලදී; උමතු ආදීන් || On an occasion; having informed a monk present; not informing when none is present; the path going through another's house; going to a monastery, nuns' quarters, sectarian lodging, hall or the meal-giver's house; emergencies; the insane etc.
+G: 5
+#si
+## කථා වස්තුව
+@ රජගහ නුවර · වේළුවනය කලන්දක නිවාපය
+**උපනන්ද** තෙරුන්ට උපස්ථාන කරන පවුලක් ඔහු ද සමඟ භික්ෂූන් **දානයට** ආරාධනා කළේය. උපනන්ද තෙරුන් ==දානයට පෙර **වෙනත් පවුල්වලට ගොස්**== බොහෝ වේලා ගත කළහ. භික්ෂූහු "ආර්‍ය උපනන්ද ආ පසු දෙමු" යි දායකයා නැවැත්වූ හෙයින් ප්‍රමාද වී පැමිණි තෙරුන් නිසා ==භික්ෂූන්ට **ප්‍රමාණවත් ලෙස වැළඳීමට නොහැකි** විය==. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+පසුව සිවුරු දෙන කාලයේ, සිවුරු කරන කාලයේ, සහ **දානයට පසු** යාම ගැන ද, **භික්ෂුවක් නැති විට** ද භික්ෂූන් කුකුස් ඇති කරගත් හෙයින් **අනුප්‍රඥප්ති සතරක්** — "**සන්තං භික්ඛුං, අනාපුච්ඡා, පුරෙභත්තං පච්ඡාභත්තං, අඤ්ඤත්‍ර සමයා**" — පැනවූහ.
+## (අ) පද විවරණය
+**නිමන්තිතො** — **භෝජන පහෙන්** එකකට ආරාධිත.
+**සභත්තො සමානො** — ඒ **ආරාධනා භත්තයෙන් යුක්ත** ව සිටියදී.
+**සන්තං භික්ඛුං අනාපුච්ඡා** — **උපචාර සීමාව ඇතුළත, දර්ශන උපචාරයේ** සිටින, **සාමාන්‍ය කටහඬින් දැනුම් දිය හැකි** භික්ෂුවකට "**මම අසවලාගේ නිවසට යමි**" හෝ "**චාරිත්තයට පිළිපදිමි**" යි **නොදන්වා**.
+**පුරෙභත්තං වා පච්ඡාභත්තං වා** — ආරාධිත භත්තය **වැළඳීමට පෙර හෝ පසු**.
+**කුලෙසු චාරිත්තං ආපජ්ජෙය්‍ය** — ආරාධිත පවුල හැර **අන් පවුල්වලට** ඇතුළු වෙයි.
+**සමයො** — **චීවරදාන සමය** (කඨින නැති විට කත්තික මාසය, ඇති විට මාස පහ) හා **චීවරකාර සමය**.
+## (ආ) ඇවැත් පිළිවෙළ
+සමය දෙක හැර, **මධ්‍යාහ්නය නොඉක්මවා** අන් පවුලකට ඇතුළු වන විට —
+|! පියවර | ඇවැත
+| **ගෘහ උපචාරයට** ඇතුළු වීම | DK
+| **පළමු පියෙන් එළිපත්ත** ඉක්මවීම | DK
+| **දෙවන පියෙන්** ඉක්මවීම | PC
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**රජගහ නුවරදී** **උපනන්ද** තෙරුන් අරබයා චාරිත්තයට පිළිපැදීමේ වස්තුවෙහි පැනවිණි. "**සන්තං භික්ඛුං, අනාපුච්ඡා, පුරෙභත්තං පච්ඡාභත්තං, අඤ්ඤත්‍ර සමයා**" — **චතුර්විධ අනුප්‍රඥප්තියකි**. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ගෘහ උපචාරයට ඇතුළු වීම; පළමු පිය | DK
+| සමයක් නොමැතිව, භික්ෂුවකට නොදන්වා අන් පවුලකට ඇතුළු වීම — ආරාධිත බව දැන, සැක ඇතිව, හෝ නොවේ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| ආරාධිත නොවූ කල්හි ආරාධිත යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# **සමයේ** (චීවරදාන, චීවරකාර).
+# **සිටින භික්ෂුවකට දන්වා**; **භික්ෂුවක් නැති විට** නොදන්වා ඇතුළු වීම.
+# **අනුන්ගේ නිවස හෝ ගෘහ උපචාරය හරහා මග** ඇති විට ඒ මගින් යාම.
+# **අන්තරාරාමය, භික්ෂුණී උපස්සය, තීර්ථක සෙය්‍යාව, ආසනශාලාව (පටික්කමන), දාන නිවස** වෙත යාම.
+# **ආපදාවලදී**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= පඤ්ච — පහකි)
+# **භෝජන පහෙන් එකකට ආරාධනාව ඉවසීම** (පිළිගැනීම).
+# **සිටින භික්ෂුවකට නොදන්වීම**.
+# **දාන නිවස හැර අන් නිවසකට** ඇතුළු වීම.
+# **මධ්‍යාහ්නය නොඉක්මවීම**.
+# **සමයක් හෝ ආපදාවක් නැති** බව.
+## (උ) සමුට්ඨානාදිය
+**කථින සමුට්ඨානයි, කිරියාකිරියයි** (ඇතුළු වීම කිරියාව; නොදැන්වීම අකිරියාව), **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Rājagaha · Veḷuvana, the squirrels' feeding place
+A family that supported Ven. **Upananda** invited the monks, him included, to **a meal**. Upananda ==went **visiting other families** before the meal== and spent a long time. The monks held the donor back, saying, “Let's give when Ven. Upananda comes,” and because he arrived late ==the monks **could not eat their fill**==. The Blessed One laid down the rule.
+Later, as monks became scrupulous at robe-giving time, robe-making time, about going **after the meal**, and when **no monk was present** to inform, he added **four supplementary rules** — “**santaṃ bhikkhuṃ, anāpucchā, purebhattaṃ pacchābhattaṃ, aññatra samayā**.”
+## (A) Explanation of terms
+**Nimantito** — invited to **one of the five foods**.
+**Sabhatto samāno** — while **provided with that invited meal**.
+**Santaṃ bhikkhuṃ anāpucchā** — **without informing** a monk who is **within the precinct boundary, in sight**, and **can be told in an ordinary voice**: “**I am going to so-and-so's house**” or “**I am going visiting**.”
+**Purebhattaṃ vā pacchābhattaṃ vā** — **before or after** eating the invited meal.
+**Kulesu cārittaṃ āpajjeyya** — enters **families other than** the one that invited him.
+**Samayo** — **robe-giving time** (Kattika without kaṭhina, five months with it) and **robe-making time**.
+## (B) How the offences fall
+Apart from the two occasions, entering another family's house **before midday** —
+|! Step | Offence
+| entering **the house precinct** | DK
+| crossing **the threshold with the first foot** | DK
+| **with the second foot** | PC
+## (C) The laying down of the rule and the command
+It was laid down at **Rājagaha** concerning **Upananda**, on the matter of visiting families. “**Santaṃ bhikkhuṃ, anāpucchā, purebhattaṃ pacchābhattaṃ, aññatra samayā**” — a **fourfold supplementary rule**. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Entering the house precinct; the first foot | DK
+| Without an occasion, without informing a monk, entering another family's house — perceiving himself as invited, in doubt, or as not (**triple pācittiya**) | PC
+| Not invited, perceiving himself as invited, or in doubt | DK
+## (E) No offence
+# **On an occasion** (robe-giving, robe-making).
+# **Having informed a monk present**; entering without informing **when no monk is present**.
+# Going by **a path that runs through another's house or house precinct**.
+# Going to **a monastery, nuns' quarters, sectarian lodging, assembly hall, or the meal-giver's house**.
+# **In emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= pañca — five)
+# **Accepting an invitation** to one of the five foods.
+# **Not informing a monk present**.
+# Entering **a house other than the meal-giver's**.
+# **Before midday has passed**.
+# **No occasion or emergency**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Kathina origin, by doing and not doing** (entering; not informing), **no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac47
+T: මහානාම සික්ඛාපදය || The Mahānāma Rule
+R: - || -
+N: ශාක්‍ය ජනපදය, නිග්‍රෝධාරාමය || Sakyan country, Nigrodhārāma
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පවාරණයේ සීමාව ඉක්මවා බෙහෙත් ඉල්ලීම || Asking for medicines beyond the limit of an invitation
+K: SC sd=s an=a anu=2
+Z: පවාරණය කළ බෙහෙත් ම / කාලය තුළ ඉල්ලීම; අවශ්‍ය විට ඇත්ත කියා සීමාව ඉක්මවා ඉල්ලීම; ඥාතීන්; පුද්ගලික / අපරිමිත පවාරණය; අනුන් සඳහා; තමාගේ ධනයෙන්; උමතු ආදීන් || Asking for the invited medicines within the period; when needed, stating the facts beyond the limit; relatives; personal or unlimited invitation; for another; own funds; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ ශාක්‍ය ජනපදය · කපිලවස්තු නිග්‍රෝධාරාමය
+**මහානාම ශාක්‍යයා** බොහෝ **ගිතෙල්** ලැබූ කල්හි භාග්‍යවතුන් වහන්සේට අවසර ගෙන ==සංඝයාට **මාස සතරක් ගිලන්පස බෙහෙත්** සඳහා පවාරණය කළේය==. භික්ෂූහු අල්ප වශයෙන් ඉල්ලූ හෙයින් බෙහෙත් ඉතිරි විය; හේ නැවත **තවත් මාස සතරකට** පවාරණය කළේය (පුනපවාරණය); පසුව **දිවි ඇති තෙක්** (නිච්චපවාරණය) පවාරණය කළේය.
+**ෂඩ්වර්ගීය භික්ෂූහු** ==කාලය නොවන කලක් ගිතෙල් ඉල්ලූහ==. "**ස්වාමීනි, අද ගිතෙල් නැත; ගෙනෙන තුරු ඉවසන්න**" යි කී කල්හි "**පවාරණය කොට නොදෙන්නෙහි ද?**" යි ඔහුට ගරහා, දුර්ලභ දේ ඉල්ලූහ. මිනිස්සු දොස් කීහ; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ (පුනපවාරණය හා නිච්චපවාරණය **අනුප්‍රඥප්ති දෙකකි**).
+## (අ) පද විවරණය
+**චතුමාසප්පච්චයපවාරණා** — මාස සතරක ගිලන්පස පවාරණය — මෙය **සිදුවීම අනුව** කීවකි. අර්ථය: **චාතුර්මාසික පවාරණය, පුනපවාරණය, නිත්‍ය පවාරණය** — ==සියල්ල ම **ඉවසිය යුතුය**==; "**දැන් මට රෝගයක් නැත**" යි ප්‍රතික්ෂේප නොකළ යුතුය; "**රෝගයක් ඇති විට ඉල්ලන්නෙමි**" යි ඉවසිය යුතුය.
+**තතො චෙ උත්තරි සාදියෙය්‍ය** — පවාරණයේ **සීමාවට වඩා** ඉල්ලීම.
+## (ආ) පවාරණයේ සීමා වර්ග
+|! පවාරණ වර්ගය | ඇවැත් වන ආකාරය
+| **රාත්‍රී සීමා** සහිත ("මෙතරම් දිනවල") | **ඒ රාත්‍රී ඉක්මවා** ඉල්ලීම
+| **බෙහෙත් සීමා** සහිත ("මෙතරම් බෙහෙත්") | **ඒ බෙහෙත් හැර අන් බෙහෙත්** හෝ **ඊට වැඩියෙන්** ඉල්ලීම
+| රාත්‍රී හා බෙහෙත් දෙකම සීමා සහිත | දෙකෙන් එකක් ඉක්මවීම
+| **අපරිමිත** (සීමා රහිත) | ඇවැත් නැත
+| — | **බෙහෙතින් කළ යුත්තක් නැතිව** බෙහෙත් ඉල්ලීම, හෝ **එක් බෙහෙතක අවශ්‍යතාවයට වෙනත් බෙහෙතක්** ඉල්ලීම
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**ශාක්‍ය ජනපදයේදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා බෙහෙත් ඉල්ලීමේ වස්තුවෙහි පැනවිණි. "**පුනපවාරණා, නිච්චපවාරණා**" අනුප්‍රඥප්ති දෙකකි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| සංඝ පවාරණයක සීමාව ඉක්මවා නොගිලන්ව බෙහෙත් ඉල්ලීම — ඉක්මවූ බව දැන, සැක ඇතිව, හෝ නොඉක්මවූ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| සීමාව නොඉක්මවූ කල්හි ඉක්මවූ යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# **පවාරණය කළ බෙහෙත්, පවාරණය කළ කාලය තුළ** ඉල්ලීම.
+# පවාරණය කළ බෙහෙත් හැර **අන් බෙහෙත්** හෝ **වැඩියෙන්**, නැතහොත් **කාලය ඉක්මවා** — **අවශ්‍යතාවයක් ඇති විට ඇත්ත කියා** ඉල්ලීම ("අපට මෙයින් අවශ්‍යයි, මෙතරම් දින ඉක්මවූ නමුත් ගිලන් බැවින්").
+# **ඥාතීන්ගෙන්**; **පුද්ගලික පවාරණයකින්** පවාරණය කළ අයගෙන්; **අපරිමිත පවාරණයකින්** පවාරණය කළ අයගෙන්.
+# **අනුන් සඳහා**; **තමාගේ ධනයෙන්**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **සංඝ පවාරණයක්** වීම.
+# එයින් **බෙහෙත් ඉල්ලීම**.
+# **නොගිලන්** බව (අවශ්‍යතාවයක් නැති බව).
+# **සීමාව ඉක්මවීම**.
+## (උ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (සමුට්ඨාන සය), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Kapilavatthu · Nigrodhārāma
+When **Mahānāma the Sakyan** had received plenty of **ghee**, with the Blessed One's permission he ==invited the Saṅgha to ask for **medicines for four months**==. The monks asked for little, so medicine was left over; he invited them **for another four months** (a renewed invitation), and later **for life** (a permanent invitation).
+**The group-of-six** ==asked for ghee at an unsuitable time==. When told, “**Venerable sirs, there's no ghee today; please wait till it is brought**,” they reproached him — “**You invited us and won't give?**” — and asked for what was hard to get. People complained, and the Blessed One laid down the rule (the renewed and permanent invitations being **two supplementary rules**).
+## (A) Explanation of terms
+**Catumāsappaccayapavāraṇā** — a four-month invitation to medicines — said **because of the incident**. The meaning: **a four-month, renewed or permanent invitation** — ==all **should be accepted**==; one should not refuse saying, “**I have no illness now**,” but accept it thinking, “**When I am ill I will ask**.”
+**Tato ce uttari sādiyeyya** — asking **beyond the limit** of the invitation.
+## (B) Kinds of limit
+|! Kind of invitation | How the offence arises
+| limited **by nights** (“for so many days”) | asking **after those nights**
+| limited **by medicines** (“so much medicine”) | asking for **other medicines** or **more**
+| limited by both | exceeding either
+| **unlimited** | no offence
+| — | asking for medicine **when there is no need**, or **one medicine when another is needed**
+## (C) The laying down of the rule and the command
+It was laid down **among the Sakyans** concerning the group-of-six, on the matter of asking for medicines. “**Punapavāraṇā, niccapavāraṇā**” are two supplementary rules. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| When not ill, asking for medicine beyond the limit of a Saṅgha invitation — perceiving it as beyond, in doubt, or as within (**triple pācittiya**) | PC
+| Within the limit, perceived as beyond or in doubt | DK
+## (E) No offence
+# Asking for **the invited medicines within the invited period**.
+# Asking for **other** or **more** medicines, or **after the period**, **stating the facts when there is need** (“We need this; though the days have passed, I am ill”).
+# From **relatives**; from those who gave **a personal invitation**; from those who gave **an unlimited invitation**.
+# **For another**; with **one's own funds**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **A Saṅgha invitation**.
+# **Asking for medicine** under it.
+# **Not ill** (no need).
+# **Exceeding the limit**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Go-between origin** (six origins), **by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac48
+T: උය්‍යුත්තසේනා සික්ඛාපදය || Watching an Army on the March
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: යුද්ධයට පිටත් වූ සේනාව නැරඹීමට යාම || Going to see an army that has set out
+K: EL sd=s an=a anu=1 vj=L cit=A ved=3
+Z: ආරාමයේ සිට ඇති විට තමා සිටි තැනට පැමිණෙන / මගදී හමුවන සේනාව දැකීම; එබඳු හේතුවක් ඇති විට; ආපදාවලදී; උමතු ආදීන් || Seeing it from the monastery, coming to where one stands, or met on the road; with a suitable reason; emergencies; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**පසේනදි කොසොල් රජතුමා** යුද්ධයට සේනාව සමඟ පිටත් විය. **ෂඩ්වර්ගීය භික්ෂූහු** ==ඒ **සේනාව නැරඹීමට** ගියහ==. රජතුමා ඔවුන් දැක "**ස්වාමීනි, ඔබ මෙහි ආවේ කුමකට ද?**" යි අසා, "**මහරජාණෙනි, ඔබ දැකීමට**" යි කී කල්හි "**යුද්ධයට යන මා දැකීමෙන් ඇති ඵලය කුමක් ද? භාග්‍යවතුන් වහන්සේ දැකිය යුතු නොවේ ද?**" යි භාග්‍යවතුන් වහන්සේට හකුරු යැවීය. මිනිස්සු "**අපට ජීවිකාව සඳහා ආවා; මොවුන් ආවේ කුමකට ද?**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+පසුව සේනාවේ සිටි ගිලන් වූ **මාමා කෙනෙකු** බැලීමට කැඳවූ භික්ෂුවක් කුකුස් ඇති කරගත් හෙයින් "**අඤ්ඤත්‍ර තථාරූපප්පච්චයා**" අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**උය්‍යුත්තං** — **ගමනට සූදානම් වූ** — ගමෙන් **පිටත් වූ**.
+**සෙනං** — **චතුරංගිනී** — **ඇත්, අස්, රිය, පාබල** යන අංග සතරින් යුත්.
+**අඤ්ඤත්‍ර තථාරූපප්පච්චයා** — **එබඳු හේතුවක්** (ඥාතියෙකු ගිලන් වීම, සැදැහැවතෙකු ගිලන් වීම ආදිය) **නැතිව**, **සේනාව දැකීමට පමණක්** යාම.
+## (ආ) ඇවැත් පිළිවෙළ
+|! අවස්ථාව | ඇවැත
+| සේනාව දැකීමට යන **පියවරක් පාසා** | DK
+| **දර්ශන උපචාරයේ** සිට දැකීම | PC
+| දර්ශන උපචාරය හැර, **නැවත නැවත** දැකීම | **ප්‍රයෝගයක් පාසා** PC
+| **ඇත්, අස් ආදී එක් එක් අංගයක්** දැකීමට යාම | ඒ ක්‍රමයෙන් ම DK
+**දර්ශන උපචාරය** — යම් තැනක සිට දකියි ද ඒ තැනයි.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා සේනාව දැකීමේ වස්තුවෙහි පැනවිණි. "**අඤ්ඤත්‍ර තථාරූපප්පච්චයා**" අනුප්‍රඥප්තියයි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| යාමේ පියවරක් පාසා | DK
+| පිටත් වූ සේනාව දර්ශන උපචාරයේ සිට දැකීම — පිටත් වූ බව දැන, සැක ඇතිව, හෝ නොවේ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| ඇත්, අස් ආදී එක් අංගයක් දැකීමට යාම | DK
+| පිටත් නොවූ සේනාවක් පිටත් වූ යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# **පිටත් නොවූ** යැයි සිතා.
+# **ආරාමයේ සිටියදී** දැකීම; **තමා සිටින තැනට** පැමිණෙන සේනාව දැකීම; **මගදී විරුද්ධ දිශාවෙන්** එන සේනාව දැකීම.
+# **එබඳු හේතුවක්** ඇති විට.
+# **ආපදාවලදී**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **පිටත් වූ සේනාව දැකීමට යාම**.
+# **අනුදත් තැනකින් නොවී** දැකීම.
+# **එබඳු හේතුවක් නැති** බව.
+# **ආපදාවක් නැති** බව.
+## (උ) සමුට්ඨානාදිය
+**එළකලෝම සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**King Pasenadi of Kosala** set out with his army for battle. **The group-of-six** ==went to **watch the army**==. Seeing them, the king asked, “**Venerable sirs, why have you come?**” “**To see you, great king.**” “**What is the use of seeing me going to fight? Shouldn't you see the Blessed One?**” — and he sent molasses to the Blessed One. People complained, “**We came for our livelihood; why have these come?**” The Blessed One laid down the rule.
+Later, a monk called to visit **his uncle**, who had fallen ill in the army, was scrupulous, and the Blessed One added “**aññatra tathārūpappaccayā**.”
+## (A) Explanation of terms
+**Uyyuttaṃ** — **ready to march** — **having left** the village.
+**Senaṃ** — **fourfold**: **elephants, horses, chariots, infantry**.
+**Aññatra tathārūpappaccayā** — going **only to see the army**, **without such a reason** (a relative or a devotee being ill, etc.).
+## (B) How the offences fall
+|! Stage | Offence
+| **each step** in going to see it | DK
+| seeing it **from within the range of sight** | PC
+| leaving the range and seeing it **again and again** | PC **for each effort**
+| going to see **a single division** — elephants, horses etc. | DK in the same way
+**Range of sight** — the place from where he sees it.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of seeing an army. “**Aññatra tathārūpappaccayā**” is a supplementary rule. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Each step in going | DK
+| Seeing an army that has set out from within the range of sight — perceiving it as set out, in doubt, or as not (**triple pācittiya**) | PC
+| Going to see a single division, elephants etc. | DK
+| An army not set out, perceived as set out or in doubt | DK
+## (E) No offence
+# Perceiving it **as not set out**.
+# Seeing it **while staying in the monastery**; seeing it **come to where one stands**; seeing it **coming the opposite way** on the road.
+# With **such a reason**.
+# **In emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **Going to see an army that has set out**.
+# Seeing it **other than from an allowed place**.
+# **No such reason**.
+# **No emergency**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Eḷakaloma origin, by doing, no release by perception, without intention, blameworthy by nature, bodily action, unwholesome mind, three feelings**.
+
+@pac49
+T: සේනාවාස සික්ඛාපදය || Staying with an Army
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සේනාව සමඟ රාත්‍රී තුනකට වැඩි කලක් වාසය කිරීම || Staying with an army more than three nights
+K: EL sd=s an=a anu=0
+Z: රාත්‍රී දෙකක් තුනක් පමණක්; තෙවන රාත්‍රියේ අරුණට පෙර පිටත් ව නැවත වාසය; ගිලන් වීම / ගිලනෙකු නිසා; සතුරු සේනාවකින් වට වූ විට; යමකින් බාධා වූ විට; ආපදාවලදී; උමතු ආදීන් || Only two or three nights; leaving before dawn of the third night and staying again; illness or nursing; the army besieged; being obstructed; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+කිසියම් හේතුවක් නිසා සේනාවට ගිය **ෂඩ්වර්ගීය භික්ෂූහු** ==**රාත්‍රී තුනකට වැඩි** කලක් සේනාවේ වාසය කළහ==. මිනිස්සු "**මොවුන් සේනාවේ වසන්නේ කුමකට ද?**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ "**යම්කිසි හේතුවක් නිසා සේනාවට යන භික්ෂුවකට දෙතුන් රැයක් සේනාවේ වාසය කළ හැකිය; ඊට වඩා වාසය කළොත් පාචිත්තිය**" යි පැනවූහ.
+## (අ) පද විවරණය
+**සියා ච තස්ස භික්ඛුනො කොචිදෙව පච්චයො** — "**එබඳු හේතුවක්**" (ඥාතියෙකු ගිලන් වීම ආදිය) නිසා සේනාවට ගිය විට.
+**දිරත්තතිරත්තං** — **රාත්‍රී දෙකක් හෝ තුනක්**.
+**තතො චෙ උත්තරි** — **තුන් රැයට වඩා** — **සතරවන දිනයේ හිරු බැස ගිය කල්හි** සේනාවේ **සිටුව ද, හුන්න ද, සැතපුණ ද** — ==**ඍද්ධියෙන් අහසේ** කිසියම් ඉරියව්වක් පැවැත්වුව ද== — පාචිත්තියයි.
+## (ආ) රාත්‍රී ගණන් කිරීම
+|! අවස්ථාව | විනිශ්චය
+| සේනාවේ **රාත්‍රී එකක්, දෙකක්, තුනක්** | අනාපත්ති
+| **සතරවන දිනයේ හිරු බැසීම** සේනාවේ දී | PC
+| **තෙවන රාත්‍රියේ අරුණට පෙර** සේනාවෙන් **පිටත් වී** නැවත පැමිණ වාසය | අනාපත්ති — නැවත රාත්‍රී තුනක් ගණන් වේ
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා රාත්‍රී තුනට වැඩි කලක් සේනාවේ වාසය කිරීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| රාත්‍රී තුනට වැඩි කලක් සේනාවේ වාසය — වැඩි බව දැන, සැක ඇතිව, හෝ අඩු යැයි සිතා (**තික පාචිත්තිය**) | PC
+| රාත්‍රී තුනට අඩු කල්හි වැඩි යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# රාත්‍රී **දෙකක් තුනක්** හෝ ඊට අඩුවෙන් වාසය.
+# **තෙවන රාත්‍රියේ අරුණට පෙර** පිටත් ව නැවත වාසය.
+# **ගිලන් වීම** නිසා හෝ **ගිලනෙකුගේ කටයුත්තක්** නිසා වාසය.
+# **සතුරු සේනාවකින් වට** වූ සේනාවක.
+# යමකින් **බාධා (පලිබෝධ)** වූ අයට.
+# **ආපදාවලදී**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **රාත්‍රී තුන ඉක්මවීම**.
+# සේනාවේ දී **හිරු බැස යාම**.
+# **ගිලන් බව ආදිය නැති** බව.
+## (උ) සමුට්ඨානාදිය
+**එළකලෝම සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කායකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six**, having gone to the army for some reason, ==stayed with the army **for more than three nights**==. People complained, “**Why are these staying with the army?**” The Blessed One laid down: “**A monk who goes to an army for some reason may stay with it two or three nights; if he stays longer — pācittiya.**”
+## (A) Explanation of terms
+**Siyā ca tassa bhikkhuno koci deva paccayo** — when he has gone to the army for **such a reason** (a relative being ill etc.).
+**Dirattatirattaṃ** — **two or three nights**.
+**Tato ce uttari** — **beyond three nights** — if **at sunset on the fourth day** he is in the army, **standing, sitting or lying** — ==even keeping some posture **in the air by psychic power**== — it is pācittiya.
+## (B) Counting the nights
+|! Situation | Ruling
+| **one, two or three nights** with the army | no offence
+| **sunset on the fourth day** in the army | PC
+| **leaving before dawn of the third night** and coming back to stay | no offence — three nights count afresh
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of staying with an army more than three nights. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Staying with an army more than three nights — perceiving it as more, in doubt, or as fewer (**triple pācittiya**) | PC
+| Fewer than three nights, perceived as more or in doubt | DK
+## (E) No offence
+# Staying **two or three nights** or fewer.
+# **Leaving before dawn of the third night** and staying again.
+# Staying **because of illness** or **to look after a sick person**.
+# When the army is **besieged by an enemy army**.
+# For one **obstructed** by something.
+# **In emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Exceeding three nights**.
+# **The sun setting** while in the army.
+# **No illness etc.**
+## (G) Origin and the rest (samuṭṭhāna)
+**Eḷakaloma origin, by doing, no release by perception, without intention, an offence by convention, bodily action, three kinds of consciousness, three feelings**.
+
+@pac50
+T: උය්‍යෝධික සික්ඛාපදය || Watching Military Exercises
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සේනාවේ වසද්දී යුද පිටිය, බලය ගණන් කිරීම ආදිය නැරඹීමට යාම || While staying with an army, going to see battle drills, roll-calls and the like
+K: EL sd=s an=a anu=0 vj=L cit=A ved=3
+Z: ආරාමයේ සිට දැකීම; තමා සිටි තැනට පැමිණෙන / මගදී හමුවන දේ දැකීම; එබඳු හේතුවක් ඇති විට; ආපදාවලදී; උමතු ආදීන් || Seeing it from the monastery, coming to where one stands, or met on the road; with a suitable reason; emergencies; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+සේනාවේ දෙතුන් රැයක් වාසය කළ **ෂඩ්වර්ගීය භික්ෂූහු** ==**යුද පිටියට, බලය ගණන් කරන තැනට, සේනා ව්‍යූහයට, සේනා අංග නැරඹීමට**== ගියහ. ඔවුන්ගෙන් එක් අයෙකුට **ඊතලයකින් පහර** වැදිණ. මිනිස්සු ඔහුට සරදම් කරමින් "**ස්වාමීනි, හොඳින් යුද්ධ කළා ද? කීයක් ලැබුණා ද?**" යි ඇසූහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**උය්‍යොධිකං** — නැවත නැවත ඉදිරියට ගොස් **යුද්ධ කරන තැන** — **සටන් බිම**.
+**බලග්ගං** — බලයේ **ප්‍රමාණය දැනගන්නා** තැන — **සේනාව ගණන් කරන** තැන.
+**සෙනාබ්‍යූහං** — සේනාවේ **ව්‍යූහය (පෙළගැස්ම)** — **සේනා කඳවුර** පිහිටුවීම.
+**අනීකදස්සනං** — **සේනා අංග** දැකීම.
+|! අනීකය (අවම ඒකකය) | ගණනය
+| **හත්ථානීක** | "**පුරුෂයන් දොළොස් දෙනෙකු සහිත ඇතා**" — එවැනි **ඇතුන් තිදෙනෙක්**
+| **අස්සානීක** | "**පුරුෂයන් තිදෙනෙකු සහිත අශ්වයා**" — එවැනි **අශ්වයන් තිදෙනෙක්**
+| **රථානීක** | "**පුරුෂයන් සතර දෙනෙකු සහිත රථය**" — එවැනි **රථ තුනක්**
+| **පත්තානීක** | **ආයුධ දැරූ පුරුෂයන් සතර දෙනෙක්**
+## (ආ) ඇවැත් පිළිවෙළ
+|! අවස්ථාව | ඇවැත
+| මේ කිසිවක් දැකීමට යන **පියවරක් පාසා** | DK
+| **දර්ශන උපචාරයේ** සිට දැකීම | PC
+| උපචාරය හැර **නැවත නැවත** දැකීම | **ප්‍රයෝගයක් පාසා** PC
+==මෙහි **ආපත්ති භේදයක් (තවත් දුක්කට ප්‍රභේද)** නැත==.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා යුද පිටියට යාමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| යාමේ පියවරක් පාසා | DK
+| සටන් බිම, බල ගණනය, සේනා ව්‍යූහය, අනීකය දර්ශන උපචාරයේ සිට දැකීම (**තික පාචිත්තිය**) | PC
+| උපචාරය හැර නැවත නැවත දැකීම — ප්‍රයෝගයක් පාසා | PC
+## (ඉ) අනාපත්ති
+# **ආරාමයේ සිටියදී** දැකීම; **තමා සිටින තැනට** පැමිණි සටනක් දැකීම; **මගදී** හමුවන දෙය දැකීම.
+# **එබඳු හේතුවක්** ඇති විට.
+# **ආපදාවලදී**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# සටන් බිම ආදියෙන් එකක් **දැකීමට යාම**.
+# **අනුදත් තැනකින් නොවී** දැකීම.
+# **එබඳු හේතුවක් නැති** බව.
+# **ආපදාවක් නැති** බව.
+## (උ) සමුට්ඨානාදිය
+**එළකලෝම සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+While staying two or three nights with an army, **the group-of-six** ==went to watch **battle drills, roll-calls, the army's formation and its divisions**==. One of them was **struck by an arrow**. People mocked him: “**Venerable sir, did you fight well? How many did you get?**” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Uyyodhikaṃ** — the place where they advance again and again **to fight** — **a battlefield or drill ground**.
+**Balaggaṃ** — the place where **the strength of the force is known** — **where the army is counted**.
+**Senābyūhaṃ** — the **arrangement** of the army — **its encampment**.
+**Anīkadassanaṃ** — seeing **a division of the army**.
+|! Division (minimum unit) | Reckoning
+| **elephant division** | “**an elephant with twelve men**” — **three** such elephants
+| **cavalry division** | “**a horse with three men**” — **three** such horses
+| **chariot division** | “**a chariot with four men**” — **three** such chariots
+| **infantry division** | **four men bearing weapons**
+## (B) How the offences fall
+|! Stage | Offence
+| **each step** in going to see any of these | DK
+| seeing it **from within the range of sight** | PC
+| leaving the range and seeing it **again and again** | PC **for each effort**
+==here there are **no further divisions of offence**==.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of going to battle drills. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Each step in going | DK
+| Seeing a drill, roll-call, formation or division from within the range of sight (**triple pācittiya**) | PC
+| Leaving the range and seeing it again — each effort | PC
+## (E) No offence
+# Seeing it **while staying in the monastery**; seeing fighting that **comes to where one stands**; seeing what one meets **on the road**.
+# With **such a reason**.
+# **In emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **Going to see** a battle drill or the like.
+# Seeing it **other than from an allowed place**.
+# **No such reason**.
+# **No emergency**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Eḷakaloma origin, by doing, no release by perception, without intention, blameworthy by nature, bodily action, unwholesome mind, three feelings**.

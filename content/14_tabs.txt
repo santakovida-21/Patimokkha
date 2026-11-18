@@ -1,0 +1,273 @@
+@pac21
+T: ඕවාද සික්ඛාපදය || Exhorting the Nuns
+R: - || -
+N: සැවැත් නුවර, ජේතවනය අනාථපිණ්ඩිකාරාමය || Sāvatthī, Jetavana, Anāthapiṇḍika’s monastery
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සම්මත නොවී භික්ෂුණීන්ට අවවාද කිරීම || Exhorting the nuns without being authorised
+K: PD sd=a an=a anu=0
+Z: ධර්මකර්මයෙන් සම්මත ව සමග්ග සංඝයාට අවවාද කිරීම; උද්දේශය හෝ පරිපෘච්ඡාව දීම; “කියන්න” යි කී කල කීම; ප්‍රශ්න ඇසීම / ප්‍රශ්නයට පිළිතුරු දීම; අනුන් සඳහා කියද්දී භික්ෂුණීන් ඇසීම; ශික්ෂමානා / සාමණේරීන්ට; උමතු ආදීන් || Authorised by a legitimate act, exhorting a complete Saṅgha; giving a recitation or an explanation; reciting when asked; asking or answering a question; nuns overhearing talk meant for another; to probationers or novice nuns; the insane etc.
+G: 3
+#si
+## {story} කථා වස්තුව
+### ඔවදන වස්තුව
+@ සැවැත් නුවර · ජේතවනය අනාථපිණ්ඩිකාරාමය
+:::short
+භික්ෂුණීන්ට අවවාද කරන ස්ථවිරයන්ට සිවුරු ආදී ලාභ ලැබෙනු දුටු ෂඩ්වර්ගීය භික්ෂූහු ද භික්ෂුණීන් කැඳවා, ==සුළු දැහැමි කථාවක් පමණක් කොට දවස තිරශ්චීන කථාවෙන් ගෙවා== පිටත් කළහ. “අවවාදය කොහි සඵල වේ ද!” යි භික්ෂුණීහු භාග්‍යවතුන් වහන්සේට සැල කළහ. භාග්‍යවතුන් වහන්සේ ෂඩ්වර්ගීයයන්ට ගරහා, **භික්ඛුනොවාදක** සම්මුතිය අනුදැන ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ සැවැත් නුවර අනාථපිණ්ඩිකයාගේ ආරාමය වූ ජේතවනයෙහි වැඩ වසන සේක. එකල භික්ෂුණීන්ට අවවාද කරන ස්ථවිර භික්ෂූහු ==සිවුරු, පිණ්ඩපාත, සෙනසුන්, ගිලන්පස බෙහෙත් පිරිකර ලබන්නෝ== වූහ. එවිට ෂඩ්වර්ගීය භික්ෂූන්ට මෙසේ සිතුණි: “ඇවැත්නි, දැන් භික්ෂුණීන්ට අවවාද කරන ස්ථවිර භික්ෂූහු සිවුරු, පිණ්ඩපාත, සෙනසුන්, ගිලන්පස බෙහෙත් පිරිකර ලබති. එන්න ඇවැත්නි, අපි ද භික්ෂුණීන්ට අවවාද කරමු.” ඔව්හු භික්ෂුණීන් වෙත ගොස් “නැගණියෙනි, අප වෙත ද එන්න; අපි ද අවවාද කරන්නෙමු” යි කීහ.
+ඒ භික්ෂුණීහු ෂඩ්වර්ගීය භික්ෂූන් වෙත ගොස් වැඳ එකත්පසෙක හුන්හ. ෂඩ්වර්ගීය භික්ෂූහු භික්ෂුණීන්ට ==සුළු දැහැමි කථාවක් පමණක් කොට, දවස තිරශ්චීන කථාවෙන් ගෙවා== “නැගණියෙනි, යන්න” යි පිටත් කළහ. ඒ භික්ෂුණීහු භාග්‍යවතුන් වහන්සේ වෙත ගොස් වැඳ එකත්පසෙක සිටියහ. භාග්‍යවතුන් වහන්සේ “භික්ෂුණීනි, අවවාදය සඵල (**ඉද්ධො**) වී ද?” යි විචාළ සේක. “ස්වාමීනි, අවවාදය කොහි සඵල වන්නේ ද! ආර්‍ය ෂඩ්වර්ගීයයෝ සුළු දැහැමි කථාවක් පමණක් කොට, දවස තිරශ්චීන කථාවෙන් ගෙවා පිටත් කළහ” යි කීහ. එවිට භාග්‍යවතුන් වහන්සේ ඒ භික්ෂුණීන්ට දැහැමි කථාවෙන් කරුණු දැක්වූ සේක, සමාදන් කරවූ සේක, උනන්දු කරවූ සේක, සතුටු කරවූ සේක. ඔව්හු භාග්‍යවතුන් වහන්සේට වැඳ පැදකුණු කොට නික්ම ගියහ.
+ඉක්බිති භාග්‍යවතුන් වහන්සේ මේ නිදානයෙහි, මේ කරුණෙහි භික්ෂු සංඝයා රැස් කරවා, “මහණෙනි, ඔබ භික්ෂුණීන්ට සුළු දැහැමි කථාවක් පමණක් කොට, දවස තිරශ්චීන කථාවෙන් ගෙවා පිටත් කළ බව සැබෑ ද?” යි ෂඩ්වර්ගීය භික්ෂූන් විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂයෙනි, ඔබ කෙසේ නම් එසේ පිටත් කරන්නහු ද? මෝඝපුරුෂයෙනි, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා, දැහැමි කථාවක් කොට, “මහණෙනි, ==භික්ෂුණීන්ට අවවාද කරන්නෙකු (**භික්ඛුනොවාදක**) සම්මත කිරීමට අනුදනිමි==” යි වදාළ සේක. ඒ සඳහා පළමුව ඒ භික්ෂුවගෙන් ඉල්ලිය යුතු ය (**යාචිතබ්බො**); ඉල්ලා, දක්ෂ, සමර්ථ භික්ෂුවක් **ඤත්තිචතුත්ථ** කර්මවාචාවකින් සංඝයාට දැනුම් දී, සංඝයා ඒ භික්ෂුව භික්ඛුනොවාදක ලෙස සම්මත කළ යුතු යැයි වදාළ සේක. ඉන්පසු භාග්‍යවතුන් වහන්සේ ෂඩ්වර්ගීය භික්ෂූන් නොයෙක් අයුරින් ගරහා ශික්ෂාපදය පැනවූ සේක:
+:::
+!pn: ශික්ෂාපදය
+> යො පන භික්ඛු අසම්මතො භික්ඛුනියො ඔවදෙය්‍ය පාචිත්තියං.
+~ යම් භික්‍ෂුවක් වනාහි සම්මත නො කරන ලදුයේ භික්‍ෂුණීන්ට අවවාද දෙන්නේ නම්, පචිති වේ.
+### අංග අටකින් යුත් සම්මුතිය — අනුඥාව
+:::short
+පසුව ෂඩ්වර්ගීයයෝ ==සීමාවෙන් පිටතට ගොස් එකිනෙකා සම්මත කොට==, “අපි ද සම්මත වූවෝ ය” යි නැවත එසේ ම කළහ. භාග්‍යවතුන් වහන්සේ ඔවුනට ගරහා, ==අංග අටකින් යුත් භික්ෂුවක්== භික්ඛුනොවාදක ලෙස සම්මත කිරීමට අනුදැන වදාළ සේක.
+:::
+:::long
+එකල සම්මත ස්ථවිර භික්ෂූහු භික්ෂුණීන්ට අවවාද කරමින් පෙර සේ ම සිවුරු, පිණ්ඩපාත, සෙනසුන්, ගිලන්පස බෙහෙත් පිරිකර ලබති. එවිට ෂඩ්වර්ගීය භික්ෂූන්ට මෙසේ සිතුණි: “ඇවැත්නි, දැන් සම්මත ස්ථවිර භික්ෂූහු භික්ෂුණීන්ට අවවාද කරමින් පෙර සේ ම ලාභ ලබති. එන්න ඇවැත්නි, අපි ද ==සීමාවෙන් පිටතට (**නිස්සීමං**) ගොස් එකිනෙකා භික්ඛුනොවාදක ලෙස සම්මත කොට== භික්ෂුණීන්ට අවවාද කරමු.” ඔව්හු එසේ කොට භික්ෂුණීන් වෙත ගොස් “නැගණියෙනි, අපි ද සම්මත වූවෝ වෙමු; අප වෙත ද එන්න; අපි ද අවවාද කරන්නෙමු” යි කීහ.
+ඒ භික්ෂුණීහු ෂඩ්වර්ගීය භික්ෂූන් වෙත ගොස් වැඳ එකත්පසෙක හුන්හ. ෂඩ්වර්ගීය භික්ෂූහු නැවතත් සුළු දැහැමි කථාවක් පමණක් කොට, දවස තිරශ්චීන කථාවෙන් ගෙවා “නැගණියෙනි, යන්න” යි පිටත් කළහ. භික්ෂුණීහු භාග්‍යවතුන් වහන්සේ වෙත ගොස් “අවවාදය සඵල වී ද?” යි විචාළ කල්හි, “ස්වාමීනි, අවවාදය කොහි සඵල වන්නේ ද!” යි සිදු වූ දෙය සැල කළහ. භාග්‍යවතුන් වහන්සේ ඔවුනට දැහැමි කථාවෙන් කරුණු දක්වා, සමාදන් කරවා, උනන්දු කරවා, සතුටු කරවූ සේක; ඔව්හු වැඳ පැදකුණු කොට නික්ම ගියහ.
+ඉක්බිති භාග්‍යවතුන් වහන්සේ භික්ෂු සංඝයා රැස් කරවා ෂඩ්වර්ගීය භික්ෂූන් විචාරා, “සැබෑ ය” යි කී කල්හි ගරහා, දැහැමි කථාවක් කොට, “මහණෙනි, ==අංග අටකින් යුත් භික්ෂුවක් භික්ඛුනොවාදක ලෙස සම්මත කිරීමට අනුදනිමි==” යි වදාළ සේක (අංග අට ඊළඟ කොටසෙහි ය).
+:::
+!src: මෙය ශික්ෂාපදයට අමතර අනුඥාවක් මිස අනුපඤ්ඤත්තියක් නොවේ; මුල් පැනවීම ම සම්පූර්ණ ශික්ෂාපදය වේ.
+## {story} භික්ඛුනොවාදක ලෙස සම්මත කළ හැකි භික්ෂුවගේ අංග අට
+# **සීලවත්** වීම (**සීලවා**) — ප්‍රාතිමෝක්ෂ සංවරයෙන් සංවෘත ව (**පාතිමොක්ඛසංවරසංවුතො**), ආචාර ගෝචර සම්පන්න ව (**ආචාරගොචරසම්පන්නො**), අණුමාත්‍ර වරදෙහි ද භය දක්නා (**අණුමත්තෙසු වජ්ජෙසු භයදස්සාවී**), ශික්ෂාපද සමාදන් ව හික්මෙන්නකු වීම;
+# **බහුශ්‍රැත** වීම (**බහුස්සුතො**) — ඇසූ දෑ දරන (**සුතධරො**), ඇසූ දෑ රැස් කළ (**සුතසන්නිචයො**); මුල කල්‍යාණ වූ, මැද කල්‍යාණ වූ, අවසානය කල්‍යාණ වූ, අර්ථ සහිත, ව්‍යඤ්ජන සහිත, මුළුමනින් පිරිපුන්, පිරිසිදු බ්‍රහ්මචර්‍යාව ප්‍රකාශ කරන යම් ධර්ම වේ ද, එබඳු ධර්ම බොහෝ සේ අසා, දරා, වචනයෙන් පුරුදු කොට, සිතින් මෙනෙහි කොට, දැක්මෙන් මනාව අවබෝධ කළ කෙනෙකු වීම;
+# **උභය ප්‍රාතිමෝක්ෂය** (**උභයානි පාතිමොක්ඛානි**) විස්තර වශයෙන් මනාව පැමිණ, මනාව බෙදා, මනාව පවත්වා, සූත්‍ර වශයෙන් හා අනුව්‍යඤ්ජන වශයෙන් (**සුත්තසො අනුබ්‍යඤ්ජනසො**) මනාව විනිශ්චය කළ හැකි වීම;
+# **කල්‍යාණ වචන** ඇති (**කල්‍යාණවාචො**), මනා වාක් කරණ ඇති (**කල්‍යාණවාක්කරණො**) වීම;
+# බොහෝ සෙයින් භික්ෂුණීන්ට **ප්‍රිය, මනාප** වීම (**පියො මනාපො**);
+# භික්ෂුණීන්ට අවවාද කිරීමට **සමර්ථ** වීම (**පටිබලො**);
+# භාග්‍යවතුන් වහන්සේ උදෙසා පැවිදි වූ, කසාවත් හැඳි කාන්තාවක් සමඟ **පෙර ගරු ධර්මයකට පැමිණ නැති** (**ගරුධම්මං අජ්ඣාපන්නපුබ්බො න හොති**) කෙනෙකු වීම;
+# **වස් විස්සක්** හෝ ඊට වැඩි (**වීසතිවස්සො වා අතිරෙකවීසතිවස්සො වා**) වීම.
+## {story} පදභාජනීය — පද විභාගය
+|! පදය | පෙළෙහි අර්ථය
+| **අසම්මතො** | **ඤත්තිචතුත්ථ කර්මයෙන්** (**ඤත්තිචතුත්ථෙන කම්මෙන**) සම්මත නොකළ භික්ෂුව.
+| **භික්ඛුනියො** | **උභතෝ සංඝයා** කෙරෙහි (**උභතොසඞ්ඝෙ**) උපසම්පදාව ලද භික්ෂුණීන්.
+| **ඔවදෙය්‍ය** | අවවාද කරයි නම් — එහි ඇවැත් පහත වගුවෙහි.
+### “ඔවදෙය්‍ය” — අවවාදය අනුව ඇවැත
+|! කාට ද | කුමකින් අවවාද කරයි ද | ඇවැත
+| උභතෝ සංඝයා කෙරෙහි උපසම්පන්න භික්ෂුණීන්ට | ගරුධර්ම අටෙන් (**අට්ඨහි ගරුධම්මෙහි**) | PC
+| උභතෝ සංඝයා කෙරෙහි උපසම්පන්න භික්ෂුණීන්ට | වෙනත් ධර්මයකින් (**අඤ්ඤෙන ධම්මෙන**) | DK
+| එක් පසෙකින් පමණක් උපසම්පන්න (**එකතොඋපසම්පන්නා**) භික්ෂුණියකට | අවවාද කරයි | DK
+## {story} සම්මත භික්ෂුව අවවාද කළ යුතු ක්‍රමය
+%% සූදානම | සම්මත භික්ෂුව පිරිවෙන අතුගා (**පරිවෙණං සම්මජ්ජිත්වා**), බොන පැන් (**පානීයං**) හා පරිහරණයට පැන් (**පරිභොජනීයං**) තබා, ආසන පනවා, දෙවැන්නකු ද ගෙන (**දුතියං ගහෙත්වා**) හිඳිය යුතු ය;
+%% භික්ෂුණීන් | භික්ෂුණීහු එතැනට ගොස් ඒ භික්ෂුවට වැඳ එකත්පසෙක හිඳිය යුතු ය;
+%% විමසීම | ඉන්පසු ඒ භික්ෂුව පහත වගුවේ පිළිවෙළට විමසිය යුතු ය.
+|! භික්ෂුව අසයි | භික්ෂුණීන්ගේ පිළිතුර | කළ යුත්ත
+| “**සමග්ගාත්ථ, භගිනියො?**” — නැගණියෙනි, සමග්ග ව (සියලු දෙනා එක් ව) සිටිත් ද? | “**සමග්ගාම්හාය්‍යා**” — ආර්‍යයෙනි, සමග්ග ව සිටිමු | දෙවන ප්‍රශ්නය ඇසිය යුතු ය
+| “**වත්තන්ති, භගිනියො, අට්ඨ ගරුධම්මා?**” — නැගණියෙනි, ගරුධර්ම අට පවතිත් ද (පිළිපදිනු ලැබේ ද)? | “**වත්තන්තාය්‍යා**” — ආර්‍යයෙනි, පවතිති | “**එසො, භගිනියො, ඔවාදො**” (නැගණියෙනි, මේ අවවාදය යි) කියා අවවාදය පැවරිය යුතු ය (**නිය්‍යාදෙතබ්බො**)
+| (එම ප්‍රශ්නය ම) | “**න වත්තන්තාය්‍යා**” — ආර්‍යයෙනි, නොපවතිති | ගරුධර්ම අට කිය යුතු ය (**ඔසාරෙතබ්බා**)
+## {story} ගරුධර්ම අට
+|! # | ගරුධර්මය
+| 1 | වස් සියයක් උපසම්පදා වූ භික්ෂුණිය විසින් වුව ද එදින උපසම්පදා වූ භික්ෂුවට වැඳීම (**අභිවාදනං**), දැක නැගිටීම (**පච්චුට්ඨානං**), ඇඳිලි බැඳීම (**අඤ්ජලිකම්මං**) හා සුදුසු ගෞරව කිරීම (**සාමීචිකම්මං**) කළ යුතු ය.
+| 2 | භික්ෂුණිය විසින් භික්ෂූන් නැති ආවාසයක (**අභික්ඛුකෙ ආවාසෙ**) වස් නොවිසිය යුතු ය.
+| 3 | සෑම අඩ මසක ම භික්ෂුණිය විසින් භික්ෂු සංඝයාගෙන් කරුණු දෙකක් බලාපොරොත්තු විය යුතු ය — උපෝසථය විචාරීම (**උපොසථපුච්ඡකං**) හා අවවාදයට පැමිණීම (**ඔවාදුපසඞ්කමනං**).
+| 4 | වස් විසූ භික්ෂුණිය විසින් උභතෝ සංඝයා කෙරෙහි කරුණු තුනකින් පවාරණය කළ යුතු ය — දුටු දෙයින් (**දිට්ඨෙන**), ඇසූ දෙයින් (**සුතෙන**), හෝ සැක කළ දෙයින් (**පරිසඞ්කාය**).
+| 5 | ගරුධර්මයකට පැමිණි භික්ෂුණිය විසින් උභතෝ සංඝයා කෙරෙහි අඩ මසක මානත්තය (**පක්ඛමානත්තං**) පිරිය යුතු ය.
+| 6 | ධර්ම සයෙහි වසර දෙකක් හික්මුණු ශික්ෂමානාව (**සික්ඛමානා**) විසින් උභතෝ සංඝයා කෙරෙහි උපසම්පදාව සෙවිය යුතු ය.
+| 7 | භික්ෂුණිය විසින් කිසිදු ආකාරයකින් භික්ෂුවකට ආක්‍රෝශ (**අක්කොසිතබ්බො**) හෝ පරිභව (**පරිභාසිතබ්බො**) නොකළ යුතු ය.
+| 8 | අද පටන් භික්ෂුණීන්ට භික්ෂූන් කෙරෙහි වචන මාර්ගය (**වචනපථො**) වැසී ඇත (**ඔවටො**); භික්ෂූන්ට භික්ෂුණීන් කෙරෙහි වචන මාර්ගය නොවැසී ඇත (**අනොවටො**).
+සෑම ගරුධර්මයක් ම “==සත්කාර කොට, ගරු කොට, බුහුමන් කොට, පුදා දිවි ඇති තෙක් නොඉක්මවිය යුතු (**යාවජීවං අනතික්කමනීයො**)==” ධර්මයකි.
+## {story} ක්‍රමය වරද්දීමේ දුක්කට
+|! භික්ෂුණීන් කී දෙය | භික්ෂුව කළ දෙය | ඇවැත
+| “**සමග්ගාම්හාය්‍යා**” (සමග්ග ව සිටිමු) | (ගරුධර්ම නොකියා) වෙනත් ධර්මයක් කියයි | DK
+| “**වග්ගාම්හාය්‍යා**” (වග්ග ව — කොටසක් පමණක් — සිටිමු) | ගරුධර්ම අට කියයි | DK
+| — | අවවාදය නොපවරා (**ඔවාදං අනිය්‍යාදෙත්වා**) වෙනත් ධර්මයක් කියයි | DK
+## {story} ආපත්ති — සම්මුති කර්මය, සංඝයා හා සංඥාව අනුව
+|! සම්මුති කර්මය | කර්මය ගැන සංඥාව | භික්ෂුණී සංඝයා | සංඝය ගැන සංඥාව | ගණන | ඇවැත
+| අධම්මකම්මය | අධම්ම යැයි සලකා / සැක සහිතව / ධම්ම යැයි සලකා | වග්ග | වග්ග යැයි සලකා / සැක සහිතව / සමග්ග යැයි සලකා | 9 | PC
+| අධම්මකම්මය | අධම්ම යැයි සලකා / සැක සහිතව / ධම්ම යැයි සලකා | සමග්ග | වග්ග යැයි සලකා / සැක සහිතව / සමග්ග යැයි සලකා | 9 | PC
+| ධම්මකම්මය | අධම්ම යැයි සලකා / සැක සහිතව / ධම්ම යැයි සලකා | වග්ග | වග්ග යැයි සලකා / සැක සහිතව / සමග්ග යැයි සලකා | 9 | DK
+| ධම්මකම්මය | අධම්ම යැයි සලකා / සැක සහිතව | සමග්ග | වග්ග යැයි සලකා / සැක සහිතව / සමග්ග යැයි සලකා | 6 | DK
+| ධම්මකම්මය | ධම්ම යැයි සලකා | සමග්ග | වග්ග යැයි සලකා / සැක සහිතව | 2 | DK
+| ධම්මකම්මය | ධම්ම යැයි සලකා | සමග්ග | සමග්ග යැයි සලකා | 1 | N
+!src: මෙසේ සම්මුති කර්මය අධම්මකම්මයක් වූ කල සියලු අවස්ථාවල **පාචිත්තිය 18** ද, ධම්මකම්මයක් වූ කල අවසාන අවස්ථාව හැර **දුක්කට 17** ද වේ.
+## {story} අනාපත්ති
+# උද්දේශයක් දෙන්නාට (**උද්දෙසං දෙන්තො**);
+# පරිපෘච්ඡාවක් දෙන්නාට (**පරිපුච්ඡං දෙන්තො**);
+# “ආර්‍යයෙනි, කියන්න” (**ඔසාරෙහි අය්‍යා**) යි කියනු ලබන්නේ කියයි නම්;
+# ප්‍රශ්නයක් අසයි නම් (**පඤ්හං පුච්ඡති**);
+# ප්‍රශ්නයක් අසනු ලැබූයේ පිළිතුරු කියයි නම් (**පඤ්හං පුට්ඨො කථෙති**);
+# අනුන් සඳහා කියන කල භික්ෂුණීහු අසති නම් (**අඤ්ඤස්සත්ථාය භණන්තං භික්ඛුනියො සුණන්ති**);
+# ශික්ෂමානාවකට (**සික්ඛමානාය**);
+# සාමණේරියකට (**සාමණෙරියා**);
+# උමතු වූවහුට (**උම්මත්තකස්ස**); ආදිකම්මිකයාට (**ආදිකම්මිකස්ස**).
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> යො පන භික්ඛු අසම්මතො භික්ඛුනියො ඔවදෙය්‍ය පාචිත්තියං.
+මෙය **ඕවාද වග්ගයේ පළමු ශික්ෂාපදයයි** (**ඔවාදවග්ගස්ස පඨමෙ**). කඞ්ඛාවිතරණිය පද මෙසේ විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **අසම්මතො** | අංග අටකින් යුත් භික්ෂුවට භාග්‍යවතුන් වහන්සේ විසින් ඤත්තිචතුත්ථ කර්මයෙන් අනුදන්නා ලද යම් **භික්ඛුනොවාදක සම්මුතියක්** වේ ද, එයින් සම්මත නොකළ.
+| **ඔවදෙය්‍ය** | භික්ෂුණී සංඝයාට හෝ, බොහෝ භික්ෂුණීන්ට හෝ, එක් භික්ෂුණියකට හෝ, “වස් සියයක් උපසම්පදා වූ භික්ෂුණිය විසින් වුව ද එදින උපසම්පදා වූ භික්ෂුවට වැඳීම, දැක නැගිටීම, ඇඳිලි බැඳීම, සුදුසු ගෞරව කිරීම කළ යුතු ය” ආදී **ගරුධර්ම අට** අවවාද වශයෙන් කියමින් (**ඔසාරෙන්තො**) අවවාද කරයි නම්.
+| **පාචිත්තියං** | ==අවවාදය අවසානයේ (**ඔවාදපරියොසානෙ**)== පාචිත්තිය වේ.
+## {kkv} සම්පූර්ණ අර්ථය
+%% පුද්ගලයා | යම් භික්ෂුවක් භික්ඛුනොවාදක සම්මුතියෙන් සම්මත නොවූයේ,
+%% කාට ද | භික්ෂුණී සංඝයාට, බොහෝ භික්ෂුණීන්ට හෝ එක් භික්ෂුණියකට,
+%% කුමක් ද | “වස් සියයක් උපසම්පදා වූ …” ආදී ගරුධර්ම අට
+%% ක්‍රියාව | අවවාද වශයෙන් කියමින් අවවාද කරයි නම්,
+%% ඵලය | අවවාදය අවසානයේ ඔහුට **පාචිත්තිය** වේ.
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ස්ථානය | සැවැත් නුවර,
+%% පුද්ගලයා | ෂඩ්වර්ගීය භික්ෂූන් අරබයා,
+%% වස්තුව | **අවවාද කිරීමේ වස්තුවෙහි** (**ඔවදනවත්ථුස්මිං**) පනවන ලද මෙය
+%% ප්‍රඥප්තිය | **අසාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට පොදු නොවේ;
+%% ආණත්තිය | **අනාණත්තික**යි — අනුන්ට අණ කිරීමෙන් ඇවැත් නොවේ.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| අසම්මත භික්ෂුව, උභතෝ සංඝයා කෙරෙහි උපසම්පන්න භික්ෂුණීන්ට | ගරුධර්ම අට අවවාද වශයෙන් කියයි — අවවාදය අවසානයේ | PC
+| අසම්මත භික්ෂුව | වෙනත් ධර්මයකින් අවවාද කරයි | DK
+| භික්ෂුණීන් කෙරෙහි පමණක් උපසම්පන්න වූවියට (**උපසම්පන්නමත්තං**) | අවවාද කරයි | DK
+| සම්මත භික්ෂුවකගේ වුව ද සම්මුති කර්මය **අධම්මකම්මයක්** වූ කල, **වග්ග** භික්ෂුණී සංඝයාට | අධම්මකම්ම යැයි සලකා, සැක සහිතව, හෝ ධම්මකම්ම යැයි සලකා — එක් එකක තිකය බැගින් = 9 | PC
+| අධම්මකම්මයක් වූ කල, **සමග්ග** භික්ෂුණී සංඝයාට | එලෙස ම 9 — අධම්මකම්ම වශයෙන් මුළු **18** | PC
+| සම්මුති කර්මය **ධම්මකම්මයක්** වූ කල | “ධම්මකම්මයෙහි ධම්මකම්ම යැයි සලකා සමග්ග සංඝයාට සමග්ග යැයි සලකා අවවාද කරයි” යන අවසාන පදය හැර, එම ක්‍රමයෙන් ම **17** | DK
+| “**සමග්ගම්හාය්‍යා**” යි කී කල | වෙනත් ධර්මයක් කියයි | DK
+| “**වග්ගම්හාය්‍යා**” යි කී කල | ගරුධර්ම අට කියයි | DK
+| අවවාදය නොපවරා (**අනිය්‍යාතෙත්වා**) | වෙනත් ධර්මයක් කියයි | DK
+## {kkv} අනාපත්ති
+# ධම්මකම්මයෙහි ධම්මකම්ම යැයි සලකා, සමග්ග භික්ෂුණී සංඝයාට සමග්ග යැයි සලකා අවවාද කරන්නාට;
+# ගරුධර්ම පාළිය උද්දේශයක් ලෙස දෙන්නාට (**ගරුධම්මපාළිං උද්දෙසං දෙති**);
+# පරිපෘච්ඡාව දෙන්නාට;
+# “**ඔසාරෙහි අය්‍යා**” යි කියනු ලැබ කියන්නාට;
+# ප්‍රශ්නයක් අසනු ලැබ පිළිතුරු කියන්නාට;
+# භික්ෂුණීන් අසා සිටිය දී අනුන් සඳහා කියන්නාට;
+# ශික්ෂමානාවකට හෝ සාමණේරියකට කියන්නාට;
+# උමතු වූවහු ආදීන්ට.
+## {kkv} අංග (= තීණි — තුනකි)
+# සම්මත නොවීම (**අසම්මතතා**);
+# භික්ෂුණිය පරිපූර්ණ ලෙස උපසම්පන්න වීම (**භික්ඛුනියා පරිපුණ්ණූපසම්පන්නතා**);
+# අවවාද වශයෙන් ගරුධර්ම අට කීම (**ඔවාදවසෙන අට්ඨගරුධම්මභණනං**).
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **පදසෝධම්ම සික්ඛාපද**යට සමාන ම ය.
+#en
+## {story} The Origin Story
+### The Matter of Exhorting (Ovadana-vatthu)
+@ Sāvatthī · Jetavana, Anāthapiṇḍika’s monastery
+:::short
+Seeing that the elders who exhorted the nuns received robes and other requisites, the group-of-six monks also called the nuns, ==gave only a short Dhamma talk and spent the day in pointless talk==, then sent them away. The nuns told the Blessed One, “How could the exhortation be fruitful!” He rebuked the group-of-six, allowed the authorisation of an **exhorter of nuns (bhikkhunovādaka)**, and laid down the rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Sāvatthī in Jetavana, Anāthapiṇḍika’s monastery. At that time the elder monks who exhorted the nuns ==were receiving robes, alms-food, lodgings and medicinal requisites for the sick==. The group-of-six monks thought: “Friends, these days the elder monks who exhort the nuns receive robes, alms-food, lodgings and medicinal requisites. Come, friends, let us too exhort the nuns.” They went to the nuns and said: “Sisters, come to us too; we too will exhort you.”
+The nuns went to the group-of-six, bowed and sat to one side. The group-of-six ==gave the nuns only a short Dhamma talk, spent the day in pointless (animal) talk==, and dismissed them: “Go, sisters.” The nuns went to the Blessed One, bowed and stood to one side. The Blessed One asked: “Nuns, was the exhortation fruitful (**iddho**)?” “Venerable sir, how could the exhortation be fruitful! The venerable group-of-six gave only a short Dhamma talk, spent the day in pointless talk, and sent us away.” The Blessed One instructed, inspired, roused and gladdened the nuns with a Dhamma talk; they bowed, kept him on their right, and left.
+Then the Blessed One, on this occasion and in this connection, had the Saṅgha of monks assembled and questioned the group-of-six: “Is it true, monks, that you gave the nuns only a short Dhamma talk, spent the day in pointless talk, and sent them away?” “It is true, Blessed One.” He rebuked them: “Foolish men, how can you send them away like that? Foolish men, this does not inspire faith in those without faith …” Having given a Dhamma talk, he said: “Monks, ==I allow you to authorise an exhorter of nuns (**bhikkhunovādaka**)==.” For this, the monk should first be asked (**yācitabbo**); then a competent and capable monk should inform the Saṅgha by a **motion-and-three-announcements (ñatticatuttha)** act, and the Saṅgha should authorise that monk as exhorter of nuns. Then the Blessed One, having rebuked the group-of-six in many ways, laid down the training rule:
+:::
+!pn: The training rule
+> යො පන භික්ඛු අසම්මතො භික්ඛුනියො ඔවදෙය්‍ය පාචිත්තියං.
+~ Whatever monk should admonish bhikkhunīs without being appointed: Pācittiya.
+### The Allowance of Authorisation with Eight Qualities
+:::short
+Later the group-of-six ==went outside the boundary and authorised one another==, saying, “We too are authorised,” and did the same again. The Blessed One rebuked them and allowed only ==a monk endowed with eight qualities== to be authorised as exhorter of nuns.
+:::
+:::long
+At that time the authorised elder monks, exhorting the nuns, were receiving robes, alms-food, lodgings and medicinal requisites just as before. The group-of-six thought: “Friends, these days the authorised elder monks receive gains just as before. Come, friends, let us ==go outside the boundary (**nissīmaṃ**), authorise one another as exhorters of nuns==, and exhort the nuns.” Having done so, they went to the nuns and said: “Sisters, we too are authorised. Come to us too; we too will exhort you.”
+The nuns went to them, bowed and sat to one side. Again the group-of-six gave only a short Dhamma talk, spent the day in pointless talk, and dismissed them: “Go, sisters.” When the nuns went to the Blessed One and were asked, “Was the exhortation fruitful?”, they reported what had happened: “Venerable sir, how could the exhortation be fruitful!” The Blessed One instructed, inspired, roused and gladdened them with a Dhamma talk; they bowed, kept him on their right, and left.
+Then the Blessed One had the Saṅgha of monks assembled and questioned the group-of-six. When they said, “It is true,” he rebuked them, gave a Dhamma talk, and said: “Monks, ==I allow you to authorise as exhorter of nuns a monk endowed with eight qualities==” (the eight qualities are in the next section).
+:::
+!src: This is an allowance additional to the rule, not a supplementary rule (anupaññatti); the original promulgation is itself the complete training rule.
+## {story} The eight qualities of a monk who may be authorised as exhorter of nuns
+# He is **virtuous** (**sīlavā**) — he lives restrained by the restraint of the Pātimokkha (**pātimokkhasaṃvarasaṃvuto**), accomplished in conduct and resort (**ācāragocarasampanno**), seeing danger in the slightest faults (**aṇumattesu vajjesu bhayadassāvī**), and trains in the training rules having undertaken them;
+# He is **learned** (**bahussuto**) — he retains what he has learned (**sutadharo**) and has a store of learning (**sutasannicayo**); those teachings that are good in the beginning, good in the middle and good in the end, with meaning and phrasing, proclaiming the holy life complete and pure — such teachings he has learned much of, retained, recited verbally, examined with the mind and penetrated well by view;
+# **Both Pātimokkhas** (**ubhayāni pātimokkhāni**) have been well transmitted to him in detail, well analysed, well mastered and well determined, rule by rule and in detail (**suttaso anubyañjanaso**);
+# He has **good speech** (**kalyāṇavāco**) and a good delivery (**kalyāṇavākkaraṇo**);
+# He is generally **liked and agreeable** to the nuns (**piyo manāpo**);
+# He is **capable** of exhorting the nuns (**paṭibalo**);
+# He has **never before committed a heavy offence** (**garudhammaṃ ajjhāpannapubbo na hoti**) with a woman who has gone forth dedicated to the Blessed One and wears the ochre robe;
+# He is of **twenty rains or more** (**vīsativasso vā atirekavīsativasso vā**).
+## {story} Word analysis
+|! Word | Meaning in the text
+| **Asammato** | Not authorised by a **motion-and-three-announcements act** (**ñatticatutthena kammena**).
+| **Bhikkhuniyo** | Nuns fully ordained **in both Saṅghas** (**ubhatosaṅghe**).
+| **Ovadeyya** | Should he exhort — the offences are in the table below.
+### “Ovadeyya” — offences according to the exhortation
+|! To whom | With what he exhorts | Offence
+| Nuns fully ordained in both Saṅghas | With the eight heavy rules (**aṭṭhahi garudhammehi**) | PC
+| Nuns fully ordained in both Saṅghas | With some other Dhamma (**aññena dhammena**) | DK
+| A nun ordained on one side only (**ekatoupasampannā**) | He exhorts her | DK
+## {story} How the authorised monk should exhort
+%% Preparation | The authorised monk should sweep the precinct (**pariveṇaṃ sammajjitvā**), set out drinking water (**pānīyaṃ**) and water for use (**paribhojanīyaṃ**), prepare a seat, and sit having taken a companion (**dutiyaṃ gahetvā**);
+%% The nuns | the nuns should go there, bow to that monk and sit to one side;
+%% Questions | then the monk should question them in the order of the table below.
+|! The monk asks | The nuns’ reply | What is to be done
+| “**Samaggāttha, bhaginiyo?**” — Sisters, are you complete (all assembled)? | “**Samaggāmhāyyā**” — We are complete, venerable sir | He should ask the second question
+| “**Vattanti, bhaginiyo, aṭṭha garudhammā?**” — Sisters, are the eight heavy rules being kept? | “**Vattantāyyā**” — They are kept, venerable sir | He should hand over the exhortation (**niyyādetabbo**): “**Eso, bhaginiyo, ovādo**” (Sisters, this is the exhortation)
+| (the same question) | “**Na vattantāyyā**” — They are not kept, venerable sir | He should recite the eight heavy rules (**osāretabbā**)
+## {story} The eight heavy rules
+|! # | Heavy rule
+| 1 | A nun ordained even a hundred years must bow to (**abhivādanaṃ**), rise for (**paccuṭṭhānaṃ**), salute with joined palms (**añjalikammaṃ**) and pay proper respect to (**sāmīcikammaṃ**) a monk ordained that very day.
+| 2 | A nun must not spend the rains in a residence without monks (**abhikkhuke āvāse**).
+| 3 | Every half-month a nun should look to the Saṅgha of monks for two things — asking about the Uposatha (**uposathapucchakaṃ**) and coming for exhortation (**ovādupasaṅkamanaṃ**).
+| 4 | Having completed the rains, a nun must hold the Pavāraṇā before both Saṅghas on three grounds — what was seen (**diṭṭhena**), heard (**sutena**) or suspected (**parisaṅkāya**).
+| 5 | A nun who has committed a heavy offence must undergo half a month’s mānatta (**pakkhamānattaṃ**) before both Saṅghas.
+| 6 | A probationer (**sikkhamānā**) who has trained for two years in the six rules should seek full ordination from both Saṅghas.
+| 7 | A nun must not in any way abuse (**akkositabbo**) or revile (**paribhāsitabbo**) a monk.
+| 8 | From today the way of speech (**vacanapatho**) of nuns towards monks is closed (**ovaṭo**); the way of speech of monks towards nuns is not closed (**anovaṭo**).
+Each heavy rule is a rule “==to be honoured, respected, revered and venerated, and not to be transgressed as long as life lasts (**yāvajīvaṃ anatikkamanīyo**)==.”
+## {story} Dukkaṭas for faulty procedure
+|! What the nuns said | What the monk did | Offence
+| “**Samaggāmhāyyā**” (we are complete) | Speaks some other Dhamma (instead of the heavy rules) | DK
+| “**Vaggāmhāyyā**” (we are incomplete — only a part) | Recites the eight heavy rules | DK
+| — | Speaks some other Dhamma without handing over the exhortation (**ovādaṃ aniyyādetvā**) | DK
+## {story} Offences — by the act of authorisation, the Saṅgha and perception
+|! Act of authorisation | Perception of the act | Saṅgha of nuns | Perception of the Saṅgha | Count | Offence
+| Illegitimate act | As illegitimate / in doubt / as legitimate | Incomplete | As incomplete / in doubt / as complete | 9 | PC
+| Illegitimate act | As illegitimate / in doubt / as legitimate | Complete | As incomplete / in doubt / as complete | 9 | PC
+| Legitimate act | As illegitimate / in doubt / as legitimate | Incomplete | As incomplete / in doubt / as complete | 9 | DK
+| Legitimate act | As illegitimate / in doubt | Complete | As incomplete / in doubt / as complete | 6 | DK
+| Legitimate act | As legitimate | Complete | As incomplete / in doubt | 2 | DK
+| Legitimate act | As legitimate | Complete | As complete | 1 | N
+!src: Thus, when the act of authorisation is illegitimate there are **18 pācittiyas** in every case; when it is legitimate there are **17 dukkaṭas**, all cases except the last.
+## {story} No offence
+# For one giving a recitation (**uddesaṃ dento**);
+# For one giving an explanation (**paripucchaṃ dento**);
+# If, being told “Please recite, venerable sir” (**osārehi ayyā**), he recites;
+# If he asks a question (**pañhaṃ pucchati**);
+# If, being asked a question, he answers (**pañhaṃ puṭṭho katheti**);
+# If the nuns listen while he speaks for the sake of another (**aññassatthāya bhaṇantaṃ bhikkhuniyo suṇanti**);
+# To a probationer (**sikkhamānāya**);
+# To a novice nun (**sāmaṇeriyā**);
+# For one who is insane (**ummattakassa**); for the first offender (**ādikammikassa**).
+## {kkv} The rule and the meaning of its words
+> යො පන භික්ඛු අසම්මතො භික්ඛුනියො ඔවදෙය්‍ය පාචිත්තියං.
+This is **the first rule of the Ovāda chapter** (**ovādavaggassa paṭhame**). The Kaṅkhāvitaraṇī explains the words thus:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Asammato** | Not authorised by that **authorisation as exhorter of nuns** which the Blessed One allowed, by a motion-and-three-announcements act, for a monk endowed with eight qualities.
+| **Ovadeyya** | Should he exhort the Saṅgha of nuns, several nuns or one nun, reciting by way of exhortation (**osārento**) the **eight heavy rules** beginning “A nun ordained even a hundred years must bow to, rise for, salute with joined palms and pay proper respect to a monk ordained that very day.”
+| **Pācittiyaṃ** | Pācittiya ==at the end of the exhortation (**ovādapariyosāne**)==.
+## {kkv} The full meaning
+%% Person | Whatever monk, not authorised by the authorisation as exhorter of nuns,
+%% To whom | to the Saṅgha of nuns, to several nuns or to one nun,
+%% What | the eight heavy rules beginning “A nun ordained a hundred years …”
+%% Act | recites by way of exhortation and so exhorts them,
+%% Result | incurs a **pācittiya** at the end of the exhortation.
+## {kkv} The laying down of the rule and the command
+%% Place | Laid down at Sāvatthī,
+%% Person | concerning the group-of-six monks,
+%% Matter | **on the matter of exhorting** (**ovadanavatthusmiṃ**), this rule
+%% Kind of rule | is a **rule not shared** (**asādhāraṇa-paññatti**) — not shared with the nuns;
+%% Command | and it is **anāṇattika** — no offence arises by commanding another.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| An unauthorised monk, to nuns fully ordained in both Saṅghas | Recites the eight heavy rules by way of exhortation — at the end of the exhortation | PC
+| An unauthorised monk | Exhorts with some other Dhamma | DK
+| To one merely ordained among the nuns (**upasampannamattaṃ**) | Exhorts her | DK
+| Even for an authorised monk, when the act of authorisation is **illegitimate**, to an **incomplete** Saṅgha of nuns | Perceiving it as illegitimate, in doubt, or as legitimate — a triad for each = 9 | PC
+| When the act is illegitimate, to a **complete** Saṅgha of nuns | Likewise 9 — in all **18** by way of the illegitimate act | PC
+| When the act of authorisation is **legitimate** | By the same method, except the final case “a legitimate act perceived as legitimate, a complete Saṅgha perceived as complete” — **17** | DK
+| When told “**Samaggamhāyyā**” | Speaks some other Dhamma | DK
+| When told “**Vaggamhāyyā**” | Recites the eight heavy rules | DK
+| Without handing over the exhortation (**aniyyātetvā**) | Speaks some other Dhamma | DK
+## {kkv} No offence
+# For one who, the act being legitimate and perceived as legitimate, exhorts a complete Saṅgha of nuns perceived as complete;
+# For one who gives the text of the heavy rules as a recitation (**garudhammapāḷiṃ uddesaṃ deti**);
+# For one who gives an explanation;
+# For one who recites on being told “**Osārehi ayyā**”;
+# For one who answers on being asked a question;
+# For one who speaks for the sake of another while the nuns are listening;
+# For one who speaks to a probationer or a novice nun;
+# For the insane and so on.
+## {kkv} Factors (= tīṇi — three)
+# Not being authorised (**asammatatā**);
+# The nun being fully ordained (**bhikkhuniyā paripuṇṇūpasampannatā**);
+# Reciting the eight heavy rules by way of exhortation (**ovādavasena aṭṭhagarudhammabhaṇanaṃ**).
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest are just the same as in the **Padasodhamma rule**.

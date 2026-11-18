@@ -1,0 +1,655 @@
+@sk51
+T: සුරුසුරුකාරක සික්ඛාපදය || Not Slurping
+R: - || -
+N: කොසඹෑ නුවර, ඝෝසිතාරාමය || Kosambī, Ghositārāma
+P: බොහෝ භික්ෂූන් || A number of monks
+V: "සුරු සුරු" යන හඬ නගමින් වැළඳීම || Eating or drinking with a slurping sound
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ කොසඹෑ නුවර · ඝෝසිතාරාමය
+එක් **බමුණෙක්** සංඝයාට **කිරි පානයක්** පිළියෙළ කළේය. භික්ෂූහු ==**"සුරු සුරු" යන හඬ නගමින්** කිරි බීහ==. **පෙර නළුවෙකු වූ** එක් භික්ෂුවක් ==**"මේ මුළු සංඝයා ම සීතලෙන් ගැහෙන්නාක් මෙනැ"**== යි **සංඝයා අරබයා විහිළුවක්** කළේය. අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ඔහුට ගරහා, "**මහණෙනි, බුදුන්, දහම, සඟුන් අරබයා විහිළු නොකළ යුතුය; කරන්නාට දුක්කට**" යි වදාරා, සුරුසුරු ශික්ෂාපදය ද පැනවූහ.
+## (අ) පද විවරණය
+**සුරුසුරුකාරකං** — ==**"සුරු සුරු" යන හඬ කර කර**== වැළඳීම, බීම.
+## (ආ) තෙරුවන් අරබයා විහිළු (දව)
+**දවො** — **පරිහාස වචනය**. ==**කවර ආකාරයකින් වුව ද තෙරුවන් අරබයා** විහිළු නොකළ යුතුය== (සමන්තපාසාදිකා), උදාහරණ:
+|! රත්නය | විහිළු ආකාර
+| **බුද්ධ** | "කුමන බුද්ධ ද? **සිලක බුද්ධ** ද, **පටිබුද්ධ** ද?"
+| **ධම්ම** | "කුමන ධම්ම ද? **ගෝ ධම්ම** ද, **අජ ධම්ම** ද?"
+| **සංඝ** | "කුමන සංඝ ද? **මිග සංඝ** ද, **පසු සංඝ** ද?"
+එසේ කිරීම **දුක්කට** ය.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**කොසඹෑ නුවරදී** බොහෝ භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඈ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** "සුරු සුරු" හඬ නගමින් වැළඳීම / බීම | DK
+## (ඉ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සුරු සුරු හඬ නගමින් වැළඳීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Kosambī · Ghositārāma
+A **brahmin** had prepared **a milk drink** for the Saṅgha. The monks ==drank the milk **with a slurping sound**==. A monk **who had been an actor** said ==“**I think the whole Saṅgha has caught a chill**”== — **a joke about the Saṅgha**. Monks of few wishes criticised him. The Blessed One rebuked him, said “**Monks, one should not joke about the Buddha, the Dhamma or the Saṅgha; whoever does so: dukkaṭa**,” and laid down the rule on slurping as well.
+## (A) Explanation of terms
+**Surusurukārakaṃ** — ==eating or drinking **making the sound “suru suru”**==.
+## (B) Joking about the Triple Gem (dava)
+**Davo** — **words of mockery**. ==**One should not joke about the Three Jewels in any way at all**== (Samantapāsādikā), for example:
+|! Jewel | Forms of mockery
+| **Buddha** | “What Buddha? **A silaka-Buddha**? **A paṭibuddha**?”
+| **Dhamma** | “What Dhamma? **A cow-dhamma**? **A goat-dhamma**?”
+| **Saṅgha** | “What Saṅgha? **A herd of deer**? **A herd of cattle**?”
+Doing so is **dukkaṭa**.
+## (C) The laying down of the rule and the command
+It was laid down at **Kosambī** concerning a number of monks. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (D) Division of offences
+|! Case | Offence
+| Eating or drinking with a slurping sound **out of disrespect** | DK
+## (E) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Eating with a slurping sound**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk52
+T: හත්ථනිල්ලේහක සික්ඛාපදය || Not Licking the Hand
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත ලෙවකමින් වැළඳීම || Eating while licking the hand
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**අත ලෙවකමින්** වැළඳූහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**හත්ථනිල්ලෙහකං** — ==**අත ලෙවකා ලෙවකා**== වැළඳීම.
+==වළඳන විට **ඇඟිල්ලක් තරම්වත්** ලෙවකෑම නොවටී==. එහෙත් **ඝන කැඳ, පැණි (ඵාණිත), කිරිබත් (පායාස)** ආදිය **ඇඟිලිවලින් ගෙන ඇඟිලි කටට දමා** වැළඳීම වටී.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** අත ලෙවකමින් වැළඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **අත ලෙවකමින් වැළඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==ate **licking their hands**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Hatthanillehakaṃ** — ==eating **licking the hand again and again**==.
+==While eating, one may not lick **even a finger**==. But **thick porridge, molasses (phāṇita), milk-rice (pāyāsa)** etc. may be taken **with the fingers and the fingers put into the mouth**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Eating while licking the hand **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Eating while licking the hand**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk53
+T: පත්තනිල්ලේහක සික්ඛාපදය || Not Licking the Bowl
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පාත්‍රය ලෙවකමින් වැළඳීම || Eating while licking the bowl
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ඉතිරිය ස්වල්පයක් වූ විට එකතු කොට ලෙවකා වැළඳීම; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; gathering together and licking up a small remainder; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**පාත්‍රය ලෙවකමින්** වැළඳූහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**පත්තනිල්ලෙහකං** — ==**පාත්‍රය ලෙවකා ලෙවකා**== වැළඳීම. ==**එක් ඇඟිල්ලකින් වුව ද** පාත්‍රය ලෙවකා නොකෑ යුතුය==.
+**පරිත්තකෙ සෙසෙ** — පාත්‍රයේ **ඉතිරිය ස්වල්පයක්** වූ විට **එක් තැනකට එකතු කොට** ලෙවකා වැළඳීම **අනාපත්ති** ය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** පාත්‍රය ලෙවකමින් වැළඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ඉතිරිය ස්වල්පයක්** වූ විට එකතු කොට ලෙවකා වැළඳීම.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **පාත්‍රය ලෙවකමින් වැළඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==ate **licking their bowls**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Pattanillehakaṃ** — ==eating **licking the bowl again and again**==. ==The bowl should not be licked **even with one finger**==.
+**Parittake sese** — when **only a little is left**, **gathering it together** and licking it up is **no offence**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Eating while licking the bowl **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# Gathering together and licking up **a small remainder**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Eating while licking the bowl**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk54
+T: ඔට්ඨනිල්ලේහක සික්ඛාපදය || Not Licking the Lips
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: තොල් ලෙවකමින් වැළඳීම || Eating while licking the lips
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**තොල් ලෙවකමින්** වැළඳූහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ඔට්ඨනිල්ලෙහකං** — ==**තොල් ලෙවකා ලෙවකා**== වැළඳීම.
+==**එක් තොලක් වුව ද දිවෙන්** ලෙවකා නොකෑ යුතුය==; **තොල් මසින් ම ගෙන ඇතුළට** ගැනීම වටී.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** තොල් ලෙවකමින් වැළඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **තොල් ලෙවකමින් වැළඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==ate **licking their lips**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Oṭṭhanillehakaṃ** — ==eating **licking the lips again and again**==.
+==**Not even one lip** should be licked **with the tongue**==; one may **draw it in with the flesh of the lips**.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Eating while licking the lips **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Eating while licking the lips**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk55
+T: සාමිස සික්ඛාපදය || Not Taking the Water Vessel with a Soiled Hand
+R: - || -
+N: භග්ග ජනපදය, සුංසුමාරගිරය || Bhagga country, Suṃsumāragira
+P: බොහෝ භික්ෂූන් || A number of monks
+V: ආහාර තැවරුණු අතින් පැන් භාජනය පිළිගැනීම || Taking the drinking-water vessel with a food-soiled hand
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; "සෝදන්නෙමි" හෝ "සෝදවන්නෙමි" යි පිළිගැනීම; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; taking it with the thought “I’ll wash it” or “I’ll have it washed.”; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ භග්ග ජනපදය · සුංසුමාරගිරය, භේසකළා වනයේ මිගදාය
+භික්ෂූහු **කොකනද ප්‍රාසාදයේ** ==**ආහාර තැවරුණු අතින් පැන් භාජනය** පිළිගත්හ==. මිනිස්සු "**කාමභෝගී ගිහියන් මෙනි**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**කොකනද ප්‍රාසාදය** — **"කොකනද" යනු පියුමයි**; ඒ ප්‍රාසාදය **පියුමක හැඩයෙන්** තිබූ බැවින් එසේ නම් කළහ (සමන්තපාසාදිකා).
+**සාමිසෙන හත්ථෙන** — ==**ආමිස (ආහාර) තැවරුණු අතින්**==.
+==මෙය **පිළිකුල් බව නිසා** තහනම් කළේය== (සමන්තපාසාදිකා). එබැවින් —
+|! භාජනය | විනිශ්චය
+| **සාංඝික, පෞද්ගලික, ගිහියන් සතු, තමා සතු** — කවරක් වුව ද | ආමිස අතින් නොගත යුතුය — DK
+| **සක්, කෝප්පය (සරාව), තැටිය (ථාලක)** | ආමිස අතින් නොගත යුතුය — DK
+| අතේ **ආමිස නොතැවරුණු කොටසකින්** ගැනීම | වටී
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**භග්ග ජනපදයේ සුංසුමාරගිරයේදී** බොහෝ භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** ආහාර තැවරුණු අතින් පැන් භාජනය පිළිගැනීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# "**සෝදන්නෙමි**" හෝ "**සෝදවන්නෙමි**" යි පිළිගැනීම.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **ආහාර තැවරුණු අතින් පැන් භාජනය පිළිගැනීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Bhagga country · Suṃsumāragira, the deer park in Bhesakaḷā grove
+At **the Kokanada palace** the monks ==took **the drinking-water vessel with food-soiled hands**==. People complained, “**Just like householders enjoying sensual pleasures!**”, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Kokanada palace** — **“kokanada” means a lotus**; the palace was **lotus-shaped**, hence its name (Samantapāsādikā).
+**Sāmisena hatthena** — ==**with a hand soiled with food**==.
+==It was forbidden **because it is repulsive**== (Samantapāsādikā). So —
+|! Vessel | Ruling
+| **Saṅgha's, personal, a layman's, one's own** — any at all | not to be taken with a soiled hand — DK
+| **a conch-shell, a cup (sarāva), a plate (thālaka)** | not to be taken with a soiled hand — DK
+| taking it **with a part of the hand not soiled** | allowable
+## (B) The laying down of the rule and the command
+It was laid down at **Suṃsumāragira in the Bhagga country** concerning a number of monks. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Taking the drinking-water vessel with a food-soiled hand **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# Taking it with the thought “**I’ll wash it**” or “**I’ll have it washed**.”
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Taking the water vessel with a soiled hand**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk56
+T: සසිත්ථක සික්ඛාපදය || Not Throwing out Rice-filled Rinse Water
+R: - || -
+N: භග්ග ජනපදය, සුංසුමාරගිරය || Bhagga country, Suṃsumāragira
+P: බොහෝ භික්ෂූන් || A number of monks
+V: බත් ඇට සහිත පාත්‍රය සේදූ දිය ගම් අතර ඉවත දැමීම || Throwing out bowl-rinsing water with rice grains among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; බත් ඇට ඉවතට ගෙන, පොඩි කොට, පිළිගන්නා භාජනයකට, හෝ පිටතට ගෙන ගොස් ඉවත දැමීම; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; throwing it out after removing, or crushing the grains, into a receptacle, or taking it outside; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ භග්ග ජනපදය · සුංසුමාරගිරය, භේසකළා වනයේ මිගදාය
+භික්ෂූහු **කොකනද ප්‍රාසාදයේ** ==**බත් ඇට සහිත පාත්‍රය සේදූ දිය ගම් අතර** ඉවත දැමූහ==. මිනිස්සු "**කාමභෝගී ගිහියන් මෙනි**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**කොකනද ප්‍රාසාදය** — **"කොකනද" යනු පියුමයි**; ඒ ප්‍රාසාදය **පියුමක හැඩයෙන්** තිබූ බැවින් එසේ නම් කළහ (සමන්තපාසාදිකා).
+**සසිත්ථකං පත්තධොවනං** — ==**බත් ඇට (සිත්ථ) සහිත** පාත්‍රය සේදූ දිය==.
+**අන්තරඝරෙ ඡඩ්ඩෙති** — **ගම් අතර (නිවාස අතර)** ඉවත දමයි.
+## (ආ) ඉවත දැමිය හැකි ආකාර
+|! ක්‍රමය | විස්තරය
+| **උද්ධරිත්වා** | බත් ඇට **දියෙන් ඉවතට ගෙන එක් තැනක ගොඩ කොට** දිය පමණක් ඉවත දැමීම
+| **භින්දිත්වා** | බත් ඇට **පොඩි කොට දිය හා සමාන** කොට ඉවත දැමීම
+| **පටිග්ගහෙ** | **පිළිගන්නා භාජනයක් (පටිග්ගහ)** ඇත්නම් **ඊට** දැමීම
+| **නීහරිත්වා** | **පිටතට ගෙන ගොස්** ඉවත දැමීම
+මෙසේ ඉවත දමන්නාට **අනාපත්ති** ය.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**භග්ග ජනපදයේ සුංසුමාරගිරයේදී** බොහෝ භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඈ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** බත් ඇට සහිත පාත්‍රය සේදූ දිය ගම් අතර ඉවත දැමීම | DK
+## (ඉ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# බත් ඇට **ඉවතට ගෙන**, **පොඩි කොට**, **පිළිගන්නා භාජනයකට**, හෝ **පිටතට ගෙන ගොස්** ඉවත දැමීම.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **බත් ඇට සහිත සේදූ දිය ගම් අතර දැමීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Bhagga country · Suṃsumāragira, the deer park in Bhesakaḷā grove
+At **the Kokanada palace** the monks ==threw out **bowl-rinsing water containing rice grains among the houses**==. People complained, “**Just like householders enjoying sensual pleasures!**”, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Kokanada palace** — **“kokanada” means a lotus**; the palace was **lotus-shaped**, hence its name (Samantapāsādikā).
+**Sasitthakaṃ pattadhovanaṃ** — ==bowl-rinsing water **with rice grains (sittha)** in it==.
+**Antaraghare chaḍḍeti** — throws it out **among the houses**.
+## (B) Allowed ways of disposal
+|! Method | Description
+| **uddharitvā** | **taking the grains out of the water, heaping them in one place**, and throwing out only the water
+| **bhinditvā** | **crushing the grains so they become like water** and throwing it out
+| **paṭiggahe** | throwing it **into a receptacle (paṭiggaha)**, if one is held out
+| **nīharitvā** | **taking it outside** and throwing it out
+Throwing it out thus is **no offence**.
+## (C) The laying down of the rule and the command
+It was laid down at **Suṃsumāragira in the Bhagga country** concerning a number of monks. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (D) Division of offences
+|! Case | Offence
+| Throwing out rinse water with rice grains among the houses **out of disrespect** | DK
+## (E) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# Throwing it out after **removing**, or **crushing** the grains, **into a receptacle**, or **taking it outside**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Throwing out rinse water with rice grains among the houses**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk57
+T: ඡත්තපාණි සික්ඛාපදය || Not Teaching One Holding an Umbrella
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කුඩයක් අතැති නොගිලනෙකුට දහම් දෙසීම || Teaching Dhamma to one holding an umbrella who is not ill
+K: DD sd=s an=a anu=1
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**කුඩයක් අතැති අයට** දහම් දෙසූහ==. අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ඡත්තං** — කුඩ **තුන් වර්ගයකි**:
+|! කුඩය | අර්ථය
+| **සේතච්ඡත්ත** | **රෙද්දෙන් වැසූ සුදු කුඩය**
+| **කිලඤ්ජච්ඡත්ත** | **පැදුරු (වේවැල් පටි) කුඩය**
+| **පණ්ණච්ඡත්ත** | **තල් කොළ ආදී** කොළවලින් කළ කුඩය
+**මණ්ඩලබද්ධ, සලාකබද්ධ** — තුන ම **රවුමින් හා කූරුවලින් බැඳි** බව දැක්වීමට කීවකි. **එහි ම හටගත් දණ්ඩක** සහිත **එක් කොළයක කුඩය** ද කුඩයක් ම ය.
+**ඡත්තපාණි** — ==කුඩය **ඉසිලුව ද, උරහිසේ තැබුව ද, කලවයේ තැබුව ද**, **අතින් නොමුදා** සිටින තාක්== ඔහුට දහම් දෙසීම නොවටී. ==**අනෙකෙකු කුඩය ඉසිලුව ද**, කුඩ රඳවනයක තිබුණ ද, **අතින් ඉවත් වූ විගස** "ඡත්තපාණි" නොවේ== — දෙසීම වටී.
+**ධම්මො** — ==**බුදුන් වදාළ, ශ්‍රාවකයන් වදාළ, ඍෂීන් වදාළ, දෙවියන් වදාළ**, **අර්ථය හා ධර්මය හා බැඳුණු**== දෙය.
+|! දේශනා ක්‍රමය | ඇවැත
+| **පදයෙන්** දේශනා කිරීම | **පදයක් පාසා** DK
+| **අක්ෂරයෙන්** දේශනා කිරීම | **අක්ෂරයක් පාසා** DK
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **ගිලන් බව අනුව එක් අනුප්‍රඥප්තියකි** — ==ගිලනෙකුට දහම් දෙසීමට භික්ෂූන් කුකුස් කළ විට මිනිස්සු "**ගිලනෙකුට දහම් නොදෙසන්නේ කෙසේ ද?**" යි දොස් කීහ; එවිට "**නොගිලන්**" යන්න එක් කළහ==. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** කුඩයක් අතැති නොගිලනෙකුට දහම් දෙසීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **කුඩයක් අතැති නොගිලනෙකුට දහම් දෙසීම**.
+## (ඊ) සමුට්ඨානාදිය
+**ධම්මදේසනා සමුට්ඨානයි** (වාචා-චිත්ත), **කිරියාකිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි** (කඞ්ඛාවිතරණී සාරාංශය).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==taught Dhamma to **people holding an umbrella**==. Monks of few wishes complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Chattaṃ** — **three kinds** of umbrella:
+|! Umbrella | Meaning
+| **setacchatta** | **a white umbrella covered with cloth**
+| **kilañjacchatta** | **a wicker (split-cane) umbrella**
+| **paṇṇacchatta** | one made of **palm leaves** or other leaves
+**Maṇḍalabaddha, salākabaddha** — said to show that all three are **bound with rings and ribs**. **A single-leaf umbrella** with **its own stalk** is also an umbrella.
+**Chattapāṇi** — ==as long as he **does not let go of it with his hand** — **holding it up, resting it on the shoulder or on the thigh**== — one may not teach him. ==If **someone else holds it**, or it stands on an umbrella stand, **as soon as it leaves his hand**== he is not “holding an umbrella” — one may teach him.
+**Dhammo** — ==what is **spoken by the Buddha, by disciples, by sages or by deities**, **connected with the meaning and with the Dhamma**==.
+|! Way of teaching | Offence
+| teaching **word by word** | DK **for each word**
+| teaching **syllable by syllable** | DK **for each syllable**
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. There is **one amendment on account of illness** — ==when monks hesitated to teach someone ill, people complained, “**How can they not teach Dhamma to one who is ill?**”, and “**not ill**” was added==. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Teaching Dhamma to one holding an umbrella who is not ill **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Teaching one holding an umbrella who is not ill**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Dhamma-teaching origin** (speech–mind), **by doing and not doing, release by perception, with intention, blameworthy by nature, verbal action, unwholesome mind, painful feeling** (Kaṅkhāvitaraṇī summary).
+
+@sk58
+T: දණ්ඩපාණි සික්ඛාපදය || Not Teaching One Holding a Staff
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සැරයටියක් අතැති නොගිලනෙකුට දහම් දෙසීම || Teaching Dhamma to one holding a staff who is not ill
+K: DD sd=s an=a anu=1
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**සැරයටියක් අතැති අයට** දහම් දෙසූහ==. අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**දණ්ඩො** — ==**මධ්‍යම පුරුෂයෙකුගේ රියන් සතරක්** ප්‍රමාණයේ සැරයටිය==. **ඊට දිග** එකක් ද, **ඊට කෙටි** එකක් ද "**දණ්ඩ**" නොවේ.
+**දණ්ඩපාණි** — සැරයටිය **අතින් නොමුදා සිටින තාක්** ඔහුට දහම් දෙසීම නොවටී; **අතින් ඉවත් වූ විගස** දෙසීම වටී.
+**ධම්මො** — ==**බුදුන් වදාළ, ශ්‍රාවකයන් වදාළ, ඍෂීන් වදාළ, දෙවියන් වදාළ**, **අර්ථය හා ධර්මය හා බැඳුණු**== දෙය.
+|! දේශනා ක්‍රමය | ඇවැත
+| **පදයෙන්** දේශනා කිරීම | **පදයක් පාසා** DK
+| **අක්ෂරයෙන්** දේශනා කිරීම | **අක්ෂරයක් පාසා** DK
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **ගිලන් බව අනුව එක් අනුප්‍රඥප්තියකි** — ==ගිලනෙකුට දහම් දෙසීමට භික්ෂූන් කුකුස් කළ විට මිනිස්සු "**ගිලනෙකුට දහම් නොදෙසන්නේ කෙසේ ද?**" යි දොස් කීහ; එවිට "**නොගිලන්**" යන්න එක් කළහ==. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** සැරයටියක් අතැති නොගිලනෙකුට දහම් දෙසීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සැරයටියක් අතැති නොගිලනෙකුට දහම් දෙසීම**.
+## (ඊ) සමුට්ඨානාදිය
+**ධම්මදේසනා සමුට්ඨානයි** (වාචා-චිත්ත), **කිරියාකිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි** (කඞ්ඛාවිතරණී සාරාංශය).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==taught Dhamma to **people holding a staff**==. Monks of few wishes complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Daṇḍo** — ==a staff **four cubits long by a medium-sized man's measure**==. **One longer** or **one shorter** is “**not a staff**.”
+**Daṇḍapāṇi** — as long as he **does not let go of it with his hand**, one may not teach him; **as soon as it leaves his hand**, one may.
+**Dhammo** — ==what is **spoken by the Buddha, by disciples, by sages or by deities**, **connected with the meaning and with the Dhamma**==.
+|! Way of teaching | Offence
+| teaching **word by word** | DK **for each word**
+| teaching **syllable by syllable** | DK **for each syllable**
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. There is **one amendment on account of illness** — ==when monks hesitated to teach someone ill, people complained, “**How can they not teach Dhamma to one who is ill?**”, and “**not ill**” was added==. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Teaching Dhamma to one holding a staff who is not ill **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Teaching one holding a staff who is not ill**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Dhamma-teaching origin** (speech–mind), **by doing and not doing, release by perception, with intention, blameworthy by nature, verbal action, unwholesome mind, painful feeling** (Kaṅkhāvitaraṇī summary).
+
+@sk59
+T: සත්ථපාණි සික්ඛාපදය || Not Teaching One Holding a Knife
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ආයුධයක් (සත්ථයක්) අතැති නොගිලනෙකුට දහම් දෙසීම || Teaching Dhamma to one holding a knife or blade who is not ill
+K: DD sd=s an=a anu=1
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**ආයුධයක් (සත්ථයක්) අතැති අයට** දහම් දෙසූහ==. අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සත්ථං** — ==**එක් පසෙකින් මුවහත් හෝ දෙපසින් මුවහත්** පහර දෙන ආයුධය== (කඩුව, පිහිය ආදිය).
+**සත්ථපාණි** — එය **අතින් නොමුදා සිටින තාක්** ඔහුට දහම් දෙසීම නොවටී. ==**කඩුව ඉණේ බැඳගෙන සිටින්නා** "සත්ථපාණි" නොවේ==.
+**ධම්මො** — ==**බුදුන් වදාළ, ශ්‍රාවකයන් වදාළ, ඍෂීන් වදාළ, දෙවියන් වදාළ**, **අර්ථය හා ධර්මය හා බැඳුණු**== දෙය.
+|! දේශනා ක්‍රමය | ඇවැත
+| **පදයෙන්** දේශනා කිරීම | **පදයක් පාසා** DK
+| **අක්ෂරයෙන්** දේශනා කිරීම | **අක්ෂරයක් පාසා** DK
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **ගිලන් බව අනුව එක් අනුප්‍රඥප්තියකි** — ==ගිලනෙකුට දහම් දෙසීමට භික්ෂූන් කුකුස් කළ විට මිනිස්සු "**ගිලනෙකුට දහම් නොදෙසන්නේ කෙසේ ද?**" යි දොස් කීහ; එවිට "**නොගිලන්**" යන්න එක් කළහ==. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** ආයුධයක් (සත්ථයක්) අතැති නොගිලනෙකුට දහම් දෙසීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සත්ථයක් අතැති නොගිලනෙකුට දහම් දෙසීම**.
+## (ඊ) සමුට්ඨානාදිය
+**ධම්මදේසනා සමුට්ඨානයි** (වාචා-චිත්ත), **කිරියාකිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි** (කඞ්ඛාවිතරණී සාරාංශය).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==taught Dhamma to **people holding a knife or blade**==. Monks of few wishes complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Satthaṃ** — ==a striking weapon **with one edge or two edges**== (a sword, knife etc.).
+**Satthapāṇi** — as long as he **does not let go of it with his hand**, one may not teach him. ==**One standing with a sword girded on** is not “holding a knife”==.
+**Dhammo** — ==what is **spoken by the Buddha, by disciples, by sages or by deities**, **connected with the meaning and with the Dhamma**==.
+|! Way of teaching | Offence
+| teaching **word by word** | DK **for each word**
+| teaching **syllable by syllable** | DK **for each syllable**
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. There is **one amendment on account of illness** — ==when monks hesitated to teach someone ill, people complained, “**How can they not teach Dhamma to one who is ill?**”, and “**not ill**” was added==. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Teaching Dhamma to one holding a knife or blade who is not ill **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Teaching one holding a blade who is not ill**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Dhamma-teaching origin** (speech–mind), **by doing and not doing, release by perception, with intention, blameworthy by nature, verbal action, unwholesome mind, painful feeling** (Kaṅkhāvitaraṇī summary).
+
+@sk60
+T: ආවුධපාණි සික්ඛාපදය || Not Teaching One Holding a Weapon
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: දුන්නක් (ආයුධයක්) අතැති නොගිලනෙකුට දහම් දෙසීම || Teaching Dhamma to one holding a weapon (bow) who is not ill
+K: DD sd=s an=a anu=1
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**දුන්නක් (ආයුධයක්) අතැති අයට** දහම් දෙසූහ==. අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ආවුධං** — පාළියේ "**චාපය, කෝදණ්ඩය**" (දුන්න) යි කීව ද, ==**සෑම දුනු වර්ගයක් ම ඊතල වර්ග සමඟ** ආයුධ යැයි දත යුතුය== (සමන්තපාසාදිකා). එබැවින් —
+|! අතේ ඇති දෙය | විනිශ්චය
+| **ඊතලය සමඟ දුන්න** | දෙසීම නොවටී
+| **දුන්න පමණක්**, හෝ **ඊතලය පමණක්** | දෙසීම නොවටී
+| **ලණුව බැඳි** හෝ **ලණුව නැති** දුන්න | දෙසීම නොවටී
+| දුන්න **කරේ (සමන්තපාසාදිකා) / උරහිසේ (කඞ්ඛාවිතරණී) එල්ලා** — **අතින් නොගන්නා තාක්** | දෙසීම වටී
+සිටගෙන හෝ හිඳගෙන සිටියත් එසේ ම ය.
+**ධම්මො** — ==**බුදුන් වදාළ, ශ්‍රාවකයන් වදාළ, ඍෂීන් වදාළ, දෙවියන් වදාළ**, **අර්ථය හා ධර්මය හා බැඳුණු**== දෙය.
+|! දේශනා ක්‍රමය | ඇවැත
+| **පදයෙන්** දේශනා කිරීම | **පදයක් පාසා** DK
+| **අක්ෂරයෙන්** දේශනා කිරීම | **අක්ෂරයක් පාසා** DK
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **ගිලන් බව අනුව එක් අනුප්‍රඥප්තියකි** — ==ගිලනෙකුට දහම් දෙසීමට භික්ෂූන් කුකුස් කළ විට මිනිස්සු "**ගිලනෙකුට දහම් නොදෙසන්නේ කෙසේ ද?**" යි දොස් කීහ; එවිට "**නොගිලන්**" යන්න එක් කළහ==. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** දුන්නක් (ආයුධයක්) අතැති නොගිලනෙකුට දහම් දෙසීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **ආයුධයක් අතැති නොගිලනෙකුට දහම් දෙසීම**.
+## (ඊ) සමුට්ඨානාදිය
+**ධම්මදේසනා සමුට්ඨානයි** (වාචා-චිත්ත), **කිරියාකිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි** (කඞ්ඛාවිතරණී සාරාංශය).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==taught Dhamma to **people holding a weapon (bow)**==. Monks of few wishes complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Āvudhaṃ** — though the Pāli says “**a bow, a cross-bow**,” ==**every kind of bow together with every kind of arrow** is to be understood as a weapon== (Samantapāsādikā). So —
+|! In his hand | Ruling
+| **a bow with an arrow** | not allowable to teach
+| **a bow alone**, or **an arrow alone** | not allowable
+| a bow **strung** or **unstrung** | not allowable
+| a bow **hung on the neck (Samantapāsādikā) / shoulder (Kaṅkhāvitaraṇī)** — **as long as he does not take it in hand** | allowable
+The same whether he is standing or sitting.
+**Dhammo** — ==what is **spoken by the Buddha, by disciples, by sages or by deities**, **connected with the meaning and with the Dhamma**==.
+|! Way of teaching | Offence
+| teaching **word by word** | DK **for each word**
+| teaching **syllable by syllable** | DK **for each syllable**
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. There is **one amendment on account of illness** — ==when monks hesitated to teach someone ill, people complained, “**How can they not teach Dhamma to one who is ill?**”, and “**not ill**” was added==. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Teaching Dhamma to one holding a weapon (bow) who is not ill **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Teaching one holding a weapon who is not ill**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Dhamma-teaching origin** (speech–mind), **by doing and not doing, release by perception, with intention, blameworthy by nature, verbal action, unwholesome mind, painful feeling** (Kaṅkhāvitaraṇī summary).

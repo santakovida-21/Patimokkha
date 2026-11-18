@@ -1,0 +1,525 @@
+@np26
+T: සුත්තවිඤ්ඤත්ති සික්ඛාපදය || Asking for Yarn
+R: - || -
+N: රජගහ නුවර, වේළුවනය || Rājagaha, Veḷuvana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: නූල් ඉල්ලා රෙදි වියන්නන් ලවා සිවුරු වියවීම || Asking for yarn and having weavers weave robes
+K: SC sd=s an=a anu=0
+Z: සිවුරු මැසීමට, ආයෝගය, ඉණ පටිය, අංස බන්ධනය, පාත්‍ර පසුම්බිය, පෙරහන සඳහා නූල් ඉල්ලීම; ඥාතීන් / පවාරණය කළ අය; අනුන් සඳහා; තමාගේ ධනයෙන්; උමතු ආදීන් || Asking yarn to sew robes, for a back-strap, belt, shoulder-strap, bowl-bag or strainer; relatives / those who invited; for another; own funds; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ රජගහ නුවර · වේළුවනය කලන්දක නිවාපය
+**ෂඩ්වර්ගීය භික්ෂූහු** සිවුරු කරන කාලයේ ==බොහෝ නූල් ඉල්ලූහ==. සිවුරු මසා අවසන් වූ පසු ද බොහෝ නූල් ඉතිරි විය. "අපි තවත් නූල් ඉල්ලා **රෙදි වියන්නන් ලවා සිවුරු වියවමු**" යි ඔවුහු එසේ කළහ. වියා අවසන් වූ පසු ද නූල් ඉතිරි වූ හෙයින් **දෙවනුව ද තෙවනුව ද** නූල් ඉල්ලා සිවුරු වියවූහ. මිනිස්සු "ශාක්‍යපුත්‍රීය ශ්‍රමණයෝ **තමන් ම නූල් ඉල්ලා රෙදි වියන්නන් ලවා සිවුරු වියවති**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සාමං** — තමා ම ඉල්ලා.
+**සුත්තං** — නූල් සය වර්ගයකි, නැතහොත් ඒවාට අනුලෝම වූ දෙයකි:
+|! නූල | සෑදෙන්නේ
+| **ඛොම** | හණ (ලිනන්) කෙඳිවලින්
+| **කප්පාසික** | කපු පුළුන්වලින්
+| **කොසෙය්‍ය** | පට පණු කෙඳි කටිනු කොට
+| **කම්බල** | එළු ලොම්වලින්
+| **සාණ** | සාණ කෙඳිවලින්
+| **භඞ්ග** | ඉහත පහ මිශ්‍ර කොට (ඇතැම් මතයට, වෙනම කෙඳි නූලක්)
+**විඤ්ඤාපෙත්වා** — සිවුර සඳහා ඉල්ලා.
+**වායාපෙය්‍ය** — "ඇවැත්නි, මට සිවුරක් වියන්න" යි **අකැප විඤ්ඤත්තියකින්** වියවයි.
+**තන්තවායෙහි** — රෙදි වියන්නන් (පේසකාරයන්) ලවා.
+## (ආ) කැප / අකැප නූල් හා වියන්නා
+**නූල්** — තමා ම ඉල්ලූ නූල් **අකැප** ය; ඥාතීන් ආදීන්ගෙන් ලැබුණු ඒවා **කැප** ය.
+**වියන්නා** — ඥාති නොවන, පවාරණය නොකළ අයෙකු **ඉල්ලීමෙන්** ලද විට **අකැප** ය; ඥාතියෙකු, පවාරණය කළ අයෙකු හෝ **මිල දී** යෙදවූ අයෙකු **කැප** ය.
+වියන්නාට මග්ගස (තුරි, වේම) ආදිය නැති නිසා "වනයෙන් ගෙනෙමි" යි වෑයක් හෝ පොරොවක් මුවහත් කිරීමේ සිට, උපකරණ සඳහා හෝ සිවුර වියීම සඳහා හේ කරන ==**සෑම පයෝගයක් පාසා භික්ෂුවට දුක්කටයි**==. **දිගින් වියතක් හා පළලින් රියනක්** වියූ කල්හි — විකප්පනයට සුදුසු අවම සිවුරු ප්‍රමාණය — **නිස්සග්ගිය පාචිත්තියයි**. සිවුර වැඩෙන තාක් **මේ ප්‍රමාණයෙන් ඇවැත් වැඩෙයි**.
+|! නූල් | වියන්නා | ඇවැත
+| අකැප (ඉල්ලූ) | අකැප | වියත × රියන පාසා **නිස්සග්ගිය පාචිත්තිය**
+| කැප | අකැප | ඒ ප්‍රමාණයෙන් ම **දුක්කට**
+| අකැප | කැප | ඒ ප්‍රමාණයෙන් ම **දුක්කට**
+| කැප | කැප (ඥාති / පවාරිත / මිලට) | අනාපත්ති (වියීම නිසා)
+**මිශ්‍ර නූල්** — කැප හා අකැප නූල්වලින් **කෙත් ලියදි මෙන්** කොටස් වශයෙන් වියූ සිවුරක, අකැප නූල් කොටස **අවම සිවුරු ප්‍රමාණයට** සම නම් එහි **පාචිත්තිය**, සෙසු කොටස්වල **දුක්කට**; කොටස් ඊට කුඩා නම් — **ඇසක තරම්** වුව ද — සියලු කොටස්වල කොටස් ගණනින් **දුක්කට** ය. **එක් නූලක් හැර එක් නූලක්** ලෙස, හෝ **දිගට කැප, හරහට අකැප** ලෙස වියූ විට **පුවරුවක් (ඵලකය) පාසා දුක්කටයි**. කැප හා අකැප වියන්නන් දෙදෙනෙකු වාරයෙන් වියන විට ද මේ ක්‍රමයෙන් ම ඇවැත් බෙදේ; දෙදෙනා ම එකට **වේමය අල්ලා** වියන්නේ නම් අකැප නූල්වල පුවරුවක් පාසා **පාචිත්තිය** යි.
+## (ඇ) දින දහය ගණන් වීම
+නූල් ද කැප, වියන්නා ද කැප නම් වියවීම නිසා ඇවැත් නැත. එහෙත් **දසාහ (නිස්සග්ගිය 1)** ඇවතින් රැකෙනු පිණිස, ==විකප්පනයට සුදුසු ප්‍රමාණයක් වියූ විගස **මග්ගසයේ තිබිය දී ම අධිෂ්ඨාන** කළ යුතුය==.
+|! වියන්නා කී දේ | දින දහය ගණන් වන්නේ
+| "අසවල් දිනයේ වියා තබමි" | ඔහු නියම කළ දින සිට
+| "වියා පණිවිඩයක් එවමි" | **ඔහු ම එවූ** භික්ෂුව දැනුම් දුන් දින සිට (අනෙකෙකු කීම ප්‍රමාණ නොවේ)
+| "කෙනෙකු අතේ එවමි" | ගෙනා භික්ෂුව **සිවුර දුන්** දින සිට
+වියීමේ කුලිය **කාකණිකයක් තරම්වත්** ඉතිරි නම් තාම ඔහු සතු නොවන බැවින් රැකේ.
+> ඉදං මෙ, භන්තෙ, චීවරං සාමං සුත්තං විඤ්ඤාපෙත්වා තන්තවායෙහි වායාපිතං නිස්සග්ගියං, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි.
+## (ඈ) ප්‍රඥප්තිය හා ආණත්තිය
+**රජගහ නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා සිවුරු වියවීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඉ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ඉල්ලූ නූල් ඉල්ලූ වියන්නා ලවා වියවීම — වියන්නාගේ සෑම පයෝගයක් පාසා | DK
+| දිගින් වියතක් හා පළලින් රියනක් වියූ කල්හි — වියවූ බව දැන, සැක ඇතිව, හෝ නොවියවූ යැයි සිතා (**තික පාචිත්තිය**) | NP
+| ඉල්ලූ වියන්නා ලවා ඉල්ලීමෙන් තොරව ලද නූල් වියවීම, හෝ කැප වියන්නා ලවා ඉල්ලූ නූල් වියවීම | DK
+| මිශ්‍ර නූල් — අවම ප්‍රමාණයට අඩු කොටස් / එකින් එක නූල් / දිග-හරස් මිශ්‍ර | DK
+| නොවියවූ දෙයක් වියවූ යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඊ) අනාපත්ති
+# **සිවුරු මැසීමට** නූල් ඉල්ලීම.
+# **ආයෝගය** (පිට බඳින පටිය), **කායබන්ධනය** (ඉණ පටිය), **අංසබද්ධකය** (පාත්‍ර පසුම්බි පටිය), **පත්තත්ථවිකාව** (පාත්‍ර පසුම්බිය), **පරිස්සාවනය** (පෙරහන) සඳහා.
+# **ඥාතීන්ගෙන්**, **පවාරණය කළ අයගෙන්** කැප නූල් ලවා වියවීම.
+# **අනුන් සඳහා**; **තමාගේ ධනයෙන්**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (උ) අංග (= තීණි — තුනකි)
+# **සිවුර සඳහා ඉල්ලූ නූල්** වීම.
+# **තමා සඳහා** වීම.
+# **අකැප වියන්නා ලවා අකැප විඤ්ඤත්තියෙන්** වියවීම.
+## (ඌ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (සමුට්ඨාන සය), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Rājagaha · Veḷuvana, the squirrels' feeding place
+At robe-making time **the group-of-six** ==asked for a great deal of yarn==. Even after the robes were made much yarn was left over. “Let's ask for more yarn and **have weavers weave robes**,” they said, and did so. Yarn was still left after weaving, so **a second and a third time** they asked for yarn and had robes woven. People complained, “The Sakyan ascetics **ask for yarn themselves and have weavers weave robes**!” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sāmaṃ** — having asked himself.
+**Suttaṃ** — yarn of the six kinds, or what is comparable:
+|! Yarn | Made from
+| **Khoma** | flax / linen fibre
+| **Kappāsika** | cotton
+| **Koseyya** | silk spun from cocoons
+| **Kambala** | sheep's wool
+| **Sāṇa** | hemp fibre
+| **Bhaṅga** | a mixture of the above five (some say a separate bark fibre)
+**Viññāpetvā** — having asked for it for the sake of a robe.
+**Vāyāpeyya** — has it woven with **an unallowable request**: “Weave me a robe, friend.”
+**Tantavāyehi** — by weavers.
+## (B) Allowable and unallowable yarn and weavers
+**Yarn** — yarn one has asked for oneself is **unallowable**; yarn received through relatives and the like is **allowable**.
+**Weaver** — one engaged **by asking**, being unrelated and not having invited, is **unallowable**; a relative, one who invited, or one engaged **for payment** is **allowable**.
+If the weaver lacks loom parts and, saying “I'll fetch them from the forest,” sharpens an adze or axe — from then on, ==**for every effort** he makes for tools or for weaving the robe, the monk incurs a dukkaṭa==. When **a span in length and a cubit in width** have been woven — the minimum assignable robe size — it is **nissaggiya pācittiya**. As the robe grows, **the offences grow by this measure**.
+|! Yarn | Weaver | Offence
+| unallowable (asked for) | unallowable | **nissaggiya pācittiya** for each span × cubit
+| allowable | unallowable | **dukkaṭa** by the same measure
+| unallowable | allowable | **dukkaṭa** by the same measure
+| allowable | allowable (relative / invited / paid) | no offence (for the weaving)
+**Mixed yarn** — in a robe woven **in sections like the plots of a field**, where an unallowable-yarn section equals **the minimum robe size**, there is **pācittiya** for it and **dukkaṭa** for the others; if the sections are smaller — **even the size of an eye** — **dukkaṭa** for every section by count. Woven **with alternate threads**, or **allowable lengthwise and unallowable crosswise**, there is **dukkaṭa for every board-length (phalaka)**. When an allowable and an unallowable weaver work in turns, the offences divide the same way; if both **hold the reed together**, it is **pācittiya** for each board-length of unallowable yarn.
+## (C) When the ten days begin
+If both yarn and weaver are allowable there is no offence for the weaving. But to guard against the **ten-day rule (nissaggiya 1)**, ==as soon as an assignable size has been woven it should be **determined while still on the loom**==.
+|! The weaver said | The ten days count from
+| “I'll have it woven by such-and-such day” | the day he fixed
+| “I'll weave it and send word” | the day **the messenger he sent** informs him (another's report doesn't count)
+| “I'll send it by someone” | the day the monk who brought it **hands it over**
+While **even a kākaṇika** of the weaving fee remains unpaid, the robe is not yet his, so he is protected.
+> Idaṃ me, bhante, cīvaraṃ sāmaṃ suttaṃ viññāpetvā tantavāyehi vāyāpitaṃ nissaggiyaṃ, imāhaṃ saṅghassa nissajjāmi.
+## (D) The laying down of the rule and the command
+It was laid down at **Rājagaha** concerning the group-of-six, on the matter of having robes woven. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (E) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Having asked-for yarn woven by an asked-for weaver — for each effort of the weaver | DK
+| When a span by a cubit is woven — knowing it is being woven, in doubt, or perceiving it as not (**triple pācittiya**) | NP
+| An asked-for weaver weaving yarn not asked for, or an allowable weaver weaving asked-for yarn | DK
+| Mixed yarn — sections smaller than the minimum / alternate threads / lengthwise–crosswise mix | DK
+| Not woven, perceived as woven or in doubt | DK
+## (F) No offence
+# Asking for yarn **to sew robes**.
+# For a **back-strap (āyoga)**, **belt**, **shoulder-strap**, **bowl-bag** or **water-strainer**.
+# Having allowable yarn woven by **relatives** or **those who invited**.
+# **For another**; with **one's own funds**.
+# For the insane and so on, and the first offender.
+## (G) Factors (= tīṇi — three)
+# **Yarn asked for the sake of a robe**.
+# **For oneself**.
+# Having it woven **by an unallowable weaver through an unallowable request**.
+## (H) Origin and the rest (samuṭṭhāna)
+**Go-between origin** (six origins), **by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@np27
+T: මහාපේසකාර සික්ඛාපදය || The Great Weaver Rule
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිර || Ven. Upananda the Sakyan
+V: පවාරණයක් නොමැතිව රෙදි වියන්නන් වෙත ගොස් සිවුර විශේෂ කරවීම || Going uninvited to weavers and getting the robe improved
+K: SC sd=s an=a anu=0
+Z: ඥාතීන් / පවාරණය කළ අයගේ වියන්නන්; අනුන් සඳහා; තමාගේ ධනයෙන්; මිල අධික එකක් වියවීමට කැමති අයට මිල අඩු එකක් වියවීම; උමතු ආදීන් || Weavers of relatives / those who invited; for another; own funds; having a cheaper one woven when they wanted a costly one; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+විදෙස් ගමනක් යන එක් පුරුෂයෙක් තම බිරිඳට "**නූල් කිරා අසවල් රෙදි වියන්නාට දී සිවුරක් වියවා තබන්න; මා ආපසු ආ විට උපනන්ද ආර්‍යයන්ට සිවුරකින් පුදමි**" යි කීවේය. පිඬු සිඟා යන එක් භික්ෂුවක් එය අසා **උපනන්ද** තෙරුන්ට "ඔබ මහා පින්වන්තයෙකි" යි දැන්වීය.
+උපනන්ද තෙරුන් ඒ රෙදි වියන්නා වෙත ගොස් "මේ සිවුර **මා උදෙසා** වියනු ලැබේ. ==**දිග කරන්න, පළල කරන්න, ඝන කරන්න, හොඳින් වියන්න, හොඳින් පතුරන්න, හොඳින් සූරන්න, හොඳින් පීරන්න**; අපි ද ඔබට යමක් දෙන්නෙමු==" යි කීහ. රෙදි වියන්නා ඒ කාන්තාව වෙත ගොස් තවත් නූල් ඉල්ලීය. "සිවුර ඒ නූලෙන් වියන්නැයි කීවෙමි නොවේ ද?" යි ඇසූ විට "උපනන්ද ආර්‍යයන් එසේ කීහ" යි කීය. ඇය **පළමු දුන් තරමට ම නූල් නැවත** දුන්නාය.
+පුරුෂයා පැමිණි බව ඇසූ උපනන්ද තෙරුන් ඔහුගේ නිවසට ගොස් හිඳ ගත්හ. ඔහු සිවුර පිදී. පසුව සිදු වූ දේ ඇසූ ඔහු "**මේ ශ්‍රමණයෝ මහේච්ඡයෝ ය, නොසතුටු ය; ඔවුන්ට සිවුරකින් පිදීම පහසු නැත. පෙර පවාරණය නොකළ උපනන්ද ආර්‍යයන් කෙසේ නම් රෙදි වියන්නන් වෙත ගොස් සිවුරේ විකල්ප කරන්නේ ද?**" යි දොස් කීවේය. භාග්‍යවතුන් වහන්සේ "ඥාතියෙක් ද?" යි ඇසූ කල්හි "ඥාතියෙක් නොවේ" යි කී හෙයින් — "**ඥාති නොවන තැනැත්තා ඥාති නොවන අයෙකුට සුදුසු නුසුදුසු දේ නොදනී**" යි ගරහා ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**භික්ඛුං පනෙව උද්දිස්ස** — භික්ෂුව සඳහා, භික්ෂුව අරමුණු කොට, ඔහුට සිවුරකින් පිදීමට කැමතිව.
+**අඤ්ඤාතකො** — මවගේ හෝ පියාගේ පැත්තෙන් **සත්වන මුත්තා පරම්පරාව** දක්වා සම්බන්ධයක් නැති තැනැත්තා.
+**චීවරං** — සය වර්ගයෙන් එකක් — විකප්පනයට සුදුසු අවම ප්‍රමාණය.
+**තත්‍ර චෙ සො භික්ඛු** — රෙදි වියන්නන් සිටින **ගමේ හෝ නියම්ගමේ** — යමෙකු උදෙසා සිවුර වියනු ලැබේ ද ඒ භික්ෂුව.
+**පුබ්බෙ අප්පවාරිතො** — සිවුරේ හිමිකරුවන් විසින් "**ස්වාමීනි, ඔබට කෙබඳු සිවුරක් ඕනෑ ද? කෙබඳු සිවුරක් වියවන්න ද?**" යි පෙරාතුව නොකියන ලද්දේ.
+**තන්තවායෙ උපසඞ්කමිත්වා** — ගෙදරට ගොස් හෝ කොතැනක හෝ හමු වී.
+**විකප්පං ආපජ්ජෙය්‍ය** — **විශේෂ සැකසුමක්, අධික විධානයක්** කරයි.
+## (ආ) "විකප්ප" — සිවුර විශේෂ කරවීම
+|! පාළි පදය | අර්ථය
+| **ආයතං** | දිග
+| **විත්ථතං** | පළල
+| **අප්පිතං** | ඝන
+| **සුවීතං** | හොඳින් — සෑම තැනම සමව — වියූ
+| **සුප්පවායිතං** | හොඳින් — සෑම තැනම සමව — මග්ගසයේ පතුරවා
+| **සුවිලෙඛිතං** | ලේඛනියෙන් හොඳින් සූරා
+| **සුවිතච්ඡිතං** | කොච්ඡයෙන් හොඳින් පීරා — හොඳින් පිරිසිදු කොට
+**අන්තමසො පිණ්ඩපාතමත්තම්පි** — "පිණ්ඩපාත" යනු **කැඳ, බත, කැවිලි, සුණු පිඬු, දැහැටි, දසිකාවේ නූලක්** — ==අවම වශයෙන් **ධර්මයක් දේශනා කිරීම** පවා== ය.
+==පිණ්ඩපාතයක් දීමෙන් පමණක් නිස්සග්ගිය නොවේ.== ඔහුගේ වචනයෙන් රෙදි වියන්නන් සිවුරු හිමියන්ගේ අතින් නූල් ගෙන **ස්වල්පයක් වුව ද දිග, පළල හෝ ඝන** කරන්නේ නම් — ඔවුන්ගේ **පයෝගයේ** භික්ෂුවට **දුක්කට**, සිවුර **ලැබීමෙන් නිස්සග්ගිය** යි.
+> ඉදං මෙ, භන්තෙ, චීවරං පුබ්බෙ අප්පවාරිතො අඤ්ඤාතකස්ස ගහපතිකස්ස තන්තවායෙ උපසඞ්කමිත්වා චීවරෙ විකප්පං ආපන්නං නිස්සග්ගියං, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** උපනන්ද ස්ථවිරයන් අරබයා සිවුරේ විකල්ප කිරීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ඔහුගේ වචනයෙන් වියන්නන් දිග / පළල / ඝන කිරීමේ **පයෝගය** | DK
+| සිවුර ලැබීම — ඥාති නොවන බව දැන, සැක ඇතිව, හෝ ඥාතියෙක් යැයි සිතා (**තික පාචිත්තිය**) | NP
+| ඥාතියෙකු කෙරෙහි ඥාති නොවේ යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# **ඥාතීන්ගේ** හෝ **පවාරණය කළ අයගේ** රෙදි වියන්නන් ලවා.
+# **අනුන් සඳහා**.
+# **තමාගේ ධනයෙන්**.
+# **මිල අධික එකක්** වියවීමට කැමති අයට **මිල අඩු එකක්** වියවීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **ඥාති නොවන, පවාරණය නොකළ** අයගේ රෙදි වියන්නන් වෙත ගොස් **විකප්ප** කිරීම.
+# සිවුර **තමා උදෙසා** වීම.
+# ඔහුගේ වචනයෙන් **නූල් වැඩි කිරීම**.
+# **සිවුර ලැබීම**.
+## (උ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+A man going abroad told his wife, “**Weigh out yarn, give it to such-and-such weaver, have a robe woven and keep it; when I return I'll present Ven. Upananda with a robe.**” A monk on alms round overheard and told Ven. **Upananda**, “You have great merit.”
+Upananda went to the weaver and said, “This robe is being woven **for me**. ==**Make it long, wide and dense, well woven, well spread, well scraped and well combed**; perhaps we'll give you something too.==” The weaver went to the woman for more yarn. “Didn't I tell you to weave the robe with that yarn?” “Ven. Upananda told me so.” She gave **as much yarn again** as she had first given.
+Hearing the man had returned, Upananda went to his house and sat down. The man gave the robe. Learning afterwards what had happened, he complained, “**These ascetics have great wishes and are not content; it's not easy to give them robes. How can Ven. Upananda, uninvited, go to the weavers and lay down specifications for the robe?**” Asked by the Blessed One, “Is he a relative?” Upananda answered, “Not a relative.” The Blessed One rebuked him — “**An unrelated person does not know what is fitting or unfitting for an unrelated one**” — and laid down the rule.
+## (A) Explanation of terms
+**Bhikkhuṃ paneva uddissa** — for the sake of a monk, with the monk in mind, wishing to clothe him.
+**Aññātako** — one not related on the mother's or father's side back **to the seventh generation**.
+**Cīvaraṃ** — any of the six kinds — the minimum assignable size.
+**Tatra ce so bhikkhu** — the monk for whom the robe is being woven, in **the village or town** where the weavers are.
+**Pubbe appavārito** — not told beforehand by the robe's owners, “**Venerable sir, what kind of robe do you need? What kind shall we have woven for you?**”
+**Tantavāye upasaṅkamitvā** — going to their house or meeting them anywhere.
+**Vikappaṃ āpajjeyya** — **makes special stipulations**, extra arrangements.
+## (B) “Vikappa” — having the robe improved
+|! Pāli word | Meaning
+| **Āyataṃ** | long
+| **Vitthataṃ** | wide
+| **Appitaṃ** | dense
+| **Suvītaṃ** | well woven — even throughout
+| **Suppavāyitaṃ** | well spread on the loom — even throughout
+| **Suvilekhitaṃ** | well scraped with the scraper
+| **Suvitacchitaṃ** | well combed with the comb — well cleaned
+**Antamaso piṇḍapātamattampi** — “alms” means **gruel, rice, snacks, a ball of bath powder, a tooth-stick, a thread of fringe** — ==**even speaking a talk on Dhamma**==.
+==Merely giving alms does not make it nissaggiya.== If at his word the weavers take yarn from the robe's owners and make it **even slightly longer, wider or denser** — **dukkaṭa** for the monk at their **efforts**, and **nissaggiya on obtaining** the robe.
+> Idaṃ me, bhante, cīvaraṃ pubbe appavārito aññātakassa gahapatikassa tantavāye upasaṅkamitvā cīvare vikappaṃ āpannaṃ nissaggiyaṃ, imāhaṃ saṅghassa nissajjāmi.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning Ven. Upananda, on the matter of making stipulations about a robe. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The weavers' **efforts** at his word to lengthen / widen / thicken | DK
+| Obtaining the robe — perceiving them as unrelated, in doubt, or as related (**triple pācittiya**) | NP
+| Relatives perceived as unrelated, or in doubt | DK
+## (E) No offence
+# Through the weavers of **relatives** or **those who invited**.
+# **For another**.
+# With **one's own funds**.
+# Having **a cheaper one** woven for those wanting to have **a costly one** woven.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# Going to the weavers of **unrelated people who had not invited** and **making stipulations**.
+# The robe being **for oneself**.
+# **Increasing the yarn** at his word.
+# **Obtaining the robe**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Go-between origin, by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@np28
+T: අච්චේකචීවර සික්ඛාපදය || The Urgent Robe-cloth
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: බොහෝ භික්ෂූන් || A number of monks
+V: අච්චේක සිවුරු පිළිගෙන චීවර කාලය ඉක්මවා තැබීම || Keeping urgent robe-cloth beyond the robe season
+K: KT sd=s an=a anu=0
+Z: කාලය ඇතුළත අධිෂ්ඨාන, විකප්පන, දීම, නැති වීම, විනාශ වීම, පිළිස්සීම, පැහැර ගැනීම, විශ්වාසයෙන් ගැනීම; උමතු ආදීන් || Within the season determined, assigned, given away, lost, destroyed, burnt, snatched, taken on trust; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**සේනාව සමඟ** ගමනක් යන එක් **මහාමාත්‍යයෙක්** "ස්වාමීන් වහන්සේලා වඩිත්වා; **වස්සාවාසිකයක්** (වස් සිවුරක්) දෙමි" යි භික්ෂූන් වෙත දූතයෙකු එවීය. "වස් වැසූ අයට වස්සාවාසිකය අනුදැන ඇත" යි ==කුකුස් ඇතිව භික්ෂූහු නොගියහ==. මහාමාත්‍යයා "**මම සේනාව සමඟ යමි; ජීවිතය දැනගත නොහැකිය, මරණය දැනගත නොහැකිය**" යි දොස් කීය. එවිට භාග්‍යවතුන් වහන්සේ **අච්චේක සිවුරක් පිළිගෙන තැබීමට** අනුදැන්නහ.
+පසුව භික්ෂූහු ඒ අනුදැනීම මුවා කොට අච්චේක සිවුරු පිළිගෙන ==**චීවර කාලය ඉක්මවා** තැබූහ==; ඒවා **සිවුරු වංශයේ මිටි බැඳ** තිබිණ. සෙනසුන් චාරිකාවේ ඇවිද්ද **ආනන්ද** තෙරුන් ඒ දැක, "කොපමණ කලක සිට තැබුවා දැ?" යි අසා දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**දසාහානාගතං** — දින දහයකින් නොපැමිණි — එනම් **පවාරණයට දින දහයක් ඇති කල්හි** පටන්.
+**කත්තිකතෙමාසිකපුණ්ණමං** — **පළමු කත්තික (පවාරණ) පුර පසළොස්වක** — "පවාරණ කත්තිකා" යි කියනු ලැබේ.
+ඉදින් **පවාරණ මාසයේ පුර පස්වක සිට** — ඒ දින දහය තුළ — භික්ෂුවකට අච්චේක සිවුරක් ලැබුණේ නම්, "**මෙය අච්චේක ය**" යි දැනගෙන සියල්ල පිළිගත යුතුය. මෙයින් ඒ දින දහය තුළ ලැබෙන සිවුරේ **තැබිය හැකි කාලය** දැක්වේ. "දසාහපරමං අතිරෙකචීවරං" (නිස්සග්ගිය 1) මගින් ම මෙය සිද්ධ වන නමුත්, **අට්ඨුප්පත්තිය** (සිදුවීම) නිසා අලුත් අර්ථයක් මෙන් දක්වා මේ ශික්ෂාපදය තබන ලදී.
+**අච්චේකචීවරං** — **හදිසි** (අච්චායික) සිවුර —
+|! දායකයා | අවස්ථාව
+| **සේනාවට** යාමට කැමති අය | ආපසු ඒම අවිනිශ්චිතයි
+| **විදෙස් ගමනක්** යාමට කැමති අය | එසේ ම
+| **රෝගී** අය | ජීවිතය අවිනිශ්චිතයි
+| **ගැබිනි** කාන්තාව | එසේ ම
+| **අශ්‍රද්ධාවන්තයෙකුට ශ්‍රද්ධාව** ඇති වූ විට | ශ්‍රද්ධාව පමණි
+| **අප්‍රසන්නයෙකුට ප්‍රසාදය** ඇති වූ විට | බලවත් ශ්‍රද්ධාව
+— ඔහු දූතයෙකු එවා හෝ තමා පැමිණ "**වස්සාවාසිකයක් දෙමි**" යි දන්වා දුන් සිවුර **අච්චේක සිවුරයි**. සයවන දින සිට ලැබුණු **අච්චේක නොවන** සිවුරට ද පච්චුද්ධරණය කොට තැබූ සිවුරට ද මේ පරිහාරය ම ලැබේ.
+## (ආ) සලකුණු කොට තැබීම හා චීවර කාලය
+**අච්චෙකං මඤ්ඤමානෙන … නික්ඛිපිතබ්බං** — "**ඉදං අච්චෙකචීවරං**" යි යම් **සලකුණක්** කොට තැබිය යුතුය. ඇයි? ඉදින් එය **පවාරණයට පෙර බෙදුවොත්**, එය ගත් තැනැත්තා ==**වස් කඩ නොකළ යුතුය**; කළොත් ඒ සිවුර **සාංඝික** වේ==. සලකුණ නිසා පසුව හඳුනාගෙන පහසුවෙන් දිය හැකිය.
+**චීවරකාලසමයො** — **කඨිනය නොඇතිරූ** විට **වස්සානයේ අවසන් මාසය**; **කඨිනය ඇතිරූ** විට **මාස පහ**.
+**තතො චෙ උත්තරි නික්ඛිපෙය්‍ය** — කඨිනය නොඇතිරූ විට **වස්සානයේ අවසන් දිනය** ද, ඇතිරූ විට **කඨිනය උද්ධාරණය වන දිනය** ද ඉක්මවූ කල්හි නිස්සග්ගිය වේ.
+|! සිවුර | පරිහාර කාලය
+| අතිරේක සිවුර | දින 10
+| අච්චේක සිවුර — කඨිනය නැති විට | ==**මාසයක් හා දින 11ක්**==
+| අච්චේක සිවුර — කඨිනය ඇති විට | ==**මාස පහක් හා දින 11ක්**==
+| නොකළ වැසි සළු රෙද්ද | මාස 5 / 6 / 10 / උපරිම **11**
+| සති පච්චාසා ඇති මූල සිවුර | මාසයක්
+**නොබෙදූ** — සංඝයාට හෝ **භාණ්ඩාගාරයේ** තිබෙන — අච්චේක සිවුරු චීවර කාලය ඉක්මවුව ද ඇවැත් නැත; "අච්චෙකචීවරෙ අච්චෙකචීවරසඤ්ඤී" ආදිය **බෙදා ගත් දෙය** සඳහා කී ය.
+> ඉදං මෙ, භන්තෙ, අච්චෙකචීවරං චීවරකාලසමයං අතික්කාමිතං නිස්සග්ගියං, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** බොහෝ භික්ෂූන් අරබයා අච්චේක සිවුරේ චීවර කාලය ඉක්මවීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| අච්චේක සිවුරේ චීවර කාලය ඉක්මවීම — අච්චේක බව දැන, සැක ඇතිව, හෝ අච්චේක නොවේ යැයි සිතා (**තික පාචිත්තිය**) | NP
+| අධිෂ්ඨාන නොකළ, විකප්පන නොකළ, නොදුන්, නැති නොවූ … දෙයක් ඒවා සිදු වූ යැයි සිතා කාලය ඉක්මවීම | NP
+| නිස්සග්ගිය සිවුර නිස්සජ්ජනය නොකොට පරිහරණය | DK
+| අච්චේක නොවූ සිවුරක් අච්චේක යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+චීවර කාලය ඇතුළත —
+# **අධිෂ්ඨාන** කිරීම; **විකප්පන** කිරීම; **දීම**.
+# **නැති වීම**, **විනාශ වීම**, **පිළිස්සීම**.
+# **පැහැර ගැනීම**; **විශ්වාසයෙන් ගැනීම**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **අච්චේක සිවුරක්** වීම — තමා සතු, ජාතියෙන් හා ප්‍රමාණයෙන් යුක්ත.
+# **බෙදා ගත්** බව.
+# **අධිෂ්ඨාන / විකප්පන නොකළ** බව.
+# **චීවර කාලය ඉක්මවීම**.
+## (උ) සමුට්ඨානාදිය
+**කථින සමුට්ඨානයි, අකිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+A **high official** about to set out **with the army** sent a messenger to the monks: “Let the venerables come; I will give **a rains-residence gift**.” Thinking, “The rains-residence gift is allowed for those who have completed the rains,” ==the monks were scrupulous and did not go==. The official complained, “**I am going with the army — life is uncertain, death is uncertain.**” So the Blessed One allowed them **to accept urgent robe-cloth and store it**.
+Then, on the strength of this allowance, monks accepted urgent robe-cloth and ==kept it **beyond the robe season**==; it lay **tied in bundles on the robe-pole**. Ven. **Ānanda**, touring the lodgings, saw it, asked how long it had been kept, and criticised them. The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Dasāhānāgataṃ** — not yet reached by ten days, i.e. from the time **when the Pavāraṇā is ten days away**.
+**Kattikatemāsikapuṇṇamaṃ** — **the first Kattika (Pavāraṇā) full moon**, called “Pavāraṇā Kattikā.”
+If, **from the fifth of the waxing half of the Pavāraṇā month** — within those ten days — urgent robe-cloth comes to a monk, knowing “**this is urgent**,” he should accept it all. This shows **how long** cloth arising in those ten days may be stored. Though this already follows from “dasāhaparamaṃ atirekacīvaraṃ” (nissaggiya 1), the rule was set down because of **the incident**, as if presenting something new.
+**Accekacīvaraṃ** — **urgent** robe-cloth —
+|! Donor | Circumstance
+| one about to go **with the army** | return uncertain
+| one about to **go abroad** | likewise
+| one who is **sick** | life uncertain
+| a **pregnant woman** | likewise
+| one in whom **faith** has newly arisen | mere faith
+| one in whom **confidence** has newly arisen | strong faith
+— the cloth announced by such a person, by messenger or in person, with “**I will give a rains-residence gift**,” is urgent robe-cloth. **Non-urgent** cloth arising from the sixth day, and cloth relinquished and stored, also get this same exemption.
+## (B) Marking it and the robe season
+**Accekaṃ maññamānena … nikkhipitabbaṃ** — it should be stored with **some mark**: “**idaṃ accekacīvaraṃ**.” Why? If it is **distributed before the Pavāraṇā**, ==the one who took it **must not break his rains**; if he does, the cloth becomes **Saṅgha property**==. The mark makes it easy to identify and give later.
+**Cīvarakālasamayo** — **without the kaṭhina**, **the last month of the rains**; **with the kaṭhina**, **five months**.
+**Tato ce uttari nikkhipeyya** — without the kaṭhina, passing **the last day of the rains**; with it, passing **the day the kaṭhina ends** — it becomes nissaggiya.
+|! Cloth | Exemption
+| extra robe-cloth | 10 days
+| urgent robe-cloth — no kaṭhina | ==**one month and 11 days**==
+| urgent robe-cloth — with kaṭhina | ==**five months and 11 days**==
+| unmade rains-cloth material | 5 / 6 / 10 / at most **11** months
+| base-cloth kept with expectation | one month
+Urgent cloth **not yet distributed** — held for the Saṅgha or **in the storeroom** — entails no offence even beyond the robe season; “perceiving urgent cloth as urgent” etc. refers to **what has been distributed**.
+> Idaṃ me, bhante, accekacīvaraṃ cīvarakālasamayaṃ atikkāmitaṃ nissaggiyaṃ, imāhaṃ saṅghassa nissajjāmi.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a number of monks, on the matter of keeping urgent robe-cloth beyond the robe season. It is a **common rule**, **anāṇattika**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Keeping urgent cloth beyond the robe season — perceiving it as urgent, in doubt, or as not urgent (**triple pācittiya**) | NP
+| Not determined, not assigned, not given, not lost … — perceived as such — kept beyond the season | NP
+| Using a nissaggiya robe without forfeiting it | DK
+| Non-urgent cloth perceived as urgent, or in doubt | DK
+## (E) No offence
+Within the season —
+# **determined**; **assigned**; **given away**;
+# **lost**, **destroyed**, **burnt**;
+# **snatched**; **taken on trust**;
+# for the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **Urgent robe-cloth** — one's own, of proper material and size.
+# **Distributed** (taken as one's share).
+# **Not determined / assigned**.
+# **The robe season passing**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Kathina origin, by not doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@np29
+T: සාසඞ්ක සික්ඛාපදය || The Risky Forest Lodging
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: බොහෝ භික්ෂූන් || A number of monks
+V: ගමේ තැබූ සිවුරෙන් රාත්‍රී සයකට වැඩි කලක් වෙන් වී විසීම || Being apart from a robe left in a village for more than six nights
+K: KT sd=s an=a anu=1
+Z: රාත්‍රී සයක් හෝ ඊට අඩුවෙන්; සයවනදා ගම් සීමාවට පැමිණ වී යාම; රාත්‍රී සය ඇතුළත පච්චුද්ධරණය, දීම, නැති වීම ආදිය; භික්ෂු සම්මුතිය; උමතු ආදීන් || Six nights or fewer; re-entering the village boundary and staying, then leaving; relinquished, given, lost etc. within six nights; the monks' authorisation; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+වස් වැස අවසන් කළ භික්ෂූහු **ආරණ්‍ය සෙනසුන්හි** වාසය කළහ. "**ලාභ ලැබූ අය**" යැයි සිතා **කත්තික සොරු** ඔවුන්ට හිරිහැර කළහ. එය සැළ කළ කල්හි භාග්‍යවතුන් වහන්සේ "**ආරණ්‍ය සෙනසුන්හි වසන භික්ෂුවට තුන් සිවුරෙන් එකක් ගම් ඇතුළේ (අන්තරඝරයේ) තැබීමට**" අනුදැන්නහ. — ධාර්මිකව ප්‍රත්‍ය ලැබීම දුෂ්කර බැවින් (සල්ලේඛ භික්ෂුවකට මවගෙන් පවා ඉල්ලිය නොහැකි බැවින්) සිවුරු රැකීම පිණිස ය; භික්ෂූන්ට සුදුසු බැවින් ආරණ්‍ය වාසය වැළැක්වූයේ නැත.
+පසුව භික්ෂූහු සිවුරක් ගමේ තබා ==**රාත්‍රී සයකට වැඩි කලක්** සිවුරෙන් වෙන් වී විසූහ==. ඒ සිවුරු **නැති විය, විනාශ විය, පිළිස්සිණ, මීයන් කෑහ**. භික්ෂූහු **දුර්වල සිවුරු ඇත්තෝ, රළු සිවුරු ඇත්තෝ** වූහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**උපවස්සං** — "උපවස්ස" — **වස් එළඹ වාසය කොට**; එහි සිට **පසු කත්තික පුර පසළොස්වක** අවසන් වන තුරු කාලය. (පදභාජනයේ "**වුට්ඨවස්සානං**" — වස් වැස නිම කළ අය — යි කීවේ සිවුර තැබීමට සුදුසු පුද්ගලයා පෙන්වීමටයි.)
+**කත්තිකපුණ්ණමං** — **කත්තික චාතුමාසිනී** (පසු කත්තික පුර පසළොස්වක).
+**ආරඤ්ඤකානි සෙනාසනානි** — **ඇදූ ආචාර්‍ය දුන්නකින් දුනු පන්සියයක්** (පඤ්චධනුසතිකං) අවම දුරින් පිහිටි සෙනසුන්. වට කළ ගමක **ඉන්ද්‍රකීලයේ** සිට, නොවට කළ ගමක **වට කිරීමට සුදුසු තැනේ** සිට, **ප්‍රකෘති මාර්ගයෙන්** මැනිය යුතුය — වෙනත් මාර්ගයක් සෑදීම හෝ මග නොවන තැනින් මැනීම නොවටී. විහාරය නොවට කළ එකක් නම් ගමට ළඟම ඇති **සෙනසුන, දානශාලාව, නිතර රැස්වන තැන, බෝධිය හෝ චෛත්‍යය** දක්වා මැනිය යුතුය. (ආසන්න ගමකට අංග සම්පූර්ණ කිරීම පිණිස මාර්ග වසා දමන්නා "**ධුතාංග සොරෙක්**" යි දත යුතුය.)
+**සාසඞ්කසම්මතානි** — ආරාමයේ හෝ ආරාම උපචාරයේ **සොරුන් නැවතුණු, අනුභව කළ, සිටි, හුන්, සැතපුණු තැන්** දක්නට ලැබෙන — "සැක සහිත" යැයි සම්මත.
+**සප්පටිභයානි** — ආරාමයේ හෝ උපචාරයේ **සොරුන් විසින් මිනිසුන් මරා, කොල්ලකා, පහර දී ඇති බව** දක්නට ලැබෙන — **ළඟ ම ඇති බලවත් බිය** සහිත.
+**අන්තරඝරෙ නික්ඛිපෙය්‍ය** — ආරණ්‍ය සෙනසුන වටා **ඕනෑම දිශාවක තමා කැමති ගොචර ගමක** තැබිය යුතුය.
+**කොචිදෙව පච්චයො** — යම්කිසි හේතුවක්, කළ යුත්තක්. **විප්පවාසාය** — වෙන් වී විසීමට.
+**ඡාරත්තපරමං** — **රාත්‍රී සයක්** උපරිම කොට.
+## (ආ) සිවුර තැබීමට අංග සතර
+==සිවුර ගමේ තැබිය හැක්කේ **අංග සතර ම** සම්පූර්ණ වූ විට පමණි:==
+# **පුරිම වස්** එළඹ **මහා පවාරණයෙන් පවාරණය** කළ අයෙකු වීම — පච්ඡිම වස් වැසූ හෝ වස් කැඩූ අයට නොලැබේ.
+# **කත්තික මාසය ම** වීම — කත්තික මාසයෙන් පසු නොලැබේ.
+# සෙනසුන **දුනු පන්සියයක් (අවම) ප්‍රමාණයෙන් යුක්ත** වීම — ඊට අඩු හෝ **ගව්වකට** වැඩි දුරක නම් නොලැබේ. ==පිඬු සිඟා ගොස් **දන් වේලාවේ ම** නැවත විහාරයට පැමිණිය හැකි තැනක්== මෙහි අදහස් කෙරේ. (ආරාධනා ලැබ අඩ යොදුනක් හෝ යොදුනක් ගොස් වසන්නේ නම් එය ප්‍රමාණයට ගැනෙන්නේ නැත.)
+# සෙනසුන **සාසඞ්ක, සප්පටිභය** වීම — බිය නැති සෙනසුනක අනෙක් අංග තිබුණ ද නොලැබේ.
+## (ඇ) රාත්‍රී සය ඉක්මවීම
+**තතො චෙ උත්තරි විප්පවසෙය්‍ය** — රාත්‍රී සයෙන් පසු ඒ සෙනසුනේ **සත්වන අරුණ නැගුවේ** නම් නිස්සග්ගිය වේ.
+ඉදින් (උදා: ගොචර ගමට නැගෙනහිරින් සෙනසුන ඇති විට බටහිර දිශාවකට ගොස්) සෙනසුනට පැමිණ සත්වන අරුණ නැගීමට නොහැකි නම්, ==**ගම් සීමාවට ඇතුළු වී** සභාවක හෝ කොතැනක හෝ වී, **සිවුරේ තත්ත්වය දැන** පිටත් වීම== වටී. එසේ කළ නොහැකි නම් එතැන සිට ම **පච්චුද්ධරණය** කළ යුතුය; එවිට එය අතිරේක සිවුරක් ලෙස (දින දහයක පරිහාරයට) පවතී.
+**අඤ්ඤත්‍ර භික්ඛුසම්මුතියා** — **උදෝසිත ශික්ෂාපදයේ (නිස්සග්ගිය 2)** **කෞසාම්බි සම්මුතිය** ලෙස ගිලන් භික්ෂුවකට සංඝයා දෙන **සිවුරෙන් වෙන්ව වාසය කිරීමේ සම්මුතිය** හැර. එය ලැබුණේ නම් රාත්‍රී සයට වඩා වුව ද වෙන්ව විසීම වටී.
+> ඉදං මෙ, භන්තෙ, චීවරං අතිරෙකඡාරත්තං විප්පවුට්ඨං අඤ්ඤත්‍ර භික්ඛුසම්මුතියා නිස්සග්ගියං, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි.
+## (ඈ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** බොහෝ භික්ෂූන් අරබයා සිවුරෙන් වෙන් වී විසීමේ වස්තුවෙහි පැනවිණි. "අඤ්ඤත්‍ර භික්ඛුසම්මුතියා" **අනුප්‍රඥප්තියයි**. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඉ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| භික්ෂු සම්මුතියකින් තොරව රාත්‍රී සයට වඩා වෙන් වී විසීම — වැඩි බව දැන, සැක ඇතිව, හෝ අඩු යැයි සිතා (**තික පාචිත්තිය**) | NP
+| පච්චුද්ධරණය නොකළ, නොදුන්, නැති නොවූ … දෙයක් ඒවා සිදු වූ යැයි සිතා රාත්‍රී සය ඉක්මවීම | NP
+| නිස්සග්ගිය සිවුර නිස්සජ්ජනය නොකොට පරිහරණය | DK
+| රාත්‍රී සයට අඩු කල්හි වැඩි යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඊ) අනාපත්ති
+# **රාත්‍රී සයක්** හෝ **ඊට අඩුවෙන්** වෙන් වී විසීම.
+# රාත්‍රී සයක් වෙන්ව වී, **නැවත ගම් සීමාවට ඇතුළු වී වාසය කොට** පිටත් වීම.
+# රාත්‍රී සය ඇතුළත **පච්චුද්ධරණය**, **දීම**; **නැති වීම**, **විනාශ වීම**, **පිළිස්සීම**, **පැහැර ගැනීම**, **විශ්වාසයෙන් ගැනීම**.
+# **භික්ෂු සම්මුතිය** ඇති විට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (උ) අංග (= චත්තාරි — සතරකි)
+# **තුන් සිවුරෙන් එකක්** — අධිෂ්ඨාන කළ, තමා සතු — ගමේ තැබීම.
+# **අංග සතරින් යුත්** ආරණ්‍ය සෙනසුනක වාසය.
+# **භික්ෂු සම්මුතියක් නැති** බව.
+# **රාත්‍රී සය ඉක්මවා සත්වන අරුණ නැගීම**.
+## (ඌ) සමුට්ඨානාදිය
+**කථින සමුට්ඨානයි** (කාය-වාචා, කාය-වාචා-චිත්ත), **අකිරියයි** (පච්චුද්ධරණය නොකිරීම), **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Monks who had completed the rains were living in **forest lodgings**. **Kattika thieves**, thinking “They've received gains,” harassed them. When this was reported, the Blessed One allowed “**a monk living in a forest lodging to keep one of his three robes inside a village**.” — This was to protect robes, because requisites are hard to come by rightfully (a self-effacing monk cannot ask even his mother); forest dwelling, being fitting for monks, was not forbidden.
+Then monks left a robe in a village and ==stayed apart from it **for more than six nights**==. The robes were **lost, destroyed, burnt, eaten by rats**, and the monks were **poorly and roughly clothed**. The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Upavassaṃ** — “upavassa,” **having entered and spent the rains**; from then until **the end of the later Kattika full moon**. (The word-analysis says “**vuṭṭhavassānaṃ**” — those who have completed the rains — to show the person entitled to leave a robe.)
+**Kattikapuṇṇamaṃ** — **the Kattika four-monthly** (later Kattika) full moon.
+**Āraññakāni senāsanāni** — lodgings at least **five hundred bow-lengths** away, measured **with a drawn teacher's bow**: from the **gate-post** of a walled village, or from where a wall would be for an unwalled one, **along the usual path** — one may not make another path or measure off the path. For an unwalled monastery, measure to the **first lodging, refectory, regular meeting place, Bodhi tree or shrine** nearest the village. (One who blocks paths here and there to make a nearby village qualify is to be known as a “**dhutaṅga thief**.”)
+**Sāsaṅkasammatāni** — considered risky: in the monastery or its precincts **places where thieves have camped, eaten, stood, sat or lain** are seen.
+**Sappaṭibhayāni** — dangerous: in the monastery or its precincts **people killed, robbed or beaten by thieves** are seen — a **strong danger close at hand**.
+**Antaraghare nikkhipeyya** — he may leave it in **any alms village of his choice, in any direction** around the forest lodging.
+**Koci deva paccayo** — some reason, some business. **Vippavāsāya** — for staying apart.
+**Chārattaparamaṃ** — **six nights** at most.
+## (B) The four conditions for leaving the robe
+==A robe may be left in the village only when **all four conditions** are met:==
+# He **entered the first rains** and **completed the Great Pavāraṇā** — not one who entered the later rains or broke his rains.
+# It is **the month of Kattika** — not after it.
+# The lodging **meets the minimum of five hundred bow-lengths** — not less, nor more than **a gāvuta**. ==A place from which one can go for alms and return to the monastery **by mealtime**== is what is meant. (Going half a yojana or a yojana on invitation and staying there does not count.)
+# The lodging is **risky and dangerous** — in a safe lodging it is not allowed even if the other conditions are met.
+## (C) Exceeding six nights
+**Tato ce uttari vippavaseyya** — if after six nights **the seventh dawn rises** while he is in that lodging, it becomes nissaggiya.
+If he cannot get back to the lodging to meet the seventh dawn (e.g. the lodging is east of the alms village and he has gone west), ==he may **enter the village boundary**, stay in a hall or anywhere, **find out how the robe is**, and leave==. If he cannot, he must **relinquish** it right where he is; it then stands as an extra robe (with the ten-day exemption).
+**Aññatra bhikkhusammutiyā** — except with the **authorisation to be apart from the robe** that the Saṅgha grants a sick monk — the **Kosambī authorisation** of **the staying-away rule (nissaggiya 2)**. With it, one may be apart even beyond six nights.
+> Idaṃ me, bhante, cīvaraṃ atirekachārattaṃ vippavuṭṭhaṃ aññatra bhikkhusammutiyā nissaggiyaṃ, imāhaṃ saṅghassa nissajjāmi.
+## (D) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a number of monks, on the matter of staying apart from the robe. “Aññatra bhikkhusammutiyā” is a **supplementary rule**. It is a **common rule**, **anāṇattika**.
+## (E) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Without authorisation, apart for more than six nights — knowing, in doubt, or perceiving it as fewer (**triple pācittiya**) | NP
+| Not relinquished, not given, not lost … — perceived as such — beyond six nights | NP
+| Using a nissaggiya robe without forfeiting it | DK
+| Fewer than six nights, perceived as more or in doubt | DK
+## (F) No offence
+# Apart for **six nights** or **fewer**.
+# After six nights apart, **re-entering the village boundary, staying**, and leaving.
+# Within six nights **relinquished**, **given away**; **lost**, **destroyed**, **burnt**, **snatched**, **taken on trust**.
+# With **the monks' authorisation**.
+# For the insane and so on, and the first offender.
+## (G) Factors (= cattāri — four)
+# **One of the three robes** — determined, one's own — left in a village.
+# Living in a forest lodging **meeting the four conditions**.
+# **No authorisation from the monks**.
+# **The seventh dawn rising** after six nights.
+## (H) Origin and the rest (samuṭṭhāna)
+**Kathina origin** (body–speech, body–speech–mind), **by not doing** (not relinquishing), **no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@np30
+T: පරිණත සික්ඛාපදය || Diverting the Saṅgha's Gains
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සංඝයාට පිදීමට සූදානම් කළ සිවුරු තමන්ට හරවා ගැනීම || Diverting to themselves robes intended for the Saṅgha
+K: AD sd=s an=a anu=0
+Z: "කොහි දෙමු ද?" යි ඇසූ විට "ඔබේ සිත පහදින තැනක, පරිභෝගයට යෙදෙන, බොහෝ කල් පවතින තැනක දෙන්න" යි කීම; උමතු ආදීන් || When asked “Where shall we give?”, saying “Where your mind is inspired, where it will be used, last long”; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+සැවැත් නුවර එක් **පූගයක්** (ධාර්මික සමිතියක්) "සංඝයාට දන් දී **සිවුරුවලින් පුදන්නෙමු**" යි **සිවුරු සහිත දානයක්** සූදානම් කළේය. **ෂඩ්වර්ගීය භික්ෂූහු** ඔවුන් වෙත ගොස් "ඇවැත්නි, මේ සිවුරු අපට දෙන්න" යි කීහ. "ස්වාමීනි, නොදෙමු; අපගේ සංඝයාට **වාර්ෂිකව සිවුරු සහිත භික්ෂාවක්** නියම කොට ඇත" යි කී කල්හි, "**සංඝයාට දායකයෝ බොහෝ ය; සංඝයාට බත් බොහෝ ය. අපි ඔබ ඇසුරු කොට, ඔබ දකිමින් මෙහි වසමු. ඔබ අපට නොදෙන්නේ නම් කවුරු නම් දෙත් ද?**" යි ==පීඩා කොට ඒ සිවුරු ගත්හ==. පසුව සංඝයාට දන් පමණක් දුන් හෙයින්, "සිවුරු සහිත දානය" දැන සිටි භික්ෂූහු "ඇවැත්නි, සිවුරු පිදීමක් වේ ද?" යි ඇසූ කල්හි සිදු වූ දේ කීහ. භික්ෂූහු දොස් කීහ; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ජානං** — **තමා ම දැන**, හෝ **අනුන් කියා**, හෝ **ඔහු (දායකයා) ම කියා**.
+**සඞ්ඝිකං** — සංඝයාට අයත් දෙයකි. සංඝයාට **පරිණත** වූ බැවින් **අතට නොපැමිණිය ද** එක් පරියායකින් සංඝයා සතු වේ. (පදභාජනයේ "සංඝයාට **දුන්, පරිත්‍යාග කළ**" දෙය ලෙස නිෂ්පර්‍යාය සාංඝිකය දැක්වේ.)
+**ලාභං** — ලැබිය යුතු වස්තුව — **සිවුරු, පිණ්ඩපාත, සෙනසුන්, ගිලන්පස බෙහෙත් පිරිකර**; ==අවම වශයෙන් **සුණු පිඩක්, දැහැටියක්, දසිකාවේ නූලක්** වුව ද==.
+**පරිණතං** — "**දෙන්නෙමු, කරන්නෙමු**" යි **වචනය බිඳ** හෝ **අත් සන්නයකින්** — සංඝයාට **නැමී, නැඹුරු වී, ඇලී** සිටින.
+**අත්තනො පරිණාමෙය්‍ය** — "**මෙය මට දෙන්න**" ආදිය කියමින් තමා වෙත නැඹුරු කරයි. පරිණාමනයේ **පයෝගයේ දුක්කටයි**; **අතට පැමිණීමෙන් නිස්සග්ගියයි**.
+## (ආ) දුන් දෙය හා පරිණත දෙය
+|! තත්ත්වය | විනිශ්චය
+| සංඝයාට **දී අවසන්** (සාංඝික) | ගැනීම නොවටී; **සංඝයාට ම දිය යුතුය** — ආරාමිකයන් සමඟ එක්ව කන්නේ නම් භාණ්ඩ මිල කරවා විනිශ්චය කළ යුතුය
+| සංඝයාට **පරිණත** (දෙන්නට නියම කළ) | සහධාර්මිකයන්ගේ හෝ ගිහියන්ගේ — ==**අවම වශයෙන් මවගේ සන්තක** වුව ද== — "මට දෙන්න" යි තමාට හරවා ගැනීම → **නිස්සග්ගිය පාචිත්තිය**
+| පරිණත දෙය **අන් පුද්ගලයෙකුට** ("මේ භික්ෂුවට දෙන්න") | **සුද්ධ පාචිත්තිය** (පාචිත්තිය 82)
+| එකක් තමාට, එකක් අනෙකෙකුට | නිස්සග්ගිය පාචිත්තිය **හා** සුද්ධ පාචිත්තිය දෙක ම
+| සංඝයාට පරිණත දෙය **අන් සංඝයකට හෝ චෛත්‍යයකට** | DK
+| චෛත්‍යයකට පරිණත දෙය **අන් චෛත්‍යයකට, සංඝයාට හෝ පුද්ගලයෙකුට** | DK
+| පුද්ගලයෙකුට පරිණත දෙය **අන් පුද්ගලයෙකුට, සංඝයාට හෝ චෛත්‍යයකට** | DK
+> ඉදං මෙ, භන්තෙ, ජානං සඞ්ඝිකං ලාභං පරිණතං අත්තනො පරිණාමිතං නිස්සග්ගියං, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පරිණාමනය කිරීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| පරිණාමනයේ පයෝගය | DK
+| පරිණත බව දැන තමාට හරවා **ලැබීම** | NP
+| පරිණත දෙයෙහි සැක ඇතිව හරවා ගැනීම | DK
+| අපරිණත දෙයක් පරිණත යැයි සිතා හෝ සැක ඇතිව හරවා ගැනීම | DK
+| සංඝ / චෛත්‍ය / පුද්ගල යන අයෙකුට පරිණත දෙය අන් සංඝ / චෛත්‍ය / පුද්ගලයෙකුට හැරවීම | DK
+## (ඉ) අනාපත්ති
+# **පරිණත දෙය අපරිණත යැයි** සිතා හරවා ගැනීම.
+# "**කොහි දෙමු ද?**" යි ඇසූ විට "**ඔබේ දෙය්‍යධර්මය පරිභෝගයට යෙදෙන, ප්‍රතිසංස්කරණයට යෙදෙන, බොහෝ කල් පවතින තැනක**, නැතහොත් **ඔබේ සිත පහදින තැනක** දෙන්න" යි කීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# ලාභය **සංඝයාට පරිණත** වීම.
+# **එය දැන** තමාට පරිණාමනය කිරීම.
+# **ලැබීම**.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි** (කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+At Sāvatthī a certain **guild** (pūga) had prepared **a meal with robes** for the Saṅgha — “We'll feed them and **present them with robes**.” **The group-of-six** went to them and said, “Friends, give us these robes.” “Venerable sirs, we won't; we have arranged **a yearly alms-giving with robes** for the Saṅgha.” “**The Saṅgha has many donors and many meals. We live here depending on you, looking to you. If you don't give to us, who will?**” — ==pressured in this way, the guild gave them the robes== and served the Saṅgha only the meal. Monks who knew of the robe-offering asked, “Friends, is there to be a robe-offering?” and were told what had happened. They criticised the group-of-six, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Jānaṃ** — **knowing it himself**, or **others tell him**, or **the donor tells him**.
+**Saṅghikaṃ** — belonging to the Saṅgha. Because it has been **intended** for the Saṅgha it belongs to the Saṅgha in one sense **even before reaching its hands**. (The word-analysis shows saṅghika in the strict sense: “**given and relinquished** to the Saṅgha.”)
+**Lābhaṃ** — something to be received — **robes, alms-food, lodgings, medicines and requisites for the sick**; ==even **a ball of bath powder, a tooth-stick, a thread of fringe**==.
+**Pariṇataṃ** — **inclined**, leaning, sloping towards the Saṅgha, through **words spoken** — “We will give, we will do” — or **a gesture**.
+**Attano pariṇāmeyya** — he inclines it towards himself, saying “**Give this to me**” and the like. **Dukkaṭa in the effort** of diverting; **nissaggiya when it reaches his hands**.
+## (B) Given versus intended
+|! Situation | Ruling
+| **already given** to the Saṅgha (saṅghika) | may not be taken; it **must go to the Saṅgha** — if he eats it with the monastery attendants, the goods are valued and judged accordingly
+| **intended** for the Saṅgha | belonging to co-religionists or lay people — ==**even his mother's**== — diverting it to himself with “Give it to me” → **nissaggiya pācittiya**
+| intended item diverted **to another individual** (“Give it to this monk”) | **pure pācittiya** (pācittiya 82)
+| one to himself, one to another | **both** nissaggiya pācittiya and pure pācittiya
+| intended for the Saṅgha, diverted to **another Saṅgha or a shrine** | DK
+| intended for a shrine, diverted to **another shrine, the Saṅgha or an individual** | DK
+| intended for an individual, diverted to **another individual, the Saṅgha or a shrine** | DK
+> Idaṃ me, bhante, jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ attano pariṇāmitaṃ nissaggiyaṃ, imāhaṃ saṅghassa nissajjāmi.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of diverting. It is a **common rule**, and **anāṇattika**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The effort of diverting | DK
+| Knowing it was intended, diverting it to himself and **obtaining** it | NP
+| In doubt whether it was intended, diverting it | DK
+| Not intended, perceived as intended or in doubt | DK
+| Diverting what was intended for one Saṅgha / shrine / individual to another | DK
+## (E) No offence
+# Diverting it **perceiving it as not intended**.
+# When asked “**Where shall we give?**”, saying, “**Give where your gift will be used, will be kept in repair, will last long**, or **where your mind is inspired**.”
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# The gain **intended for the Saṅgha**.
+# **Knowing this**, diverting it to oneself.
+# **Obtaining** it.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins** (body–mind, speech–mind, body–speech–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, three feelings**.

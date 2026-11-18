@@ -1,0 +1,3236 @@
+@sk1
+T: පරිමණ්ඩල නිවාසන සික්ඛාපදය || Wearing the Lower Robe Evenly
+R: නාභි මණ්ඩලය හා දණහිස් මණ්ඩල වැසෙන සේ පරිමණ්ඩලව අඳනය අඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will wear the lower robe evenly all around: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අඳනය ඉදිරියෙන් හා පසුපසින් එල්ලා ඇන්දහ || wore their lower robes hanging down in front and behind
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; කකුලේ තුවාල ආදියක් ඇත්නම්; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When there are sores on the legs; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අඳනය ඉදිරියෙන් හා පසුපසින් එල්ලා ඇන්දහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+**පරිමණ්ඩලං** — උඩින් නාභි මණ්ඩලය ද, යටින් දණහිස් මණ්ඩල දෙක ද වසා, දණහිසෙන් පහළ ජංඝාවෙන් අටෙන් පංගුවක් තරම් පහත් කොට ඇඳීම.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අඳනය ඉදිරියෙන් හා පසුපසින් එල්ලා ඇඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# කකුලේ තුවාල ආදියක් ඇත්නම්;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==wore their lower robes hanging down in front and behind==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+**Parimaṇḍalaṃ** — covering the navel above and both knees below, hanging no lower than about an eighth of the shin below the knee.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — wore their lower robes hanging down in front and behind | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When there are sores on the legs;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk2
+T: පරිමණ්ඩල පාරුපන සික්ඛාපදය || Wearing the Upper Robe Evenly
+R: පරිමණ්ඩලව උතුරු සළුව පොරවන්නෙමි යි හික්මීමක් කළ යුතුය. || I will wear the upper robe evenly all around: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: තනිපට සිවුර ඉදිරියෙන් හා පසුපසින් එල්ලා පෙරවූහ || wore their upper robes hanging down in front and behind
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ශරීරයේ තුවාල ආදියක් ඇත්නම්; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When there are sores on the body; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==තනිපට සිවුර ඉදිරියෙන් හා පසුපසින් එල්ලා පෙරවූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+**පරිමණ්ඩලං පාරුපිස්සාමි** — තනිපට සිවුර කොන් දෙක සම කොට, ඉදිරියෙන් හා පසුපසින් සමව එල්ලෙන සේ පෙරවීම.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — තනිපට සිවුර ඉදිරියෙන් හා පසුපසින් එල්ලා පෙරවීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ශරීරයේ තුවාල ආදියක් ඇත්නම්;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==wore their upper robes hanging down in front and behind==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+**Parimaṇḍalaṃ pārupissāmi** — wearing it with both corners even, hanging evenly in front and behind.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — wore their upper robes hanging down in front and behind | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When there are sores on the body;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk3
+T: සුප්පටිච්ඡන්න ගමන සික්ඛාපදය || Going Well-covered
+R: හොඳින් වැසී ගම් අතර යන්නෙමි යි හික්මීමක් කළ යුතුය. || I will go well-covered in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ශරීරය විවෘත කොට ගම් අතර ගියහ || went about in inhabited areas with their bodies exposed
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; වස්තුවෙහි (විහාරයෙහි) ඇති විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When in a dwelling; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ශරීරය විවෘත කොට ගම් අතර ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+**සුප්පටිච්ඡන්නො** — ගෙල අග හා අත් මැණික් කටුව දක්වා කය හොඳින් වසා. **අන්තරඝරං** — ගමේ නිවාස අතර.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ශරීරය විවෘත කොට ගම් අතර යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# වස්තුවෙහි (විහාරයෙහි) ඇති විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about in inhabited areas with their bodies exposed==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+**Supaṭicchanno** — with the body well covered up to the neck and the wrists. **Antaragharaṃ** — among the houses of a village.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about in inhabited areas with their bodies exposed | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When in a dwelling;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk4
+T: සුප්පටිච්ඡන්න නිසීදන සික්ඛාපදය || Sitting Well-covered
+R: හොඳින් වැසී ගම් අතර හිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will sit well-covered in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ශරීරය විවෘත කොට ගම් අතර හිඳගත්හ || sat in inhabited areas with their bodies exposed
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; වස්තුවෙහි ඇති විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When in a dwelling; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ශරීරය විවෘත කොට ගම් අතර හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ශරීරය විවෘත කොට ගම් අතර හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# වස්තුවෙහි ඇති විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat in inhabited areas with their bodies exposed==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat in inhabited areas with their bodies exposed | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When in a dwelling;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk5
+T: සුසංවුත ගමන සික්ඛාපදය || Going Well-restrained
+R: හොඳින් සංවර වී ගම් අතර යන්නෙමි යි හික්මීමක් කළ යුතුය. || I will go well-restrained in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත් පා සොලවමින් ගම් අතර ගියහ || went about fidgeting with their hands and feet
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අත් පා සොලවමින් ගම් අතර ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+**සුසංවුතො** — අත්, පා නොසොලවා, චපල නොවී.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අත් පා සොලවමින් ගම් අතර යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about fidgeting with their hands and feet==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+**Susaṃvuto** — not fidgeting with hands or feet, not restless.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about fidgeting with their hands and feet | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk6
+T: සුසංවුත නිසීදන සික්ඛාපදය || Sitting Well-restrained
+R: හොඳින් සංවර වී ගම් අතර හිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will sit well-restrained in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත් පා සොලවමින් ගම් අතර හිඳගත්හ || sat fidgeting with their hands and feet
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අත් පා සොලවමින් ගම් අතර හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අත් පා සොලවමින් ගම් අතර හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat fidgeting with their hands and feet==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat fidgeting with their hands and feet | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk7
+T: ඔක්ඛිත්තචක්ඛු ගමන සික්ඛාපදය || Going with Eyes Downcast
+R: ඇස් පහත් කොට ගම් අතර යන්නෙමි යි හික්මීමක් කළ යුතුය. || I will go with eyes downcast in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මෙහෙ අහෙ බලමින් ගම් අතර ගියහ || went about looking here and there
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ඇතුන්, අසුන්, රථ ආදී අනතුරු බැලීමට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; To look out for dangers such as elephants, horses or carts; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==මෙහෙ අහෙ බලමින් ගම් අතර ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+**ඔක්ඛිත්තචක්ඛු** — වියදඬු ප්‍රමාණයක් (රියන් සතරක් පමණ) ඉදිරියෙන් බලමින්.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — මෙහෙ අහෙ බලමින් ගම් අතර යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ඇතුන්, අසුන්, රථ ආදී අනතුරු බැලීමට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about looking here and there==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+**Okkhittacakkhu** — looking ahead a plough's length (about four cubits).
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about looking here and there | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# To look out for dangers such as elephants, horses or carts;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk8
+T: ඔක්ඛිත්තචක්ඛු නිසීදන සික්ඛාපදය || Sitting with Eyes Downcast
+R: ඇස් පහත් කොට ගම් අතර හිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will sit with eyes downcast in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මෙහෙ අහෙ බලමින් ගම් අතර හිඳගත්හ || sat looking here and there
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==මෙහෙ අහෙ බලමින් ගම් අතර හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — මෙහෙ අහෙ බලමින් ගම් අතර හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat looking here and there==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat looking here and there | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk9
+T: උක්ඛිත්තක ගමන සික්ඛාපදය || Not Going with Robes Lifted
+R: සිවුර ඔසවා ගම් අතර නොයන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not go with robes hitched up in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිවුර එක් පසෙකින් හෝ දෙපසින් ඔසවා ගියහ || went about with their robes hitched up on one or both sides
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==සිවුර එක් පසෙකින් හෝ දෙපසින් ඔසවා ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — සිවුර එක් පසෙකින් හෝ දෙපසින් ඔසවා යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about with their robes hitched up on one or both sides==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about with their robes hitched up on one or both sides | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk10
+T: උක්ඛිත්තක නිසීදන සික්ඛාපදය || Not Sitting with Robes Lifted
+R: සිවුර ඔසවා ගම් අතර නොහිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will not sit with robes hitched up in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිවුර ඔසවා හිඳගත්හ || sat with their robes hitched up
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==සිවුර ඔසවා හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — සිවුර ඔසවා හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat with their robes hitched up==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat with their robes hitched up | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk11
+T: උජ්ජග්ඝික ගමන සික්ඛාපදය || Not Going Laughing Loudly
+R: මහ හඬින් සිනාසෙමින් ගම් අතර නොයන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not go laughing loudly in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මහ හඬින් සිනාසෙමින් ගියහ || went about laughing loudly
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; සිනහ උපදින කරුණක් ඇති විට මඳහසක් පමණක් කිරීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Merely smiling when there is cause for amusement; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==මහ හඬින් සිනාසෙමින් ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+මඳ සිනාව (සිනහ මුහුණ) පමණක් ඇවැත් නොවේ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — මහ හඬින් සිනාසෙමින් යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# සිනහ උපදින කරුණක් ඇති විට මඳහසක් පමණක් කිරීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about laughing loudly==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+A mere smile is no offence.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about laughing loudly | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Merely smiling when there is cause for amusement;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk12
+T: උජ්ජග්ඝික නිසීදන සික්ඛාපදය || Not Sitting Laughing Loudly
+R: මහ හඬින් සිනාසෙමින් ගම් අතර නොහිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will not sit laughing loudly in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මහ හඬින් සිනාසෙමින් හිඳගත්හ || sat laughing loudly
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; මඳ සිනාව පමණක්; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Merely smiling; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==මහ හඬින් සිනාසෙමින් හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — මහ හඬින් සිනාසෙමින් හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# මඳ සිනාව පමණක්;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat laughing loudly==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat laughing loudly | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Merely smiling;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk13
+T: අප්පසද්ද ගමන සික්ඛාපදය || Going Quietly
+R: අල්ප ශබ්දයෙන් ගම් අතර යන්නෙමි යි හික්මීමක් කළ යුතුය. || I will go quietly in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මහ හඬින් කථා කරමින් ගියහ || went about talking loudly
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==මහ හඬින් කථා කරමින් ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+**අප්පසද්දො** — දොළොස් රියනක් දුරින් සිටින තෙරුන්ට අසන්නේ නැති, සාමාන්‍ය හඬින්.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — මහ හඬින් කථා කරමින් යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about talking loudly==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+**Appasaddo** — speaking at a level that an elder twelve cubits away would not hear.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about talking loudly | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk14
+T: අප්පසද්ද නිසීදන සික්ඛාපදය || Sitting Quietly
+R: අල්ප ශබ්දයෙන් ගම් අතර හිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will sit quietly in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මහ හඬින් කථා කරමින් හිඳගත්හ || sat talking loudly
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==මහ හඬින් කථා කරමින් හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — මහ හඬින් කථා කරමින් හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat talking loudly==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat talking loudly | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk15
+T: කායප්පචාලක ගමන සික්ඛාපදය || Not Swaying the Body while Going
+R: කය සොලවමින් ගම් අතර නොයන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not go swaying the body in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කය සොලවමින් ගියහ || went about swaying their bodies
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==කය සොලවමින් ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+කය සෘජුව තබා ගෙන යා යුතුය.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — කය සොලවමින් යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about swaying their bodies==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+One should go keeping the body straight.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about swaying their bodies | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk16
+T: කායප්පචාලක නිසීදන සික්ඛාපදය || Not Swaying the Body while Sitting
+R: කය සොලවමින් ගම් අතර නොහිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will not sit swaying the body in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කය සොලවමින් හිඳගත්හ || sat swaying their bodies
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==කය සොලවමින් හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — කය සොලවමින් හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat swaying their bodies==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat swaying their bodies | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk17
+T: බාහුප්පචාලක ගමන සික්ඛාපදය || Not Swinging the Arms while Going
+R: අත් සොලවමින් ගම් අතර නොයන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not go swinging the arms in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත් සොලවමින් ගියහ || went about swinging their arms
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අත් සොලවමින් ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අත් සොලවමින් යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about swinging their arms==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about swinging their arms | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk18
+T: බාහුප්පචාලක නිසීදන සික්ඛාපදය || Not Swinging the Arms while Sitting
+R: අත් සොලවමින් ගම් අතර නොහිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will not sit swinging the arms in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත් සොලවමින් හිඳගත්හ || sat swinging their arms
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අත් සොලවමින් හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අත් සොලවමින් හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat swinging their arms==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat swinging their arms | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk19
+T: සීසප්පචාලක ගමන සික්ඛාපදය || Not Shaking the Head while Going
+R: හිස සොලවමින් ගම් අතර නොයන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not go shaking the head in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිස සොලවමින් ගියහ || went about shaking their heads
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==හිස සොලවමින් ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — හිස සොලවමින් යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about shaking their heads==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about shaking their heads | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk20
+T: සීසප්පචාලක නිසීදන සික්ඛාපදය || Not Shaking the Head while Sitting
+R: හිස සොලවමින් ගම් අතර නොහිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will not sit shaking the head in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිස සොලවමින් හිඳගත්හ || sat shaking their heads
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==හිස සොලවමින් හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — හිස සොලවමින් හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat shaking their heads==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat shaking their heads | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk21
+T: ඛම්භකත ගමන සික්ඛාපදය || Not Going with Arms Akimbo
+R: ඉණෙහි අත් තබා ගම් අතර නොයන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not go with arms akimbo in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ඉණෙහි අත් තබා ගියහ || went about with their arms akimbo
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ඉණෙහි අත් තබා ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+**ඛම්භකතො** — එක් අතක් හෝ දෙකම ඉණෙහි තබා.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ඉණෙහි අත් තබා යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about with their arms akimbo==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+**Khambhakato** — with one or both hands on the hips.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about with their arms akimbo | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk22
+T: ඛම්භකත නිසීදන සික්ඛාපදය || Not Sitting with Arms Akimbo
+R: ඉණෙහි අත් තබා ගම් අතර නොහිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will not sit with arms akimbo in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ඉණෙහි අත් තබා හිඳගත්හ || sat with their arms akimbo
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ඉණෙහි අත් තබා හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ඉණෙහි අත් තබා හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat with their arms akimbo==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat with their arms akimbo | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk23
+T: ඔගුණ්ඨිත ගමන සික්ඛාපදය || Not Going with the Head Covered
+R: හිස වසා ගම් අතර නොයන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not go with my head covered in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිස සිවුරෙන් වසා ගියහ || went about with their heads covered with their robes
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; සීතලෙන් හෝ ගිලන් බැවින් හිස වැසීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Covering the head because of cold or illness; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==හිස සිවුරෙන් වසා ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — හිස සිවුරෙන් වසා යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# සීතලෙන් හෝ ගිලන් බැවින් හිස වැසීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about with their heads covered with their robes==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about with their heads covered with their robes | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Covering the head because of cold or illness;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk24
+T: ඔගුණ්ඨිත නිසීදන සික්ඛාපදය || Not Sitting with the Head Covered
+R: හිස වසා ගම් අතර නොහිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will not sit with my head covered in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිස සිවුරෙන් වසා හිඳගත්හ || sat with their heads covered
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; සීතලෙන් හෝ ගිලන් බැවින්; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Because of cold or illness; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==හිස සිවුරෙන් වසා හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — හිස සිවුරෙන් වසා හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# සීතලෙන් හෝ ගිලන් බැවින්;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat with their heads covered==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat with their heads covered | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Because of cold or illness;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk25
+T: උක්කුටික සික්ඛාපදය || Not Walking on Toes or Heels
+R: ඇඟිලි තුඩින් හෝ විලුඹින් ගම් අතර නොයන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not go in inhabited areas tiptoeing or walking on my heels: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ඇඟිලි තුඩින් හෝ විලුඹින් ඇවිද ගියහ || went about on tiptoe or on their heels
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; පාදයේ තුවාල ඇති විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When there are sores on the feet; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ඇඟිලි තුඩින් හෝ විලුඹින් ඇවිද ගියහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ඇඟිලි තුඩින් හෝ විලුඹින් ඇවිද යාම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# පාදයේ තුවාල ඇති විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==went about on tiptoe or on their heels==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — went about on tiptoe or on their heels | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When there are sores on the feet;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk26
+T: පල්ලත්ථික සික්ඛාපදය || Not Sitting Clasping the Knees
+R: දණහිස් අල්ලා හෝ වස්ත්‍රයකින් බැඳ ගම් අතර නොහිඳින්නෙමි යි හික්මීමක් කළ යුතුය. || I will not sit clasping my knees in inhabited areas: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අතින් හෝ වස්ත්‍රයෙන් දණහිස් වට කොට හිඳගත්හ || sat holding their knees with their hands or a cloth
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අතින් හෝ වස්ත්‍රයෙන් දණහිස් වට කොට හිඳගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අතින් හෝ වස්ත්‍රයෙන් දණහිස් වට කොට හිඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sat holding their knees with their hands or a cloth==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sat holding their knees with their hands or a cloth | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk27
+T: සක්කච්ච පටිග්ගහණ සික්ඛාපදය || Receiving Alms Appreciatively
+R: ගෞරවයෙන් (සක්කච්චව) පිණ්ඩපාතය පිළිගන්නෙමි යි හික්මීමක් කළ යුතුය. || I will receive almsfood appreciatively: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: නොකැමැත්තෙන් මෙන්, ඉවත දමන්නට මෙන් පිණ්ඩපාතය පිළිගත්හ || received almsfood as if they did not want it
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==නොකැමැත්තෙන් මෙන්, ඉවත දමන්නට මෙන් පිණ්ඩපාතය පිළිගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — නොකැමැත්තෙන් මෙන්, ඉවත දමන්නට මෙන් පිණ්ඩපාතය පිළිගැනීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==received almsfood as if they did not want it==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — received almsfood as if they did not want it | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk28
+T: පත්තසඤ්ඤී පටිග්ගහණ සික්ඛාපදය || Attention on the Bowl when Receiving
+R: පාත්‍රයෙහි සිත යොදා පිණ්ඩපාතය පිළිගන්නෙමි යි හික්මීමක් කළ යුතුය. || I will receive almsfood with attention on the bowl: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මෙහෙ අහෙ බලමින් පිණ්ඩපාතය පිළිගත් බැවින් ආහාර වැටුණි || received almsfood looking here and there, so that it spilled
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==මෙහෙ අහෙ බලමින් පිණ්ඩපාතය පිළිගත් බැවින් ආහාර වැටුණි==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — මෙහෙ අහෙ බලමින් පිණ්ඩපාතය පිළිගත් බැවින් ආහාර වැටුණි | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==received almsfood looking here and there, so that it spilled==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — received almsfood looking here and there, so that it spilled | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk29
+T: සමසූපක පටිග්ගහණ සික්ඛාපදය || Receiving Curry in Proportion
+R: සම ප්‍රමාණ ව්‍යඤ්ජන ඇතිව පිණ්ඩපාතය පිළිගන්නෙමි යි හික්මීමක් කළ යුතුය. || I will receive almsfood with curry in proportion: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ව්‍යඤ්ජන පමණක් බොහෝ කොට පිළිගත්හ || received mostly curry
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; විවිධ ව්‍යඤ්ජන ලැබීම, ඥාතීන් හා පවාරණය කළ අයගෙන්, අනුන් සඳහා, තමාගේ ධනයෙන්; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Various curries; from relatives or those who invited; for another; with one's own funds; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ව්‍යඤ්ජන පමණක් බොහෝ කොට පිළිගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+**සමසූපකො** — බතින් හතරෙන් පංගුවක් ව්‍යඤ්ජන ඇතිව.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ව්‍යඤ්ජන පමණක් බොහෝ කොට පිළිගැනීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# විවිධ ව්‍යඤ්ජන ලැබීම, ඥාතීන් හා පවාරණය කළ අයගෙන්, අනුන් සඳහා, තමාගේ ධනයෙන්;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==received mostly curry==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+**Samasūpako** — with curry about a quarter of the rice.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — received mostly curry | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Various curries; from relatives or those who invited; for another; with one's own funds;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk30
+T: සමතිත්තික සික්ඛාපදය || Receiving Level with the Rim
+R: පාත්‍රයේ මුව ගට්ට දක්වා සමව පිණ්ඩපාතය පිළිගන්නෙමි යි හික්මීමක් කළ යුතුය. || I will receive almsfood level with the rim of the bowl: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පාත්‍රය උතුරා යන තරම් පිරවූහ || received almsfood heaped up over the rim
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ගිලන්පස (බෙහෙත්) පිළිගැනීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Receiving tonics; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==පාත්‍රය උතුරා යන තරම් පිරවූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — පාත්‍රය උතුරා යන තරම් පිරවීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ගිලන්පස (බෙහෙත්) පිළිගැනීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==received almsfood heaped up over the rim==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — received almsfood heaped up over the rim | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Receiving tonics;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk31
+T: සක්කච්ච භුඤ්ජන සික්ඛාපදය || Eating Appreciatively
+R: ගෞරවයෙන් පිණ්ඩපාතය වළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will eat almsfood appreciatively: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: නොකැමැත්තෙන් මෙන් වැළඳූහ || ate as if they did not want to
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==නොකැමැත්තෙන් මෙන් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — නොකැමැත්තෙන් මෙන් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate as if they did not want to==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate as if they did not want to | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk32
+T: පත්තසඤ්ඤී භුඤ්ජන සික්ඛාපදය || Attention on the Bowl when Eating
+R: පාත්‍රයෙහි සිත යොදා වළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will eat with attention on the bowl: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මෙහෙ අහෙ බලමින් වැළඳූහ || ate looking here and there
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==මෙහෙ අහෙ බලමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — මෙහෙ අහෙ බලමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate looking here and there==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate looking here and there | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk33
+T: සපදාන සික්ඛාපදය || Eating in Order
+R: පිළිවෙළින් (සපදාන) වළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will eat almsfood in order: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: එතැනින් මෙතැනින් තෝරා ගනිමින් වැළඳූහ || picked here and there in the bowl
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අනුන්ට දීමේදී, අනුන්ගේ පාත්‍රයට දීමේදී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When giving to others; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==එතැනින් මෙතැනින් තෝරා ගනිමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+**සපදානං** — පාත්‍රයේ එක් පැත්තක සිට පිළිවෙළින්, තැනින් තැන නොහාරා.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — එතැනින් මෙතැනින් තෝරා ගනිමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අනුන්ට දීමේදී, අනුන්ගේ පාත්‍රයට දීමේදී;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==picked here and there in the bowl==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Explanation of terms
+**Sapadānaṃ** — from one side of the bowl in order, not digging here and there.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — picked here and there in the bowl | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When giving to others;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk34
+T: සමසූපක භුඤ්ජන සික්ඛාපදය || Eating Curry in Proportion
+R: සම ප්‍රමාණ ව්‍යඤ්ජන ඇතිව වළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will eat almsfood with curry in proportion: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ව්‍යඤ්ජන පමණක් වැඩිපුර වැළඳූහ || ate mostly curry
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; විවිධ ව්‍යඤ්ජන ඇති විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When there are various curries; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ව්‍යඤ්ජන පමණක් වැඩිපුර වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ව්‍යඤ්ජන පමණක් වැඩිපුර වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# විවිධ ව්‍යඤ්ජන ඇති විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate mostly curry==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate mostly curry | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When there are various curries;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk35
+T: ථූපකත සික්ඛාපදය || Not Eating from the Top
+R: මුදුනෙන් තලා නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat almsfood pressing down from the top: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: බත් ගොඩේ මුදුනෙන් තලා වැළඳූහ || ate pressing down from the top of the heap
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ඉතිරි ස්වල්පය එක් කොට වැළඳීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Gathering the little that remains; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==බත් ගොඩේ මුදුනෙන් තලා වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — බත් ගොඩේ මුදුනෙන් තලා වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ඉතිරි ස්වල්පය එක් කොට වැළඳීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate pressing down from the top of the heap==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate pressing down from the top of the heap | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Gathering the little that remains;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk36
+T: ඔදනප්පටිච්ඡාදන සික්ඛාපදය || Not Hiding Curry with Rice
+R: වැඩියෙන් ලැබීමේ කැමැත්තෙන් ව්‍යඤ්ජන බතින් නොවසන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not hide curry with rice out of desire to get more: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: වැඩියෙන් ලැබීමට ව්‍යඤ්ජන බතින් වැසූහ || covered their curry with rice to get more
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; හිමියන් විසින් ම වැසීම, වැඩියෙන් ලැබීමේ අදහසක් නැතිව; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the donors cover it themselves; without desire for more; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==වැඩියෙන් ලැබීමට ව්‍යඤ්ජන බතින් වැසූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — වැඩියෙන් ලැබීමට ව්‍යඤ්ජන බතින් වැසීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# හිමියන් විසින් ම වැසීම, වැඩියෙන් ලැබීමේ අදහසක් නැතිව;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==covered their curry with rice to get more==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — covered their curry with rice to get more | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the donors cover it themselves; without desire for more;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk37
+T: සූපෝදනවිඤ්ඤත්ති සික්ඛාපදය || Not Asking for Curry or Rice
+R: ගිලන් නොවී තමා සඳහා ව්‍යඤ්ජන හෝ බත් ඉල්ලා නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || When not ill, I will not ask for curry or rice for my own sake and eat it: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ගිලන් නොවී ව්‍යඤ්ජන, බත් ඉල්ලා වැළඳූහ || asked for curry and rice for themselves when not ill
+K: TS vj=L cit=A ved=D sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ගිලන්, ඥාතීන්, පවාරණය කළ අය, අනුන් සඳහා, තමාගේ ධනයෙන්; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Ill; from relatives or those who invited; for another; with one's own funds; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ගිලන් නොවී ව්‍යඤ්ජන, බත් ඉල්ලා වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ගිලන් නොවී ව්‍යඤ්ජන, බත් ඉල්ලා වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ගිලන්, ඥාතීන්, පවාරණය කළ අය, අනුන් සඳහා, තමාගේ ධනයෙන්;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==asked for curry and rice for themselves when not ill==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — asked for curry and rice for themselves when not ill | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Ill; from relatives or those who invited; for another; with one's own funds;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk38
+T: උජ්ඣානසඤ්ඤී සික්ඛාපදය || Not Looking at Others' Bowls
+R: දොස් සොයන සිතින් අනුන්ගේ පාත්‍ර නොබලන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not look at another's bowl intent on finding fault: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: දොස් සොයන සිතින් අනුන්ගේ පාත්‍ර බැලූහ || looked at others' bowls intent on finding fault
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; "දෙන්නෙමි" යි හෝ "ලැබුණේ ද" යි බැලීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Looking to give, or to see whether they have received; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==දොස් සොයන සිතින් අනුන්ගේ පාත්‍ර බැලූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — දොස් සොයන සිතින් අනුන්ගේ පාත්‍ර බැලීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# "දෙන්නෙමි" යි හෝ "ලැබුණේ ද" යි බැලීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==looked at others' bowls intent on finding fault==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — looked at others' bowls intent on finding fault | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Looking to give, or to see whether they have received;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk39
+T: කබළ සික්ඛාපදය || Not Too Large a Mouthful
+R: ඉතා විශාල කබළ (බත් පිඩු) නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not make up an overly large mouthful: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ඉතා විශාල බත් පිඩු සාදා වැළඳූහ || made up overly large mouthfuls
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; කැවිලි, පලතුරු ආදී ඛාදනීය; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Non-staple foods such as cakes and fruit; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ඉතා විශාල බත් පිඩු සාදා වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ඉතා විශාල බත් පිඩු සාදා වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# කැවිලි, පලතුරු ආදී ඛාදනීය;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==made up overly large mouthfuls==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — made up overly large mouthfuls | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Non-staple foods such as cakes and fruit;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk40
+T: ආලෝප සික්ඛාපදය || Round Mouthfuls
+R: වටකුරු (පරිමණ්ඩල) ආලෝප කරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will make up rounded mouthfuls: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: දිගටි පිඩු සාදා වැළඳූහ || made up long, untidy mouthfuls
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ඛාදනීය ආහාර; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Non-staple foods; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==දිගටි පිඩු සාදා වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — දිගටි පිඩු සාදා වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ඛාදනීය ආහාර;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==made up long, untidy mouthfuls==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — made up long, untidy mouthfuls | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Non-staple foods;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk41
+T: අනාහට සික්ඛාපදය || Not Opening the Mouth Early
+R: කබළ කටට ළඟා නොවූ විට මුව දොර නොවිවෘත කරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not open my mouth when the mouthful has not been brought to it: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: බත් පිඩ ළං නොකර මුව විවෘත කළහ || opened their mouths before the mouthful was brought to them
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==බත් පිඩ ළං නොකර මුව විවෘත කළහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — බත් පිඩ ළං නොකර මුව විවෘත කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==opened their mouths before the mouthful was brought to them==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — opened their mouths before the mouthful was brought to them | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk42
+T: සබ්බහත්ථ සික්ඛාපදය || Not Putting the Whole Hand in the Mouth
+R: වළඳමින් සියලු අත කටට නොදමන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not put my whole hand into my mouth while eating: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: වළඳමින් මුළු අතම කටට දැමූහ || put their whole hand into their mouths while eating
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==වළඳමින් මුළු අතම කටට දැමූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — වළඳමින් මුළු අතම කටට දැමීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==put their whole hand into their mouths while eating==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — put their whole hand into their mouths while eating | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk43
+T: සකබළ සික්ඛාපදය || Not Speaking with the Mouth Full
+R: කටේ කබළ ඇතිව කථා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not speak with my mouth full of food: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කටේ ආහාර ඇතිව කථා කළහ || spoke with their mouths full
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==කටේ ආහාර ඇතිව කථා කළහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — කටේ ආහාර ඇතිව කථා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==spoke with their mouths full==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — spoke with their mouths full | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk44
+T: පිණ්ඩුක්ඛේපක සික්ඛාපදය || Not Tossing Food into the Mouth
+R: පිඩු ඔසවා විසි කරමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat tossing up balls of food: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: බත් පිඩු ඔසවා කටට විසි කරමින් වැළඳූහ || ate tossing balls of food into their mouths
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ඛාදනීය, ඵල ආදිය; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Non-staple foods, fruit and the like; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==බත් පිඩු ඔසවා කටට විසි කරමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — බත් පිඩු ඔසවා කටට විසි කරමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ඛාදනීය, ඵල ආදිය;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate tossing balls of food into their mouths==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate tossing balls of food into their mouths | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Non-staple foods, fruit and the like;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk45
+T: කබළාවච්ඡේදක සික්ඛාපදය || Not Biting off Mouthfuls
+R: කබළ කඩමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat biting off mouthfuls: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: බත් පිඩු සපා කඩමින් වැළඳූහ || ate biting off pieces of their mouthfuls
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ඛාදනීය, කැවිලි, ඵල; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Non-staple foods, cakes, fruit; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==බත් පිඩු සපා කඩමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — බත් පිඩු සපා කඩමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ඛාදනීය, කැවිලි, ඵල;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate biting off pieces of their mouthfuls==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate biting off pieces of their mouthfuls | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Non-staple foods, cakes, fruit;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk46
+T: අවගණ්ඩකාරක සික්ඛාපදය || Not Stuffing the Cheeks
+R: කොපුල් පුරවමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat stuffing out my cheeks: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: වඳුරන් මෙන් කොපුල් පුරවා වැළඳූහ || ate stuffing out their cheeks like monkeys
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ඵල ආදිය; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Fruit and the like; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==වඳුරන් මෙන් කොපුල් පුරවා වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — වඳුරන් මෙන් කොපුල් පුරවා වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ඵල ආදිය;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate stuffing out their cheeks like monkeys==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate stuffing out their cheeks like monkeys | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Fruit and the like;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk47
+T: හත්ථනිද්ධුනක සික්ඛාපදය || Not Shaking the Hand
+R: අත ගසමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat shaking off my hand: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත ගසමින් වැළඳූහ || ate shaking their hands
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; කුණු ඉවත් කිරීමට ගැසීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Shaking off dirt; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අත ගසමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අත ගසමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# කුණු ඉවත් කිරීමට ගැසීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate shaking their hands==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate shaking their hands | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Shaking off dirt;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk48
+T: සිත්ථාවකාරක සික්ඛාපදය || Not Scattering Rice
+R: බත් ඇට විසුරුවමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat scattering lumps of rice: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: බත් ඇට විසුරුවමින් වැළඳූහ || ate scattering grains of rice
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; කුණු ඉවත් කිරීමේදී වැටීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When removing dirt; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==බත් ඇට විසුරුවමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — බත් ඇට විසුරුවමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# කුණු ඉවත් කිරීමේදී වැටීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate scattering grains of rice==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate scattering grains of rice | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When removing dirt;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk49
+T: ජිව්හානිච්ඡාරක සික්ඛාපදය || Not Sticking out the Tongue
+R: දිව දික් කරමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat sticking out my tongue: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: දිව දික් කරමින් වැළඳූහ || ate sticking out their tongues
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==දිව දික් කරමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — දිව දික් කරමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate sticking out their tongues==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate sticking out their tongues | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk50
+T: චපුචපුකාරක සික්ඛාපදය || Not Smacking the Lips
+R: "චපු චපු" හඬ නගමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat making a smacking sound: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: "චපු චපු" හඬ නගමින් වැළඳූහ || ate making smacking sounds
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** =="චපු චපු" හඬ නගමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — "චපු චපු" හඬ නගමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate making smacking sounds==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate making smacking sounds | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk51
+T: සුරුසුරුකාරක සික්ඛාපදය || Not Slurping
+R: "සුරු සුරු" හඬ නගමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat making a slurping sound: this is a training to be done.
+N: කොසඹෑ නුවර, ඝෝසිතාරාමය || Kosambī, Ghositārāma
+P: බොහෝ භික්ෂූන් || A number of monks
+V: කිරි බොන විට "සුරු සුරු" හඬ නැගූහ || made slurping sounds while drinking milk
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ කොසඹෑ නුවර · ඝෝසිතාරාමය
+**බොහෝ භික්ෂූහු** ==කිරි බොන විට "සුරු සුරු" හඬ නැගූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — කිරි බොන විට "සුරු සුරු" හඬ නැගීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Kosambī · Ghositārāma
+**A number of monks** ==made slurping sounds while drinking milk==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — made slurping sounds while drinking milk | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk52
+T: හත්ථනිල්ලේහක සික්ඛාපදය || Not Licking the Hand
+R: අත ලෙවකමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat licking my hand: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත ලෙවකමින් වැළඳූහ || ate licking their hands
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අත ලෙවකමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අත ලෙවකමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate licking their hands==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate licking their hands | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk53
+T: පත්තනිල්ලේහක සික්ඛාපදය || Not Licking the Bowl
+R: පාත්‍රය ලෙවකමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat licking the bowl: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පාත්‍රය ලෙවකමින් වැළඳූහ || ate licking their bowls
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ඉතිරි ස්වල්පය ඇඟිලිවලින් එකතු කොට වැළඳීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Gathering the remaining bits with the fingers; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==පාත්‍රය ලෙවකමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — පාත්‍රය ලෙවකමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ඉතිරි ස්වල්පය ඇඟිලිවලින් එකතු කොට වැළඳීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate licking their bowls==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate licking their bowls | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Gathering the remaining bits with the fingers;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk54
+T: ඔට්ඨනිල්ලේහක සික්ඛාපදය || Not Licking the Lips
+R: තොල් ලෙවකමින් නොවළඳන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not eat licking my lips: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: තොල් ලෙවකමින් වැළඳූහ || ate licking their lips
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==තොල් ලෙවකමින් වැළඳූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — තොල් ලෙවකමින් වැළඳීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==ate licking their lips==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — ate licking their lips | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk55
+T: සාමිස සික්ඛාපදය || Not Taking the Water Vessel with a Soiled Hand
+R: ආහාර තැවරුණු අතින් පැන් බඳුන නොපිළිගන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not accept a water vessel with a hand soiled with food: this is a training to be done.
+N: භග්ග ජනපදය, සුංසුමාරගිරය || Bhagga country, Suṃsumāragira
+P: බොහෝ භික්ෂූන් || A number of monks
+V: ආහාර තැවරුණු අතින් පැන් බඳුන ගත්හ || took hold of the water vessel with hands soiled with food
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; "සෝදන්නෙමි" හෝ "සෝදවන්නෙමි" යි ගැනීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Taking it intending to wash it or have it washed; the insane etc.
+#si
+## කථා වස්තුව
+@ භග්ග ජනපදය · සුංසුමාරගිරය
+**බොහෝ භික්ෂූහු** ==ආහාර තැවරුණු අතින් පැන් බඳුන ගත්හ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ආහාර තැවරුණු අතින් පැන් බඳුන ගැනීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# "සෝදන්නෙමි" හෝ "සෝදවන්නෙමි" යි ගැනීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Bhagga country · Suṃsumāragira
+**A number of monks** ==took hold of the water vessel with hands soiled with food==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — took hold of the water vessel with hands soiled with food | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Taking it intending to wash it or have it washed;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk56
+T: සසිත්ථක සික්ඛාපදය || Not Throwing out Rice-filled Rinse Water
+R: බත් ඇට සහිත පාත්‍ර සේදූ ජලය ගම් අතර නොදමන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not throw bowl-rinsing water containing rice into an inhabited area: this is a training to be done.
+N: භග්ග ජනපදය, සුංසුමාරගිරය || Bhagga country, Suṃsumāragira
+P: බොහෝ භික්ෂූන් || A number of monks
+V: බත් ඇට සහිත පාත්‍ර සේදූ ජලය නිවාස අතර දැමූහ || threw bowl-rinsing water with rice in it among the houses
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ඇට ඉවත් කොට, හෝ පොඩි කොට, හෝ බඳුනකට, හෝ පිටතට දැමීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; Removing or crushing the rice first, or pouring it into a basin or outside; the insane etc.
+#si
+## කථා වස්තුව
+@ භග්ග ජනපදය · සුංසුමාරගිරය
+**බොහෝ භික්ෂූහු** ==බත් ඇට සහිත පාත්‍ර සේදූ ජලය නිවාස අතර දැමූහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — බත් ඇට සහිත පාත්‍ර සේදූ ජලය නිවාස අතර දැමීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ඇට ඉවත් කොට, හෝ පොඩි කොට, හෝ බඳුනකට, හෝ පිටතට දැමීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Bhagga country · Suṃsumāragira
+**A number of monks** ==threw bowl-rinsing water with rice in it among the houses==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — threw bowl-rinsing water with rice in it among the houses | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# Removing or crushing the rice first, or pouring it into a basin or outside;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk57
+T: ඡත්තපාණි සික්ඛාපදය || Not Teaching One Holding an Umbrella
+R: ගිලන් නොවූ, අතේ කුඩයක් ඇති අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one with an umbrella in his hand who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අතේ කුඩ ඇති අයට ධර්මය දේශනා කළහ || taught the Dhamma to people holding umbrellas
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අතේ කුඩ ඇති අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+ධර්මය කෙරෙහි ගෞරවය පිණිස මෙම ශික්ෂාපද පනවා ඇත.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අතේ කුඩ ඇති අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people holding umbrellas==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Explanation of terms
+These rules are laid down out of respect for the Dhamma.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people holding umbrellas | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk58
+T: දණ්ඩපාණි සික්ඛාපදය || Not Teaching One Holding a Staff
+R: ගිලන් නොවූ, අතේ දණ්ඩක් ඇති අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one with a staff in his hand who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අතේ දඬු ඇති අයට ධර්මය දේශනා කළහ || taught the Dhamma to people holding staffs
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අතේ දඬු ඇති අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අතේ දඬු ඇති අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people holding staffs==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people holding staffs | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk59
+T: සත්ථපාණි සික්ඛාපදය || Not Teaching One Holding a Knife
+R: ගිලන් නොවූ, අතේ කඩුවක් හෝ පිහියක් ඇති අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one with a knife in his hand who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අතේ කඩු, පිහි ඇති අයට ධර්මය දේශනා කළහ || taught the Dhamma to people holding knives
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අතේ කඩු, පිහි ඇති අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අතේ කඩු, පිහි ඇති අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people holding knives==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people holding knives | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk60
+T: ආවුධපාණි සික්ඛාපදය || Not Teaching One Holding a Weapon
+R: ගිලන් නොවූ, අතේ ආයුධයක් ඇති අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one with a weapon in his hand who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අතේ දුනු ආදී ආයුධ ඇති අයට ධර්මය දේශනා කළහ || taught the Dhamma to people holding bows and other weapons
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==අතේ දුනු ආදී ආයුධ ඇති අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — අතේ දුනු ආදී ආයුධ ඇති අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people holding bows and other weapons==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people holding bows and other weapons | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk61
+T: පාදුක සික්ඛාපදය || Not Teaching One Wearing Sandals
+R: ගිලන් නොවූ, පාවහන් (ලී පාවහන්) පැළඳ සිටින අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one wearing sandals who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පාවහන් පැළඳ සිටි අයට ධර්මය දේශනා කළහ || taught the Dhamma to people wearing sandals
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==පාවහන් පැළඳ සිටි අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — පාවහන් පැළඳ සිටි අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people wearing sandals==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people wearing sandals | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk62
+T: උපාහන සික්ඛාපදය || Not Teaching One Wearing Shoes
+R: ගිලන් නොවූ, සපත්තු පැළඳ සිටින අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one wearing shoes who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සපත්තු පැළඳ සිටි අයට ධර්මය දේශනා කළහ || taught the Dhamma to people wearing shoes
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==සපත්තු පැළඳ සිටි අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — සපත්තු පැළඳ සිටි අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people wearing shoes==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people wearing shoes | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk63
+T: යාන සික්ඛාපදය || Not Teaching One in a Vehicle
+R: ගිලන් නොවූ, යානයක සිටින අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one in a vehicle who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: යානවල සිටි අයට ධර්මය දේශනා කළහ || taught the Dhamma to people in vehicles
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; දෙදෙනාම එකම යානයේ සිටින විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; when both are in the same vehicle; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==යානවල සිටි අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — යානවල සිටි අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට; දෙදෙනාම එකම යානයේ සිටින විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people in vehicles==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people in vehicles | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill; when both are in the same vehicle;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk64
+T: සයන සික්ඛාපදය || Not Teaching One Lying Down
+R: ගිලන් නොවූ, සයනයක (ඇඳක) නිදා සිටින අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one lying down who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ඇඳේ නිදා සිටි අයට ධර්මය දේශනා කළහ || taught the Dhamma to people lying on beds
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ඇඳේ නිදා සිටි අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ඇඳේ නිදා සිටි අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people lying on beds==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people lying on beds | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk65
+T: පල්ලත්ථික නිසින්න සික්ඛාපදය || Not Teaching One Clasping His Knees
+R: ගිලන් නොවූ, දණහිස් අල්ලා හිඳ සිටින අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one sitting clasping his knees who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: දණහිස් අල්ලා හිඳ සිටි අයට ධර්මය දේශනා කළහ || taught the Dhamma to people sitting clasping their knees
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==දණහිස් අල්ලා හිඳ සිටි අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — දණහිස් අල්ලා හිඳ සිටි අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people sitting clasping their knees==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people sitting clasping their knees | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk66
+T: වේඨිත සික්ඛාපදය || Not Teaching One with Head Wrapped
+R: ගිලන් නොවූ, හිස වෙළුමකින් හිස වෙළා සිටින අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one with his head wrapped in a turban who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිස වෙළා සිටි අයට ධර්මය දේශනා කළහ || taught the Dhamma to people with their heads wrapped
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; හිසකේ පෙනෙන සේ විවෘත කළ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; when the hair is exposed; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==හිස වෙළා සිටි අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+හිසකේ පෙනෙන සේ විවෘත කළ විට ඇවැත් නැත.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — හිස වෙළා සිටි අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට; හිසකේ පෙනෙන සේ විවෘත කළ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people with their heads wrapped==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Explanation of terms
+There is no offence when the hair is visible.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people with their heads wrapped | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill; when the hair is exposed;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk67
+T: ඔගුණ්ඨිත සික්ඛාපදය (දේශනා) || Not Teaching One with Head Covered
+R: ගිලන් නොවූ, හිස වසා සිටින අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || I will not teach the Dhamma to one whose head is covered who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිස වසා සිටි අයට ධර්මය දේශනා කළහ || taught the Dhamma to people with their heads covered
+K: DD sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; හිස විවෘත කළ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; when the head is uncovered; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==හිස වසා සිටි අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — හිස වසා සිටි අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට; හිස විවෘත කළ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==taught the Dhamma to people with their heads covered==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — taught the Dhamma to people with their heads covered | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill; when the head is uncovered;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk68
+T: ඡමා සික්ඛාපදය || Not Teaching from the Ground
+R: බිම හිඳ, ගිලන් නොවූ, ආසනයක හිඳින අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || Sitting on the ground, I will not teach the Dhamma to one sitting on a seat who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: බිම හිඳ, ආසනයක හිඳි අයට ධර්මය දේශනා කළහ || sitting on the ground, taught the Dhamma to people sitting on seats
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==බිම හිඳ, ආසනයක හිඳි අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## රූප සටහන
+!dgm: sk-ground **නොකළ යුතු ඉරියව්ව** — දේශකයා බිම හිඳ, ගිලන් නොවූ අසන්නා ආසනයක හිඳ සිටියදී.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — බිම හිඳ, ආසනයක හිඳි අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sitting on the ground, taught the Dhamma to people sitting on seats==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Illustration
+!dgm: sk-ground **A posture not to be used** — the teacher sits on the ground while the listener, not ill, sits on a seat.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sitting on the ground, taught the Dhamma to people sitting on seats | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk69
+T: නීචාසන සික්ඛාපදය || Not Teaching from a Lower Seat
+R: පහත් ආසනයක හිඳ, ගිලන් නොවූ, උස් ආසනයක හිඳින අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || Sitting on a low seat, I will not teach the Dhamma to one sitting on a high seat who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පහත් ආසනයක හිඳ, උස් ආසනයක හිඳි අයට දේශනා කළහ || sitting on low seats, taught the Dhamma to people on high seats
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==පහත් ආසනයක හිඳ, උස් ආසනයක හිඳි අයට දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## රූප සටහන
+!dgm: sk-lowseat **නොකළ යුතු ඉරියව්ව** — දේශකයා පහත් ආසනයක, අසන්නා උස් ආසනයක.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — පහත් ආසනයක හිඳ, උස් ආසනයක හිඳි අයට දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==sitting on low seats, taught the Dhamma to people on high seats==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Illustration
+!dgm: sk-lowseat **A posture not to be used** — the teacher on a low seat, the listener on a high one.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — sitting on low seats, taught the Dhamma to people on high seats | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk70
+T: ඨිත සික්ඛාපදය || Not Teaching while Standing
+R: සිට ගෙන, ගිලන් නොවූ, හිඳ සිටින අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || Standing, I will not teach the Dhamma to one who is sitting who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිට ගෙන, හිඳ සිටි අයට ධර්මය දේශනා කළහ || standing, taught the Dhamma to people who were sitting
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==සිට ගෙන, හිඳ සිටි අයට ධර්මය දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## රූප සටහන
+!dgm: sk-standing **නොකළ යුතු ඉරියව්ව** — දේශකයා සිටගෙන, අසන්නා හිඳගෙන.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — සිට ගෙන, හිඳ සිටි අයට ධර්මය දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==standing, taught the Dhamma to people who were sitting==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Illustration
+!dgm: sk-standing **A posture not to be used** — the teacher standing, the listener sitting.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — standing, taught the Dhamma to people who were sitting | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk71
+T: පච්ඡතෝගමන සික්ඛාපදය || Not Teaching while Walking Behind
+R: පසුපසින් යමින්, ගිලන් නොවූ, ඉදිරියෙන් යන අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || Walking behind, I will not teach the Dhamma to one walking ahead who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පසුපසින් යමින්, ඉදිරියෙන් යන අයට දේශනා කළහ || walking behind, taught the Dhamma to people walking ahead
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==පසුපසින් යමින්, ඉදිරියෙන් යන අයට දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## පද විවරණය
+එහෙත් ප්‍රශ්න කිරීම, සජ්ඣායනය කිරීම ඇවැත් නොවේ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — පසුපසින් යමින්, ඉදිරියෙන් යන අයට දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==walking behind, taught the Dhamma to people walking ahead==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Explanation of terms
+Asking questions and reciting together are no offence.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — walking behind, taught the Dhamma to people walking ahead | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk72
+T: උප්පථේනගමන සික්ඛාපදය || Not Teaching while Walking beside the Path
+R: මාර්ගයෙන් පිටත යමින්, ගිලන් නොවූ, මාර්ගයේ යන අයෙකුට ධර්මය දේශනා නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || Walking beside the path, I will not teach the Dhamma to one walking on the path who is not ill: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මාර්ගයෙන් පිටත යමින්, මාර්ගයේ යන අයට දේශනා කළහ || walking beside the path, taught the Dhamma to people walking on it
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; අසන්නා ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When the listener is ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==මාර්ගයෙන් පිටත යමින්, මාර්ගයේ යන අයට දේශනා කළහ==. එය දුටු අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — මාර්ගයෙන් පිටත යමින්, මාර්ගයේ යන අයට දේශනා කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# අසන්නා ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==walking beside the path, taught the Dhamma to people walking on it==. Monks of few wishes criticised this. The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — walking beside the path, taught the Dhamma to people walking on it | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When the listener is ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk73
+T: ඨිතෝඋච්චාර සික්ඛාපදය || Not Relieving Oneself Standing
+R: ගිලන් නොවී, සිට ගෙන මල හෝ මුත්‍ර පහ නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || When not ill, I will not defecate or urinate while standing: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිට ගෙන මල මුත්‍ර පහ කළහ || defecated and urinated standing up
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ගිලන් වූ විට; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When ill; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==සිට ගෙන මල මුත්‍ර පහ කළහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — සිට ගෙන මල මුත්‍ර පහ කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ගිලන් වූ විට;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==defecated and urinated standing up==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — defecated and urinated standing up | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When ill;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk74
+T: හරිතේඋච්චාර සික්ඛාපදය || Not Relieving Oneself on Crops
+R: ගිලන් නොවී, හරිත (වැවෙන ශාක) මත මල, මුත්‍ර හෝ කෙළ පහ නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || When not ill, I will not defecate, urinate or spit on living crops: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හරිත මත මල මුත්‍ර පහ කළහ || defecated and urinated on living plants
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ගිලන් වූ විට; හරිත නැති තැනක කළ දෙය හරිත මත පැතිරීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When ill; when done on bare ground and it spreads onto plants; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==හරිත මත මල මුත්‍ර පහ කළහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — හරිත මත මල මුත්‍ර පහ කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ගිලන් වූ විට; හරිත නැති තැනක කළ දෙය හරිත මත පැතිරීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==defecated and urinated on living plants==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — defecated and urinated on living plants | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When ill; when done on bare ground and it spreads onto plants;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).
+
+@sk75
+T: උදකේඋච්චාර සික්ඛාපදය || Not Relieving Oneself in Water
+R: ගිලන් නොවී, ජලයෙහි මල, මුත්‍ර හෝ කෙළ පහ නොකරන්නෙමි යි හික්මීමක් කළ යුතුය. || When not ill, I will not defecate, urinate or spit in water: this is a training to be done.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ජලයෙහි මල මුත්‍ර පහ කළහ || defecated and urinated in water
+K: P1 sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන, ගිලන්, ආපදා; ගිලන් වූ විට; ගොඩබිම කළ දෙය ජලය ගලා යාමෙන් ජලයට එක් වීම; උමතු ආදීන් || Unintentionally, unmindfully, not knowing, ill, emergencies; When ill; when done on land and water flows over it; the insane etc.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==ජලයෙහි මල මුත්‍ර පහ කළහ==. එය දුටු මිනිස්සු "ගිහි කාමභෝගීන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| අනාදරයෙන් (ගෞරවයක් නැතිව) — ජලයෙහි මල මුත්‍ර පහ කිරීම | DK
+| නොසිතා, නොසිහියෙන්, නොදැන හෝ ගිලන්ව | N
+## අනාපත්ති
+# **නොසිතා** (අසඤ්චිච්ච); **නොසිහියෙන්** (අසතියා);
+# **නොදැන** (අජානන්ත); **ගිලන්** වූ විට; **ආපදාවකදී**;
+# ගිලන් වූ විට; ගොඩබිම කළ දෙය ජලය ගලා යාමෙන් ජලයට එක් වීම;
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## අංග
+# ශික්ෂාපදයේ දැක්වෙන **ක්‍රියාව කිරීම / නොකිරීම**.
+# **අනාදරය** (අගෞරවය).
+# **අනාපත්ති කරුණක් නොවීම** (ගිලන් බව ආදිය නොමැති වීම).
+#en
+## The Story
+@ Sāvatthī · Jetavana
+**The group-of-six monks** ==defecated and urinated in water==. People criticised this: “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## Division of offences
+|! Case | Offence
+| Out of disrespect — defecated and urinated in water | DK
+| Unintentionally, unmindfully, not knowing, or when ill | N
+## No offence
+# **Unintentionally**; **unmindfully**;
+# **Not knowing**; when **ill**; in **emergencies**;
+# When ill; when done on land and water flows over it;
+# For the insane and so on, and for the first offenders.
+## Factors
+# **Doing (or not doing)** what the rule describes.
+# **Disrespect** (*anādariya*).
+# **No exemption** applies (illness and so on).

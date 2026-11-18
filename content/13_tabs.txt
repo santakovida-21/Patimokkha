@@ -1,0 +1,1881 @@
+@pac13
+T: උජ්ඣාපනක සික්ඛාපදය || Making Others Look Down on a Monk
+R: - || -
+N: රජගහ නුවර, වේළුවනය කලන්දකනිවාපය || Rājagaha, Veḷuvana, the Squirrels’ Feeding Place
+P: මෙත්තිය-භූමජක භික්ෂූන් || The Mettiya and Bhūmajaka monks
+V: සම්මත භික්ෂුවක් ගැන අවමන් කරවීම හා දොස් කීම || Making others look down on, and complaining about, an authorised monk
+K: AD sd=s an=a anu=1 ved=D
+Z: ස්වභාවයෙන් ම ඡන්ද, දෝෂ, මෝහ, භය අගතියෙන් කරන්නකු ගැන කීම; උමතු ආදීන් || Speaking of one who by nature acts from desire, hatred, delusion or fear; the insane etc.
+#si
+## {story} කථා වස්තුව
+### උජ්ඣාපනක වස්තුව
+@ රජගහ නුවර · වේළුවනය කලන්දකනිවාපය
+:::short
+මෙත්තිය-භූමජක භික්ෂූන්ට හීන සෙනසුන් හා බත් ලැබුණු හෙයින්, ඔව්හු “දබ්බ මල්ලපුත්ත තෙරුන් කැමැත්තෙන් සෙනසුන් හා බත් බෙදති” යි ==භික්ෂූන් ලවා ඔහු ගැන අවමන් කරවූහ==. භාග්‍යවතුන් වහන්සේ ගරහා ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ රජගහ නුවර වේළුවනයෙහි කලන්දකනිවාපයෙහි වැඩ වසන සේක. එකල ආයුෂ්මත් **දබ්බ මල්ලපුත්ත** තෙරුන් සංඝයාට සෙනසුන් පනවති, බත් ද උදෙසති (බෙදා දෙති). එකල මෙත්තිය-භූමජක භික්ෂූහු නවකයෝ ද අල්ප පුණ්‍යවත්හු ද වූහ. සංඝයාගේ යම් හීන සෙනසුන් වේ ද, ඒවා ඔවුනට ලැබේ; හීන බත් ද ලැබේ.
+ඔව්හු “දබ්බ මල්ලපුත්ත තෙරුන් ==කැමැත්තෙන් (පක්ෂපාතයෙන්) සෙනසුන් පනවයි, කැමැත්තෙන් බත් උදෙසයි==” යි කියමින් ආයුෂ්මත් දබ්බ මල්ලපුත්ත තෙරුන් ගැන භික්ෂූන් ලවා අවමන් කරවූහ (**උජ්ඣාපෙන්ති**).
+අල්පේච්ඡ භික්ෂූහු “මෙත්තිය-භූමජක භික්ෂූහු කෙසේ නම් ආයුෂ්මත් දබ්බ මල්ලපුත්ත තෙරුන් ගැන භික්ෂූන් ලවා අවමන් කරවන්නාහු ද?” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ. භාග්‍යවතුන් වහන්සේ “මහණෙනි, ඔබ දබ්බ මල්ලපුත්ත ගැන භික්ෂූන් ලවා අවමන් කරවන බව සැබෑ ද?” යි විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂයෙනි, ඔබ කෙසේ නම් දබ්බ මල්ලපුත්ත ගැන භික්ෂූන් ලවා අවමන් කරවන්නහු ද? මෝඝපුරුෂයෙනි, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා ශික්ෂාපදය පැනවූ සේක:
+:::
+!pn: මුල් පැනවීම
+> උජ්ඣාපනකෙ පාචිත්තියං.
+~ සම්මත භික්ෂුවක් ගැන අනුන් ලවා අවමන් කරවීමෙහි පචිති වේ.
+### ඛිය්‍යනක වස්තුව
+:::short
+ඉන්පසු ඔව්හු භික්ෂූන් අසල ==ඔහු ගැන දොස් කීහ==. භාග්‍යවතුන් වහන්සේ නැවත ගරහා ශික්ෂාපදය සම්පූර්ණ කළ සේක.
+:::
+:::long
+එකල මෙත්තිය-භූමජක භික්ෂූහු “භාග්‍යවතුන් වහන්සේ අවමන් කරවීම (**උජ්ඣාපනක**) පමණක් ප්‍රතික්ෂේප කළ සේක; මෙපමණකින් භික්ෂූහු (අප කියන දෙය) අසනු ඇත” යි සිතා, භික්ෂූන් ළඟදී ම ආයුෂ්මත් දබ්බ මල්ලපුත්ත තෙරුන් ගැන “කැමැත්තෙන් සෙනසුන් පනවයි, කැමැත්තෙන් බත් උදෙසයි” යි ==දොස් කීහ (**ඛිය්‍යන්ති**)==.
+අල්පේච්ඡ භික්ෂූහු “මෙත්තිය-භූමජක භික්ෂූහු කෙසේ නම් ආයුෂ්මත් දබ්බ මල්ලපුත්ත තෙරුන් ගැන දොස් කියන්නාහු ද?” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ. භාග්‍යවතුන් වහන්සේ “මහණෙනි, ඔබ දබ්බ මල්ලපුත්ත ගැන දොස් කියන බව සැබෑ ද?” යි විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂයෙනි, ඔබ කෙසේ නම් දබ්බ මල්ලපුත්ත ගැන දොස් කියන්නහු ද? මෝඝපුරුෂයෙනි, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා ශික්ෂාපදය පැනවූ සේක:
+:::
+!pn: අනුපඤ්ඤත්තිය — අවසන් පැනවීම (සම්පූර්ණ ශික්ෂාපදය)
+> උජ්ඣාපනකෙ ඛිය්‍යනකෙ පාචිත්තියං.
+~ ලමු කොට සිත වීමෙහි නුගුණ කීමෙහි පචිති වේ.
+## {story} පදභාජනීය — උජ්ඣාපනක හා ඛිය්‍යනක
+%% කාට ද | සංඝයා විසින් සම්මත කළ (**සඞ්ඝෙන සම්මතං**) උපසම්පන්න භික්ෂුවකට —
+%% ධුරය | සෙනසුන් පනවන්නෙකුට (**සෙනාසනපඤ්ඤාපක**), බත් උදෙසන්නෙකුට (**භත්තුද්දෙසක**), කැඳ බෙදන්නෙකුට (**යාගුභාජක**), පලතුරු බෙදන්නෙකුට (**ඵලභාජක**), කැවිලි බෙදන්නෙකුට (**ඛජ්ජභාජක**), හෝ සුළු දෑ දෙන්නෙකුට (**අප්පමත්තකවිස්සජ්ජක**) —
+%% අදහස | අගුණ කරනු කැමැත්තේ (**අවණ්ණං කත්තුකාමො**), අයස කරනු කැමැත්තේ (**අයසං කත්තුකාමො**), ලජ්ජාවට පත් කරනු කැමැත්තේ (**මඞ්කුකත්තුකාමො**),
+%% ක්‍රියාව | උපසම්පන්නයෙකු ලවා අවමන් කරවයි නම් (**උජ්ඣාපෙති**) හෝ (උපසම්පන්නයෙකු ඉදිරියේ) දොස් කියයි නම් (**ඛිය්‍යති**),
+%% ඵලය | ඔහුට **පාචිත්තිය** වේ.
+## {story} ආපත්ති — පුද්ගලයා හා සම්මුතිය අනුව
+|! කවරෙකු ගැන ද | කාට කියයි ද | ඇවැත
+| සංඝ සම්මත උපසම්පන්න භික්ෂුව | උපසම්පන්නයෙකු ලවා අවමන් කරවයි / දොස් කියයි | PC
+| සංඝ සම්මත උපසම්පන්න භික්ෂුව | අනුපසම්පන්නයෙකු ලවා අවමන් කරවයි / දොස් කියයි | DK
+| සංඝ සම්මුතිය නොලත් උපසම්පන්න භික්ෂුව (සේනාසනපඤ්ඤාපක ආදී) | උපසම්පන්නයෙකුට හෝ අනුපසම්පන්නයෙකුට | DK
+| සම්මත හෝ අසම්මත අනුපසම්පන්නයා (සේනාසනපඤ්ඤාපක ආදී) | උපසම්පන්නයෙකුට හෝ අනුපසම්පන්නයෙකුට | DK
+## {story} ආපත්ති — කර්මය හා සංඥාව අනුව
+|! සම්මුති කර්මය | සංඥාව | ඇවැත
+| ධම්මකම්මය | ධම්මකම්ම යැයි සලකා අවමන් කරවයි / දොස් කියයි | PC
+| ධම්මකම්මය | සැක සහිතව එසේ කරයි | PC
+| ධම්මකම්මය | අධම්මකම්ම යැයි සලකා එසේ කරයි | PC
+| අධම්මකම්මය | ධම්මකම්ම යැයි සලකා එසේ කරයි | DK
+| අධම්මකම්මය | සැක සහිතව එසේ කරයි | DK
+| අධම්මකම්මය | අධම්මකම්ම යැයි සලකා එසේ කරයි | DK
+## {story} අනාපත්ති
+# ස්වභාවයෙන් ම ඡන්දයෙන්, ද්වේෂයෙන්, මෝහයෙන් හෝ භයෙන් (අගතියෙන්) කරන්නකු ගැන අවමන් කරවයි නම් හෝ දොස් කියයි නම්;
+# උමතු වූවහුට (**උම්මත්තකස්ස**);
+# ආදිකම්මිකයාට (**ආදිකම්මිකස්ස**).
+## {att} කථා වස්තුවේ පදවලට අදාළ විශේෂ කරුණු
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **උජ්ඣාපෙන්ති** | “කැමැත්තෙන් දබ්බ මල්ලපුත්ත …” ආදිය කියමින් ඒ ආයුෂ්මතුන් ගැන ඒ භික්ෂූන් ලවා නොසලකා හරිවති (**අවජානාපෙන්ති**), අවඥාවෙන් බලවති, හෝ හීන ලෙස සිතවති. “**ඔජ්ඣාපෙන්ති**” යන පාඨයක් ද ඇත; අර්ථය මෙය ම ය.
+| **ඡන්දාය** | කැමැත්තෙන්, පක්ෂපාතයෙන් — තම තමාගේ දැක හුරු වූ, හිතවත් අයට ප්‍රණීත දෑ පනවයි යන අදහසයි.
+| **ඛිය්‍යන්ති** | “කැමැත්තෙන් දබ්බ මල්ලපුත්ත …” ආදිය කියමින් ප්‍රසිද්ධ කරති.
+| **උජ්ඣාපනකෙ ඛිය්‍යනකෙ** | යම් වචනයකින් අවමන් කරවත් ද එය උජ්ඣාපනකය; යම් වචනයකින් දොස් කියත් ද එය ඛිය්‍යනකය. **පාචිත්තිය** — වස්තු දෙකෙහි පාචිත්තිය දෙකක් කියන ලදී.
+## {att} පදභාජනීයේ පද ගැළපීම
+- “සෙනාසනපඤ්ඤාපක … අප්පමත්තකවිස්සජ්ජක” යන පද “**මඞ්කුකත්තුකාමො**” (ලජ්ජාවට පත් කරනු කැමැත්තේ) යන පදය සමඟ ගැළපේ.
+- “අගුණ කරනු කැමැත්තේ, අයස කරනු කැමැත්තේ” යන පද සමඟ ගළපන විට “උපසම්පන්නං” ආදිය “**උපසම්පන්නස්ස**” (උපසම්පන්නයාගේ) ලෙස විභක්තිය වෙනස් කොට ගත යුතුය.
+- “ඛිය්‍යනකං නාම” යි මාතිකා පදය වෙනම උද්ධෘත කළත්, “උජ්ඣාපනකං නාම” පදයට කී විභාගය ම කිව යුතු වේ; වෙනත් විශේෂයක් නැත. එබැවින් එය වෙනම උද්ධෘත නොකොට, විභාග නොකොට, නිගමනය පමණක් එකට කරන ලදැයි දත යුතුය.
+## {att} “ධම්මකම්මෙ ධම්මකම්මසඤ්ඤී” — අර්ථය
+%% කර්මය | ඒ උපසම්පන්නයාට කළ යම් සම්මුති කර්මයක් වේ ද, එය ධම්මකම්මයක් නම්,
+%% සංඥාව | ඒ භික්ෂුව එහි ධම්මකම්ම යැයි සලකන්නේ
+%% ක්‍රියාව | උජ්ඣාපනකය ද ඛිය්‍යනකය ද කරයි නම්,
+%% ඵලය | ඔහුට ඒ උජ්ඣාපනකයෙහි ද ඛිය්‍යනකයෙහි ද **පාචිත්තිය** වේ — ඉතිරි පද ද මේ ක්‍රමයෙන් දත යුතුය.
+## {att} අනුපසම්පන්න හා අසම්මත යන පද
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **අනුපසම්පන්නං උජ්ඣාපෙති වා ඛිය්‍යති වා** | සංඝ සම්මත උපසම්පන්නයා ගැන වෙනත් අනුපසම්පන්නයෙකු ලවා අවමන් කරවයි, නැතහොත් ඒ අනුපසම්පන්නයා ළඟ ඔහු ගැන දොස් කියයි.
+| **සංඝයා විසින් අසම්මත උපසම්පන්නයා** | කර්මවාචාවෙන් සම්මත නොකළ, (1) “මෙය ඔබේ භාරය” යි සංඝයා විසින් පමණක් භාරය පැවරූ, (2) භික්ෂූන්ගේ පහසු විහරණය පිණිස තමා ම ඒ භාරය උසුලන, හෝ (3) භික්ෂූන් දෙතුන් දෙනෙකු වසන තැනක එවැනි කටයුතු කරන භික්ෂුව.
+| **සම්මත අනුපසම්පන්නයා** | අනුපසම්පන්නයෙකුට සම්මුති දහතුන දිය නොහැකි වුව ද, උපසම්පන්නව සිටි කල සම්මුතිය ලැබ පසුව අනුපසම්පන්න භාවයෙහි සිටින්නා අරබයා “සම්මත” යැයි කියන ලදී.
+| **අසම්මත අනුපසම්පන්නයා** | සංඝයා විසින් හෝ සම්මත භික්ෂුවක් විසින් “ඔබ මේ කටයුත්ත කරන්න” යි භාරය පැවරූ දක්ෂ සාමණේරයා අරබයා “අසම්මත” යැයි කියන ලදී.
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> උජ්ඣාපනකෙ, ඛිය්‍යනකෙ පාචිත්තියං.
+මෙය **භූතගාම වග්ගයේ තුන්වන ශික්ෂාපදයයි** (**තතියෙ**). කඞ්ඛාවිතරණිය පද මෙසේ විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **උජ්ඣාපනක** | “කැමැත්තෙන් අසවලා මෙනම් දෙයක් කරයි” ආදිය කියමින්, සංඝ සම්මත සේනාසනපඤ්ඤාපක ආදී උපසම්පන්නයාගේ අයසට කැමැතිව, භික්ෂූන් ලවා ඔහු නොසලකා හරින, අවඥාවෙන් බලන, හීන ලෙස සිතන තත්ත්වයට පමුණුවන වචනය උජ්ඣාපනකය යි.
+| **ඛිය්‍යනක** | එසේ ම කියමින් දොස් කියන, සෑම තැනම ඔහුගේ අගුණ ප්‍රකාශ කරන වචනය ඛිය්‍යනකය යි.
+| **උජ්ඣාපනකෙ ඛිය්‍යනකෙ** | ඒ (**තස්මිං**) උජ්ඣාපනකයෙහි ද ඛිය්‍යනකයෙහි ද.
+| **පාචිත්තියං** | ==වස්තු දෙකෙහි පාචිත්තිය දෙකක්== කියන ලදී.
+## {kkv} සම්පූර්ණ අර්ථය
+%% අදහස | යමෙක් සම්මත භික්ෂුවකගේ අයසට කැමැත්තෙන්,
+%% කාට ද | උපසම්පන්නයෙකුට කියමින්,
+%% ක්‍රියාව | අවමන් කරවයි නම් හෝ දොස් කියයි නම්,
+%% ඵලය | ඔහුට **පාචිත්තිය** වේ.
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ස්ථානය | රජගහ නුවර,
+%% පුද්ගලයා | මෙත්තිය-භූමජක භික්ෂූන් අරබයා,
+%% වස්තුව | **අවමන් කරවීමේ හා දොස් කීමේ වස්තුවෙහි** පනවන ලද මෙය
+%% ප්‍රඥප්තිය | **සාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට ද පොදු ය;
+%% ආණත්තිය | **අනාණත්තික**යි — අනුන්ට අණ කිරීමෙන් ඇවැත් නොවේ.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| ඒ උපසම්පන්නයාට කළ සම්මුති කර්මය ධම්මකම්මයක් වූ කල | ධම්මකම්ම යැයි සලකා, සැක සහිතව, හෝ අධම්මකම්ම යැයි සලකා (තිකය) උපසම්පන්නයෙකුට කියයි | PC
+| සම්මුති කර්මය අධම්මකම්මයක් වූ කල | තිකය ම | DK
+| සම්මත උපසම්පන්නයා ගැන | අනුපසම්පන්නයෙකු ළඟ එසේ කියයි | DK
+| අසම්මත භික්ෂුවකගේ අගුණ | යමෙකු ළඟ හෝ කියයි | DK
+| සම්මත හෝ අසම්මත අනුපසම්පන්නයෙකුගේ අගුණ | යමෙකු ළඟ හෝ කියයි | DK
+## {kkv} අනාපත්ති
+# ස්වභාවයෙන් ම ඡන්දාදි (අගති) වශයෙන් කරන්නකු ගැන අවමන් කරවන්නහුට හෝ දොස් කියන්නහුට;
+# උමතු වූවහු ආදීන්ට.
+## {kkv} අංග (= ඡ — හයකි)
+# ධම්මකම්මයෙන් සම්මත වීම;
+# (ඔහු) උපසම්පන්න වීම;
+# (ඔහු) අගතියට නොයාම;
+# ඔහුගේ අගුණයට කැමැති වීම;
+# යමෙකු ළඟ කියයි ද, ඔහු උපසම්පන්න වීම;
+# අවමන් කරවීම හෝ දොස් කීම.
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **අදින්නාදාන සික්ඛාපද**යට සමාන ය. මෙය වනාහි **දුක්ඛ වේදනා** ම වේ.
+#en
+## {story} The Origin Story
+### The Matter of Making Others Look Down (Ujjhāpanaka-vatthu)
+@ Rājagaha · Veḷuvana, the Squirrels’ Feeding Place
+:::short
+Because the poorest lodgings and meals fell to them, the Mettiya and Bhūmajaka monks ==made the monks look down on Ven. Dabba Mallaputta==, saying he assigned lodgings and meals out of favouritism. The Blessed One rebuked them and laid down the rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Rājagaha, in the Bamboo Grove at the Squirrels’ Feeding Place. At that time Ven. **Dabba Mallaputta** was assigning lodgings for the Saṅgha and allotting meals. The Mettiya and Bhūmajaka monks were newly ordained and of little merit; the poorest lodgings of the Saṅgha and the poorest meals came to them.
+They made the monks look down on Ven. Dabba Mallaputta (**ujjhāpenti**), saying: “==Dabba Mallaputta assigns lodgings out of favouritism, and allots meals out of favouritism.==”
+The monks of few wishes complained, criticised and spread it about: “How can the Mettiya and Bhūmajaka monks make the monks look down on Ven. Dabba Mallaputta?” The Blessed One asked: “Is it true, monks, that you make the monks look down on Dabba Mallaputta?” “It is true, Blessed One.” He rebuked them: “Foolish men, how can you make the monks look down on Dabba Mallaputta? Foolish men, this does not inspire faith in those without faith …” — and he laid down the training rule:
+:::
+!pn: The original rule
+> උජ්ඣාපනකෙ පාචිත්තියං.
+~ For making others look down: Pācittiya.
+### The Matter of Complaining (Khiyyanaka-vatthu)
+:::short
+They then ==complained about him near the monks==. The Blessed One rebuked them again and completed the rule.
+:::
+:::long
+Then the Mettiya and Bhūmajaka monks, thinking, “The Blessed One has prohibited only making others look down; with just this the monks will hear us,” ==complained (**khiyyanti**) about Ven. Dabba Mallaputta near the monks==: “Dabba Mallaputta assigns lodgings out of favouritism, and allots meals out of favouritism.”
+The monks of few wishes complained, criticised and spread it about: “How can the Mettiya and Bhūmajaka monks complain about Ven. Dabba Mallaputta?” The Blessed One asked: “Is it true, monks, that you complain about Dabba Mallaputta?” “It is true, Blessed One.” He rebuked them: “Foolish men, how can you complain about Dabba Mallaputta? Foolish men, this does not inspire faith in those without faith …” — and he laid down the training rule:
+:::
+!pn: Supplementary rule — the final rule (complete training rule)
+> උජ්ඣාපනකෙ ඛිය්‍යනකෙ පාචිත්තියං.
+~ For causing disparagement or complaint: Pācittiya.
+## {story} Word analysis — ujjhāpanaka and khiyyanaka
+%% About whom | About a fully ordained monk authorised by the Saṅgha (**saṅghena sammataṃ**) —
+%% Office | an assigner of lodgings (**senāsanapaññāpaka**), an allotter of meals (**bhattuddesaka**), a distributor of gruel (**yāgubhājaka**), of fruit (**phalabhājaka**), of snacks (**khajjabhājaka**), or a giver of small items (**appamattakavissajjaka**) —
+%% Intention | wishing to discredit him (**avaṇṇaṃ kattukāmo**), to bring him into disrepute (**ayasaṃ kattukāmo**), to put him to shame (**maṅkukattukāmo**),
+%% Act | one who makes a fully ordained monk look down on him (**ujjhāpeti**) or complains (**khiyyati**),
+%% Result | incurs a **pācittiya**.
+## {story} Offences — by the person and the authorisation
+|! About whom | To whom he speaks | Offence
+| A fully ordained monk authorised by the Saṅgha | Makes a fully ordained monk look down / complains | PC
+| A fully ordained monk authorised by the Saṅgha | Makes an unordained person look down / complains | DK
+| A fully ordained monk not authorised by the Saṅgha (assigner of lodgings etc.) | To a fully ordained or an unordained person | DK
+| An unordained person, authorised or not (assigner of lodgings etc.) | To a fully ordained or an unordained person | DK
+## {story} Offences — by the act and by perception
+|! Act of authorisation | Perception | Offence
+| A legitimate act | Perceiving it as legitimate, he makes others look down / complains | PC
+| A legitimate act | Doing so while in doubt | PC
+| A legitimate act | Doing so perceiving it as illegitimate | PC
+| An illegitimate act | Doing so perceiving it as legitimate | DK
+| An illegitimate act | Doing so while in doubt | DK
+| An illegitimate act | Doing so perceiving it as illegitimate | DK
+## {story} No offence
+# He makes others look down on, or complains about, one who by nature acts out of desire, hatred, delusion or fear;
+# For one who is insane (**ummattakassa**);
+# For the first offender (**ādikammikassa**).
+## {att} Points on words in the origin story
+|! Word | Samantapāsādikā explanation
+| **Ujjhāpenti** | Saying “Dabba Mallaputta out of favouritism …” and so on, they make those monks disregard that venerable (**avajānāpenti**), look at him with contempt, or think of him as low. There is also the reading “**ojjhāpenti**”, with the same meaning.
+| **Chandāya** | Out of desire, out of partiality — the idea is: he assigns the best ones to his own friends and companions.
+| **Khiyyanti** | They make it known, saying “Dabba Mallaputta out of favouritism …” and so on.
+| **Ujjhāpanake khiyyanake** | The words by which they make others look down are ujjhāpanaka; the words by which they complain are khiyyanaka. **Pācittiya** — two pācittiyas are stated for the two matters.
+## {att} How the words of the analysis connect
+- The words “assigner of lodgings … giver of small items” connect with “**maṅkukattukāmo**” (wishing to put to shame).
+- When connecting with “wishing to discredit, wishing to bring into disrepute”, “upasampannaṃ” and so on should be changed in case to “**upasampannassa**” (of the fully ordained one).
+- Even if the mātikā word “khiyyanakaṃ nāma” were taken up separately, the same analysis given for “ujjhāpanakaṃ nāma” would have to be stated; there is no other distinction. So it should be understood that it was not taken up or analysed separately, and only the conclusion was made jointly.
+## {att} “Dhammakamme dhammakammasaññī” — the meaning
+%% Act | If the act of authorisation carried out for that fully ordained monk is a legitimate act,
+%% Perception | and that monk, perceiving it as legitimate,
+%% Act | makes others look down and complains,
+%% Result | then for that making others look down and complaining he incurs a **pācittiya** — the remaining terms should be understood in the same way.
+## {att} The terms unordained and unauthorised
+|! Term | Samantapāsādikā explanation
+| **Anupasampannaṃ ujjhāpeti vā khiyyati vā** | He makes some other unordained person look down on the ordained monk authorised by the Saṅgha, or complains about him in that unordained person’s presence.
+| **An ordained monk not authorised by the Saṅgha** | One not authorised by a formal announcement: (1) one to whom the Saṅgha merely assigned the burden, “this is your burden”; (2) one who takes on that burden himself for the comfort of the monks; or (3) one who does such work where two or three monks live.
+| **An authorised unordained person** | Although the thirteen authorisations may not be given to an unordained person, “authorised” refers to one who received the authorisation while ordained and later is in the state of an unordained person.
+| **An unauthorised unordained person** | “Unauthorised” refers to a capable novice who has been given the burden, “you do this work”, by the Saṅgha or by an authorised monk.
+## {kkv} The rule and the meaning of its words
+> උජ්ඣාපනකෙ, ඛිය්‍යනකෙ පාචිත්තියං.
+This is **the third rule of the Bhūtagāma chapter** (**tatiye**). The Kaṅkhāvitaraṇī explains the words thus:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Ujjhāpanaka** | Speech by which, saying “So-and-so does this out of favouritism” and so on, wishing disrepute for an ordained monk authorised by the Saṅgha as assigner of lodgings and so on, they make the monks disregard him, look at him with contempt, or think of him as low.
+| **Khiyyanaka** | Speech by which, speaking in the same way, they complain and make his faults known everywhere.
+| **Ujjhāpanake khiyyanake** | In that (**tasmiṃ**) making others look down and in that complaining.
+| **Pācittiyaṃ** | ==Two pācittiyas for the two matters== are stated.
+## {kkv} The full meaning
+%% Intention | One who, wishing disrepute for an authorised monk,
+%% To whom | speaking to a fully ordained monk,
+%% Act | makes him look down on that monk or complains,
+%% Result | incurs a **pācittiya**.
+## {kkv} The laying down of the rule and the command
+%% Place | Laid down at Rājagaha,
+%% Person | concerning the Mettiya and Bhūmajaka monks,
+%% Matter | **on the matter of making others look down and complaining**, this rule
+%% Kind of rule | is a **common rule** (**sādhāraṇa-paññatti**) — shared with the nuns;
+%% Command | and it is **anāṇattika** — no offence arises by commanding another.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| When the act of authorisation for that ordained monk is a legitimate act | Perceiving it as legitimate, in doubt, or perceiving it as illegitimate (the triad), he speaks to an ordained monk | PC
+| When the act of authorisation is illegitimate | The same triad | DK
+| About an authorised ordained monk | Speaking so in the presence of an unordained person | DK
+| The faults of an unauthorised monk | Speaking in anyone’s presence | DK
+| The faults of an unordained person, authorised or not | Speaking in anyone’s presence | DK
+## {kkv} No offence
+# For one who makes others look down on, or complains about, one who by nature acts out of desire and so on (the wrong courses);
+# For the insane and so on.
+## {kkv} Factors (= cha — six)
+# Being authorised by a legitimate act;
+# (He) is fully ordained;
+# (He) does not go the wrong courses;
+# Wishing to discredit him;
+# The one in whose presence he speaks is fully ordained;
+# Making others look down or complaining.
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest are the same as in the rule on taking what is not given (**Adinnādāna-sikkhāpada**). But this one has **painful feeling** only.
+
+@pac14
+T: පඨම සේනාසන සික්ඛාපදය || Lodging Furniture — First Rule
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: බොහෝ භික්ෂූන් || A number of monks
+V: එළිමහනේ අතුළ සෙනසුන් නොඅකුලා නොවිචාරා යාම || Leaving furniture spread in the open without putting it away or taking leave
+K: KT sd=s an=a anu=0 kr=KA
+Z: අකුලා / අකුලවා යාම, විචාරා යාම, අව්වේ දමා යාම, කිසිවකින් බාධිත වූ කල, ආපදාවල; උමතු ආදීන් || Putting it away or having it put away, taking leave, leaving it to sun, when obstructed, in emergencies; the insane etc.
+#si
+## {story} කථා වස්තුව
+### අජ්ඣොකාස සේනාසන වස්තුව
+@ සැවැත් නුවර · ජේතවනය අනාථපිණ්ඩිකාරාමය
+:::short
+හේමන්ත කාලයේ භික්ෂූහු එළිමහනෙහි සෙනසුන් පනවා අව්ව තපිමින් සිට, දන් කාලයට ==නොඅකුලා, නොදන්වා ම ගියහ==; සෙනසුන් හිමයෙන් තෙමිණ. භාග්‍යවතුන් වහන්සේ ගරහා ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ සැවැත් නුවර අනාථපිණ්ඩිකයාගේ ආරාමය වූ ජේතවනයෙහි වැඩ වසන සේක. එකල භික්ෂූහු හේමන්ත කාලයෙහි එළිමහනෙහි සෙනසුන් පනවා කය අව්වෙහි රත් කරමින් සිට, (දන්) කාලය දැනුම් දුන් කල ==ඒ සෙනසුන් නොඅකුලා, අනුන් ලවා නොඅකුලවා, නොවිචාරා ම පිටත්ව ගියහ==. සෙනසුන් (හිමයෙන්) තෙමිණ.
+අල්පේච්ඡ භික්ෂූහු “භික්ෂූහු කෙසේ නම් එළිමහනෙහි සෙනසුන් පනවා පිටත්ව යන්නාහු ඒවා නොඅකුලා, නොඅකුලවා, නොවිචාරා යන්නාහු ද? සෙනසුන් තෙමී ඇත” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ; නොයෙක් අයුරින් ගරහා භාග්‍යවතුන් වහන්සේට සැල කළහ. භාග්‍යවතුන් වහන්සේ ඔවුන් ගරහා ශික්ෂාපදය පැනවූ සේක:
+:::
+!pn: ශික්ෂාපදය
+> යො පන භික්ඛු සඞ්ඝිකං මඤ්චං වා පීඨං වා භිසිං වා කොච්ඡං වා අජ්ඣොකාසෙ සන්ථරිත්වා වා සන්ථරාපෙත්වා වා තං පක්කමන්තො නෙව උද්ධරෙය්‍ය න උද්ධරාපෙය්‍ය, අනාපුච්ඡං වා ගච්ඡෙය්‍ය, පාචිත්තියං.
+~ යම් භික්‍ෂුවක් වනාහි සඟසතු ඇඳක් හෝ පුටුවක් හෝ මෙට්ටයක් හෝ කොච්ඡයක් හෝ එළිමහනෙහි අතුරා හෝ අනුන් ලවා අතුරවා ආරාමයෙන් පිටව යන විට නැවත තැන්පත් නො කරන්නේ නම් හෝ අනුන් ලවා තැන්පත් නො කරවන්නේ නම් හෝ අනිකකුට ඒ බව නො දන්වා පිටව යන්නේ නම්, පචිති වේ.
+### අවස්සික සංකේත අනුඥාව
+:::short
+භික්ෂූන් ඉතා කලින් සෙනසුන් ඇතුළට ගෙන යනු දැක, ==වැසි සංකේත නොකළ මාස අටෙහි== මණ්ඩපයක හෝ කුරුල්ලන් නොවසන ගසක් මුල තැබීමට අනුදැන වදාළ සේක.
+:::
+:::long
+එකල භික්ෂූහු එළිමහනෙහි වාසය කොට (ශික්ෂාපදයට බියෙන්) ඉතා කලින් ම සෙනසුන් ඇතුළට ගෙන යති. භාග්‍යවතුන් වහන්සේ එසේ ඉතා කලින් සෙනසුන් ගෙන යන භික්ෂූන් දැක, මේ කරුණෙහි දැහැමි කථාවක් කොට, “මහණෙනි, ==වැසි කාලය යැයි සංකේත නොකළ (**අවස්සිකසඞ්කෙත**) මාස අටෙහි==, මණ්ඩපයක හෝ, කවුඩන් හෝ උකුස්සන් වසුරු නොහෙළන ගසක් මුල හෝ සෙනසුන් තැබීමට අනුදනිමි” යි වදාළ සේක.
+:::
+!src: මෙය ශික්ෂාපදයට අමතර අනුඥාවක් මිස අනුපඤ්ඤත්තියක් නොවේ; මුල් පැනවීම ම සම්පූර්ණ ශික්ෂාපදය වේ.
+## {story} පදභාජනීය — පද විභාගය
+|! පදය | පෙළෙහි අර්ථය
+| **සඞ්ඝිකං** | සංඝයාට දුන්, පරිත්‍යාග කළ දෙය.
+| **මඤ්චො** | ඇඳ සතරකි — **මසාරක**, **බුන්දිකාබද්ධ**, **කුළීරපාදක**, **ආහච්චපාදක**.
+| **පීඨං** | පුටු සතරකි — මසාරක, බුන්දිකාබද්ධ, කුළීරපාදක, ආහච්චපාදක.
+| **භිසි** | මෙට්ට පසකි — ලොම් මෙට්ටය, රෙදි මෙට්ටය, වැහැරි (පොතු) මෙට්ටය, තණ මෙට්ටය, කොළ මෙට්ටය.
+| **කොච්ඡං** | වැහැරි, සැවැන්දරා (**උසීර**), මුඤ්ජ හෝ පබ්බජ තණවලින් කළ, ඇතුළට වෙළා බැඳි ආසනය.
+| **සන්ථරිත්වා** | තමා අතුරා.
+| **සන්ථරාපෙත්වා** | අනෙකෙකු ලවා අතුරවා. අනුපසම්පන්නයෙකු ලවා අතුරවයි නම් වගකීම (**පලිබොධ**) අතුරවූ තැනැත්තාට ය; උපසම්පන්නයෙකු ලවා අතුරවයි නම් වගකීම අතුළ තැනැත්තාට ය.
+| **නෙව උද්ධරෙය්‍ය** | තමා නොඅකුලයි නම්.
+| **න උද්ධරාපෙය්‍ය** | අනෙකෙකු ලවා නොඅකුලවයි නම්.
+| **අනාපුච්ඡං වා ගච්ඡෙය්‍ය** | භික්ෂුවකට, සාමණේරයෙකුට හෝ ආරාමිකයෙකුට නොදන්වා, ==මධ්‍යම පුරුෂයෙකුගේ ගල් කැටයක් විසි කළ හැකි දුර (**ලෙඩ්ඩුපාත**) ඉක්මවන කල්හි== පාචිත්තිය වේ.
+## {story} ආපත්ති — සංඥාව අනුව
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| සංඝික (ඇඳ, පුටු, මෙට්ට, කොච්ඡ) | සංඝික යැයි සලකා, සැක සහිතව, හෝ පුද්ගලික යැයි සලකා එළිමහනෙහි අතුරා / අතුරවා, නොඅකුලා / නොඅකුලවා, හෝ නොවිචාරා යයි | PC
+| ඇතිරිල්ල (**චිමිලිකා**), උඩ ඇතිරිල්ල, බිම ඇතිරිල්ල, තල් / වැහැරි පැදුර (**තට්ටිකා**), සම් කඩ, පා පිසින, ලෑලි පුටුව | එළිමහනෙහි අතුරා / අතුරවා එසේ යයි | DK
+| පුද්ගලික දෙය | සංඝික යැයි සලකා | DK
+| පුද්ගලික දෙය | සැක සහිතව | DK
+| අනුන්ගේ පුද්ගලික දෙය | පුද්ගලික යැයි සලකා | DK
+| තමාගේ පුද්ගලික දෙය | — | N
+## {story} අනාපත්ති
+# අකුලා යයි නම්;
+# අනුන් ලවා අකුලවා යයි නම්;
+# විචාරා (දන්වා) යයි නම්;
+# අව්වෙහි දමා (රත් කරමින්) යයි නම්;
+# කිසිවකින් (සෙනසුන) බාධිත වී ඇත්නම් (**පලිබුද්ධ**);
+# ආපදාවල;
+# උමතු වූවහුට; ආදිකම්මිකයාට.
+## {att} කථා වස්තුවේ පදවලට අදාළ විශේෂ කරුණු
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **හෙමන්තිකෙ කාලෙ** | හේමන්ත කාලයෙහි — හිම වැටෙන සමයෙහි.
+| **කායං ඔතාපෙන්තා** | ඇඳ පුටු ආදියෙහි හිඳ උදෑසන ළා අව්වෙන් කය රත් කරමින්.
+| **කාලෙ ආරොචිතෙ** | කැඳ, බත් ආදියෙන් යම්කිසි එකක කාලය දැනුම් දුන් කල.
+| **ඔවට්ඨං හොති** | හිම වැස්සෙන් තෙමී, තෙත් වී ඇත.
+## {att} අවස්සික සංකේත මාස අට හා ගස් මුල
+- **අවස්සිකසඞ්කෙත** — “වස්සාන මාස” යි නොපනවන ලද හේමන්ත මාස සතර හා ග්‍රීෂ්ම මාස සතර යන මාස අට ය.
+- **මණ්ඩපෙ** — අතු මණ්ඩපයක හෝ ලෑලි මණ්ඩපයක. **රුක්ඛමූලෙ** — කවර ගසක් යට හෝ.
+|! අවස්ථාව | විනිශ්චය
+| ගොදුරු සොයා යන කුරුල්ලන් විවේක ගෙන යන ගසක මුල | තැබීම වටී
+| කවුඩන්, උකුස්සන් හෝ වෙනත් කුරුල්ලන් කූඩු කොට ස්ථිරව වසන ගසක මුල | නොතැබිය යුතුය
+| වැසි කාලයෙහි වැසි නොවසින ජනපදවල වුව ද (වස්සාන) මාස සතර | තැබීම නොවටී (“මාස අට” යි කී හෙයින්)
+| හේමන්තයෙහි වැසි වසින තැන්වල හේමන්තයෙහි | එළිමහනෙහි තැබීම නොවටී (“අවස්සිකසඞ්කෙත” යි කී හෙයින්)
+| ග්‍රීෂ්මයෙහි (සෑම තැනම වලාකුළු රහිත පිරිසිදු අහස ඇති කල) | යම් කටයුත්තක් නිසා එළිමහනෙහි ඇඳ පුටු තැබීම වටී
+## {att} අබ්භොකාසික (එළිමහන් වාසී) භික්ෂුවගේ වත
+- තමාට පුද්ගලික ඇඳක් ඇත්නම් එහි ම සැතපිය යුතුය.
+- සංඝික ඇඳක් ගන්නේ නම් වේවැල් හෝ වැහැරිවලින් වියූ ඇඳක් ගත යුතුය; එය නැත්නම් පැරණි ඇඳක්; එය ද නැත්නම් අලුතින් වියූ හෝ ඔතන ලද ඇඳක් ගත යුතුය.
+- එසේ ගෙන “මම උත්කෘෂ්ට රුක්ඛමූලිකයෙක්, උත්කෘෂ්ට අබ්භොකාසිකයෙක්” යි සිවුරු කුටියක් (**චීවරකුටි**) වත් නොකොට, නොකල්හි එළිමහනෙහි හෝ ගස් මුල පනවා සැතපීම නොවටී.
+- සිව්පට සිවුරින් කළ කුටියක් වුව ද තෙමෙන්නට නොදී රැකිය නොහැකි නම්, සත් දින වැස්ස ආදිය ඇති වේ නම්, (සෙනසුන) භික්ෂුවගේ කය අනුව යන හෙයින් වටී.
+## {att} වනයේ පන්සල් හා ඉදල් (සම්මජ්ජනී)
+- වනයේ පන්සල්වල වසන්නන්ගේ සීල සම්පත්තියෙන් පැහැදුණු මිනිසුන් “සංඝික පරිභෝගයෙන් පරිභෝග කරනු මැනවි” යි අලුත් ඇඳ පුටු දෙති. වාසය කොට යන විට ඒවා අසල විහාරයක සභාග භික්ෂූන්ට යවා යා යුතුය; සභාගයන් නැත්නම් වැසි නොතෙමෙන තැනක තබා යා යුතුය; එවැනි තැනක් නැත්නම් ගසක එල්ලා යා යුතුය.
+- චෛත්‍ය මළුවෙන් ඉදල ගෙන දානශාලා මළුව, පොහොය ගෙ මළුව, පිරිවෙන, දිවා ස්ථානය, ගිනිහල් ආදියෙන් එකක් අතුගා, (ඉදල) සෝදා නැවත ඉදල් ගෙයි ම තැබිය යුතුය. පොහොය ගෙ ආදී එකකින් ගෙන ඉතිරි තැන් අතුගාන්නාට ද මේ ක්‍රමය ම ය.
+- පිඬු සිඟා යන මඟ අතුගාමින් යනු කැමැත්තා, මඟ අතරෙහි ශාලාවක් ඇත්නම් එහි තැබිය යුතුය. නැත්නම්, වලාකුළු නොනැගී ඇති බව සලකා “මා ගමෙන් නික්මෙන තුරු වැසි නොවසිනු ඇත” යි දන්නේ යම් තැනක තබා, ආපසු එන විට ස්වභාවික තැනෙහි තැබිය යුතුය. **වැසි වසිනු ඇතැයි දැන දැනත් එළිමහනෙහි තබයි නම් දුක්කට** ය (මහාපච්චරිය).
+- ඒ ඒ තැන අතුගාන්නට ඒ ඒ තැනම ඉදල් තබා ඇත්නම් ඒ තැන අතුගා එහි ම තැබීම වටී.
+- ආසන ශාලාව අතුගාන්නාගේ වත: මැද සිට පා තබන තැන් දෙසට වැලි ඉවත් කළ යුතුය; කසළ අතින් ගෙන පිටත දැමිය යුතුය.
+## {att} ඇඳ වර්ග හා කොච්ඡය — අටුවා විවරණය
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **මසාරක** | ඇඳ පාද විද එහි අටනි (රාමු දඬු) ඇතුළු කොට කළ ඇඳ.
+| **බුන්දිකාබද්ධ** | අටනිවලින් ඇඳ පාද හපවා (තද කොට) පර්‍යංකයක ආකාරයට කළ ඇඳ.
+| **කුළීරපාදක** | බැටළු ආදීන්ගේ කකුල් වැනි පාද ඇති ඇඳ; නැතහොත් යම් වක පාද ඇති ඇඳක්.
+| **ආහච්චපාදක** | අටනි විද, එහි පාදයේ අග ඇතුළු කොට, උඩින් ඇණයක් දී කළ ඇඳ (පාළියෙහි ම “අඞ්ගෙ විජ්ඣිත්වා කතො” — අඟ විද කළ — යි කී හෙයිනි). පුටුවෙහි ද මේ ක්‍රමය ම ය.
+| **කොච්ඡ** | යට හා උඩ පළල්, මැද හීන, බෙර (**පණව**) හැඩයට බැඳි ආසනය. මැද සිංහ, ව්‍යාඝ්‍ර සම් ආදියෙන් වට කොට ද කරති; මෙහි නොවටනා සමක් නැත. සෙනසුන රත්‍රන්මය වුව ද වටී; එබැවින් එය මහඟු වේ.
+| **ලෙඩ්ඩුපාත** | ශක්තියෙන් මධ්‍යම පුරුෂයෙකුගේ ගල් කැට විසිවන දුර.
+## {att} වගකීම (පලිබොධය) — තෙරුන් හා දහරයන්
+|! අවස්ථාව | විනිශ්චය
+| තෙරුන් දාන ශාලාවේ බත් කිස කොට දහර භික්ෂුවකට “දිවා ස්ථානයෙහි ඇඳ පුටු පනවන්න” යි අණ කරයි; ඔහු පනවා හිඳියි; තෙරුන් කැමැති පරිදි හැසිර එහි ගොස් පසුම්බිය හෝ උතුරු සළුව තබයි | එතැන් පටන් **තෙරුන්ගේ** වගකීමයි; හිඳ යන විට නොඅකුලා, නොඅකුලවා ලෙඩ්ඩුපාතය ඉක්මවූ කල පාචිත්තිය
+| තෙරුන් පසුම්බිය ආදිය නොතබා සක්මන් කරමින් ම “ඔබ යන්න” යි දහරයාට කියයි | දහරයා “ස්වාමීනි, මේ ඇඳ පුටුව” යි දැන්විය යුතුය; වත දන්නා තෙරුන් “ඔබ යන්න, මම පිළිවෙළ කරමි” යි කිව යුතුය
+| තෙරුන් වත නොදන්නා බාලයෙක් වී “යන්න, මෙහි නොසිටින්න; හිඳීමට හෝ සැතපීමට නොදෙමි” යි තර්ජනය කරයි | දහරයා “ස්වාමීනි, සුවසේ සැතපෙනු මැනවි” යි අවසර ලබා වැඳ යා යුතුය; ඔහු ගිය පසු **තෙරුන්ගේ** වගකීමයි
+| අණ කරන මොහොතේ ම දහරයා “මට භාණ්ඩ සේදීම් ආදී කටයුත්තක් ඇත” යි කියයි; තෙරුන් “පනවා යන්න” යි කියා දානශාලාවෙන් නික්ම වෙනත් තැනකට යයි | **පා එසවීම** අනුව ඇවැත් කළ යුතුය; එහි ම ගොස් හිඳියි නම් ලෙඩ්ඩුපාතය ඉක්මවූ කල ඇවැත්
+| තෙරුන් සාමණේරයෙකුට අණ කරයි; සාමණේරයා පනවා හිඳියි | තෙරුන් දානශාලාවෙන් වෙනත් තැනකට යයි නම් පා එසවීම අනුව; ගොස් හිඳ නැවත යන කල ලෙඩ්ඩුපාතය ඉක්මවූ කල ඇවැත්
+| “ඇඳ පුටු පනවා එහි ම හිඳින්න” යි අණ කරයි | කැමති තැනකට ගොස් ආ හැක; තමා පිළිවෙළ නොකොට යයි නම් ලෙඩ්ඩුපාතය ඉක්මවූ කල පාචිත්තිය
+| අතරමැද රැස්වීමකදී ඇඳ පුටු පනවා හුන් අය | යන විට ආරාමිකයන්ට “මෙය තැන්පත් කරන්න” යි කිව යුතුය; නොකියා ගිය කල ලෙඩ්ඩුපාතය ඉක්මවූ කල ඇවැත්
+## {att} මහා ධර්ම ශ්‍රවණය හා ධර්මාසනය
+- මහා ධර්ම ශ්‍රවණයකදී පොහොය ගෙයින් ද දානශාලාවෙන් ද ඇඳ පුටු ගෙනැවිත් පනවති; වගකීම **ආවාසිකයන්ගේ** ය. ආගන්තුකයන් “මෙය අපගේ උපාධ්‍යායයන්ට, මෙය ආචාර්‍යයන්ට” යි ගනිත් නම් එතැන් පටන් **ඔවුන්ගේ** ය; යන විට පිළිවෙළ නොකොට ලෙඩ්ඩුපාතය ඉක්මවූ කල ඇවැත්.
+- මහාපච්චරිය: අන් අය නොහිඳින තාක් පැනවූ අයගේ භාරයයි; අන් අය අවුත් හුන් කල හුන් අයගේ භාරයයි. ඔවුන් නොඅකුලා, නොඅකුලවා යත් නම් **දුක්කට** — අණක් නොමැතිව පැනවූ හෙයිනි.
+- ධර්මාසනය පැනවූ කල උස්සාරකයා (සරභාණකයා) හෝ ධර්මකථිකයා නොඑන තාක් පැනවූවන්ගේ වගකීමයි; ඔහු අවුත් හුන් කල ඔහුගේ ය.
+- මුළු රැය පුරා ධර්ම ශ්‍රවණය ඇති කල, එක් අයෙක් නැගිට තවෙකෙක් හිඳියි නම්, යම් යම් අයෙක් අවුත් හිඳියි ද ඒ ඒ අයගේ භාරයයි. නැගිටින්නා “මේ ආසනය ඔබේ භාරයයි” යි කියා යා යුතුය.
+- අනෙකා නොපැමිණෙත්දී පළමුව හුන්නා නැගිට ගියත්, ඔහු ඇතුළු උපචාරයෙහි සිටියදී ම අනෙකා අවුත් හිඳියි නම්, නැගිට ගියාට ඇවැත් නැත. අනෙකා නොපැමිණෙත්දී ලෙඩ්ඩුපාතය ඉක්මවයි නම් ඇවැත් කළ යුතුය.
+- සෑම තැනම “ලෙඩ්ඩුපාතය ඉක්මවන කල **පළමු පියවරට දුක්කට, දෙවැන්නට පාචිත්තිය**” යන ක්‍රමය මහාපච්චරියෙහි කියන ලදී.
+## {att} චිමිලිකා ආදී දුක්කට වස්තු
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **චිමිලිකා** | හුණු ආදියෙන් පිරියම් කළ බිමේ පැහැය රැකීමට කරන ලද්දකි; එය යට අතුරා උඩින් කටසාරක පැදුර අතුරති.
+| **උත්තරත්ථරණ** | ඇඳ පුටු මත අතුරන ඇතිරිල්ල.
+| **භූමත්ථරණ** | බිම අතුරන කටසාරක ආදී පැදුරු වර්ග.
+| **තට්ටිකා** | තල් කොළවලින් හෝ වැහැරිවලින් කළ පැදුර.
+| **චම්මඛණ්ඩ** | සිංහ, ව්‍යාඝ්‍ර, දිවි, වලස් සම් ආදී යම් සමක්. අටුවාවල සෙනසුන් පරිභෝගයෙහි ප්‍රතික්ෂේප කළ සමක් නොපෙනේ; එබැවින් සිංහ සම් ආදිය **පරිහරණය කිරීම** (ගෙන යාම) පමණක් ප්‍රතික්ෂේප කළ බව දත යුතුය.
+| **පාදපුඤ්ඡනී** | ලණුවලින් හෝ රෙදි කැබලිවලින් පා පිසීමට කළ දෙය.
+| **ඵලකපීඨ** | ලෑලි පුටුව; නැතහොත් ලෑල්ල හා දැව පුටුව — මෙයින් සියලු දැව භාණ්ඩ ගැනේ.
+- මහාපච්චරිය විස්තර වශයෙන් කියයි: පාත්‍ර ආධාරකය, පාත්‍ර පියන, පා උරච්චිය (**පාදකථලිකා**), තල් වටාපත, විජිනි පත, යම් දැව භාණ්ඩයක්, අන්තිමේදී පැන් හැන්දක් හෝ පැන් හක් ගෙඩියක් පවා එළිමහනෙහි තබා යන්නාට **දුක්කට** ය. (මහා අට්ඨකථාව මෙය දෙවන සේනාසන ශික්ෂාපදයේ දක්වයි.)
+- එළිමහනෙහි සායම් පිස, සායම් බඳුන, සායම් හැන්ද, සායම් ඔරුව යන සියල්ල ගිනිහලෙහි තැන්පත් කළ යුතුය. ගිනිහලක් නැත්නම් වැසි නොතෙමෙන ගල් ලෙනක තැබිය යුතුය; එය ද නැත්නම් භික්ෂූන් බලන විට පෙනෙන තැනක තබා යෑම ද වටී.
+- **අඤ්ඤස්ස පුග්ගලිකෙ** — විශ්වාසයෙන් ගැනීම නොපිහිටන කෙනෙකුගේ දෙයෙහි දුක්කට ය; විශ්වාසය පිහිටන කෙනෙකුගේ දෙය තමාගේ පුද්ගලික දෙයක් මෙන් ම වේ (මහාපච්චරිය ආදිය).
+## {att} අනාපත්ති පදවල විවරණය
+|! පදය | අට්ඨකථාවේ විවරණය
+| **ආපුච්ඡං ගච්ඡති** | ලජ්ජී වූ, (සෙනසුන) තමාගේ වගකීමක් සේ සලකන භික්ෂුවකට, සාමණේරයෙකුට හෝ ආරාමිකයෙකුට දන්වා යන්නාට අනාපත්ති.
+| **ඔතාපෙන්තො ගච්ඡති** | අව්වෙහි රත් කරමින් “ආපසු අවුත් අකුලමි” යි යන්නාට අනාපත්ති.
+| **කෙනචි පලිබුද්ධං** | සෙනසුනට කිසිවකින් බාධා වී ඇත: වැඩිමහලු භික්ෂුවක් නැගිටුවා ගනියි නම්, යක්ෂයෙක් හෝ ප්‍රේතයෙක් අවුත් හිඳියි නම්, යම් බලවතෙක් අවුත් ගනියි නම්, සිංහ ව්‍යාඝ්‍ර ආදීන් ඒ ප්‍රදේශයට අවුත් සිටිත් නම් — නොඅකුලා ගියත් අනාපත්ති.
+| **ආපදාසු** | ජීවිතයට හෝ බ්‍රහ්මචර්‍යාවට අන්තරා ඇති කල.
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> යො පන භික්ඛු සඞ්ඝිකං මඤ්චං වා පීඨං වා භිසිං වා කොච්ඡං වා අජ්ඣොකාසෙ සන්ථරිත්වා වා සන්ථරාපෙත්වා වා තං පක්කමන්තො නෙව උද්ධරෙය්‍ය, න උද්ධරාපෙය්‍ය, අනාපුච්ඡං වා ගච්ඡෙය්‍ය, පාචිත්තියං.
+මෙය **භූතගාම වග්ගයේ සතරවන ශික්ෂාපදයයි** (**චතුත්ථෙ**). කඞ්ඛාවිතරණිය පද මෙසේ විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **සඞ්ඝිකං** | සංඝයාට අයත් දෙය.
+| **මඤ්ච / පීඨ** | ඇඳක හැඩයට කළ ඕනෑම දෙයක් ඇඳ ම ය; පුටුවෙහි ද මේ ක්‍රමය ම ය.
+| **භිසි** | යම් රෙද්දකින් හෝ කප්පිය සමකින් පිට ආවරණය කොට, මිනිස් කෙස් හා තාලීස පත් හැර, යම් ලොම්, කොළ, තණ, වැහැරි, රෙදි කැබලිවලින් පුරවා කළ සෙනසුන. එහි හිඳීම හා සැතපීම වටී; ප්‍රමාණ සීමාවක් ද නැත.
+| **කොච්ඡ** | වැහැරි, සැවැන්දරා, මුඤ්ජ, පබ්බජ ආදී එකකින් කළ, ඇතුළට වෙළා බැඳි, යට හා උඩ පළල්, බෙර හැඩැති, මැද සිංහ සම් ආදියෙන් වට කළ ආසනය. මෙහි නොවටනා සමක් නැත; සෙනසුන රත්‍රන්මය වුව ද වටී.
+| **අජ්ඣොකාසෙ** | විස්තරය පහත වගුවෙහි.
+| **සන්ථරිත්වා** | එවැනි තැනක තමා උදෙසා හෝ අනුන් උදෙසා අතුරා. අනුන් උදෙසා අතුළ ද, ඔහු එහි නොහිඳින තාක්, හෝ “ඔබ යන්න” යි නොකියන තාක් අතුළ තැනැත්තාගේ ම භාරයයි.
+| **සන්ථරාපෙත්වා** | අනුපසම්පන්නයෙකු ලවා අතුරවා — එය ඔහුට (අතුරවූවාට) වගකීමක් වේ. උපසම්පන්නයෙකු අතුළ දෙය, අණ කළ තැනැත්තා එහි නොහිඳින තාක් හෝ “ඔබ යන්න” යි නොකියන තාක් අතුළ තැනැත්තාගේ ම භාරයයි. තමා අතුරවූ හෝ ස්වභාවයෙන් අතුළ යම් සෙනසුනක උපසම්පන්නයෙක් හිඳියි ද, ඒ සියල්ල හුන් තැනැත්තාගේ ම භාරයයි.
+| **නෙව උද්ධරෙය්‍ය, න උද්ධරාපෙය්‍ය** | තමා අකුලා සුදුසු තැනක නොතබයි නම්, අනුන් ලවා එසේ නොකරවයි නම්.
+| **අනාපුච්ඡං වා ගච්ඡෙය්‍ය** | ලජ්ජී වූ, තමාගේ වගකීමක් සේ සලකන භික්ෂුවකට, සාමණේරයෙකුට හෝ ආරාමිකයෙකුට නොදන්වා, ඒ සෙනසුන ඔහුට නොපවරා, අපේක්ෂා රහිතව යයි නම්.
+## {kkv} “අජ්ඣොකාසෙ” — කවර තැන, කවර කාලය?
+|! තැන / කාලය | විනිශ්චය
+| වැසි සංකේත නොකළ මාස අට හැර ඉතිරි මාස සතර (වස්සානය) | වැසි නොවසිතත් ස්වභාවික එළිමහනෙහි හා වැසි තෙමෙන මණ්ඩපයෙහි ඇතිරීම නොවටී
+| හේමන්තයෙහි වැසි වසින තැන් | තවත් මාස සතර (හේමන්තය) ද නොවටී
+| ග්‍රීෂ්මය (සෑම තැනම වලාකුළු රහිත පිරිසිදු අහස) | යම් කටයුත්තක් නිසා යයි නම් වටී
+| කවුඩන් ආදීන් ස්ථිරව වසන ගසක මුල | කිසි කලෙක නොවටී
+!src: මෙසේ යම් තැනක, යම් කලෙක ඇතිරීම නොවටී ද, ඒ සියල්ල මෙහි “**අජ්ඣොකාස**” (එළිමහන) ලෙස ම ගැනේ.
+## {kkv} ඇවැත් වන මොහොත
+%% තැනැත්තා | නොදන්වා, අපේක්ෂා රහිතව යන භික්ෂුව
+%% ප්‍රමාණය | ශක්තියෙන් මධ්‍යම පුරුෂයෙකුගේ ලෙඩ්ඩුපාතය ඉක්මවයි නම්,
+%% පළමු පියවර | එක් පයකින් ලෙඩ්ඩුපාතය ඉක්මවන කල **දුක්කට** ද,
+%% දෙවන පියවර | දෙවන පය ඉක්මවන කල **පාචිත්තිය** ද වේ.
+!src: දාන ශාලාවේ සිට “අසවල් දිවා විහාර ස්ථානයෙහි පනවා යන්න” යි (අනුන්) යවා, එතැනින් නික්ම වෙනත් තැනකට යන්නා පා එසවීම අනුව ඇවැත් කළ යුතුය.
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ස්ථානය | සැවැත් නුවර,
+%% පුද්ගලයා | බොහෝ භික්ෂූන් අරබයා,
+%% වස්තුව | **අතුළ සෙනසුන නොඅකුලා නොදන්වා පිටත්ව යාමේ වස්තුවෙහි** පනවන ලද මෙය
+%% ප්‍රඥප්තිය | **සාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට ද පොදු ය;
+%% ආණත්තිය | **අනාණත්තික**යි.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| සංඝික ඇඳ, පුටු, මෙට්ට, කොච්ඡ | සංඝික යැයි සලකා, සැක සහිතව, හෝ පුද්ගලික යැයි සලකා (තිකය) | PC
+| පුද්ගලික දෙය | තිකය | DK
+| චිමිලිකා, උත්තරත්ථරණ, භූමත්ථරණ, තට්ටිකා, චම්මඛණ්ඩ, පාදපුඤ්ඡන, ඵලකපීඨ, හෝ වෙනත් යම් දැව භාණ්ඩයක්, මැටි භාණ්ඩයක් — අන්තිමේදී පාත්‍ර ආධාරකයක් පවා | කී ලක්ෂණ ඇති එළිමහනෙහි තබා යයි | DK
+- **ආරඤ්ඤක භික්ෂුව** — වැසි නොතෙමෙන තැනක් නැත්නම් සියල්ල ගසක එල්ලා හෝ වේයන් නොකන පරිදි තබා යෑම ද වටී.
+- **අබ්භොකාසික භික්ෂුව** — සිවුරු කුටියක් කොට වුව ද (සෙනසුන) රැකිය යුතුය.
+## {kkv} අනාපත්ති
+# තමාගේ දෙයෙහි, විශ්වාසිකයෙකුගේ පුද්ගලික දෙයෙහි;
+# අකුලා ආදිය කොට යන කල;
+# අව්වේ දමා රත් කරන්නාට, “අවුත් අකුලමි” යි යන්නාට;
+# වැඩිමහල්ලන් නැගිටුවන කල, අමනුෂ්‍යයෙක් එහි හිඳින කල, යම් බලවතෙක් ගන්නා කල, සිංහාදීන් ඒ තැනට අවුත් සිටින කල — මෙසේ සෙනසුන බාධිත වූ කල;
+# ජීවිතයට හෝ බ්‍රහ්මචර්‍යාවට අන්තරා කරන ආපදාවලදී යන්නාට;
+# උමතු වූවහු ආදීන්ට.
+## {kkv} අංග (= ඡ — හයකි)
+# ඇඳ ආදිය සංඝික වීම;
+# කී ලක්ෂණ ඇති තැනක අතුරා හෝ අතුරවා තිබීම;
+# බාධාවක් නොමැති වීම;
+# ආපදාවක් නොමැති වීම;
+# අපේක්ෂා රහිත වීම (**නිරපෙක්ඛතා**);
+# ලෙඩ්ඩුපාතය ඉක්මවීම.
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **පළමු කථින සික්ඛාපද**යට සමාන ය. මෙය වනාහි **කිරියාකිරිය** ය.
+#en
+## {story} The Origin Story
+### The Matter of Lodging Left in the Open
+@ Sāvatthī · Jetavana, Anāthapiṇḍika’s monastery
+:::short
+In the cold season monks set out furniture in the open to warm themselves and, at mealtime, ==left without putting it away or taking leave==; it was soaked by snow. The Blessed One rebuked them and laid down the rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Sāvatthī, in Jetavana, Anāthapiṇḍika’s monastery. At that time monks, in the cold season, set out lodging furniture in the open and warmed their bodies; when the time (for the meal) was announced, ==they left without putting it away, without having it put away, and without taking leave==. The furniture got soaked (by the snow).
+The monks of few wishes complained, criticised and spread it about: “How can monks set out furniture in the open and, on leaving, neither put it away nor have it put away, and go without taking leave? The furniture is soaked!” Having criticised them in many ways, they told the Blessed One. The Blessed One rebuked them and laid down the training rule:
+:::
+!pn: The training rule
+> යො පන භික්ඛු සඞ්ඝිකං මඤ්චං වා පීඨං වා භිසිං වා කොච්ඡං වා අජ්ඣොකාසෙ සන්ථරිත්වා වා සන්ථරාපෙත්වා වා තං පක්කමන්තො නෙව උද්ධරෙය්‍ය න උද්ධරාපෙය්‍ය, අනාපුච්ඡං වා ගච්ඡෙය්‍ය, පාචිත්තියං.
+~ Whatever monk, having spread out or had spread out in the open a Saṅgha-owned bed, bench, mattress or stool, on departing neither puts it away nor has it put away, or goes without informing anyone: Pācittiya.
+### The Allowance for the Months Not Designated as Rainy
+:::short
+Seeing monks take furniture in too early, he allowed it to be kept ==in the eight months not designated as rainy== in a pavilion or under a tree where birds do not roost.
+:::
+:::long
+Then monks who lived in the open (fearing the rule) took their furniture in far too early. The Blessed One, seeing them, gave a Dhamma talk on this occasion and said: “Monks, I allow you, ==during the eight months not designated as the rainy season (**avassikasaṅketa**)==, to keep furniture in a pavilion, or at the foot of a tree where crows or kites do not drop their droppings.”
+:::
+!src: This is an additional allowance, not a supplementary rule (anupaññatti); the original rule is the complete training rule.
+## {story} Word analysis
+|! Word | Meaning in the text
+| **Saṅghikaṃ** | What has been given to, made over to the Saṅgha.
+| **Mañco** | Four kinds of bed — **masāraka**, **bundikābaddha**, **kuḷīrapādaka**, **āhaccapādaka**.
+| **Pīṭhaṃ** | Four kinds of bench — masāraka, bundikābaddha, kuḷīrapādaka, āhaccapādaka.
+| **Bhisi** | Five kinds of mattress — of wool, of cloth, of bark, of grass, of leaves.
+| **Kocchaṃ** | A seat made of bark, usīra grass, muñja or pabbaja grass, wound round inside and bound.
+| **Santharitvā** | Having spread it himself.
+| **Santharāpetvā** | Having had another spread it. If he has an unordained person spread it, the responsibility (**palibodha**) is his (the one who had it spread); if he has an ordained monk spread it, the responsibility is the spreader’s.
+| **Neva uddhareyya** | He does not put it away himself.
+| **Na uddharāpeyya** | He does not have another put it away.
+| **Anāpucchaṃ vā gaccheyya** | Without informing a monk, a novice or a monastery attendant, ==on going beyond a clod’s throw (**leḍḍupāta**) of a man of average strength==, there is a pācittiya.
+## {story} Offences by perception
+|! Object | Perception and act | Offence
+| Saṅgha property (bed, bench, mattress, stool) | Perceiving it as the Saṅgha’s, in doubt, or perceiving it as personal, having spread it / had it spread in the open, he leaves without putting it away / having it put away, or without taking leave | PC
+| A floor-cover (**cimilikā**), an over-spread, a ground-spread, a mat (**taṭṭikā**), a piece of leather, a foot-wiper, a plank-seat | Spreading it in the open and leaving like that | DK
+| Personal property | Perceiving it as the Saṅgha’s | DK
+| Personal property | While in doubt | DK
+| Another’s personal property | Perceiving it as personal | DK
+| One’s own personal property | — | N
+## {story} No offence
+# He leaves after putting it away;
+# He leaves after having it put away;
+# He leaves after taking leave;
+# He leaves it airing in the sun;
+# It is obstructed (**palibuddha**) by something;
+# In emergencies;
+# For the insane; for the first offender.
+## {att} Points on words in the origin story
+|! Word | Samantapāsādikā explanation
+| **Hemantike kāle** | In the cold season — at the time of snowfall.
+| **Kāyaṃ otāpentā** | Sitting on beds, benches and so on, warming the body in the early sun.
+| **Kāle ārocite** | When the time for any of gruel, the meal and so on was announced.
+| **Ovaṭṭhaṃ hoti** | It was rained on by the snow-rain and soaked.
+## {att} The eight months not designated as rainy, and the foot of a tree
+- **Avassikasaṅketa** — the eight months, the four of the cold season and the four of the hot season, that are not designated “the rainy months”.
+- **Maṇḍape** — in a branch-pavilion or a plank-pavilion. **Rukkhamūle** — under any tree.
+|! Situation | Ruling
+| The foot of a tree where birds out foraging rest and go on | Allowed to keep it there
+| The foot of a tree where crows, kites or other birds nest and live permanently | Must not be kept there
+| Even in regions where it does not rain in the rainy season, the (rainy) four months | Not allowed (because “eight months” is said)
+| In the cold season, where it rains in the cold season | Not allowed to keep it in the open (because “not designated as rainy” is said)
+| The hot season (a clear, cloudless sky everywhere) | Allowed to keep a bed or bench in the open for some business
+## {att} The duties of an open-air dweller
+- If he has a personal bed, he should sleep on that.
+- If he takes a Saṅgha bed, he should take one woven with cane or bark; if there is none, an old bed; if there is none, a newly woven or a covered one.
+- Having taken it, he may not, thinking “I am a strict tree-root dweller, a strict open-air dweller”, set it out at the wrong time in the open or at the foot of a tree and lie down without even making a robe-hut (**cīvarakuṭi**).
+- If even a hut made of a fourfold robe cannot keep it from getting wet, or a seven-day downpour and so on occurs, it is allowed, since (the furniture) follows the monk’s body.
+## {att} Forest huts and brooms
+- People pleased by the virtue of those living in forest leaf-huts give a new bed or bench, saying, “Use it as Saṅgha property.” When leaving after staying there, one should send it to like-minded monks in a nearby monastery; if there are none, leave it in a place where the rain does not reach; if there is no such place, hang it on a tree and go.
+- Taking a broom from the cetiya courtyard, one may sweep the dining-hall courtyard, the uposatha-hall courtyard, a cell, a day-quarters, a fire-hall and so on, wash the broom, and put it back in the broom shed. The same method applies to one who takes it from the uposatha hall and so on and sweeps the rest.
+- One who wishes to go while sweeping the alms-round path should, if there is a hall on the way, put it there. If not, noting that clouds have not risen, knowing “it will not rain until I leave the village”, he may put it down anywhere and, on returning, put it back in its usual place. **If he knowingly leaves it in the open when it will rain, it is a dukkaṭa** (Mahāpaccarī).
+- If a broom has been kept at each place for sweeping that place, one may sweep it and put it back right there.
+- The duty of one sweeping the sitting hall: the sand should be drawn from the middle towards the foot places; rubbish should be picked up by hand and thrown outside.
+## {att} Kinds of bed and the koccha — the commentary’s explanation
+|! Word | Samantapāsādikā explanation
+| **Masāraka** | Made by piercing the legs of the bed and inserting the frame-pieces into them.
+| **Bundikābaddha** | Made by having the frame-pieces bite into the legs, in the manner of a couch.
+| **Kuḷīrapādaka** | Made with legs like those of rams and the like; or any bed with crooked legs.
+| **Āhaccapādaka** | Made by piercing the frame-pieces, inserting the tip of the leg there, and fixing a pin on top (since the Pāli itself says “made by piercing the frame”). The same method applies to the bench.
+| **Koccha** | Bound in the shape of a drum (**paṇava**), wide below and above and narrow in the middle. They even surround it in the middle with lion or tiger skin; there is no unallowable skin here. Lodging furniture may be even of gold; so it is costly.
+| **Leḍḍupāta** | The distance a clod is thrown by a man of average strength.
+## {att} Responsibility (palibodha) — the elder and the junior
+|! Situation | Ruling
+| An elder, having eaten in the dining hall, orders a junior monk, “Go and set out a bed and bench in the day-quarters”; he does so and sits there; the elder, having wandered as he liked, goes there and puts down his bag or upper robe | From then on it is **the elder’s** responsibility; if he sits and then leaves without putting it away or having it put away, a pācittiya on passing the clod’s throw
+| The elder, without putting down his bag etc., while walking up and down, says to the junior, “You go” | The junior should point out, “Venerable sir, here is the bed and bench”; an elder who knows the duties should say, “You go, I will put it back in order”
+| The elder is a fool who does not know the duties and threatens, “Go, don’t stand here; I won’t let you sit or lie down” | The junior should take leave, saying “Venerable sir, sleep well”, pay respects and go; once he has gone, it is **the elder’s** responsibility
+| At the very moment of the order, the junior says, “Venerable sir, I have some work such as washing my things”; the elder says, “Set it out and go”, and himself leaves the dining hall and goes elsewhere | He should be dealt with by **the lifting of the feet**; if he goes there and sits, an offence on passing the clod’s throw
+| The elder orders a novice; the novice sets it out and sits there | If the elder goes from the dining hall elsewhere, by the lifting of the feet; having gone and sat, when leaving again, an offence on passing the clod’s throw
+| He orders, “Set out the bed and bench and sit right there” | He may go wherever he wants and come back; if he leaves without putting it in order himself, a pācittiya on passing the clod’s throw
+| At an intermediate gathering, those who set out beds and benches and sat | When leaving they should tell the monastery attendants, “Put this away”; for those who leave without saying so, an offence on passing the clod’s throw
+## {att} A great Dhamma hearing and the Dhamma seat
+- At a great Dhamma hearing they bring beds and benches from the uposatha hall and the dining hall and set them out; the responsibility is **the residents’**. If visitors take them, saying “this is for our preceptor, this for our teacher”, from then on it is **theirs**; for those who leave without putting them in order and pass the clod’s throw, an offence.
+- The Mahāpaccarī says: as long as others do not sit, it is the burden of those who set it out; when others come and sit, it is the burden of those seated. If they leave without putting it away or having it put away, it is a **dukkaṭa** — because it was set out without a command.
+- When the Dhamma seat has been set out, until the reciter or the Dhamma speaker comes, it is the responsibility of those who set it out; once he comes and sits, it is his.
+- When there is Dhamma listening the whole day and night, and one gets up and another sits, it is the burden of whoever comes and sits. The one getting up should say, “This seat is your responsibility”, and go.
+- If, before the other arrives, the one who sat first gets up and goes, and the other comes and sits while he is still within the precinct, the one who left is not to be charged with an offence. If he passes the clod’s throw before the other arrives, he is to be charged.
+- Everywhere, the method “on passing the clod’s throw, **dukkaṭa at the first step, pācittiya at the second**” is stated in the Mahāpaccarī.
+## {att} The floor-cover and other dukkaṭa objects
+|! Word | Samantapāsādikā explanation
+| **Cimilikā** | Made to protect the colour of a floor finished with plaster and the like; it is spread underneath and a mat is spread on top.
+| **Uttarattharaṇa** | A cover to be spread over beds and benches.
+| **Bhūmattharaṇa** | Kinds of mat and the like to be spread on the ground.
+| **Taṭṭikā** | A mat made of palm leaves or of bark.
+| **Cammakhaṇḍa** | Any leather, even of lion, tiger, leopard or bear. In the commentaries no leather is found that is prohibited for use as lodging furniture; so it should be understood that only the **carrying about** of lion skins and the like is prohibited.
+| **Pādapuñchanī** | Made of ropes or rags for wiping the feet.
+| **Phalakapīṭha** | A plank-seat; or a plank and a wooden bench — this includes all wooden articles.
+- The Mahāpaccarī says in detail: for one who leaves in the open a bowl-stand, a bowl lid, a foot-scraper (**pādakathalikā**), a palm-leaf fan, a fanning leaf, any wooden article, even a water ladle or a drinking conch, and goes, it is a **dukkaṭa**. (The Mahā-aṭṭhakathā shows this method in the second lodging rule.)
+- Having boiled dye in the open, the dye pot, the dye ladle and the dye trough should all be put away in the fire-hall. If there is no fire-hall, they should be left under a rock overhang the rain does not reach; if there is none, one may also leave them where monks can see them when they look.
+- **Aññassa puggalike** — with the property of someone with whom taking on trust is not valid, a dukkaṭa; the property of someone with whom trust is valid is like one’s own personal property (Mahāpaccarī and others).
+## {att} Explanation of the no-offence terms
+|! Term | The commentary’s explanation
+| **Āpucchaṃ gacchati** | No offence for one who leaves after informing a conscientious monk, novice or monastery attendant who regards it as his own responsibility.
+| **Otāpento gacchati** | No offence for one who leaves it airing in the sun, thinking, “I will come back and put it away.”
+| **Kenaci palibuddhaṃ** | The lodging is obstructed by something: if a senior monk makes him get up and takes it, if a yakkha or a peta comes and sits on it, if some powerful person comes and takes it, if lions, tigers and the like come and stand in that area — even leaving without putting it away, no offence.
+| **Āpadāsu** | When there are dangers to life or to the holy life.
+## {kkv} The rule and the meaning of its words
+> යො පන භික්ඛු සඞ්ඝිකං මඤ්චං වා පීඨං වා භිසිං වා කොච්ඡං වා අජ්ඣොකාසෙ සන්ථරිත්වා වා සන්ථරාපෙත්වා වා තං පක්කමන්තො නෙව උද්ධරෙය්‍ය, න උද්ධරාපෙය්‍ය, අනාපුච්ඡං වා ගච්ඡෙය්‍ය, පාචිත්තියං.
+This is **the fourth rule of the Bhūtagāma chapter** (**catutthe**). The Kaṅkhāvitaraṇī explains the words thus:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Saṅghikaṃ** | Belonging to the Saṅgha.
+| **Mañca / pīṭha** | Anything made in the form of a bed is a bed; the same method for the bench.
+| **Bhisi** | Lodging furniture covered with any cloth or allowable leather and filled with any wool, leaves, grass, bark or cloth, except human hair and tālīsa leaves. One may sit and lie on it; there is no size limit.
+| **Koccha** | A seat made of one of bark, usīra, muñja, pabbaja and so on, wound round inside and bound, wide below and above, drum-shaped, surrounded in the middle with lion skin and the like. There is no unallowable skin here; lodging furniture may be even of gold.
+| **Ajjhokāse** | Explained in the table below.
+| **Santharitvā** | Having spread it in such a place for himself or for another. Even what is spread for another remains the spreader’s burden as long as the other does not sit there, or does not say, “You go.”
+| **Santharāpetvā** | Having had an unordained person spread it — that becomes his (the one who had it spread) responsibility. What an ordained monk has spread remains the spreader’s burden as long as the one who commanded does not sit there or say, “You go.” Whatever furniture, whether he had it spread or it was spread as usual, an ordained monk sits on — all that is the burden of the one seated.
+| **Neva uddhareyya, na uddharāpeyya** | He neither puts it away himself in a suitable place, nor has another do so.
+| **Anāpucchaṃ vā gaccheyya** | Without informing a conscientious monk, novice or monastery attendant who regards it as his own responsibility, without handing the furniture over to him, he goes without concern.
+## {kkv} “Ajjhokāse” — which place, which time?
+|! Place / time | Ruling
+| The four months other than the eight not designated as rainy (the rains) | Even if it does not rain, not allowed to spread it in an ordinary open place or in a pavilion where rain comes in
+| Places where it rains in the cold season | The other four months (the cold season) are not allowed either
+| The hot season (a clear, cloudless sky everywhere) | Allowed if one goes away for some business
+| The foot of a tree where crows and the like live permanently | Never allowed
+!src: Thus wherever and whenever it is not allowed to spread it, all that is counted here as “**ajjhokāsa**” (the open).
+## {kkv} The moment of the offence
+%% Who | A monk who leaves without informing and without concern,
+%% Distance | if he passes the clod’s throw of a man of average strength,
+%% First step | incurs a **dukkaṭa** when one foot passes the clod’s throw,
+%% Second step | and a **pācittiya** when the second foot passes.
+!src: One who, standing in the dining hall, sends (another) saying, “Set it out in such-and-such day-quarters and go”, and then leaves from there and goes elsewhere, should be dealt with by the lifting of the feet.
+## {kkv} The laying down of the rule and the command
+%% Place | Laid down at Sāvatthī,
+%% Person | concerning a number of monks,
+%% Matter | **on the matter of leaving without putting away what was spread and without taking leave**, this rule
+%% Kind of rule | is a **common rule** (**sādhāraṇa-paññatti**) — shared with the nuns;
+%% Command | and it is **anāṇattika**.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| A Saṅgha bed, bench, mattress or stool | Perceiving it as the Saṅgha’s, in doubt, or perceiving it as personal (the triad) | PC
+| Personal property | The triad | DK
+| A floor-cover, over-spread, ground-spread, mat, piece of leather, foot-wiper, plank-seat, or any other wooden or clay article — even a bowl-stand | Leaving it in an open place of the described kind and going | DK
+- **A forest monk** — if there is no place the rain does not reach, he may hang everything on a tree, or arrange it so that termites do not eat it, and go.
+- **An open-air dweller** — should protect it even by making a robe-hut.
+## {kkv} No offence
+# With one’s own property, or the personal property of a trusted person;
+# When one goes after putting it away and so on;
+# For one airing it in the sun, or going thinking, “I will come back and put it away”;
+# When seniors make him get up, a non-human sits there, some powerful person takes it, lions and the like come and stand in that place — when the lodging is obstructed in this way;
+# For one who goes in emergencies that endanger life or the holy life;
+# For the insane and so on.
+## {kkv} Factors (= cha — six)
+# The bed and so on belong to the Saṅgha;
+# It has been spread, or had spread, in a place of the described kind;
+# There is no obstruction;
+# There is no emergency;
+# Being without concern (**nirapekkhatā**);
+# Passing the clod’s throw.
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest are the same as in the **first Kaṭhina rule**. But this one is **kiriyākiriya** (by doing and not doing).
+
+@pac15
+T: දුතිය සේනාසන සික්ඛාපදය || Lodging Furniture — Second Rule
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: සත්තරසවග්ගිය භික්ෂූන් || The group-of-seventeen monks
+V: සංඝික විහාරයේ සෙය්‍යාව අතුරා නොඅකුලා නොවිචාරා යාම || Leaving bedding spread in a Saṅgha dwelling without putting it away or taking leave
+K: KT sd=s an=a anu=0 kr=KA
+Z: අකුලා / අකුලවා යාම, විචාරා යාම, බාධිත වූ කල, අපේක්ෂා සහිතව ගොස් දැන්වීම, ආපදාවල; උමතු ආදීන් || Putting it away or having it put away, taking leave, when obstructed, going with intent to return and informing from there, emergencies; the insane etc.
+#si
+## {story} කථා වස්තුව
+### සෙය්‍යා වස්තුව
+@ සැවැත් නුවර · ජේතවනය අනාථපිණ්ඩිකාරාමය
+:::short
+එකට වසන, එකට යන සත්තරසවග්ගිය භික්ෂූහු සංඝික විහාරයක සෙය්‍යාව අතුරා, ==නොඅකුලා, නොදන්වා ම පිටත්ව ගියහ==; සෙනසුන **වේයන් කෑවේ** ය. භාග්‍යවතුන් වහන්සේ ඔවුන්ට ගරහා ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ සැවැත් නුවර අනාථපිණ්ඩිකයාගේ ආරාමය වූ ජේතවනයෙහි වැඩ වසන සේක. එකල **සත්තරසවග්ගිය** භික්ෂූහු යහළුවෝ වූහ; වසන විට ද එකට ම වසති, පිටත්ව යන විට ද එකට ම යති. ඔව්හු එක්තරා සංඝික විහාරයක සෙය්‍යාව (ඇතිරිලි) අතුරා, පිටත්ව යන කල ==නොඅකුලා, නොඅකුලවා, නොවිචාරා ම පිටත්ව ගියහ==. සෙනසුන **වේයන් කෑවේ** ය.
+අල්පේච්ඡ භික්ෂූහු “සත්තරසවග්ගිය භික්ෂූහු කෙසේ නම් සංඝික විහාරයක සෙය්‍යාව අතුරා, පිටත්ව යන කල නොඅකුලා, නොඅකුලවා, නොවිචාරා යන්නාහු ද? සෙනසුන වේයන් කා ඇත” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ; නොයෙක් අයුරින් ගරහා භාග්‍යවතුන් වහන්සේට සැල කළහ. භාග්‍යවතුන් වහන්සේ “මහණෙනි, සත්තරසවග්ගිය භික්ෂූහු … සෙනසුන වේයන් කෑ බව සැබෑ ද?” යි විචාරා, “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මහණෙනි, ඒ මෝඝපුරුෂයෝ කෙසේ නම් …? මහණෙනි, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා ශික්ෂාපදය පැනවූ සේක:
+:::
+!pn: ශික්ෂාපදය
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ සෙය්‍යං සන්ථරිත්වා වා සන්ථරාපෙත්වා වා තං පක්කමන්තො නෙව උද්ධරෙය්‍ය න උද්ධරාපෙය්‍ය, අනාපුච්ඡං වා ගච්ඡෙය්‍ය, පාචිත්තියං.
+~ යම් භික්‍ෂුවක් වනාහි සඟසතු විහාරයක් තුළ දී සෙනසුන් අතුරා හෝ අනුන් ලවා අතුරවා පිටව යන විට නැවත තැන්පත් නො කරන්නේ නම් හෝ අනුන් ලවා තැන්පත් නො කරවන්නේ නම් හෝ අනිකකුට ඒ බව නො දන්වා පිටව යන්නේ නම්, පචිති වේ.
+!src: මෙම ශික්ෂාපදයට අනුපඤ්ඤත්ති නැත; මුල් පැනවීම ම සම්පූර්ණ ශික්ෂාපදය වේ.
+## {story} පදභාජනීය — පද විභාගය
+|! පදය | පෙළෙහි අර්ථය
+| **සඞ්ඝිකො විහාරො** | සංඝයාට දුන්, පරිත්‍යාග කළ විහාරය.
+| **සෙය්‍යං** | සෙය්‍යා දහයකි — මෙට්ටය (**භිසි**), චිමිලිකාව, උඩ ඇතිරිල්ල, බිම ඇතිරිල්ල, පැදුර (**තට්ටිකා**), සම් කඩ, නිසීදනය, ඇතිරිලි සළුව (**පච්චත්ථරණ**), තණ ඇතිරිල්ල, කොළ ඇතිරිල්ල.
+| **සන්ථරිත්වා** | තමා අතුරා.
+| **සන්ථරාපෙත්වා** | අනෙකෙකු ලවා අතුරවා.
+| **නෙව උද්ධරෙය්‍ය** | තමා නොඅකුලයි නම්.
+| **න උද්ධරාපෙය්‍ය** | අනෙකෙකු ලවා නොඅකුලවයි නම්.
+| **අනාපුච්ඡං වා ගච්ඡෙය්‍ය** | භික්ෂුවකට, සාමණේරයෙකුට හෝ ආරාමිකයෙකුට නොදන්වා, ==වට කළ ආරාමයක වැට (**පරික්ඛෙප**) ඉක්මවන කල, වට නොකළ ආරාමයක උපචාරය ඉක්මවන කල== පාචිත්තිය වේ.
+## {story} ආපත්ති — සංඥාව අනුව
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| සංඝික විහාරය | සංඝික යැයි සලකා, සැක සහිතව, හෝ පුද්ගලික යැයි සලකා සෙය්‍යාව අතුරා / අතුරවා, නොඅකුලා / නොඅකුලවා, හෝ නොවිචාරා යයි | PC
+| විහාරයේ උපචාරයෙහි, උපස්ථාන ශාලාවෙහි, මණ්ඩපයෙහි හෝ ගස් මුල | සෙය්‍යාව අතුරා / අතුරවා එසේ යයි | DK
+| විහාරයෙහි, විහාර උපචාරයෙහි, උපස්ථාන ශාලාවෙහි, මණ්ඩපයෙහි හෝ ගස් මුල | ඇඳක් හෝ පුටුවක් අතුරා / අතුරවා එසේ යයි | DK
+| පුද්ගලික විහාරය | සංඝික යැයි සලකා | DK
+| පුද්ගලික විහාරය | සැක සහිතව | DK
+| අනුන්ගේ පුද්ගලික විහාරය | පුද්ගලික යැයි සලකා | DK
+| තමාගේ පුද්ගලික විහාරය | — | N
+## {story} අනාපත්ති
+# අකුලා යයි නම්;
+# අනුන් ලවා අකුලවා යයි නම්;
+# විචාරා (දන්වා) යයි නම්;
+# කිසිවකින් (සෙනසුන) බාධිත වී ඇත්නම්;
+# අපේක්ෂා සහිතව (**සාපෙක්ඛ**) ගොස්, එහි සිටිමින් දන්වයි නම්;
+# (තමා) කිසිවකින් බාධිත වී ඇත්නම්;
+# ආපදාවල;
+# උමතු වූවහුට; ආදිකම්මිකයාට.
+## {att} සෙය්‍යා වර්ග හා උපචාරය
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **භිසි** | ඇඳ මෙට්ටය හෝ පුටු මෙට්ටය.
+| **නිසීදන** | දාරය සහිත (**සදස**) නිසීදනය යැයි දත යුතුය.
+| **පච්චත්ථරණ** | පාවාරය, කෝජවය (ලොම් ඇතිරිල්ල) යන මෙපමණක් ම කියන ලදී.
+| **තිණසන්ථාර / පණ්ණසන්ථාර** | යම් කිසි තණවල ඇතිරිල්ල; කොළ ඇතිරිල්ලෙහි ද මේ ක්‍රමය ම ය.
+| **පරික්ඛෙපං අතික්කමන්තස්ස** | පළමු පය ඉක්මවන්නාට **දුක්කට**; දෙවන පය ඉක්මවන කල **පාචිත්තිය**.
+| **අපරික්ඛිත්තස්ස උපචාරො** | සෙනසුනේ සිට ලෙඩ්ඩුපාත දෙකක (ගල් කැට විසි කරන දුර දෙකක) ප්‍රදේශය.
+## {att} කාට දැන්විය යුතු ද? — කිසිවකු නැති කල කළ යුතු දෑ
+- භික්ෂුවක් ඇත්නම් භික්ෂුවකට දැන්විය යුතුය; නැත්නම් සාමණේරයෙකුට; ඔහු ද නැත්නම් ආරාමිකයෙකුට; ඔහු ද නැත්නම් විහාරය කරවූ **විහාර හිමියාට** හෝ ඔහුගේ පවුලේ යමෙකුට දැන්විය යුතුය.
+- ඔවුන් ද නැත්නම්: ගල් සතරක් මත ඇඳක් තබා, ඇඳ මත ඉතිරි ඇඳ පුටු තබා, උඩින් මෙට්ට ආදී සෙය්‍යා දහය ම රාශි කොට, දැව භාණ්ඩ හා මැටි භාණ්ඩ තැන්පත් කොට, දොර කවුළු වසා, **ගමික වත** සපුරා යා යුතුය.
+- සෙනසුන වැසි තෙමේ නම් හා සෙවිලි කිරීමට තණ හෝ උළු ගෙනැවිත් ඇත්නම්, හැකි නම් සෙවිලි කළ යුතුය. නොහැකි නම් වැසි නොතෙමෙන තැනක ඇඳ පුටු ආදිය තබා යා යුතුය.
+- සියල්ල ම වැසි තෙමේ නම්, හැකි නම් ගම ඇතුළත උපාසකයන්ගේ ගෙයක තැබිය යුතුය. ඔවුන් ද “ස්වාමීනි, සංඝික දේ බරපතල ය; ගිනි ගැනීම් ආදියට බිය වෙමු” යි නොපිළිගනිත් නම්, එළිමහනෙහි වුව ද ගල් මත ඇඳ තබා ඉතිරිය පෙර කී ක්‍රමයට තබා, තණ හා කොළවලින් වසා යෑම වටී. එහි අඟ මාත්‍රයක් හෝ ඉතිරි වේ නම් එය එහි එන අනෙක් භික්ෂූන්ට උපකාර වන හෙයිනි.
+## {att} විහාරය, උපචාරය — පාචිත්තිය හා දුක්කට වෙනස් වන්නේ ඇයි?
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **විහාරස්ස උපචාර, උපට්ඨානසාලා, මණ්ඩප, රුක්ඛමූල** | කුරුන්දි අටුවාවේ: පිරිවෙන, පිරිවෙන් දානශාලාව, පිරිවෙන් මණ්ඩපය, පිරිවෙන් ගස් මුල. එසේ කීවත්, “විහාරය” යනු ඇතුළු ගර්භය හෝ සියලු පැතිවලින් වැසුණු ආරක්ෂිත වෙනත් සෙනසුනක් යැයි දත යුතුය.
+| **විහාරස්ස උපචාරෙ** | එහි පිටත ආසන්න අවකාශයෙහි.
+| **උපට්ඨානසාලායං** | දානශාලාවෙහි.
+| **මණ්ඩපෙ** | වට නොකළ හෝ වට කළ, බොහෝ දෙනා රැස්වන මණ්ඩපයෙහි. ගස් මුල ගැන කිව යුත්තක් නැත.
+|! අවස්ථාව | ඇවැත | හේතුව
+| සෙය්‍යා දහය ඇතුළු ගර්භය ආදී ආරක්ෂිත තැනක පනවා යාම | PC | සෙය්‍යාව ද සෙනසුන ද වේයන් කා දිරා, තුඹසක් ම වන හෙයින්
+| පිටත උපස්ථාන ශාලා ආදියෙහි පනවා යාම | DK | තැන ආරක්ෂිත නොවන හෙයින් සෙය්‍යාව පමණක් නැසෙයි, සෙනසුන නොනැසෙයි
+| ඇඳ පුටු විහාරයෙහි ම අතුරා යාම | DK | ඇඳ පුටු වේයන්ට ඉක්මනින් කෑ නොහැකි හෙයින්
+| ඇඳ පුටු විහාර උපචාරයෙහි | DK | විහාර චාරිකාවේ හැසිරෙන්නෝ දැක තැන්පත් කරති
+## {att} අකුලා යාම — කළ යුතු ආකාරය
+- අකුලා යන්නා ඇඳ පුටු ලෑලි (**කවාට**) සියල්ල ඉවත් කොට, එකතු කොට, සිවුරු වැලෙහි එල්ලා යා යුතුය. පසුව අවුත් වසන භික්ෂුව ද ඇඳ පුටු පනවා සැතපී යන විට එසේ ම කළ යුතුය.
+- ඇතුළු බිත්තියෙන් සෙය්‍යාව ගෙන පිටත බිත්තිය අසල පනවා වසන්නා යන විට ගත් තැනෙහි ම තැන්පත් කළ යුතුය. උඩු මහලෙන් බස්වා යට මහලෙහි වසන්නාට ද මේ ක්‍රමය ම ය.
+- රාත්‍රී ස්ථාන, දිවා ස්ථානවල ඇඳ පුටු පැනවූව ද යන කල ගත් තැනෙහි ම නැවත තැබිය යුතුය.
+## {att} දැන්විය යුතු හා නොදැන්විය යුතු සෙනසුන්
+|! සෙනසුන | විනිශ්චය
+| බිම සෑදූ දික් ශාලාව හෝ පන්සල, හෝ ගස් කණු මත සෑදූ, වේයන් නැගෙන තැනක් වූ ගෙය | දන්වා ම යා යුතුය — දින කිහිපයක් නොරැකුණොත් තුඹස් ම පිහිටන හෙයිනි
+| ගල් තලාවක් මත හෝ ගල් කණු මත කළ සෙනසුන, ගල් ලෙන, හුණු ගෑ සෙනසුන — වේයන් සැකයක් නැති | දන්වා හෝ නොදන්වා යෑම වටී; එහෙත් දැන්වීම වතයි
+| එවැනි සෙනසුනක වුව ද එක් පැත්තකින් වේයන් නගිත් නම් | දන්වා ම යා යුතුය
+## {att} වගකීම — ආගන්තුකයන් හා බොහෝ දෙනා
+- ආගන්තුක භික්ෂුවක් සංඝික සෙනසුනක් ගෙන වසන භික්ෂුවට අනුව, තමාගේ සෙනසුනක් නොගෙන වසයි නම්, ඔහු නොගන්නා තාක් ඒ සෙනසුන **පෙර භික්ෂුවගේ** වගකීමයි. ඔහු සෙනසුන ගෙන තමාගේ අධිකාරියෙන් වසන කල පටන් **ආගන්තුකයාගේ** ය. දෙදෙනා ම බෙදා ගනිත් නම් **දෙදෙනාගේ ම** ය.
+- මහාපච්චරිය: දෙතුන් දෙනෙක් එක්ව පනවත් නම්, යන විට සියලු දෙනා ම දැන්විය යුතුය. ඔවුන් අතරෙන් පළමුව යන්නා “පසුව යන්නා රකිනු ඇත” යි සිතා යයි නම් වටී; අන්තිමයාට එවැනි සිතීමෙන් මිදීමක් නැත.
+- බොහෝ දෙනා එක් අයෙකු යවා අතුරවත් නම්, යන විට සියලු දෙනා ම දැන්විය යුතුය, නැතහොත් එක් අයෙකු යවා දැන්විය යුතුය.
+- වෙනත් තැනකින් ඇඳ පුටු ගෙනැවිත් වෙනත් තැනක වාසය කළ ද, යන කල ඒවා එතැනට ම ගෙන යා යුතුය. වෙනත් ආවාසයකින් ගෙනැවිත් වසන කල වැඩිමහල්ලෙක් පැමිණියේ නම් ඔහු වැළැක්විය යුතු නොවේ; “ස්වාමීනි, මා මෙය වෙනත් ආවාසයකින් ගෙනාවා; ස්වභාවික තැනට පමුණුවනු මැනවි” යි කිව යුතුය; ඔහු “එසේ කරමි” යි පිළිගත් කල අනෙකාට යෑම වටී.
+|! පරිභෝගය | නැසුණු, දිරූ, සොරුන් ගත් කල
+| වෙනත් තැනකට ගෙන ගොස් **සංඝික පරිභෝගයෙන්** පරිභෝග කළ දෙය | ගෙවිය යුතු නොවේ
+| **පුද්ගලික පරිභෝගයෙන්** පරිභෝග කළ දෙය | ගෙවිය යුතුය
+| අනුන්ගේ ඇඳ පුටු — සංඝික හෝ පුද්ගලික පරිභෝගයෙන් | නැසුණොත් ගෙවිය යුතු ම ය
+## {att} අනාපත්ති පදවල විවරණය
+|! පදය | අට්ඨකථාවේ විවරණය
+| **කෙනචි පලිබුද්ධං හොති** | වැඩිමහලු භික්ෂූන්, බලවතුන්, යක්ෂයන්, සිංහයන්, චණ්ඩ මෘගයන්, කළු සර්පයන් ආදී යමකින් සෙනසුන බාධිත වී ඇත.
+| **සාපෙක්ඛො ගන්ත්වා තත්ථ ඨිතො ආපුච්ඡති** | “අද ම අවුත් රකිමි” යි අපේක්ෂා සහිතව ගඟින් එතෙරට හෝ වෙනත් ගමකට ගොස්, ඔහුට යෑමේ සිත උපන් තැනෙහි ම සිටිමින් කිසිවකු යවා දන්වයි.
+| **කෙනචි පලිබුද්ධො හොති** | ගං වතුර, රජුන්, සොරුන් ආදී කිසිවකින් (තමා) බාධිත වී ආපසු ආ නොහැකි වේ — එවැන්නාට ද අනාපත්ති.
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ සෙය්‍යං සන්ථරිත්වා වා සන්ථරාපෙත්වා වා තං පක්කමන්තො නෙව උද්ධරෙය්‍ය, න උද්ධරාපෙය්‍ය, අනාපුච්ඡං වා ගච්ඡෙය්‍ය, පාචිත්තියං.
+මෙය **භූතගාම වග්ගයේ පස්වන ශික්ෂාපදයයි** (**පඤ්චමෙ**). කඞ්ඛාවිතරණිය පද මෙසේ විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **විහාරෙ** | ගර්භයෙහි හෝ සියලු පැතිවලින් වැසුණු, (පෙර) කී වෙනත් යම් සෙනසුනක.
+| **සෙය්‍යං** | මෙට්ටය, චිමිලිකාව, උඩ ඇතිරිල්ල, බිම ඇතිරිල්ල, පැදුර, සම් කඩ, නිසීදනය, ඇතිරිලි සළුව, තණ ඇතිරිල්ල, කොළ ඇතිරිල්ල යන දහය.
+| **චිමිලිකා** | පිරියම් කළ බිමේ පැහැය රැකීමට කළ දෙය.
+| **උත්තරත්ථරණ** | ඇඳ පුටු ආදිය මත ඇතිරීමට සුදුසු ඇතිරිල්ල.
+| **භූමත්ථරණ** | චිමිලිකාවක් ඇත්නම් ඒ මත, නැත්නම් පිරිසිදු බිම ඇතිරිය යුතු කටසාරක ආදී පැදුරු වර්ග.
+| **තට්ටිකා** | තල් කොළ ආදියෙන් කළ පැදුර.
+| **චම්මක්ඛණ්ඩ** | යම් කිසි සමක්. සිංහ සම් ආදිය පරිහරණය කිරීම පමණක් ප්‍රතික්ෂේප ය; සෙනසුන් පරිභෝගයෙහි නොවටනා සමක් නැත.
+| **පච්චත්ථරණ** | පාවාරය, කෝජවය යන මෙපමණක් ම ය. ඉතිරිය පැහැදිලි ය.
+## {kkv} සම්පූර්ණ අර්ථය
+%% සෙය්‍යාව | මේ සෙය්‍යා දහයෙන් එකක් වුව ද තමාගේ වස් පිළිවෙළින් ගෙන,
+%% තැන | කී ලක්ෂණ ඇති විහාරයක අතුරා හෝ අතුරවා,
+%% යන්නා | දිශාවකට යන (**දිසංගමික**) යම් භික්ෂුවක්,
+%% නොඅකුලීම | තැබූ පරිදි වේයන් නොකන ලෙස තැබීම වශයෙන් නොඅකුලයි ද, නොඅකුලවයි ද,
+%% නොදැන්වීම | නැතහොත් පෙර ශික්ෂාපදයෙහි කී ලෙස (ලජ්ජී භික්ෂුවකට ආදී) නොදන්වා යයි ද,
+%% සීමාව | වට කළ ආරාමයක වැට ද, වට නොකළ ආරාමයක උපචාරය ද ඉක්මවන කල,
+%% ඵලය | ඔහුට පළමු පියවරට **දුක්කට** ද, දෙවන පියවරට **පාචිත්තිය** ද වේ.
+!src: වේයන් සැකයක් නැති තැනකින් නොදන්වා වුව ද යෑම වටී; එහෙත් දැන්වීම වතයි.
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ස්ථානය | සැවැත් නුවර,
+%% පුද්ගලයා | සත්තරසවග්ගිය භික්ෂූන් අරබයා,
+%% වස්තුව | **සංඝික විහාරයක සෙය්‍යාව අතුරා නොඅකුලා නොදන්වා පිටත්ව යාමේ වස්තුවෙහි** පනවන ලද මෙය
+%% ප්‍රඥප්තිය | **සාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට ද පොදු ය;
+%% ආණත්තිය | **අනාණත්තික**යි.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| සංඝික විහාරය | තිකය (සංඝික යැයි සලකා, සැක සහිතව, පුද්ගලික යැයි සලකා) | PC
+| පුද්ගලික විහාරය | තිකය | DK
+| කී ලක්ෂණ ඇති විහාරයේ උපචාරයෙහි — පිටත ආසන්නයේ — උපස්ථාන ශාලාවෙහි, වට නොකළ මණ්ඩපයෙහි, හෝ වට කළ ද බොහෝ දෙනා රැස්වන මණ්ඩපයෙහි, හෝ ගස් මුල | සෙය්‍යාව අතුරා / අතුරවා අකුලීම් ආදිය නොකොට යයි | DK
+| විහාරයෙහි හෝ කී ආකාර විහාර උපචාරයෙහි | ඇඳ පුටු අතුරා / අතුරවා අකුලීම් ආදිය නොකොට යයි | DK
+## {kkv} අනාපත්ති
+# තමාගේ දෙයෙහි, විශ්වාසිකයෙකුගේ පුද්ගලික දෙයෙහි;
+# අකුලීම් ආදිය කොට යන කල;
+# පෙර කී පරිදි ම බාධිත වූ සෙනසුන හැර යන කල;
+# “අද ම අවුත් රකිමි” යි අපේක්ෂා සහිතව ගඟින් එතෙරට හෝ වෙනත් ගමකට ගොස්, යෑමේ සිත උපන් තැනෙහි ම සිටිමින් කිසිවකු යවා දන්වන්නාට;
+# ගං වතුර, රජුන්, සොරුන් ආදී කිසිවකින් බාධිත වී ආපසු ආ නොහැකි වූවහුට;
+# ආපදාවලදී;
+# උමතු වූවහු ආදීන්ට.
+## {kkv} අංග (= සත්ත — සතකි)
+# කී ලක්ෂණ ඇති සෙය්‍යාව;
+# එය සංඝික වීම;
+# කී ලක්ෂණ ඇති විහාරයක අතුරා හෝ අතුරවා තිබීම;
+# බාධාවක් නොමැති වීම;
+# ආපදාවක් නොමැති වීම;
+# අපේක්ෂා රහිතව දිශාවකට පිටත්ව යාම;
+# උපචාර සීමාව ඉක්මවීම.
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **අනතුරු (පෙර) ශික්ෂාපදයෙහි** කී ක්‍රමය ම ය.
+#en
+## {story} The Origin Story
+### The Matter of Bedding
+@ Sāvatthī · Jetavana, Anāthapiṇḍika’s monastery
+:::short
+The group-of-seventeen monks, who always stayed and travelled together, spread bedding in a Saṅgha dwelling and ==left without putting it away or taking leave==; the lodging was **eaten by termites**. The Blessed One rebuked them and laid down the rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Sāvatthī, in Jetavana, Anāthapiṇḍika’s monastery. At that time the **group-of-seventeen** monks were friends; when staying, they stayed together, and when leaving, they left together. They spread bedding in a certain Saṅgha dwelling and, on leaving, ==went without putting it away, without having it put away, and without taking leave==. The lodging was **eaten by termites**.
+The monks of few wishes complained, criticised and spread it about: “How can the group-of-seventeen monks spread bedding in a Saṅgha dwelling and, on leaving, go without putting it away, without having it put away, and without taking leave? The lodging has been eaten by termites!” Having criticised them in many ways, they told the Blessed One. The Blessed One asked, “Is it true, monks, that the group-of-seventeen … and the lodging was eaten by termites?” “It is true, Blessed One.” He rebuked them: “Monks, how can those foolish men …? Monks, this does not inspire faith in those without faith …” — and he laid down the training rule:
+:::
+!pn: The training rule
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ සෙය්‍යං සන්ථරිත්වා වා සන්ථරාපෙත්වා වා තං පක්කමන්තො නෙව උද්ධරෙය්‍ය න උද්ධරාපෙය්‍ය, අනාපුච්ඡං වා ගච්ඡෙය්‍ය, පාචිත්තියං.
+~ Whatever monk, having spread out or had spread out bedding in a Saṅgha-owned dwelling, on departing neither puts it away nor has it put away, or goes without informing anyone: Pācittiya.
+!src: This rule has no supplementary rule (anupaññatti); the original rule is the complete training rule.
+## {story} Word analysis
+|! Word | Meaning in the text
+| **Saṅghiko vihāro** | A dwelling given to, made over to the Saṅgha.
+| **Seyyaṃ** | Ten kinds of bedding — a mattress (**bhisi**), a floor-cover, an over-spread, a ground-spread, a mat (**taṭṭikā**), a piece of leather, a sitting cloth, a covering cloth (**paccattharaṇa**), a grass spread, a leaf spread.
+| **Santharitvā** | Having spread it himself.
+| **Santharāpetvā** | Having had another spread it.
+| **Neva uddhareyya** | He does not put it away himself.
+| **Na uddharāpeyya** | He does not have another put it away.
+| **Anāpucchaṃ vā gaccheyya** | Without informing a monk, a novice or a monastery attendant, ==on passing the enclosure (**parikkhepa**) of an enclosed monastery, or the precinct of an unenclosed one==, there is a pācittiya.
+## {story} Offences by perception
+|! Object | Perception and act | Offence
+| A Saṅgha dwelling | Perceiving it as the Saṅgha’s, in doubt, or perceiving it as personal, having spread bedding / had it spread, he leaves without putting it away / having it put away, or without taking leave | PC
+| In the precinct of the dwelling, in the attendance hall, in a pavilion or at the foot of a tree | Spreading bedding / having it spread and leaving like that | DK
+| In the dwelling, its precinct, the attendance hall, a pavilion or at the foot of a tree | Spreading a bed or bench / having it spread and leaving like that | DK
+| A personal dwelling | Perceiving it as the Saṅgha’s | DK
+| A personal dwelling | While in doubt | DK
+| Another’s personal dwelling | Perceiving it as personal | DK
+| One’s own personal dwelling | — | N
+## {story} No offence
+# He leaves after putting it away;
+# He leaves after having it put away;
+# He leaves after taking leave;
+# It is obstructed by something;
+# Having gone with intent to return (**sāpekkha**), he informs while standing there;
+# He (himself) is obstructed by something;
+# In emergencies;
+# For the insane; for the first offender.
+## {att} Kinds of bedding and the precinct
+|! Word | Samantapāsādikā explanation
+| **Bhisi** | A bed mattress or a bench mattress.
+| **Nisīdana** | To be understood as a sitting cloth with a border (**sadasa**).
+| **Paccattharaṇa** | Only a cloak (pāvāra) and a woollen rug (kojava) are meant.
+| **Tiṇasanthāra / paṇṇasanthāra** | A spread of any kind of grass; the same method for a spread of leaves.
+| **Parikkhepaṃ atikkamantassa** | For one who passes the first foot beyond it, a **dukkaṭa**; on passing the second, a **pācittiya**.
+| **The precinct of an unenclosed one** | The area of two clod’s throws (**leḍḍupāta**) from the lodging.
+## {att} Whom to inform — and what to do when there is no one
+- If there is a monk, the monk should be informed; if not, a novice; if not, a monastery attendant; if not, **the owner of the dwelling** who had it built, or anyone in his family.
+- If there is none of them: set a bed on four stones, put the remaining beds and benches on the bed, pile the ten kinds of bedding such as mattresses on top, put away the wooden and clay articles, close the doors and windows, fulfil **the duties of one departing**, and go.
+- If the lodging leaks and grass or bricks have been brought for roofing, one should roof it if able. If not able, one should put the beds, benches and so on in a place the rain does not reach, and go.
+- If it all leaks, one should, if able, leave them in the house of lay followers within the village. If they will not accept them, saying, “Venerable sir, Saṅgha property is a heavy burden; we fear fire and the like”, it is allowed even in the open to set the bed on stones, put away the rest in the way stated, cover it with grass and leaves, and go. For whatever even a part of it remains will be of help to other monks who come there.
+## {att} Dwelling and precinct — why pācittiya in one and dukkaṭa in the other?
+|! Word | Samantapāsādikā explanation
+| **Vihārassa upacāra, upaṭṭhānasālā, maṇḍapa, rukkhamūla** | In the Kurundī commentary: the cell compound, the compound’s dining hall, the compound’s pavilion, the compound’s tree foot. Though so stated, “dwelling” should be understood as the inner chamber, or any other protected lodging enclosed on all sides.
+| **Vihārassa upacāre** | In the open space close outside it.
+| **Upaṭṭhānasālāyaṃ** | In the dining hall.
+| **Maṇḍape** | In a pavilion, unenclosed or even enclosed, where many gather. There is nothing to say about the tree foot.
+|! Situation | Offence | Reason
+| Setting out the ten kinds of bedding in a protected place such as an inner chamber and leaving | PC | Both the bedding and the lodging decay through termites and become just a termite mound
+| Setting them out outside, in the attendance hall and so on, and leaving | DK | Because the place is unprotected, only the bedding would be lost, not the lodging
+| Spreading a bed or bench even in the dwelling itself and leaving | DK | Termites cannot quickly eat a bed or bench
+| A bed or bench in the dwelling’s precinct | DK | Those walking about on a round of the dwellings will see it and put it away
+## {att} Putting it away — how it should be done
+- One who puts it away before leaving should remove all the bed and bench planks (**kavāṭa**), gather them up, hang them on the robe-pole, and go. A monk who later comes and lives there should do the same when he leaves after setting out a bed or bench and sleeping.
+- One who takes bedding from inside the wall and sets it out by the outer wall should, when leaving, put it away in the very place he took it from. The same for one who brings it down from an upper storey and lives on the lower storey.
+- Even when beds and benches are set out at night-quarters or day-quarters, when leaving they should be put back in the place they were taken from.
+## {att} Lodgings where one must inform, and where one need not
+|! Lodging | Ruling
+| A long hall or leaf hut built on the ground, or a house built on wooden posts, a place where termites rise | One must leave only after informing — if it is not looked after for a few days, termite mounds form
+| A lodging built on a rock surface or on stone pillars, a rock cave, a plastered lodging — where there is no fear of termites | Allowed to go whether one informs or not; but informing is the duty
+| Even in such a lodging, if termites climb up on one side | One must leave only after informing
+## {att} Responsibility — visitors and groups
+- If a visiting monk, deferring to a monk living there who has taken a Saṅgha lodging, lives there without taking a lodging of his own, as long as he does not take it the lodging is **the earlier monk’s** responsibility. From when he takes the lodging and lives there under his own authority, it is **the visitor’s**. If both divide and take it, it is **both’s**.
+- The Mahāpaccarī: if two or three set it out together, all of them must inform when leaving. If the first of them to leave goes, having in mind “the last will look after it”, that is allowed; the last has no release by such a thought.
+- If many send one to have it spread, then when leaving either all should inform, or they should send one to inform.
+- Even if one brings beds and benches from elsewhere and lives in another place, when leaving they must be taken back there. If, while one lives with things brought from another residence, a senior monk arrives, he is not to be turned away; one should say, “Venerable sir, I brought this from another residence; please return it to its usual place.” When he agrees, “I will do so”, the other may go.
+|! Use | When lost, worn out or stolen
+| Something taken elsewhere and **used as Saṅgha property** | No liability to make good
+| Something **used as personal property** | Liable to make good
+| Another’s bed or bench, used as Saṅgha or personal property | If lost, liable to make good in either case
+## {att} Explanation of the no-offence terms
+|! Term | The commentary’s explanation
+| **Kenaci palibuddhaṃ hoti** | The lodging is obstructed by anything such as senior monks, powerful people, yakkhas, lions, fierce beasts, black snakes and so on.
+| **Sāpekkho gantvā tattha ṭhito āpucchati** | Intending to return — “I will come back today and look after it” — he goes across a river or to another village and, standing right where the thought of going on arose, sends someone to inform.
+| **Kenaci palibuddho hoti** | He is obstructed by something such as a flood, kings, thieves and the like and cannot come back — for such a one too there is no offence.
+## {kkv} The rule and the meaning of its words
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ සෙය්‍යං සන්ථරිත්වා වා සන්ථරාපෙත්වා වා තං පක්කමන්තො නෙව උද්ධරෙය්‍ය, න උද්ධරාපෙය්‍ය, අනාපුච්ඡං වා ගච්ඡෙය්‍ය, පාචිත්තියං.
+This is **the fifth rule of the Bhūtagāma chapter** (**pañcame**). The Kaṅkhāvitaraṇī explains the words thus:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Vihāre** | In an inner chamber, or in any other lodging of the kind described, enclosed on all sides.
+| **Seyyaṃ** | The ten: mattress, floor-cover, over-spread, ground-spread, mat, piece of leather, sitting cloth, covering cloth, grass spread, leaf spread.
+| **Cimilikā** | Made to protect the colour of a finished floor.
+| **Uttarattharaṇa** | A cover suitable for spreading over beds, benches and so on.
+| **Bhūmattharaṇa** | Kinds of mat and the like to be spread over a floor-cover if there is one, or on the bare floor if not.
+| **Taṭṭikā** | A mat made of palm leaves and the like.
+| **Cammakkhaṇḍa** | Any leather. Only carrying about lion skin and the like is prohibited; there is no unallowable leather for use as lodging furniture.
+| **Paccattharaṇa** | Only a cloak and a woollen rug. The rest is clear.
+## {kkv} The full meaning
+%% Bedding | A monk who, taking even one of these ten kinds of bedding by his own seniority,
+%% Place | has spread it or had it spread in a dwelling of the described kind,
+%% Who | and, setting off in some direction (**disaṃgamika**),
+%% Not putting away | neither puts it away nor has it put away — in the sense of placing it so that termites do not eat it as it lies —
+%% Not informing | or goes without informing (a conscientious monk and so on) in the way stated in the previous rule,
+%% Boundary | on passing the enclosure of an enclosed monastery, or the precinct of an unenclosed one,
+%% Result | incurs a **dukkaṭa** at the first step and a **pācittiya** at the second.
+!src: From a place where there is no fear of termites one may go even without informing; but informing is the duty.
+## {kkv} The laying down of the rule and the command
+%% Place | Laid down at Sāvatthī,
+%% Person | concerning the group-of-seventeen monks,
+%% Matter | **on the matter of spreading bedding in a Saṅgha dwelling and leaving without putting it away and without taking leave**, this rule
+%% Kind of rule | is a **common rule** (**sādhāraṇa-paññatti**) — shared with the nuns;
+%% Command | and it is **anāṇattika**.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| A Saṅgha dwelling | The triad (perceiving it as the Saṅgha’s, in doubt, perceiving it as personal) | PC
+| A personal dwelling | The triad | DK
+| In the precinct of a dwelling of the described kind — close outside — in the attendance hall, in an unenclosed pavilion, or in an enclosed one where many gather, or at the foot of a tree | Spreading bedding / having it spread and leaving without putting it away and so on | DK
+| In the dwelling, or in its precinct of the kind described | Spreading a bed or bench / having it spread and leaving without putting it away and so on | DK
+## {kkv} No offence
+# With one’s own property, or the personal property of a trusted person;
+# When one goes after putting it away and so on;
+# When one leaves a lodging that is obstructed, in the way stated before;
+# For one who, intending to return — “I will come back today and look after it” — goes across a river or to another village and, standing right where the thought of going on arose, sends someone to inform;
+# For one who is obstructed by a flood, kings, thieves and the like and cannot come back;
+# In emergencies;
+# For the insane and so on.
+## {kkv} Factors (= satta — seven)
+# Bedding of the described kind;
+# It belongs to the Saṅgha;
+# It has been spread, or had spread, in a dwelling of the described kind;
+# There is no obstruction;
+# There is no emergency;
+# Setting off in some direction without concern;
+# Passing the boundary of the precinct.
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest follow the method stated in **the immediately preceding rule**.
+
+@pac16
+T: අනුපඛජ්ජ සික්ඛාපදය || The Rule on Encroaching
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පළමුව පැමිණි භික්ෂූන්ගේ උපචාරයට ඇතුළු වී සෙය්‍යාව සැකසීම || Lying down after encroaching on monks who arrived first
+K: P1 sd=s an=a anu=0 ved=D
+Z: ගිලන් වූයේ, සීතලෙන් හෝ උෂ්ණයෙන් පීඩිත වූයේ ඇතුළු වීම; ආපදාවල; උමතු ආදීන් || Entering because ill, or oppressed by cold or heat; emergencies; the insane etc.
+#si
+## {story} කථා වස්තුව
+### අනුපඛජ්ජ වස්තුව
+@ සැවැත් නුවර · ජේතවනය අනාථපිණ්ඩිකාරාමය
+:::short
+සැවැත් නුවර දී ෂඩ්වර්ගීය භික්ෂූහු උතුම් සෙනසුන් අල්ලා ගත්හ; එහෙත් ස්ථවිර භික්ෂූහු වස් පිළිවෙළින් ඔවුන් නැගිටුවූහ. එහි ම වස් වසනු කැමති ෂඩ්වර්ගීය භික්ෂූහු “==යමෙකුට අපහසු වේ නම් හෙතෙම පිටත්ව යනු ඇත==” යි සිතා ස්ථවිරයන්ගේ උපචාරයට ඇතුළු වී සෙය්‍යාව සැකසූහ. අල්පේච්ඡ භික්ෂූහු එයට ගරහා භාග්‍යවතුන් වහන්සේට සැල කළහ. භාග්‍යවතුන් වහන්සේ ෂඩ්වර්ගීය භික්ෂූන්ට ගරහා ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ සැවැත් නුවර අනාථපිණ්ඩිකයාගේ ආරාමය වූ ජේතවනයෙහි වැඩ වසන සේක. එකල ෂඩ්වර්ගීය භික්ෂූහු උතුම් සෙනසුන් අල්ලා ගනිති (**පලිබුන්ධෙන්ති**); (එහෙත් පසුව එන) ස්ථවිර භික්ෂූහු (වස් පිළිවෙළින්) ඔවුන් නැගිටුවති. එවිට ෂඩ්වර්ගීය භික්ෂූන්ට “අපි කවර උපායකින් මෙහි ම වස් වසන්නෙමු ද?” යි සිතිණ. ඉක්බිති ෂඩ්වර්ගීය භික්ෂූහු “==යමෙකුට අපහසු (**සම්බාධ**) වේ නම් හෙතෙම පිටත්ව යනු ඇත==” යි සිතා ස්ථවිර භික්ෂූන්ගේ (උපචාරයට) ඇතුළු වී සෙය්‍යාව සකසති.
+අල්පේච්ඡ භික්ෂූහු “ෂඩ්වර්ගීය භික්ෂූහු කෙසේ නම් ස්ථවිර භික්ෂූන්ගේ උපචාරයට ඇතුළු වී සෙය්‍යාව සකසන්නාහු ද?” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ; නොයෙක් අයුරින් ගරහා භාග්‍යවතුන් වහන්සේට සැල කළහ. භාග්‍යවතුන් වහන්සේ “මහණෙනි, ඔබ ස්ථවිර භික්ෂූන්ගේ උපචාරයට ඇතුළු වී සෙය්‍යාව සකසන බව සැබෑ ද?” යි විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂයෙනි, ඔබ කෙසේ නම් …? මෝඝපුරුෂයෙනි, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා ශික්ෂාපදය පැනවූ සේක:
+:::
+!pn: ශික්ෂාපදය
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ ජානං පුබ්බුපගතං භික්ඛුං අනුපඛජ්ජ සෙය්‍යං කප්පෙය්‍ය – ‘යස්ස සම්බාධො භවිස්සති සො පක්කමිස්සතී’ති, එතදෙව පච්චයං කරිත්වා අනඤ්ඤං, පාචිත්තියං.
+~ යම් භික්‍ෂුවක් වනාහි සඟසතු විහාරයක දැන දැන, කලින් පැමිණි භික්‍ෂූන් අතුරෙහි පිවිස "යමෙකුට බාධා වන්නේ නම් හෙතෙම බැහැර යන්නේ" යැයි අනෙකක් නො ව මෙය ම හේතු කොටගෙන සයනය කරන්නේ නම්, පචිති වේ.
+!src: මෙම ශික්ෂාපදයට අනුපඤ්ඤත්ති නැත; මුල් පැනවීම ම සම්පූර්ණ ශික්ෂාපදය වේ.
+## {story} පදභාජනීය — පද විභාගය
+|! පදය | පෙළෙහි අර්ථය
+| **සඞ්ඝිකො විහාරො** | සංඝයාට දුන්, පරිත්‍යාග කළ විහාරය.
+| **ජානාති** | “වැඩිමහල්ලෙකැ” යි දනී, “ගිලනෙකැ” යි දනී, “සංඝයා විසින් (සෙනසුන) දෙන ලද්දෙකැ” යි දනී.
+| **අනුපඛජ්ජ** | ඇතුළු වී.
+| **සෙය්‍යං කප්පෙය්‍ය** | ඇඳක හෝ පුටුවක උපචාරයෙහි, හෝ ඇතුළු වන / පිටවන (භික්ෂුවගේ) උපචාරයෙහි සෙය්‍යාව අතුරයි නම් හෝ අතුරවයි නම් **දුක්කට**; (එහි) හිඳියි නම් හෝ සැතපෙයි නම් **පාචිත්තිය**.
+| **එතදෙව පච්චයං කරිත්වා අනඤ්ඤං** | උපචාරයට ඇතුළු වී සෙය්‍යාව සැකසීමට වෙනත් කිසි හේතුවක් නැත.
+## {story} ආපත්ති — සංඥාව හා තැන අනුව
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| සංඝික විහාරය | සංඝික යැයි සලකා, සැක සහිතව, හෝ පුද්ගලික යැයි සලකා උපචාරයට ඇතුළු වී සෙය්‍යාව සකසයි (හිඳියි / සැතපෙයි) | PC
+| ඇඳ පුටුවල හෝ ඇතුළු වන / පිටවන භික්ෂුවගේ උපචාරය හැර (වෙනත් තැනක) | සෙය්‍යාව අතුරයි / අතුරවයි | DK
+| එසේ ම උපචාරය හැර | හිඳියි / සැතපෙයි | DK
+| විහාරයේ උපචාරයෙහි, උපස්ථාන ශාලාවෙහි, මණ්ඩපයෙහි, ගස් මුල හෝ එළිමහනෙහි | සෙය්‍යාව අතුරයි / අතුරවයි | DK
+| එම තැන්වල | හිඳියි / සැතපෙයි | DK
+| පුද්ගලික විහාරය | සංඝික යැයි සලකා, හෝ සැක සහිතව | DK
+| අනුන්ගේ පුද්ගලික විහාරය | පුද්ගලික යැයි සලකා | DK
+| තමාගේ පුද්ගලික විහාරය | — | N
+## {story} අනාපත්ති
+# ගිලන් වූයේ ඇතුළු වෙයි නම්;
+# සීතලෙන් හෝ උෂ්ණයෙන් පීඩිත වූයේ ඇතුළු වෙයි නම්;
+# ආපදාවල;
+# උමතු වූවහුට; ආදිකම්මිකයාට.
+## {att} කථා වස්තුවේ පදවලට අදාළ විශේෂ කරුණු
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **පලිබුන්ධෙන්ති** | පළමුවෙන් ම ගොස් පාත්‍ර සිවුරු ඇතුළට ගෙන ගොස් (සෙනසුන්) අවුරා සිටිති.
+| **ථෙරා භික්ඛූ වුට්ඨාපෙන්ති** | “ඇවැත්නි, (මෙය) අපට ලැබේ” යි වස් පිළිවෙළින් ගෙන (ඔවුන්) නැගිටුවති.
+| **අනුපඛජ්ජ සෙය්‍යං කප්පෙන්ති** | “ස්වාමීනි, ඔබට ලැබෙන්නේ ඇඳ තබන තැන පමණි, මුළු විහාරය නොවේ; දැන් මේ තැන අපට ලැබේ” යි ඇතුළු වී, ඇඳ පුටු පනවා හිඳිති ද, සැතපෙති ද, සජ්ඣායනා ද කරති.
+## {att} “ජානං” — නැගිටුවිය නොහැක්කා කවරෙක් ද?
+“ජානං” යනු “**මොහු නැගිටුවිය නොහැක්කෙකි** (**අනුට්ඨාපනීය**)” යි දැනගෙන යන්නයි; එබැවින් විභඞ්ගයෙහි “වැඩිමහල්ලෙකැ යි දනී” ආදිය කියන ලදී.
+|! පුද්ගලයා | නැගිටුවිය නොහැකි හේතුව
+| **වුඩ්ඪ** (වැඩිමහල්ලා) | තමාගේ වැඩිමහලු බව නිසා
+| **ගිලාන** (ගිලනා) | ගිලන් බව නිසා
+| **සඞ්ඝෙන දින්න** (සංඝයා දුන්නා) | භාණ්ඩාගාරිකයාගේ, ධර්මකථික විනයධර ආදීන්ගේ හෝ ගණයට උගන්වන ආචාර්‍යයාගේ බොහෝ උපකාර බව හා ගුණ විශිෂ්ට බව සලකා, සංඝයා ස්ථිර වාසය පිණිස විහාරය සම්මත කොට දෙයි
+!src: ගිලනාට ද සංඝයා ම සුදුසු සෙනසුනක් දෙයි නම්, “අපලෝකනයෙන් සංඝයා විසින් සෙනසුන නොදුන් ගිලනා ද නොපෙළිය යුතුය, අනුකම්පා කළ යුතුය” යි දැක්වීමට ගිලනා වෙනම කියන ලදී.
+## {att} උපචාරය හා පාචිත්තිය ගණන
+|! උපචාරය | ප්‍රමාණය
+| විශාල විහාරයක ඇඳ පුටුවල | හාත්පස රියන් එකහමාරක් (**දියඩ්ඪ හත්ථ**)
+| කුඩා විහාරයක | යම් තැනකින් ප්‍රමාණවත් වේ ද, එතැන් සිට රියන් එකහමාරක්
+| පා සෝදා ඇතුළු වන්නාගේ හා මුත්‍රා කිරීමට පිටවන්නාගේ | දොරෙහි තැබූ පා සෝදන ගලේ සිට හා මුත්‍රා කරන තැනේ සිට ඇඳ පුටුව දක්වා, රියන් එකහමාරක් පළල මාර්ගය
+- ඒ උපචාරයෙහි සිටින භික්ෂුවගේ හෝ ඇතුළු වන / පිටවන භික්ෂුවගේ උපචාරයෙහි, (ඔහුට) ඇතුළු වී සෙය්‍යාව සකසනු කැමැත්තේ සෙය්‍යාව අතුරයි නම් හෝ අතුරවයි නම් **දුක්කට** ය.
+- හිඳීම පමණකින් හෝ සැතපීම පමණකින් **පාචිත්තිය** ය. දෙක ම කරයි නම් **පාචිත්තිය දෙකකි**. නැවත නැවත නැගිට හිඳියි නම් හෝ සැතපෙයි නම් **ප්‍රයෝගයක් පාසා පාචිත්තිය** ය.
+- උපචාරය හැර අතුරන කල, හා “විහාරයේ උපචාරයෙහි” ආදී දුක්කට වාරවල ද, හිඳීම පමණෙහි, සැතපීම පමණෙහි, දෙක ම කිරීමෙහි හා ප්‍රයෝග භේදයෙහි පාචිත්තිය භේදය කී පරිදි ම **දුක්කට භේදය** ද දත යුතුය. එවැනි විසභාග පුද්ගලයෙකු සමඟ එක් විහාරයක හෝ එක් පිරිවෙනක වාසය කිරීමෙන් ප්‍රයෝජනයක් නැති හෙයින් සෑම තැනක ම ඔහුගේ වාසය වළක්වන ලදී.
+- **අඤ්ඤස්ස පුග්ගලිකෙ** — මෙහි ද විශ්වාසිකයෙකුගේ පුද්ගලික දෙය තමාගේ පුද්ගලික දෙයට සමාන ය; එහි අනාපත්ති.
+- **ආපදාසු** — පිටත වසන්නාට ජීවිතයට හෝ බ්‍රහ්මචර්‍යාවට අන්තරා ඇත්නම්, එවැනි ආපදාවල ඇතුළු වන්නාට ද අනාපත්ති.
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ ජානං පුබ්බුපගතං භික්ඛුං අනුපඛජ්ජ සෙය්‍යං කප්පෙය්‍ය ‘යස්ස සම්බාධො භවිස්සති, සො පක්කමිස්සතී’ති එතදෙව පච්චයං කරිත්වා අනඤ්ඤං, පාචිත්තියං.
+මෙය **භූතගාම වග්ගයේ සයවන ශික්ෂාපදයයි** (**ඡට්ඨෙ**). කඞ්ඛාවිතරණිය පද මෙසේ විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **ජානං** | “මොහු නැගිටුවිය නොහැක්කෙකි” යි දැනගෙන. එබැවින් පදභාජනයෙහි “වැඩිමහල්ලෙකැ යි දනී, ගිලනෙකැ යි දනී, සංඝයා දුන්නෙකැ යි දනී” යි කියන ලදී. වැඩිමහල්ලා වැඩිමහලු බවින්, ගිලනා ගිලන් බවින් නැගිටුවිය නොහැකි ය; සංඝයා වනාහි භාණ්ඩාගාරිකයාගේ හෝ ධර්මකථික, විනයධර, ගණවාචක ආචාර්‍යයන්ගේ බොහෝ උපකාර බව හා ගුණ විශිෂ්ට බව සලකා, ස්ථිර වාසය පිණිස විහාරය සම්මත කොට දෙයි; එබැවින් සංඝයා යමෙකුට දුන්නේ ද, ඔහු ද නැගිටුවිය නොහැකි ය.
+| **පුබ්බුපගතං** | පළමුව පැමිණි.
+| **අනුපඛජ්ජ** | ඇඳ පුටුවල හෝ ඇතුළු වන / පිටවන ඒ භික්ෂුවගේ උපචාරයට ඇතුළු වී.
+| **උපචාරය** | විශාල විහාරයක ඇඳ පුටුවල හාත්පස රියන් එකහමාරකි; කුඩා විහාරයක යම් තැනකින් ප්‍රමාණවත් වේ ද එතැන් සිට රියන් එකහමාරකි. ඇතුළු වන්නාට පා සෝදන ගලේ සිට ඇඳ පුටුව දක්වා ද, පිටවන්නාට ඇඳ පුටුවේ සිට මුත්‍රා කරන තැන දක්වා ද උපචාරය වේ.
+| **සෙය්‍යං කප්පෙය්‍ය** | (විවරණය පහත)
+## {kkv} සම්පූර්ණ අර්ථය
+%% අදහස | ඔහුට අපහසුවක් කරනු කැමැත්තෙන්,
+%% තැන | ඒ උපචාරයෙහි
+%% අතුරන කල | සෙය්‍යා දහයෙන් එකක් හෝ අතුරන්නාට, අතුරවන්නාට **දුක්කට** ද,
+%% හිඳින කල | එහි හිඳින්නාට හෝ සැතපෙන්නාට **පාචිත්තිය** ද,
+%% දෙක ම | දෙක ම කරන්නාට **පාචිත්තිය දෙකක්** ද,
+%% නැවත නැවත | නැවත නැවත කරන්නාට **ප්‍රයෝග ගණනින් පාචිත්තිය** ද වේ.
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ස්ථානය | සැවැත් නුවර,
+%% පුද්ගලයා | ෂඩ්වර්ගීය භික්ෂූන් අරබයා,
+%% වස්තුව | **උපචාරයට ඇතුළු වී සෙය්‍යාව සැකසීමේ වස්තුවෙහි** පනවන ලද මෙය
+%% ප්‍රඥප්තිය | **සාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට ද පොදු ය;
+%% ආණත්තිය | **අනාණත්තික**යි.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| සංඝික විහාරය | තිකය — උපචාරයෙහි හිඳීම / සැතපීම | PC
+| පුද්ගලික විහාරය | තිකය | DK
+| කී උපචාරයෙන් පිටත, උපස්ථාන ශාලා ආදියෙහි, හෝ විහාරයේ උපචාරයෙහි | අතුරීම, අතුරවීම, හිඳීම, සැතපීම | DK
+## {kkv} අනාපත්ති
+# තමාගේ හෝ විශ්වාසිකයෙකුගේ විහාරයක අතුරන්නාට;
+# ගිලන් වූයේ හෝ සීත උෂ්ණයෙන් පීඩිත වූයේ ඇතුළු වන්නාට;
+# ආපදාවලදී;
+# උමතු වූවහු ආදීන්ට.
+## {kkv} අංග (= චත්තාරි — සතරකි)
+# සංඝික විහාරයක් වීම;
+# (ඔහු) නැගිටුවිය නොහැක්කෙකු බව දැනීම;
+# අපහසුවක් කරනු කැමැති වීම;
+# උපචාරයෙහි හිඳීම හෝ සැතපීම.
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **පළමු පාරාජික ශික්ෂාපද**යට සමාන ය. මෙය වනාහි **දුක්ඛ වේදනා** ම වේ.
+#en
+## {story} The Origin Story
+### The Matter of Encroaching
+@ Sāvatthī · Jetavana, Anāthapiṇḍika’s monastery
+:::short
+At Sāvatthī, the group-of-six monks had taken possession of the best lodgings, but the elder monks, by seniority, made them get up. Wanting to spend the rains right there, the group-of-six thought, “==Whoever is crowded will leave==,” and lay down after encroaching on the elders. The monks of few wishes criticised this and told the Blessed One, who rebuked the group-of-six and laid down the rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Sāvatthī, in Jetavana, Anāthapiṇḍika’s monastery. At that time the group-of-six monks took possession of the best lodgings (**palibundhenti**); but the elder monks made them get up (by seniority). Then the group-of-six thought: “By what means can we spend the rains right here?” So the group-of-six, thinking, “==Whoever is crowded (**sambādha**) will leave==,” lay down after encroaching on the elder monks.
+The monks of few wishes complained, criticised and spread it about: “How can the group-of-six monks lie down after encroaching on the elder monks?” Having criticised them in many ways, they told the Blessed One. The Blessed One asked: “Is it true, monks, that you lie down after encroaching on the elder monks?” “It is true, Blessed One.” He rebuked them: “Foolish men, how can you …? Foolish men, this does not inspire faith in those without faith …” — and he laid down the training rule:
+:::
+!pn: The training rule
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ ජානං පුබ්බුපගතං භික්ඛුං අනුපඛජ්ජ සෙය්‍යං කප්පෙය්‍ය – ‘යස්ස සම්බාධො භවිස්සති සො පක්කමිස්සතී’ති, එතදෙව පච්චයං කරිත්වා අනඤ්ඤං, පාචිත්තියං.
+~ Whatever monk, in a Saṅgha-owned dwelling, knowing that a monk arrived earlier is there, should lie down after intruding on him, thinking, "Whoever is crowded will leave," for just this reason and no other: Pācittiya.
+!src: This rule has no supplementary rule (anupaññatti); the original rule is the complete training rule.
+## {story} Word analysis
+|! Word | Meaning in the text
+| **Saṅghiko vihāro** | A dwelling given to, made over to the Saṅgha.
+| **Jānāti** | He knows “he is senior”, knows “he is ill”, knows “he has been given (the lodging) by the Saṅgha”.
+| **Anupakhajja** | Having entered.
+| **Seyyaṃ kappeyya** | If he spreads bedding, or has it spread, within the precinct of a bed or bench, or of (the monk) entering or leaving, a **dukkaṭa**; if he sits or lies down (there), a **pācittiya**.
+| **Etadeva paccayaṃ karitvā anaññaṃ** | There is no other reason for lying down after encroaching.
+## {story} Offences by perception and place
+|! Object | Perception and act | Offence
+| A Saṅgha dwelling | Perceiving it as the Saṅgha’s, in doubt, or perceiving it as personal, he lies down after encroaching (sits / lies down) | PC
+| Leaving aside the precinct of the bed or bench, or of the monk entering or leaving | He spreads bedding / has it spread | DK
+| Likewise, leaving aside the precinct | He sits / lies down | DK
+| In the precinct of the dwelling, in the attendance hall, in a pavilion, at the foot of a tree or in the open | He spreads bedding / has it spread | DK
+| In those places | He sits / lies down | DK
+| A personal dwelling | Perceiving it as the Saṅgha’s, or in doubt | DK
+| Another’s personal dwelling | Perceiving it as personal | DK
+| One’s own personal dwelling | — | N
+## {story} No offence
+# He enters because he is ill;
+# He enters because he is oppressed by cold or heat;
+# In emergencies;
+# For the insane; for the first offender.
+## {att} Points on words in the origin story
+|! Word | Samantapāsādikā explanation
+| **Palibundhenti** | They go there first, carry in their bowls and robes, and stand blocking (the lodgings).
+| **Therā bhikkhū vuṭṭhāpenti** | Taking them by seniority, saying “Friends, it falls to us”, they make them get up.
+| **Anupakhajja seyyaṃ kappenti** | Saying, “Venerable sir, only the place for your bed falls to you, not the whole dwelling; this place now falls to us”, they enter, set out beds and benches, sit, lie down, and even do their recitation.
+## {att} “Jānaṃ” — who cannot be made to get up?
+“Jānaṃ” means knowing, “**This one cannot be made to get up** (**anuṭṭhāpanīya**)”; that is why the analysis says “he knows he is senior” and so on.
+|! Person | Why he cannot be made to get up
+| **Vuḍḍha** (senior) | Because of his seniority
+| **Gilāna** (ill) | Because of his illness
+| **Saṅghena dinna** (given by the Saṅgha) | Considering the great service and special qualities of a storekeeper, of Dhamma speakers, Vinaya experts and the like, or of a teacher of a group, the Saṅgha authorises and gives a dwelling for permanent residence
+!src: Although the Saṅgha itself gives a suitable lodging to an ill monk too, the ill one is mentioned separately to show that “even an ill monk to whom the Saṅgha has not given a lodging by consultation should not be harassed, but treated with compassion”.
+## {att} The precinct and the number of pācittiyas
+|! Precinct | Extent
+| Of beds and benches in a large dwelling | One and a half cubits (**diyaḍḍha hattha**) all around
+| In a small dwelling | One and a half cubits from wherever is sufficient
+| Of one entering after washing his feet, and of one going out to urinate | A path one and a half cubits wide, from the foot-washing stone placed at the door, and from the place for urinating, up to the bed or bench
+- In the precinct of a monk standing in that precinct, or of a monk entering or leaving, one who, wishing to lie down after encroaching, spreads bedding or has it spread incurs a **dukkaṭa**.
+- By merely sitting, or merely lying down, a **pācittiya**. If he does both, **two pācittiyas**. If he gets up again and again and sits or lies down, **a pācittiya for each effort**.
+- When he spreads it leaving aside the precinct, and in the dukkaṭa sections beginning “in the precinct of the dwelling”, the **division of dukkaṭas** should be understood just as the division of pācittiyas was stated — for merely sitting, merely lying down, doing both, and by each effort. There is no use in living with such an incompatible person in one dwelling or one compound; so his living there is prevented everywhere.
+- **Aññassa puggalike** — here too, the personal property of a trusted person is like one’s own personal property; there is no offence there.
+- **Āpadāsu** — if one living outside faces a danger to life or the holy life, there is no offence for one who enters in such emergencies.
+## {kkv} The rule and the meaning of its words
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ ජානං පුබ්බුපගතං භික්ඛුං අනුපඛජ්ජ සෙය්‍යං කප්පෙය්‍ය ‘යස්ස සම්බාධො භවිස්සති, සො පක්කමිස්සතී’ති එතදෙව පච්චයං කරිත්වා අනඤ්ඤං, පාචිත්තියං.
+This is **the sixth rule of the Bhūtagāma chapter** (**chaṭṭhe**). The Kaṅkhāvitaraṇī explains the words thus:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Jānaṃ** | Knowing, “This one cannot be made to get up.” That is why the word analysis says, “he knows he is senior, he knows he is ill, he knows he was given it by the Saṅgha.” A senior cannot be made to get up because of his seniority, an ill monk because of his illness; and the Saṅgha, considering the great service and special qualities of a storekeeper, or of Dhamma speakers, Vinaya experts and teachers of groups, authorises and gives a dwelling for permanent residence; so one to whom the Saṅgha has given it also cannot be made to get up.
+| **Pubbupagataṃ** | Who arrived first.
+| **Anupakhajja** | Entering the precinct of the beds and benches, or of that monk entering or leaving.
+| **The precinct** | Of beds and benches in a large dwelling, one and a half cubits all around; in a small one, one and a half cubits from wherever is sufficient. For one entering, from the foot-washing stone up to the bed or bench; for one leaving, from the bed or bench up to the place for urinating.
+| **Seyyaṃ kappeyya** | (explained below)
+## {kkv} The full meaning
+%% Intention | Wishing to crowd him,
+%% Place | in that precinct,
+%% Spreading | for one who spreads, or has spread, even one of the ten kinds of bedding, a **dukkaṭa**;
+%% Sitting | for one who sits or lies down there, a **pācittiya**;
+%% Both | for one who does both, **two pācittiyas**;
+%% Repeatedly | for one who does it again and again, **pācittiyas by the number of efforts**.
+## {kkv} The laying down of the rule and the command
+%% Place | Laid down at Sāvatthī,
+%% Person | concerning the group-of-six monks,
+%% Matter | **on the matter of lying down after encroaching**, this rule
+%% Kind of rule | is a **common rule** (**sādhāraṇa-paññatti**) — shared with the nuns;
+%% Command | and it is **anāṇattika**.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| A Saṅgha dwelling | The triad — sitting / lying down in the precinct | PC
+| A personal dwelling | The triad | DK
+| Outside the stated precinct, in the attendance hall and so on, or in the precinct of the dwelling | Spreading, having spread, sitting, lying down | DK
+## {kkv} No offence
+# For one who spreads it in his own dwelling or that of a trusted person;
+# For one who enters because he is ill, or oppressed by cold or heat;
+# In emergencies;
+# For the insane and so on.
+## {kkv} Factors (= cattāri — four)
+# It is a Saṅgha dwelling;
+# Knowing that he cannot be made to get up;
+# Wishing to crowd him;
+# Sitting or lying down in the precinct.
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest are the same as in the **first pārājika rule**. But this one has **painful feeling** only.
+
+@pac17
+T: නික්කඩ්ඪන සික්ඛාපදය || The Rule on Evicting a Monk
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කිපී සංඝික විහාරයෙන් භික්ෂූන් නෙරපීම || Evicting monks from a Saṅgha dwelling out of anger
+K: AD sd=s an=s anu=0 ved=D
+Z: අලජ්ජී, උමතු, කලහකාරී, නිසි ලෙස නොපවත්නා අතැවැසි / සද්ධිවිහාරිකයන් හෝ ඔවුන්ගේ පිරිකර නෙරපීම; උමතු ආදීන් || Evicting a shameless one, an insane one, a troublemaker, or a misbehaving pupil or co-resident, or their requisites; the insane etc.
+#si
+## {story} කථා වස්තුව
+### නික්කඩ්ඪන වස්තුව
+@ සැවැත් නුවර · ජේතවනය අනාථපිණ්ඩිකාරාමය
+:::short
+සත්තරසවග්ගිය භික්ෂූහු වස් වසනු පිණිස ප්‍රත්‍යන්ත මහා විහාරයක් ප්‍රතිසංස්කරණය කළහ. එය දුටු ෂඩ්වර්ගීය භික්ෂූහු “ප්‍රතිසංස්කරණය නිම වූ පසු ඔවුන් නැගිටුවමු” යි ඉවසා සිටියහ. නිම වූ කල “ඇවැත්නි, නැගිටිව්; විහාරය අපට ලැබේ” යි කීහ. සත්තරසවග්ගියෝ “කලින් ම කිව යුතු නොවේ ද? විහාරය විශාල ය; ඔබ ද වසව්, අපි ද වසන්නෙමු” යි කීහ. එහෙත් ෂඩ්වර්ගීය භික්ෂූහු ==කිපී, නොසතුටු සිතින් ඔවුන් ගෙළින් අල්ලා ඇද දැමූහ==. ඔවුන් හඬන බව දැනගත් භික්ෂූහු එය භාග්‍යවතුන් වහන්සේට සැල කළහ. භාග්‍යවතුන් වහන්සේ ගරහා ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ සැවැත් නුවර අනාථපිණ්ඩිකයාගේ ආරාමය වූ ජේතවනයෙහි වැඩ වසන සේක. එකල සත්තරසවග්ගිය භික්ෂූහු “අපි මෙහි වස් වසන්නෙමු” යි එක්තරා **ප්‍රත්‍යන්ත මහා විහාරයක්** ප්‍රතිසංස්කරණය කරති. ෂඩ්වර්ගීය භික්ෂූහු ඔවුන් විහාරය ප්‍රතිසංස්කරණය කරනු දැක, “ඇවැත්නි, මේ සත්තරසවග්ගිය භික්ෂූහු විහාරය ප්‍රතිසංස්කරණය කරති; එව, ඔවුන් නැගිටුවමු” යි කීහ. ඇතැමෙක් “ඇවැත්නි, ඔවුන් ප්‍රතිසංස්කරණය කරන තුරු ඉවසව්; ප්‍රතිසංස්කරණය කළ පසු නැගිටුවමු” යි කීහ.
+ඉක්බිති ෂඩ්වර්ගීය භික්ෂූහු සත්තරසවග්ගිය භික්ෂූන්ට “ඇවැත්නි, නැගිටිව්; විහාරය අපට ලැබේ” යි කීහ. “ඇවැත්නි, කලින් ම කිව යුතු නොවේ ද? අපි වෙනත් එකක් ප්‍රතිසංස්කරණය කරන්නෙමු.” “ඇවැත්නි, මෙය සංඝික විහාරයක් නොවේ ද?” “එසේ ය ඇවැත්නි, සංඝික විහාරයකි.” “ඇවැත්නි, නැගිටිව්; විහාරය අපට ලැබේ.” “ඇවැත්නි, විහාරය විශාල ය; ඔබ ද වසව්, අපි ද වසන්නෙමු.” “ඇවැත්නි, නැගිටිව්; විහාරය අපට ලැබේ” යි ==කිපී, නොසතුටු සිතින් ගෙළින් අල්ලා ඇද දැමූහ==. ඇද දමනු ලබන්නෝ හැඬූහ. භික්ෂූහු “ඇවැත්නි, ඔබ කුමට හඬන්නහු ද?” යි ඇසූහ. “ඇවැත්නි, මේ ෂඩ්වර්ගීය භික්ෂූහු කිපී, නොසතුටු සිතින් අප සංඝික විහාරයෙන් ඇද දමති.”
+අල්පේච්ඡ භික්ෂූහු “ෂඩ්වර්ගීය භික්ෂූහු කෙසේ නම් කිපී, නොසතුටු සිතින් භික්ෂූන් සංඝික විහාරයෙන් ඇද දමන්නාහු ද?” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ; භාග්‍යවතුන් වහන්සේට සැල කළහ. භාග්‍යවතුන් වහන්සේ “මහණෙනි, ඔබ කිපී … සැබෑ ද?” යි විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂයෙනි, ඔබ කෙසේ නම් …? මෝඝපුරුෂයෙනි, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා ශික්ෂාපදය පැනවූ සේක:
+:::
+!pn: ශික්ෂාපදය
+> යො පන භික්ඛු භික්ඛුං කුපිතො අනත්තමනො සඞ්ඝිකා විහාරා නික්කඩ්ඪෙය්‍ය වා නික්කඩ්ඪාපෙය්‍ය වා, පාචිත්තියං.
+~ යම් භික්‍ෂුවක් වනාහි කෝපවූයේ නො සතුටු සිතැත්තේ භික්‍ෂුවක් සඟසතු විහාරයකින් නෙරපන්නේ නම් හෝ අනුන්ලවා නෙරපවන්නේ නම්, පචිති වේ.
+!src: මෙම ශික්ෂාපදයට අනුපඤ්ඤත්ති නැත; මුල් පැනවීම ම සම්පූර්ණ ශික්ෂාපදය වේ.
+## {story} පදභාජනීය — පද විභාගය
+|! පදය | පෙළෙහි අර්ථය
+| **භික්ඛුං** | අනෙක් භික්ෂුවක්.
+| **කුපිතො අනත්තමනො** | නොසතුටු වූ, (ක්‍රෝධයෙන්) පහර කෑ සිත් ඇති, හිත් තද වූ (**ඛිලජාත**).
+| **සඞ්ඝිකො විහාරො** | සංඝයාට දුන්, පරිත්‍යාග කළ විහාරය.
+| **නික්කඩ්ඪෙය්‍ය** | ගර්භයෙහි (කාමරයෙහි) අල්ලා ඉස්තෝප්පුවට (**පමුඛ**) ඇද දමයි නම් පාචිත්තිය; ඉස්තෝප්පුවෙහි අල්ලා පිටතට ඇද දමයි නම් පාචිත්තිය; ==එක් ප්‍රයෝගයකින් බොහෝ දොරටු ඉක්මවයි නම් (එක්) පාචිත්තියක්==.
+| **නික්කඩ්ඪාපෙය්‍ය** | අනෙකෙකුට අණ කරයි නම් පාචිත්තිය; එක් වරක් අණ ලත් තැනැත්තා බොහෝ දොරටු ඉක්මවයි නම් (එක්) පාචිත්තියක්.
+## {story} ආපත්ති — සංඥාව හා තැන අනුව
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| සංඝික විහාරය | සංඝික යැයි සලකා, සැක සහිතව, හෝ පුද්ගලික යැයි සලකා, කිපී නොසතුටු සිතින් (භික්ෂුව) නෙරපයි / නෙරපවයි | PC
+| (සංඝික විහාරයෙන්) ඔහුගේ පිරිකර | නෙරපයි / නෙරපවයි | DK
+| විහාරයේ උපචාරයෙන්, උපස්ථාන ශාලාවෙන්, මණ්ඩපයෙන්, ගස් මුලින් හෝ එළිමහනින් | (භික්ෂුව) නෙරපයි / නෙරපවයි | DK
+| එම තැන්වලින් ඔහුගේ පිරිකර | නෙරපයි / නෙරපවයි | DK
+| අනුපසම්පන්නයෙකු — විහාරයෙන් හෝ උපචාරය, උපස්ථාන ශාලාව, මණ්ඩපය, ගස් මුල, එළිමහන යන තැන්වලින් | නෙරපයි / නෙරපවයි | DK
+| අනුපසම්පන්නයාගේ පිරිකර | නෙරපයි / නෙරපවයි | DK
+| පුද්ගලික විහාරය | සංඝික යැයි සලකා, හෝ සැක සහිතව | DK
+| අනුන්ගේ පුද්ගලික විහාරය | පුද්ගලික යැයි සලකා | DK
+| තමාගේ පුද්ගලික විහාරය | — | N
+## {story} අනාපත්ති
+# අලජ්ජියෙකු හෝ ඔහුගේ පිරිකර නෙරපයි / නෙරපවයි නම්;
+# උමතුවෙකු හෝ ඔහුගේ පිරිකර නෙරපයි / නෙරපවයි නම්;
+# සංඝයා තුළ භණ්ඩන, කලහ, විවාද, නිසරු කථා (**භස්ස**) හා අධිකරණ ඇති කරන්නෙකු හෝ ඔහුගේ පිරිකර නෙරපයි / නෙරපවයි නම්;
+# නිසි ලෙස නොපවත්නා අතැවැසියෙකු හෝ සද්ධිවිහාරිකයෙකු හෝ ඔහුගේ පිරිකර නෙරපයි / නෙරපවයි නම්;
+# උමතු වූවහුට; ආදිකම්මිකයාට.
+## {att} දොරටු ගණන හා අණ කිරීම
+|! අවස්ථාව | ඇවැත
+| මහල් සතර පහ ඇති ප්‍රාසාද, හෝ කොටු සය හත ඇති චතුශ්ශාලා වැනි සෙනසුන්වල, අතින් හෝ ගෙළින් අල්ලා, අතරමැද නොනවත්වා **එක් ප්‍රයෝගයකින්** ඉක්මවයි | එක් පාචිත්තියක්
+| නවත්වා නවත්වා **නොයෙක් ප්‍රයෝගවලින්** ඉක්මවයි | දොරටු ගණනින් පාචිත්තිය
+| අතින් නොඅල්ලා “නික්මෙන්න” යි **වචනයෙන්** නෙරපයි | මේ ක්‍රමය ම ය
+| “මොහු නෙරපන්න” යි **අණ කිරීම පමණෙහි** | දුක්කට
+| එක් වරක් අණ ලත් තැනැත්තා බොහෝ දොරටු ඉක්මවයි | (අණ කළාට) එක් පාචිත්තියක්
+| “මෙපමණ දොරටු නෙරපන්න” හෝ “මහා දොරටුව දක්වා නෙරපන්න” යි **නියම කොට** අණ කරයි | දොරටු ගණනින් පාචිත්තිය
+## {att} පිරිකර හා අනාපත්ති පද
+- **තස්ස පරික්ඛාරං** — පාත්‍රය, සිවුර, පෙරහන, ධමකරකය, ඇඳ, පුටු, මෙට්ට, කොට්ට (**බිම්බොහන**) ආදී ඔහුට අයත් යමක් — අන්තිමේදී සායම් පොත්තක් පවා — නෙරපයි නම් හෝ නෙරපවයි නම් **වස්තු ගණනින් දුක්කට** ය. තදින් බැඳ තැබූ ඒවායෙහි වනාහි එක් ඇවතක් පමණක් යැයි මහාපච්චරියෙහි කියන ලදී.
+- **අඤ්ඤස්ස පුග්ගලිකෙ** — මෙහි ද විශ්වාසිකයෙකුගේ පුද්ගලික දෙය තමාගේ පුද්ගලික දෙයට සමාන ය. මෙහි මෙන් සෑම තැනක ම එසේ ය.
+|! නෙරපිය හැක්කා | නෙරපිය හැකි සීමාව
+| භණ්ඩන, කලහ කරන්නා | **මුළු සංඝාරාමයෙන් ම** නෙරපිය හැක — ඔහු පක්ෂයක් ලැබ සංඝයා ද බිඳින්නට පුළුවන් හෙයිනි
+| අලජ්ජී ආදීන් | **තමා වසන තැනින් පමණක්** නෙරපිය යුතුය; මුළු සංඝාරාමයෙන් නෙරපීම නොවටී
+- **උම්මත්තකස්ස** — තමා උමතු වූවහුට අනාපත්ති.
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> යො පන භික්ඛු භික්ඛුං කුපිතො අනත්තමනො සඞ්ඝිකා විහාරා නික්කඩ්ඪෙය්‍ය වා නික්කඩ්ඪාපෙය්‍ය වා, පාචිත්තියං.
+මෙය **භූතගාම වග්ගයේ සත්වන ශික්ෂාපදයයි** (**සත්තමෙ**). කඞ්ඛාවිතරණිය පද මෙසේ විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **කුපිතො** | ක්‍රෝධ වූ.
+| **අනත්තමනො** | නොසතුටු සිත් ඇති.
+| **නික්කඩ්ඪෙය්‍ය වා නික්කඩ්ඪාපෙය්‍ය වා පාචිත්තියං** | (විවරණය පහත)
+## {kkv} සම්පූර්ණ අර්ථය
+|! අවස්ථාව | ඇවැත
+| බොහෝ මහල් ඇති ප්‍රාසාද, හෝ බොහෝ කොටු ඇති චතුශ්ශාලා වැනි සෙනසුන්වල, අල්ලා අතරමැද නොනවත්වා එක් ප්‍රයෝගයකින් ම ඉක්මවන්නාට | එක් පාචිත්තියක්
+| නවත්වා නවත්වා නොයෙක් ප්‍රයෝගවලින් ඉක්මවන්නාට | දොරටු ගණනින් පාචිත්තිය
+| අතින් නොඅල්ලා “නික්මෙන්න” යි වචනයෙන් නෙරපන්නාට | මේ ක්‍රමය ම ය
+| නෙරපවන්නාට “නෙරපන්න” යි අණ කිරීම පමණෙහි | දුක්කට
+| එක් වරක් අණ කළ කල ඔහු බොහෝ දොරටු නික්මෙතත් | අනෙකාට (අණ කළාට) එක් පාචිත්තියක් ම ය
+| “මෙපමණ දොරටු නෙරපන්න” හෝ “මහා දොරටුව දක්වා නෙරපන්න” යි නියම කොට අණ කළ කල | දොරටු ගණනින් පාචිත්තිය
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ප්‍රඥප්තිය | පනවන ලද මෙය **සාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට ද පොදු ය;
+%% ආණත්තිය | **සාණත්තික**යි — අනුන් ලවා කරවීමෙන් ද ඇවැත් වේ.
+!src: මෙහි කඞ්ඛාවිතරණී පාඨයෙහි ස්ථානය හා පුද්ගලයා සඳහන් නොවේ (“පඤ්ඤත්තං” යන්න පමණි). පෙළ අනුව සැවැත් නුවර, ෂඩ්වර්ගීය භික්ෂූන් අරබයා පනවන ලදී.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| සංඝික විහාරය | තිකය | PC
+| පුද්ගලික විහාරය | තිකය | DK
+| ඔහුගේ පිරිකර | නෙරපීම | DK
+| උපස්ථාන ශාලා ආදියෙන් හෝ විහාර උපචාරයෙන් | ඔහු හෝ ඔහුගේ පිරිකර නෙරපීම | DK
+| අනුපසම්පන්නයා හෝ අනුපසම්පන්නයාගේ පිරිකර — විහාරයෙන් හෝ විහාර උපචාරයෙන් | නෙරපීම, නෙරපවීම | DK
+!src: (පිරිකරෙහි දුක්කට) බැඳී නොමැති පිරිකරෙහි පිරිකර ගණනින් දත යුතුය.
+## {kkv} අනාපත්ති
+# තමාගේ හෝ විශ්වාසිකයෙකුගේ විහාරයකින් නෙරපීමෙහි;
+# මුළු සංඝාරාමයෙන් වුව ද භණ්ඩනකාරකයෙකු හෝ ඔහුගේ පිරිකර නෙරපීමෙහි, නෙරපවීමෙහි;
+# තමා වසන තැනින් අලජ්ජියෙකු, උමතුවෙකු, නිසි ලෙස නොපවත්නා අතැවැසි සද්ධිවිහාරිකයන්, හෝ ඔවුන්ගේ පිරිකර නෙරපීමෙහි;
+# තමා උමතු වූවහු ආදීන්ට.
+## {kkv} අංග (= තීණි — තුනකි)
+# සංඝික විහාරයක් වීම;
+# උපසම්පන්නයා භණ්ඩනකාරක බව ආදියෙන් මිදී සිටීම;
+# කෝපයෙන් නෙරපීම හෝ නෙරපවීම.
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **අදින්නාදාන සික්ඛාපද**යට සමාන ය. මෙය වනාහි **දුක්ඛ වේදනා** වේ.
+#en
+## {story} The Origin Story
+### The Matter of Evicting
+@ Sāvatthī · Jetavana, Anāthapiṇḍika’s monastery
+:::short
+The group-of-seventeen monks were repairing a large borderland dwelling to spend the rains there. Seeing this, the group-of-six decided to wait until the repairs were finished and then make them get up. When it was done, they said, “Get up, friends, the dwelling falls to us.” The seventeen replied, “Shouldn’t you have said so beforehand? The dwelling is large; you stay, and we will stay too.” But ==angry and displeased, the group-of-six seized them by the neck and dragged them out==. The monks, finding them weeping, told the Blessed One, who rebuked the group-of-six and laid down the rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Sāvatthī, in Jetavana, Anāthapiṇḍika’s monastery. At that time the group-of-seventeen monks were repairing a certain **large dwelling in the borderlands**, thinking, “We will spend the rains here.” The group-of-six monks saw them repairing it and said, “Friends, these group-of-seventeen monks are repairing a dwelling. Come, let’s make them get up!” Some said, “Wait, friends, while they repair it; when it is repaired, we will make them get up.”
+Then the group-of-six said to the group-of-seventeen: “Get up, friends, the dwelling falls to us.” “Friends, shouldn’t you have said so beforehand? We would have repaired another.” “Friends, isn’t it a Saṅgha dwelling?” “Yes, friends, it is a Saṅgha dwelling.” “Get up, friends, the dwelling falls to us.” “Friends, the dwelling is large. You stay, and we will stay too.” “Get up, friends, the dwelling falls to us” — and, ==angry and displeased, they seized them by the neck and dragged them out==. Being dragged out, they wept. The monks asked, “Why are you weeping, friends?” “Friends, these group-of-six monks, angry and displeased, are dragging us out of a Saṅgha dwelling.”
+The monks of few wishes complained, criticised and spread it about: “How can the group-of-six monks, angry and displeased, drag monks out of a Saṅgha dwelling?” — and told the Blessed One. The Blessed One asked, “Is it true, monks, that you, angry … ?” “It is true, Blessed One.” He rebuked them: “Foolish men, how can you …? Foolish men, this does not inspire faith in those without faith …” — and he laid down the training rule:
+:::
+!pn: The training rule
+> යො පන භික්ඛු භික්ඛුං කුපිතො අනත්තමනො සඞ්ඝිකා විහාරා නික්කඩ්ඪෙය්‍ය වා නික්කඩ්ඪාපෙය්‍ය වා, පාචිත්තියං.
+~ Whatever monk, angry and displeased, should expel or have expelled a monk from a Saṅgha-owned dwelling: Pācittiya.
+!src: This rule has no supplementary rule (anupaññatti); the original rule is the complete training rule.
+## {story} Word analysis
+|! Word | Meaning in the text
+| **Bhikkhuṃ** | Another monk.
+| **Kupito anattamano** | Dissatisfied, with a mind struck (by anger), hardened (**khilajāta**).
+| **Saṅghiko vihāro** | A dwelling given to, made over to the Saṅgha.
+| **Nikkaḍḍheyya** | Seizing him in the room he drags him out to the porch (**pamukha**) — pācittiya; seizing him on the porch he drags him outside — pācittiya; ==with a single effort he makes him pass many doors — (one) pācittiya==.
+| **Nikkaḍḍhāpeyya** | He commands another — pācittiya; commanded once, (the other) makes him pass many doors — (one) pācittiya.
+## {story} Offences by perception and place
+|! Object | Perception and act | Offence
+| A Saṅgha dwelling | Perceiving it as the Saṅgha’s, in doubt, or perceiving it as personal, angry and displeased, he evicts (the monk) / has him evicted | PC
+| (From a Saṅgha dwelling) his requisites | He removes them / has them removed | DK
+| From the precinct of the dwelling, the attendance hall, a pavilion, the foot of a tree or the open | He evicts (the monk) / has him evicted | DK
+| His requisites from those places | He removes them / has them removed | DK
+| An unordained person — from the dwelling or from the precinct, attendance hall, pavilion, tree foot or the open | He evicts him / has him evicted | DK
+| An unordained person’s requisites | He removes them / has them removed | DK
+| A personal dwelling | Perceiving it as the Saṅgha’s, or in doubt | DK
+| Another’s personal dwelling | Perceiving it as personal | DK
+| One’s own personal dwelling | — | N
+## {story} No offence
+# He evicts, or has evicted, a shameless one or his requisites;
+# He evicts, or has evicted, an insane one or his requisites;
+# He evicts, or has evicted, one who makes disputes, quarrels, arguments, idle talk (**bhassa**) and legal issues in the Saṅgha, or his requisites;
+# He evicts, or has evicted, a pupil or co-resident who does not behave properly, or his requisites;
+# For the insane; for the first offender.
+## {att} The number of doors and commanding
+|! Situation | Offence
+| In lodgings such as mansions of four or five storeys or four-sided halls with six or seven rooms, seizing him by the hands or the neck and making him pass through **with a single effort**, without stopping in between | One pācittiya
+| Making him pass through **with several efforts**, stopping again and again | Pācittiyas by the number of doors
+| Not touching him with the hand but evicting him **by speech**, saying “Get out” | The same method applies
+| **Merely commanding**, “Evict him” | Dukkaṭa
+| Commanded once, the other makes him pass many doors | (For the commander) one pācittiya
+| Commanding **with a specification**, “Evict him through so many doors” or “Evict him as far as the main gate” | Pācittiyas by the number of doors
+## {att} Requisites and the no-offence terms
+- **Tassa parikkhāraṃ** — for one who removes, or has removed, anything of his — bowl, robe, water strainer, water pot, bed, bench, mattress, pillow (**bimbohana**) and so on, even a dye-bark chip — **dukkaṭas by the number of articles**. But for things tightly tied together, there is only one offence, says the Mahāpaccarī.
+- **Aññassa puggalike** — here too, the personal property of a trusted person is like one’s own personal property; and as here, so everywhere.
+|! One who may be evicted | Extent to which he may be evicted
+| One who makes disputes and quarrels | **From the whole Saṅgha monastery** — for, gaining a faction, he might even split the Saṅgha
+| The shameless and the like | **Only from one’s own living place**; not allowed to evict them from the whole Saṅgha monastery
+- **Ummattakassa** — no offence for one who is himself insane.
+## {kkv} The rule and the meaning of its words
+> යො පන භික්ඛු භික්ඛුං කුපිතො අනත්තමනො සඞ්ඝිකා විහාරා නික්කඩ්ඪෙය්‍ය වා නික්කඩ්ඪාපෙය්‍ය වා, පාචිත්තියං.
+This is **the seventh rule of the Bhūtagāma chapter** (**sattame**). The Kaṅkhāvitaraṇī explains the words thus:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Kupito** | Angry.
+| **Anattamano** | With a mind not content.
+| **Nikkaḍḍheyya vā nikkaḍḍhāpeyya vā pācittiyaṃ** | (explained below)
+## {kkv} The full meaning
+|! Situation | Offence
+| In lodgings such as many-storeyed mansions or four-sided halls with many rooms, for one who seizes him and makes him pass with a single effort, without stopping in between | One pācittiya
+| For one who makes him pass with several efforts, stopping again and again | Pācittiyas by the number of doors
+| For one who evicts by speech, not touching him with the hand, saying “Get out” | The same method applies
+| For one who has him evicted, merely on commanding “Evict him” | Dukkaṭa
+| When commanded once, even if he goes out through many doors | For the other (the commander) just one pācittiya
+| When the command specifies “Evict him through so many doors” or “as far as the main gate” | Pācittiyas by the number of doors
+## {kkv} The laying down of the rule and the command
+%% Kind of rule | This rule, as laid down, is a **common rule** (**sādhāraṇa-paññatti**) — shared with the nuns;
+%% Command | and it is **sāṇattika** — the offence also arises by getting another to do it.
+!src: Here the Kaṅkhāvitaraṇī text does not mention the place and the person (it says only “paññattaṃ”). According to the Pāli, it was laid down at Sāvatthī concerning the group-of-six monks.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| A Saṅgha dwelling | The triad | PC
+| A personal dwelling | The triad | DK
+| His requisites | Removing them | DK
+| From the attendance hall and so on, or from the precinct of the dwelling | Removing him or his requisites | DK
+| An unordained person or an unordained person’s requisites — from the dwelling or from its precinct | Evicting, having evicted | DK
+!src: (For requisites) the dukkaṭas should be understood by the number of requisites, when they are not tied together.
+## {kkv} No offence
+# In evicting from one’s own dwelling or that of a trusted person;
+# In evicting, or having evicted, a troublemaker or his requisites even from the whole Saṅgha monastery;
+# In evicting from one’s own living place a shameless one, an insane one, pupils and co-residents who do not behave properly, or their requisites;
+# For one who is himself insane and so on.
+## {kkv} Factors (= tīṇi — three)
+# It is a Saṅgha dwelling;
+# The ordained monk is free from being a troublemaker and so on;
+# Evicting him, or having him evicted, out of anger.
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest are the same as in the rule on taking what is not given (**Adinnādāna-sikkhāpada**). But this one has **painful feeling**.
+
+@pac18
+T: වෙහාසකුටි සික්ඛාපදය || The Rule on the Raised Hut
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: එක්තරා භික්ෂුවක් || A certain monk
+V: උඩුමහල් කුටියක ආහච්චපාද ඇඳක වහා හිඳීම || Abruptly sitting on a bed with detachable legs in an upper-storey hut
+K: EL sd=s an=a anu=0
+Z: වෙහාසකුටියක් නොවූ කල, හිස ගැටෙන කල, යට පරිභෝග නැති කල, ලෑලි ඇතිරූ කල, ඇණ ගැසූ කල, එහි සිට ගැනීම / එල්ලීම; උමතු ආදීන් || Not a raised hut, head-touching height, no use below, plank floor, legs pegged, standing on it to take or hang something; the insane etc.
+#si
+## {story} කථා වස්තුව
+### වෙහාසකුටි වස්තුව
+@ සැවැත් නුවර · ජේතවනය අනාථපිණ්ඩිකාරාමය
+:::short
+සංඝික විහාරයක උඩුමහල් කුටියක උඩ සිටි භික්ෂුවක් ==ආහච්චපාදක ඇඳක වහා හිඳගත්තේ== ය. ඇඳ පාදය ගිලිහී යට සිටි භික්ෂුවගේ හිස මත වැටුණෙන් ඔහු හඬ නැගුවේ ය. භාග්‍යවතුන් වහන්සේ ගරහා ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ සැවැත් නුවර අනාථපිණ්ඩිකයාගේ ආරාමය වූ ජේතවනයෙහි වැඩ වසන සේක. එකල භික්ෂූන් දෙනමක් සංඝික විහාරයක **උඩුමහල් කුටියක** (**උපරිවෙහාසකුටි**) වසති; එක් අයෙක් යට වසයි, එක් අයෙක් උඩ. උඩ සිටි භික්ෂුව ==ආහච්චපාදක (ගලවිය හැකි පා ඇති) ඇඳක වහා (බර දමා) හිඳගත්තේ ය==. ඇඳ පාදය ගිලිහී යට සිටි භික්ෂුවගේ හිස මත වැටිණ. ඒ භික්ෂුව විරූප හඬක් නැගුවේ ය.
+භික්ෂූහු දිව අවුත් “ඇවැත්නි, ඔබ කුමට හඬ නැගුවෙහි ද?” යි ඇසූහ. ඒ භික්ෂුව භික්ෂූන්ට ඒ කරුණ කීවේ ය. අල්පේච්ඡ භික්ෂූහු “භික්ෂුවක් කෙසේ නම් සංඝික විහාරයක උඩුමහල් කුටියක ආහච්චපාදක ඇඳක වහා හිඳගන්නේ ද?” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ; භාග්‍යවතුන් වහන්සේට සැල කළහ. භාග්‍යවතුන් වහන්සේ “භික්ෂුව, ඔබ … සැබෑ ද?” යි විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂය, ඔබ කෙසේ නම් …? මෝඝපුරුෂය, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා ශික්ෂාපදය පැනවූ සේක:
+:::
+!pn: ශික්ෂාපදය
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ උපරිවෙහාසකුටියා ආහච්චපාදකං මඤ්චං වා පීඨං වා අභිනිසීදෙය්‍ය වා අභිනිපජ්ජෙය්‍ය වා, පාචිත්තියං.
+~ යම් භික්‍ෂුවක් වනාහි සඟසතු විහාරයක උඩුමහලේ මැදුම් පුරුෂයෙකුගේ හිස නො ගැටෙන තැන ඇති කුටියක අටනියෙහි සවි කළ පා ඇති ඇඳක හෝ පුටුවක වහා හිඳගන්නේ නම් හෝ නිදන්නේ නම්, පචිති වේ.
+!src: මෙම ශික්ෂාපදයට අනුපඤ්ඤත්ති නැත; මුල් පැනවීම ම සම්පූර්ණ ශික්ෂාපදය වේ.
+## {story} පදභාජනීය — පද විභාගය
+|! පදය | පෙළෙහි අර්ථය
+| **සඞ්ඝිකො විහාරො** | සංඝයාට දුන්, පරිත්‍යාග කළ විහාරය.
+| **වෙහාසකුටි** | ==මධ්‍යම පුරුෂයෙකුගේ හිස නොගැටෙන== (**අසීසඝට්ටා**) කුටිය.
+| **ආහච්චපාදක මඤ්චය** | අඟ (අටනිය) විද පිහිටවූ ඇඳ.
+| **ආහච්චපාදක පීඨය** | අඟ විද පිහිටවූ පුටුව.
+| **අභිනිසීදෙය්‍ය** | එහි හිඳියි නම් පාචිත්තිය.
+| **අභිනිපජ්ජෙය්‍ය** | එහි සැතපෙයි නම් පාචිත්තිය.
+## {story} ආපත්ති — සංඥාව අනුව
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| සංඝික විහාරය | සංඝික යැයි සලකා, සැක සහිතව, හෝ පුද්ගලික යැයි සලකා, උඩුමහල් කුටියක ආහච්චපාදක ඇඳක හෝ පුටුවක හිඳියි / සැතපෙයි | PC
+| පුද්ගලික විහාරය | සංඝික යැයි සලකා | DK
+| පුද්ගලික විහාරය | සැක සහිතව | DK
+| අනුන්ගේ පුද්ගලික විහාරය | පුද්ගලික යැයි සලකා | DK
+| තමාගේ පුද්ගලික විහාරය | — | N
+## {story} අනාපත්ති
+# වෙහාසකුටියක් නොවූ කුටියෙහි (**අවෙහාසකුටියා**);
+# හිස ගැටෙන (උසැති) කුටියෙහි (**සීසඝට්ටාය**);
+# යට කොටස පරිභෝග නොකරන්නක් නම් (**හෙට්ඨා අපරිභොගං**);
+# (උඩු තලය) ලෑලිවලින් ඝනව ඇතිරූවක් නම් (**පදරසඤ්චිතං**);
+# (ඇඳ පාදවලට) ඇණ ගසා ඇත්නම් (**පටාණි දින්නා**);
+# එහි සිට යමක් ගනියි නම් හෝ එල්ලයි නම්;
+# උමතු වූවහුට; ආදිකම්මිකයාට.
+## {att} කථා වස්තුවේ පදවලට අදාළ විශේෂ කරුණු
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **උපරිවෙහාසකුටියා** | උඩින් තලය නොවැසූ (**අච්ඡන්නතලා**) දෙමහල් කුටියක හෝ තෙමහල් ආදී කුටියක.
+| **මඤ්චං සහසා අභිනිසීදි** | ඇඳ වහා යටපත් කොට, (බර) ඔබා හිඳගත්තේ ය. නැතහොත් මෙය සප්තමී අර්ථයෙහි කර්ම වචනයකි — “ඇඳෙහි හිඳගත්තේ ය” යන අර්ථයයි. “**අභි**” යනු පදයේ ශෝභනය පිණිස වූ උපසර්ගයක් පමණි.
+| **නිප්පතිත්වා** | ගිලිහී වැටී, හෝ (අටනියෙන්) ඉවත් වී. එහි උඩින් ඇණයක් ද ගසා නොතිබිණ; එබැවින් ඉවත් විය.
+| **විස්සරමකාසි** | විරූප වූ, ආතුර හඬක් නැගුවේ ය.
+## {att} “මධ්‍යම පුරුෂයෙකුගේ හිස නොගැටෙන” — අර්ථය
+- ප්‍රමාණයෙන් මධ්‍යම පුරුෂයෙකුගේ හිස සියල්ලට ම යටින් ඇති තුලා (බාල්ක) වල නොගැටේ ද, මෙයින් **මෙහි අදහස් කළ** වෙහාසකුටිය දක්වන ලදී; වෙහාසකුටියේ (සාමාන්‍ය) ලක්ෂණය නොවේ.
+- උඩින් තලය නොවැසූ ඕනෑම දෙමහල් හෝ තෙමහල් ආදී කුටියක් “**වෙහාසකුටි**” යැයි කියනු ලැබේ; මෙහි අදහස් කළේ හිස නොගැටෙන එක පමණි.
+- හිඳීම ආදියෙහි ප්‍රයෝග වශයෙන් ඇවැත් භේදය — හිඳීම පමණෙහි, සැතපීම පමණෙහි, දෙක ම කිරීමෙහි, නැවත නැවත කිරීමෙහි ප්‍රයෝග ගණනින් — පෙර කී ක්‍රමයට ම දත යුතුය.
+## {att} අනාපත්ති පදවල විවරණය
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **අවෙහාසකුටියා** | බිම කළ පන්සල් ආදියෙහි අනාපත්ති — එහි අනුන්ට පීඩාවක් කළ නොහැකි හෙයිනි.
+| **සීසඝට්ටාය** | හිස ගැටෙන උස ඇති කුටියෙහි ද අනාපත්ති — එහි යට මහලේ නොනැමී හැසිරිය නොහැකි හෙයින්, හැසිරෙන තැනක් නොවන බැවින්, අනුන්ට පීඩාවක් නොවේ.
+| **හෙට්ඨා අපරිභොගං** | යම් කුටියක යට දැව ද්‍රව්‍ය ආදිය තබා ඇති හෙයින් පරිභෝග නොකෙරේ ද, එහි ද අනාපත්ති.
+| **පදරසඤ්චිතං** | යම් කුටියක උඩු තලය දැව ලෑලිවලින් ඝනව අතුරා ඇත්තේ ද, හුණු ආදියෙන් පිරියම් කළේ ද, එහි ද අනාපත්ති.
+| **පටාණි දින්නා** | ඇඳ පුටුවල පා අගට ඇණ ගසා ඇත — හිඳින විට ද (පා) ගිලිහී නොවැටේ; එවැනි ඇඳ පුටුවක හිඳින්නාට ද අනාපත්ති.
+| **තස්මිං ඨිතො** | ආහච්චපාදක ඇඳක හෝ පුටුවක සිට, උඩ ඇත් දළ (**නාගදන්තක**) ආදියෙහි එල්ලා ඇති සිවුරක් හෝ යමක් ගනියි නම්, හෝ වෙනත් යමක් එල්ලයි නම්, ඔහුට ද අනාපත්ති.
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ උපරිවෙහාසකුටියා ආහච්චපාදකං මඤ්චං වා පීඨං වා අභිනිසීදෙය්‍ය වා අභිනිපජ්ජෙය්‍ය වා, පාචිත්තියං.
+මෙය **භූතගාම වග්ගයේ අටවන ශික්ෂාපදයයි** (**අට්ඨමෙ**). කඞ්ඛාවිතරණිය පද මෙසේ විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **උපරිවෙහාසකුටියා** | උඩින් තලය නොවැසූ දෙමහල් කුටියක හෝ තෙමහල් කුටියක. පදභාජනයෙහි වනාහි මෙහි අදහස් කළ කුටිය දැක්වීමට “මධ්‍යම පුරුෂයෙකුගේ හිස නොගැටෙන” යි කියන ලදී.
+| **ආහච්චපාදකං** | අඟ විද ඇතුළු කළ පා ඇති.
+| **අභිනිසීදෙය්‍ය** | යටපත් කොට, ඔබා හිඳින්නේ ද; නැතහොත් මෙය සප්තමී අර්ථයෙහි කර්ම වචනයකි — ඇඳෙහි හෝ පුටුවෙහි හිඳින්නේ හෝ සැතපෙන්නේ ද යන අර්ථයයි.
+| **අභි** | පදයේ ශෝභනය පිණිස වූ උපසර්ගයක් පමණි.
+## {kkv} සම්පූර්ණ අර්ථය
+%% තැන | යම් භික්ෂුවක් කී ලක්ෂණ ඇති වෙහාසකුටියක,
+%% උස | සියල්ලට ම අවම සීමාවෙන් — ප්‍රමාණයෙන් මධ්‍යම පුරුෂයෙකුගේ හිස සියල්ලට ම යටින් ඇති තුලාවල නොගැටෙන තරම් උසැති —
+%% ඇඳ | තුලා මත තැබූ ආහච්චපාදක ඇඳක හෝ පුටුවක
+%% ක්‍රියාව | හිඳියි ද, සැතපෙයි ද,
+%% ඵලය | ඔහුට (හිඳීම, සැතපීම, දෙක ම, නැවත නැවත කිරීම අනුව) **ප්‍රයෝග ගණනින් පාචිත්තිය** වේ.
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ස්ථානය | සැවැත් නුවර,
+%% පුද්ගලයා | එක්තරා භික්ෂුවක් අරබයා,
+%% වස්තුව | **උඩුමහල් කුටියක ආහච්චපාදක ඇඳ පුටුවක වහා හිඳීමේ, සැතපීමේ වස්තුවෙහි** පනවන ලද මෙය
+%% ප්‍රඥප්තිය | **සාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට ද පොදු ය;
+%% ආණත්තිය | **අනාණත්තික**යි.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| සංඝික විහාරය | තිකය | PC
+| පුද්ගලික විහාරය | තිකය | DK
+## {kkv} අනාපත්ති
+# තමාගේ හෝ විශ්වාසිකයෙකුගේ විහාරයෙහි;
+# වෙහාසකුටියක් නොවූ කුටියෙහි; හිස ගැටෙන කුටියෙහි;
+# යට දැව ද්‍රව්‍ය ආදිය තැබූ හෙයින් පරිභෝග නොකෙරෙන, හෝ උඩු තලය ලෑලිවලින් ඝනව අතුරා හුණු ආදියෙන් පිරියම් කළ තැනක ආහච්චපාදක ඇඳක හිඳින්නාට;
+# ඒ වෙහාසයෙහි ඇති ආහච්චපාදකයෙහි සිට යමක් ගන්නාට හෝ එල්ලන්නාට;
+# පා අග ඉහළින් ඇණ ඇතුළු කළ (**පටාණි දින්නා**) ඇඳක හිඳින්නාට;
+# උමතු වූවහු ආදීන්ට.
+## {kkv} අංග (= චත්තාරි — සතරකි)
+# සංඝික විහාරයක් වීම;
+# හිස නොගැටෙන වෙහාසකුටියක් වීම;
+# යට කොටස පරිභෝග කෙරෙන එකක් වීම;
+# ඇණ නොගැසූ ආහච්චපාදක ඇඳක හෝ පුටුවක හිඳීම හෝ සැතපීම.
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **එළකලෝම සික්ඛාපද**යට සමාන ය.
+#en
+## {story} The Origin Story
+### The Matter of the Raised Hut
+@ Sāvatthī · Jetavana, Anāthapiṇḍika’s monastery
+:::short
+A monk on the upper floor of a raised hut in a Saṅgha dwelling ==sat down abruptly on a bed with detachable legs==. A leg came out and fell on the head of the monk below, who cried out. The Blessed One rebuked him and laid down the rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Sāvatthī, in Jetavana, Anāthapiṇḍika’s monastery. At that time two monks were living in a **raised hut** (**uparivehāsakuṭi**) in a Saṅgha dwelling, one below and one above. The monk above ==sat down abruptly on a bed with detachable legs (āhaccapādaka)==. The leg of the bed came out and fell on the head of the monk below. That monk cried out in pain.
+The monks ran up and asked, “Friend, why did you cry out?” That monk told the monks the matter. The monks of few wishes complained, criticised and spread it about: “How can a monk sit down abruptly on a bed with detachable legs in a raised hut of a Saṅgha dwelling?” — and told the Blessed One. The Blessed One asked, “Is it true, monk, that you …?” “It is true, Blessed One.” He rebuked him: “Foolish man, how can you …? Foolish man, this does not inspire faith in those without faith …” — and he laid down the training rule:
+:::
+!pn: The training rule
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ උපරිවෙහාසකුටියා ආහච්චපාදකං මඤ්චං වා පීඨං වා අභිනිසීදෙය්‍ය වා අභිනිපජ්ජෙය්‍ය වා, පාචිත්තියං.
+~ Whatever monk, in a Saṅgha-owned dwelling, should abruptly sit or lie down on a bed or bench with detachable legs in an upper-storey room: Pācittiya.
+!src: This rule has no supplementary rule (anupaññatti); the original rule is the complete training rule.
+## {story} Word analysis
+|! Word | Meaning in the text
+| **Saṅghiko vihāro** | A dwelling given to, made over to the Saṅgha.
+| **Vehāsakuṭi** | A hut ==where the head of a man of average height does not touch== (**asīsaghaṭṭā**).
+| **An āhaccapādaka bed** | One that stands with its legs set by piercing the frame.
+| **An āhaccapādaka bench** | One that stands with its legs set by piercing the frame.
+| **Abhinisīdeyya** | He sits on it — pācittiya.
+| **Abhinipajjeyya** | He lies down on it — pācittiya.
+## {story} Offences by perception
+|! Object | Perception and act | Offence
+| A Saṅgha dwelling | Perceiving it as the Saṅgha’s, in doubt, or perceiving it as personal, he sits or lies down on a bed or bench with detachable legs in a raised hut | PC
+| A personal dwelling | Perceiving it as the Saṅgha’s | DK
+| A personal dwelling | While in doubt | DK
+| Another’s personal dwelling | Perceiving it as personal | DK
+| One’s own personal dwelling | — | N
+## {story} No offence
+# In a hut that is not raised (**avehāsakuṭiyā**);
+# In one where the head touches (**sīsaghaṭṭāya**);
+# When the space below is not in use (**heṭṭhā aparibhogaṃ**);
+# When (the upper floor) is closely laid with planks (**padarasañcitaṃ**);
+# When pegs have been fitted (to the legs) (**paṭāṇi dinnā**);
+# Standing on it, he takes something or hangs something up;
+# For the insane; for the first offender.
+## {att} Points on words in the origin story
+|! Word | Samantapāsādikā explanation
+| **Uparivehāsakuṭiyā** | In a two-storeyed hut whose upper floor is not covered over (**acchannatalā**), or in a three-storeyed hut and so on.
+| **Mañcaṃ sahasā abhinisīdi** | He sat down abruptly, overpowering and pressing down on the bed. Or this is an accusative used in the sense of location — the meaning is “he sat on the bed”. “**Abhi**” is merely a prefix for the beauty of the word.
+| **Nippatitvā** | Having fallen out, or come out. No pin had been fitted above it; so it came out.
+| **Vissaramakāsi** | He made an ugly, distressed cry.
+## {att} “Where the head of a man of average height does not touch” — the meaning
+- One where the head of a man of average size does not touch the lowest beams of all: by this, **the raised hut intended here** is shown, not the (general) definition of a raised hut.
+- Any two-storeyed or three-storeyed hut whose upper floor is not covered over is called a “**vehāsakuṭi**”; but here only one where the head does not touch is intended.
+- In sitting and so on, the division of offences by effort — merely sitting, merely lying down, doing both, and doing it again and again by the number of efforts — should be understood in the way stated before.
+## {att} Explanation of the no-offence terms
+|! Term | Samantapāsādikā explanation
+| **Avehāsakuṭiyā** | No offence in leaf huts and the like built on the ground — for one cannot harm another there.
+| **Sīsaghaṭṭāya** | No offence in one where the head touches either — since one cannot walk about upright on the lower floor there, it is not a place for moving about, so there will be no harm to others.
+| **Heṭṭhā aparibhogaṃ** | No offence either in one whose lower part is not in use because timber and the like are stored there.
+| **Padarasañcitaṃ** | No offence either in one whose upper floor is closely laid with wooden planks, or finished with plaster and the like.
+| **Paṭāṇi dinnā** | Pins have been fitted into the tips of the legs of the bed or bench, so that they do not fall out even when one sits; no offence for one who sits on such a bed or bench.
+| **Tasmiṃ ṭhito** | Standing on a bed or bench with detachable legs, he takes a robe or something hung on a peg (**nāgadantaka**) above, or hangs up something else — no offence for him either.
+## {kkv} The rule and the meaning of its words
+> යො පන භික්ඛු සඞ්ඝිකෙ විහාරෙ උපරිවෙහාසකුටියා ආහච්චපාදකං මඤ්චං වා පීඨං වා අභිනිසීදෙය්‍ය වා අභිනිපජ්ජෙය්‍ය වා, පාචිත්තියං.
+This is **the eighth rule of the Bhūtagāma chapter** (**aṭṭhame**). The Kaṅkhāvitaraṇī explains the words thus:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Uparivehāsakuṭiyā** | In a two-storeyed or three-storeyed hut whose upper floor is not covered over. In the word analysis, to show the hut intended here, “where the head of a man of average height does not touch” is said.
+| **Āhaccapādakaṃ** | With legs inserted by piercing the frame.
+| **Abhinisīdeyya** | Should sit overpowering, pressing down; or this is an accusative in the sense of location — the meaning is: should sit or lie down on a bed or bench.
+| **Abhi** | Merely a prefix for the beauty of the word.
+## {kkv} The full meaning
+%% Place | A monk who, in a raised hut of the described kind,
+%% Height | high enough by the lowest limit — such that the head of a man of average size does not touch the lowest beams of all —
+%% Bed | on a bed or bench with detachable legs placed on the beams,
+%% Act | sits or lies down,
+%% Result | incurs **pācittiyas by the number of efforts** (sitting, lying down, both, and repeatedly).
+## {kkv} The laying down of the rule and the command
+%% Place | Laid down at Sāvatthī,
+%% Person | concerning a certain monk,
+%% Matter | **on the matter of abruptly sitting and lying down on a bed or bench with detachable legs in a raised hut**, this rule
+%% Kind of rule | is a **common rule** (**sādhāraṇa-paññatti**) — shared with the nuns;
+%% Command | and it is **anāṇattika**.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| A Saṅgha dwelling | The triad | PC
+| A personal dwelling | The triad | DK
+## {kkv} No offence
+# In one’s own dwelling or that of a trusted person;
+# In a hut that is not raised; in one where the head touches;
+# For one who sits on a bed with detachable legs where the space below is not in use because timber and the like are stored there, or where the upper floor is closely laid with planks and finished with plaster and the like;
+# For one who, standing on a bed with detachable legs in that raised place, takes or hangs something;
+# For one who sits on one fitted with pegs (**paṭāṇi dinnā**), pins inserted above the tips of the legs;
+# For the insane and so on.
+## {kkv} Factors (= cattāri — four)
+# It is a Saṅgha dwelling;
+# It is a raised hut where the head does not touch;
+# The space below is in use;
+# Sitting or lying down on a bed or bench with detachable legs not fitted with pegs.
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest are the same as in the **Eḷakaloma rule**.
+
+@pac19
+T: මහල්ලකවිහාර සික්ඛාපදය || The Rule on a Large Dwelling
+R: - || -
+N: කොසඹෑ නුවර, ඝෝසිතාරාමය || Kosambī, Ghositārāma
+P: ආයුෂ්මත් ඡන්න || Ven. Channa
+V: නිම කළ විහාරය නැවත නැවත සෙවිලි කරවා, බදාම කරවා කඩා වැටීම || Having a finished dwelling roofed and plastered again and again until it collapsed
+K: SC sd=s an=a anu=0
+Z: සුදු පැහැ ආදිය කිරීම, වට දෙක තුනක් හෝ ඊට අඩුවෙන්, ලෙන් ගුහා තණ කුටි, අනුන් සඳහා, තමාගේ ධනයෙන්, වාසාගාරය හැර; උමතු ආදීන් || Whitewashing and the like, up to or less than two or three layers, caves and grass huts, for another, with one’s own wealth, except the living quarters; the insane etc.
+#si
+## {story} කථා වස්තුව
+### මහල්ලකවිහාර වස්තුව
+@ කොසඹෑ නුවර · ඝෝසිතාරාමය
+:::short
+ඡන්නයන්ට මහාමාත්‍යයෙක් කරවූ විහාරය නිම වූ පසුත් ඔව්හු ==නැවත නැවත සෙවිලි කරවා, බදාම කරවූහ==; අධික බරින් විහාරය කඩා වැටිණ. තණ හා දර ඇදීමේදී බ්‍රාහ්මණයෙකුගේ යව කෙතක් ද නැසිණ. භාග්‍යවතුන් වහන්සේ ගරහා ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ කොසඹෑ නුවර ඝෝසිතාරාමයෙහි වැඩ වසන සේක. එකල ආයුෂ්මත් ඡන්නයන්ගේ උපස්ථායක වූ මහාමාත්‍යයෙක් ආයුෂ්මත් ඡන්නයන්ට විහාරයක් කරවයි. ආයුෂ්මත් ඡන්නයෝ ==කර නිම කළ විහාරය නැවත නැවත සෙවිලි කරවති, නැවත නැවත බදාම කරවති==. අධික බර වූ විහාරය කඩා වැටිණ.
+ඉක්බිති ආයුෂ්මත් ඡන්නයෝ තණ ද දර ද ඇදගෙන යමින් එක්තරා **බ්‍රාහ්මණයෙකුගේ යව කෙතක්** නැසූහ. ඒ බ්‍රාහ්මණයා “භවත්හු කෙසේ නම් අපගේ යව කෙත නසන්නාහු ද?” යි අවමන් කළේ ය, දොස් කීවේ ය, නින්දා කළේ ය. භික්ෂූහු ඒ බ්‍රාහ්මණයාගේ නින්දාව ඇසූහ.
+අල්පේච්ඡ භික්ෂූහු “ආයුෂ්මත් ඡන්නයෝ කෙසේ නම් කර නිම කළ විහාරය නැවත නැවත සෙවිලි කරවන්නාහු ද, නැවත නැවත බදාම කරවන්නාහු ද? අධික බර වූ විහාරය කඩා වැටිණ” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ; භාග්‍යවතුන් වහන්සේට සැල කළහ. භාග්‍යවතුන් වහන්සේ “ඡන්නය, ඔබ … සැබෑ ද?” යි විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂය, ඔබ කෙසේ නම් …? මෝඝපුරුෂය, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා ශික්ෂාපදය පැනවූ සේක:
+:::
+!pn: ශික්ෂාපදය
+> මහල්ලකං පන භික්ඛුනා විහාරං කාරයමානෙන යාවද්වාරකොසා අග්ගළට්ඨපනාය ආලොකසන්ධිපරිකම්මාය ද්වත්තිච්ඡදනස්ස පරියායං අප්පහරිතෙ ඨිතෙන අධිට්ඨාතබ්බං. තතො චෙ උත්තරිං අප්පහරිතෙපි ඨිතො අධිට්ඨහෙය්‍ය, පාචිත්තියං.
+~ මහත් විහාරයක් කරවන භික්‍ෂුවක් විසින් දොරගුළු තරවනු පිණිස ද වාකවුළු පිරියම් පිණිස ද, දොර උළුවහු අවට රියන් දෙකහමාරක් දක්වා බිත්තියට නැවත නැවත මැටි, බදාම ආදිය ගැසීම කළ යුතු ය. එහි සෙවිළි කරන වහළයට ද (ධාන්‍ය වගා භෝග ආදී) වැවිලි නැති තැනක සිට දෙතුන් වරක් විධාන දිය හැකි ය. ඉදින් දෙතුන් වරකට වැඩියෙන් වැවිලි නැති තැනක ද හිඳ විධාන කරන්නේ නම්, පචිති වේ.
+!src: මෙම ශික්ෂාපදයට අනුපඤ්ඤත්ති නැත; මුල් පැනවීම ම සම්පූර්ණ ශික්ෂාපදය වේ.
+## {story} පදභාජනීය — පද විභාගය
+|! පදය | පෙළෙහි අර්ථය
+| **මහල්ලකො විහාරො** | හිමිකරුවෙකු ඇති (**සස්සාමික**) විහාරය යැයි කියනු ලැබේ.
+| **විහාරො** | ඇතුළතින් බදාම කළ, පිටතින් බදාම කළ, හෝ ඇතුළත පිටත දෙකින් ම බදාම කළ විහාරය.
+| **කාරයමානෙන** | තමා කරන්නේ හෝ අනුන් ලවා කරවන්නේ.
+| **යාව ද්වාරකොසා** | දොර බාහුවේ (**පිට්ඨසඞ්ඝාට**) හාත්පස අත්පසක් (**හත්ථපාස**) දක්වා.
+| **අග්ගළට්ඨපනාය** | දොර (පියන) ස්ථිර කිරීම පිණිස.
+| **ආලොකසන්ධිපරිකම්මාය** | කවුළු පිරියම් කිරීම පිණිස — සුදු පැහැය, කළු පැහැය, ගෙරු (රතු පස්) පිරියම, මල් කැටයම, ලියවැල් කැටයම, මකර දත් කැටයම, පස්පට (**පඤ්චපටික**) කැටයම.
+| **හරිතං** | පූර්වාන්න (**පුබ්බණ්ණ**) හා අපරාන්න (**අපරණ්ණ**). හරිතයෙහි සිට විධාන කරයි නම් **දුක්කට** ය.
+| **ද්වත්තිච්ඡදනස්ස පරියායං** | මාර්ග වශයෙන් (**මග්ගෙන**) සෙවිලි කරන්නා මාර්ග දෙකක් විධාන කොට, තුන්වන මාර්ගයට අණ කොට පිටත්ව යා යුතුය. වට වශයෙන් (**පරියායෙන**) සෙවිලි කරන්නා වට දෙකක් විධාන කොට, තුන්වන වටයට අණ කොට පිටත්ව යා යුතුය.
+| **තතො චෙ උත්තරි** | උළුවලින් සෙවිලි කරන්නාට **උළුවක් පාසා**, ගල්වලින් සෙවිලි කරන්නාට **ගලක් පාසා**, බදාමයෙන් සෙවිලි කරන්නාට **පිඩක් පාසා**, තණවලින් සෙවිලි කරන්නාට **තණ මිටක් පාසා**, කොළවලින් සෙවිලි කරන්නාට **කොළයක් පාසා** පාචිත්තිය වේ.
+## {story} ආපත්ති — සංඥාව අනුව
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| වට දෙක තුනට වැඩි (**අතිරේක**) | වැඩි යැයි සලකා විධාන කරයි | PC
+| වට දෙක තුනට වැඩි | සැක සහිතව විධාන කරයි | PC
+| වට දෙක තුනට වැඩි | අඩු යැයි සලකා විධාන කරයි | PC
+| වට දෙක තුනට අඩු (**ඌනක**) | වැඩි යැයි සලකා | DK
+| වට දෙක තුනට අඩු | සැක සහිතව | DK
+| වට දෙක තුනට අඩු | අඩු යැයි සලකා | N
+## {story} අනාපත්ති
+# වට දෙක තුනකදී (**ද්වත්තිපරියායෙ**);
+# වට දෙක තුනට අඩුවෙන් (**ඌනකද්වත්තිපරියායෙ**);
+# ලෙනෙහි, ගුහාවෙහි, තණ කුටියෙහි;
+# අනුන් සඳහා (**අඤ්ඤස්සත්ථාය**);
+# තමාගේ ධනයෙන් (**අත්තනො ධනෙන**);
+# වාසාගාරය හැර සෑම තැනක ම;
+# උමතු වූවහුට; ආදිකම්මිකයාට.
+## {att} “යාව ද්වාරකොසා” — දොර බාහුව අවට ප්‍රදේශය
+|! මූලාශ්‍රය | ද්වාරකෝෂයේ ප්‍රමාණය
+| සමන්තපාසාදිකාව | දොර බාහුව (**පිට්ඨසඞ්ඝාට**) හාත්පස දොර පියනේ පළල තරම් අවකාශය
+| මහාපච්චරිය | දොර බාහුවේ සිට රියන් එකහමාරක්
+| කුරුන්දිය | දොරේ දෙපසෙහි දොර පියන තරම්
+| මහා අට්ඨකථාව (**යහපත් ලෙස කියන ලදී**) | “දොර පියන රියන් එකහමාරක් ද, රියන් දෙකක් ද, රියන් දෙකහමාරක් ද වේ” — භාග්‍යවතුන් වහන්සේ “පිට්ඨසඞ්ඝාටයේ හාත්පස අත්පසක්” යි උපරිම සීමාව දැක්වූයේ මෙය අරබයා ය
+- **අග්ගළට්ඨපනාය** — දොර පියන සහිත දොර රාමුව ස්ථිර කිරීම පිණිස; “ද්වාරට්ඨපනාය” යන පදභාජනය ද මේ අර්ථය ම සලකා කියන ලදී.
+- **අදහස** — සැහැල්ලුවෙන් කැරකෙන දොර පියන විවෘත කරන කල බිත්තියේ ද, වසන කල දොර රාමුවේ ද ගැටේ. ඒ ගැටීමෙන් බිත්තිය සෙලවේ; එයින් මැටි සෙලවී ලිහිල් වේ හෝ වැටේ. එබැවින් “යාව ද්වාරකොසා අග්ගළට්ඨපනාය” යි වදාළ සේක.
+- “මෙය කළ යුතුය” යි මාතිකාවෙහි හෝ පදභාජනයෙහි නොකීව ද, කථා වස්තුවෙහි “නැවත නැවත සෙවිලි කරවී, නැවත නැවත බදාම කරවී” යි කී අධිකාරය අනුව, **දොර බාහුව දක්වා දොර ස්ථිර කිරීම පිණිස නැවත නැවත බදාම කළ යුතුය, හෝ කරවිය යුතුය** යන අර්ථය දත යුතුය.
+## {att} උපචාරය — දොර හා කවුළු
+- මැද දොරක් ඇති, උඩ කොටසෙහි උස් බිත්තියක් ඇති විහාරයට දිශා තුනෙහි හාත්පස අත්පසක් උපචාරය වේ; කුඩා විහාරයකට දිශා දෙකෙහි උපචාරය වේ. එහි ද විවෘත කරන දොර පියන යම් බිත්තියක ගැටේ ද, එහි උපචාරය අසම්පූර්ණ වුව ද වේ. උපරිම සීමාවෙන් දිශා තුනෙහි හාත්පස අත්පසක් දොර ස්ථිර කිරීම පිණිස බදාමයට අනුදන්නා ලදී. දොරේ යට කොටසෙහි ද බදාම කළ හැකි තැනක් ඇත්නම් එය ද බදාම කිරීම වටී.
+- **ආලොකසන්ධි** — කවුළු පියන් ය; ඒවා ද විවෘත කරන කල වියතක් පමණ හෝ ඊට වැඩි බිත්ති ප්‍රදේශයක ගැටේ. මෙහි උපචාරය සියලු දිශාවල ලැබේ; එබැවින් සියලු දිශාවල කවුළු පියනේ පළල තරම් අවකාශය කවුළු පිරියම් පිණිස බදාම කළ යුතුය, හෝ කරවිය යුතුය.
+- **සෙතවණ්ණ** (සුදු පැහැය) ආදිය මාතිකා පදයක විභාගයක් නොවේ. මේවායින් විහාරයට බරක් නොවන හෙයින් පදභාජනයෙහි ම අනුදන්නා ලදී; එබැවින් මේ සියල්ල කැමැති පරිදි කළ හැක.
+## {att} “හරිත” හා විධාන කළ යුතු තැන
+- **හරිත** — මෙහි සත් වැදෑරුම් ධාන්‍ය වූ **පූර්වාන්නය** ද, මුං, මෑ, තල, කොල්ලු, ලබු, කොමඩු ආදී **අපරාන්නය** ද අදහස් කෙරේ.
+- යම් කෙතක වපුළ බීජය තවම නොහටගෙන ඇත ද, වැසි වැටුණු කල හටගනී නම්, එය ද හරිත ගණයට ම යයි. එබැවින් එවැනි කෙතක සිට ද විධාන නොකළ යුතුය; හරිත නැති තැනක ම සිට විධාන කළ යුතුය.
+%% සීමාව | වහලේ මුදුන් ලීයේ (**පිට්ඨිවංස**) හෝ කූටාගාර කර්ණිකාවේ හෝ උඩ ස්තූපිකාවේ පැත්තක හුන් කෙනෙක්
+%% බැලීම | සෙවිලි මුඛ වාටියේ කෙළවරින් බලන්නේ, යම් බිම් කොටසක සිටි (භික්ෂුව) දකී ද,
+%% ආපසු බැලීම | යම් බිම් කොටසක සිටි (භික්ෂුව) උඩ හුන්නා දකී ද,
+%% විනිශ්චය | ඒ තැන සිට විධාන කළ යුතුය; එයට ඇතුළත, හරිත නැති තැනක වුව ද, සිට විධාන කිරීම නොලැබේ —
+%% හේතුව | විහාරය වැටෙන කල, මෙය එය වැටෙන අවකාශය වන හෙයිනි.
+## {att} මාර්ගයෙන් හා වටයෙන් සෙවිලි කිරීම
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **මග්ගෙන ඡාදෙන්තස්ස** | වට නොකොට සෘජුව ම සෙවිලි කිරීම — එය උළු, ගල්, බදාමවලින් ලැබේ.
+| **ද්වෙ මග්ගෙ අධිට්ඨහිත්වා** | මාර්ග දෙක නරක ලෙස සෙවිලි වී ඇත්නම් ඉවත් කොට වුව ද නැවත නැවත සෙවිලි කිරීමට ලැබේ; එබැවින් කැමැති පරිදි මාර්ග දෙකක් විධාන කොට, තුන්වන මාර්ගයට “දැන් මෙසේ සෙවිලි කරන්න” යි අණ කොට පිටත්ව යා යුතුය.
+| **පරියායෙන** | වට වශයෙන් — එවැනි සෙවිල්ල තණ කොළවලින් ලැබේ. මෙහි ද කැමැති පරිදි වට දෙකක් විධාන කොට, තුන්වන වටයට අණ කොට පිටත්ව යා යුතුය. නොයයි නම් නිශ්ශබ්දව සිටිය යුතුය.
+| **ඡදනූපරි** | මේ සියලු සෙවිල්ල සෙවිල්ල මත (කරන) සෙවිල්ල යැයි දත යුතුය — උඩින් උඩට සෙවිලි කළ විහාරය බොහෝ කල් වැසි නොතෙමේ යැයි සලකා එසේ සෙවිලි කරති.
+| **තතො චෙ උත්තරි** | මාර්ග තුනට හෝ වට තුනට උඩින් සතරවන මාර්ගයෙහි හෝ වටයෙහි.
+| **කරළෙ කරළෙ** | තණ මිටක් තණ මිටක් පාසා.
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> මහල්ලකං පන භික්ඛුනා විහාරං කාරයමානෙන යාව ද්වාරකොසා අග්ගළට්ඨපනාය ආලොකසන්ධිපරිකම්මාය ද්වත්තිච්ඡදනස්ස පරියායං අප්පහරිතෙ ඨිතෙන අධිට්ඨාතබ්බං, තතො චෙ උත්තරි අප්පහරිතෙපි ඨිතො අධිට්ඨහෙය්‍ය, පාචිත්තියං.
+මෙය **භූතගාම වග්ගයේ නවවන ශික්ෂාපදයයි** (**නවමෙ**). කඞ්ඛාවිතරණිය පද මෙසේ විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **මහල්ලකං** | හිමිකරුවෙකු ඇති (**සස්සාමික**).
+| **විහාරං** | ඇතුළතින් හා පිටතින් බදාම කළ.
+| **යාව ද්වාරකොසා** | ද්වාරකෝෂය නම් උපරිම සීමාවෙන් දොර බාහුවේ අවට **රියන් දෙකහමාරක** ප්‍රදේශයයි.
+| **අග්ගළට්ඨපනාය** | දොර පියන සහිත දොර රාමුව ස්ථිර කිරීම පිණිස. සැහැල්ලුවෙන් කැරකෙන දොර පියන විවෘත කරන කල බිත්තියේ ද, වසන කල දොර රාමුවේ ද ගැටේ; ඒ ගැටීමෙන් බිත්තිය සෙලවේ, එයින් මැටි සෙලවී ලිහිල් වේ හෝ වැටේ. “මෙය කළ යුතුය” යි මාතිකාවෙහි හෝ පදභාජනයෙහි නොකීව ද, කථා වස්තුවේ අධිකාරය අනුව දොර බාහුව දක්වා දොර ස්ථිර කිරීම පිණිස නැවත නැවත බදාම කළ යුතුය, හෝ කරවිය යුතුය යන අර්ථය දත යුතුය.
+| **ආලොකසන්ධිපරිකම්මාය** | ආලෝක සන්ධි නම් කවුළු පියන් ය; ඒවා විවෘත කරන කල වියතක් පමණ හෝ ඊට වැඩි බිත්ති ප්‍රදේශයක ගැටේ; උපචාරය සියලු දිශාවල ලැබේ. එබැවින් සියලු දිශාවල කවුළු පියනේ පළල තරම් අවකාශය කවුළු පිරියම් පිණිස බදාම කළ යුතුය, හෝ කරවිය යුතුය.
+| **ද්වත්තිච්ඡදනස්ස පරියායං** | සෙවිල්ලෙහි වට දෙක තුනක් — “පරියාය” නම් වටයයි; වට දෙකක් හෝ වට තුනක් විධාන කළ යුතුය යන අර්ථයයි.
+| **අප්පහරිතෙ ඨිතෙන** | හරිත නැති තැනක සිට. **හරිත** — සත් වැදෑරුම් ධාන්‍ය ආදී පූර්වාන්නය ද, මුං, මෑ, තල, කොල්ලු, ලබු, කොමඩු ආදී අපරාන්නය ද අදහස් කෙරේ. යම් කෙතක වපුළ දෙය තවම නොහටගෙන, වැසි වැටුණු කල හටගනී නම්, එය ද හරිත ගණයට ම යයි; එහි සිට විධාන කරන්නා **දුක්කටයට** පැමිණේ.
+## {kkv} සම්පූර්ණ අර්ථය
+%% සීමාව | හරිත නැති තැනක සිට විධාන කරන්නාට ද මේ සීමාව වේ: මුදුන් ලීයේ හෝ කූටාගාර ස්තූපිකාවේ පැත්තක හුන් පුරුෂයෙක් සෙවිලි මුඛ වාටියේ කෙළවරින් බලන්නේ යම් බිම් කොටසක සිටි භික්ෂුව දකී ද, යම් තැනක සිටි (භික්ෂුව) උඩ හුන්නා එසේ ම බලා දකී ද, ඒ තැන සිටිය යුතුය; එයට ඇතුළත හරිත නැති තැනක වුව ද සිටීමට නොලැබේ.
+%% ඉක්මවීම | “තතො චෙ උත්තරි” යනු — මාර්ගයෙන් සෙවිලි කරන කල මාර්ග තුනට ද, වටයෙන් සෙවිලි කරන කල වට තුනට ද උඩින්,
+%% ගණන | උළු, ගල්, බදාමයෙන් සෙවිලි කරන කල උළු, ගල්, බදාම පිඩු ගණනින් ද, තණ කොළවලින් සෙවිලි කරන කල කොළ ගණනින් හා තණ මිට ගණනින් ද
+%% ඵලය | **පාචිත්තිය** වේ.
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ස්ථානය | කොසඹෑ නුවර,
+%% පුද්ගලයා | ඡන්න ස්ථවිරයන් අරබයා,
+%% වස්තුව | **නැවත නැවත සෙවිලි කරවීමේ හා බදාම කරවීමේ වස්තුවෙහි** පනවන ලද මෙය
+%% ප්‍රඥප්තිය | **සාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට ද පොදු ය;
+%% ආණත්තිය | **අනාණත්තික**යි.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| වට දෙක තුනට වැඩි | තිකය (වැඩි යැයි, සැක සහිතව, අඩු යැයි සලකා) විධාන කරයි | PC
+| වට දෙක තුනට අඩු | වැඩි යැයි සලකන්නාට හෝ සැක සහිත වූවහුට | DK
+| හරිත ඇති තැන | එහි සිට විධාන කරයි | DK
+## {kkv} අනාපත්ති
+# සුදු පැහැය ආදිය කිරීමෙහි;
+# වට දෙක තුනකදී හෝ වට දෙක තුනට අඩුවෙන්;
+# ලෙන්, ගුහා, තණ කුටි ආදියෙහි;
+# අනුන් සඳහා, හෝ තමාගේ ධනයෙන් කරවන්නාට;
+# වාසාගාරය හැර ඉතිරි දෑ විධාන කරන්නාට;
+# උමතු වූවහු ආදීන්ට.
+## {kkv} අංග (= තීණි — තුනකි)
+# මහල්ලක විහාරයක් වීම;
+# තමාගේ වාසාගාරය වීම;
+# (සීමාවට) වැඩියෙන් විධාන කිරීම.
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **සඤ්චරිත්ත සික්ඛාපද**යෙහි කී ක්‍රමය ම ය.
+#en
+## {story} The Origin Story
+### The Matter of the Large Dwelling
+@ Kosambī · Ghositārāma
+:::short
+After a minister finished a dwelling for Ven. Channa, he ==had it roofed and plastered again and again== until, overloaded, it collapsed; gathering grass and wood, he also damaged a brahmin’s barley field. The Blessed One rebuked him and laid down the rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Kosambī, in the Ghositārāma. At that time a high minister, a supporter of Ven. Channa, was having a dwelling built for Ven. Channa. Ven. Channa ==had the finished dwelling roofed again and again, and plastered again and again==. Overloaded, the dwelling collapsed.
+Then Ven. Channa, gathering grass and wood, damaged a certain **brahmin’s barley field**. That brahmin complained, criticised and spread it about: “How can the venerable ones damage our barley field?” The monks heard the brahmin complaining.
+The monks of few wishes complained, criticised and spread it about: “How can Ven. Channa have a finished dwelling roofed again and again and plastered again and again? Overloaded, the dwelling has collapsed!” — and told the Blessed One. The Blessed One asked, “Is it true, Channa, that you …?” “It is true, Blessed One.” He rebuked him: “Foolish man, how can you …? Foolish man, this does not inspire faith in those without faith …” — and he laid down the training rule:
+:::
+!pn: The training rule
+> මහල්ලකං පන භික්ඛුනා විහාරං කාරයමානෙන යාවද්වාරකොසා අග්ගළට්ඨපනාය ආලොකසන්ධිපරිකම්මාය ද්වත්තිච්ඡදනස්ස පරියායං අප්පහරිතෙ ඨිතෙන අධිට්ඨාතබ්බං. තතො චෙ උත්තරිං අප්පහරිතෙපි ඨිතො අධිට්ඨහෙය්‍ය, පාචිත්තියං.
+~ When a monk is having a large dwelling built, he may, standing where there are no crops, give instructions two or three times about the covering of the roof, as far as the door-frame, the fittings for the bolt, and the window openings. If he gives instructions beyond that, even standing where there are no crops: Pācittiya.
+!src: This rule has no supplementary rule (anupaññatti); the original rule is the complete training rule.
+## {story} Word analysis
+|! Word | Meaning in the text
+| **Mahallako vihāro** | A dwelling that has an owner (**sassāmika**) is meant.
+| **Vihāro** | Plastered inside, plastered outside, or plastered inside and outside.
+| **Kārayamānena** | Building it himself or having it built.
+| **Yāva dvārakosā** | Within arm’s reach (**hatthapāsa**) all around the door-post (**piṭṭhasaṅghāṭa**).
+| **Aggaḷaṭṭhapanāya** | For fixing the door.
+| **Ālokasandhiparikammāya** | For finishing the windows — white colour, black colour, red-ochre work, garland work, creeper work, makara-tooth work, five-strip (**pañcapaṭika**) work.
+| **Haritaṃ** | The first crops (**pubbaṇṇa**) and the later crops (**aparaṇṇa**). If he directs while standing among crops, a **dukkaṭa**.
+| **Dvatticchadanassa pariyāyaṃ** | One roofing in courses (**maggena**) should direct two courses, give instructions for the third, and leave. One roofing in layers (**pariyāyena**) should direct two layers, give instructions for the third, and leave.
+| **Tato ce uttari** | For one roofing with bricks, a pācittiya **for each brick**; with stones, **for each stone**; with plaster, **for each lump**; with grass, **for each handful of grass**; with leaves, **for each leaf**.
+## {story} Offences by perception
+|! Object | Perception and act | Offence
+| More than two or three layers (**atireka**) | Perceiving it as more, he directs | PC
+| More than two or three layers | Directing while in doubt | PC
+| More than two or three layers | Perceiving it as less, he directs | PC
+| Less than two or three layers (**ūnaka**) | Perceiving it as more | DK
+| Less than two or three layers | While in doubt | DK
+| Less than two or three layers | Perceiving it as less | N
+## {story} No offence
+# With two or three layers (**dvattipariyāye**);
+# With less than two or three layers (**ūnakadvattipariyāye**);
+# In a cave, a grotto, a grass hut;
+# For another (**aññassatthāya**);
+# With one’s own wealth (**attano dhanena**);
+# Everywhere except the living quarters;
+# For the insane; for the first offender.
+## {att} “Yāva dvārakosā” — the area around the door-post
+|! Source | Extent of the dvārakosa
+| Samantapāsādikā | An area the width of the door panel all around the door-post (**piṭṭhasaṅghāṭa**)
+| Mahāpaccarī | One and a half cubits from the door-post
+| Kurundī | The size of the door panel on both sides of the door
+| Mahā-aṭṭhakathā (**well stated**) | “A door panel may be one and a half, two, or two and a half cubits” — it is with reference to this that the Blessed One gave the maximum, “within arm’s reach all around the door-post”
+- **Aggaḷaṭṭhapanāya** — for fixing the door-frame together with its panel; the word analysis “for fixing the door” was spoken with this same meaning in mind.
+- **The idea** — a lightly swinging door panel strikes the wall when opened and the frame when closed. By that striking the wall shakes; then the clay moves, and having moved it becomes loose or falls. Therefore the Blessed One said, “yāva dvārakosā aggaḷaṭṭhapanāya”.
+- Although “this is to be done” is said neither in the mātikā nor in the word analysis, by the context in the origin story — “he had it roofed again and again, plastered again and again” — the meaning should be seen as: **up to the door-post, for fixing the door, it may be plastered, or have plaster applied, again and again**.
+## {att} The surrounding area — doors and windows
+- For a dwelling with a door in the middle and a high wall above, the surrounding area is arm’s reach all around in three directions; for a small dwelling, in two directions. Even there, whatever wall the opened panel strikes may have an incomplete surrounding area. By the maximum limit, plastering is allowed for arm’s reach all around in three directions to fix the door. If there is also room for plaster below the door, it is allowed to plaster that too.
+- **Ālokasandhi** — the window panels; these too, when opened, strike a span or more of wall. Here the surrounding area is obtained in all directions; so in all directions an area the width of the window panel may be plastered, or have plaster applied, for finishing the windows.
+- **Setavaṇṇa** (white colour) and so on are not the analysis of a mātikā word. Since these put no load on the dwelling, they were allowed in the word analysis itself; so all of this may be done as one likes.
+## {att} “Harita” and where to stand when directing
+- **Harita** — here the first crops of the seven kinds of grain, and the later crops such as mung beans, black gram, sesame, horse gram, gourds and pumpkins, are meant.
+- In a field where the seed sown has not yet come up, but will come up when the rain falls, that too counts as crops. So one should not direct while standing in such a field either; one should direct only while standing where there are no crops.
+%% Limit | A man seated at the side of the ridge-pole (**piṭṭhivaṃsa**), the pinnacle of a peaked roof, or the finial above,
+%% Looking | looking from the edge of the eaves, sees (the monk) standing on some piece of ground,
+%% Looking back | and (the monk) standing on that ground sees the one seated above —
+%% Ruling | he should direct from that place; inside it, even where there are no crops, he may not stand and direct —
+%% Reason | for when the dwelling falls, this is the space where it falls.
+## {att} Roofing in courses and in layers
+|! Word | Samantapāsādikā explanation
+| **Maggena chādentassa** | Roofing straight on, without going round — this is done with bricks, stones and plaster.
+| **Dve magge adhiṭṭhahitvā** | If the two courses are badly roofed, one may remove them and roof again and again; so he should direct two courses as he wishes, instruct for the third, “now roof it like this”, and leave.
+| **Pariyāyena** | In layers — such roofing is done with grass and leaves. Here too he should direct two layers as he wishes, instruct for the third, and leave. If he does not leave, he should stand silent.
+| **Chadanūpari** | All this roofing should be understood as roofing on top of roofing — they roof like this thinking that a dwelling roofed layer upon layer will not leak for a long time.
+| **Tato ce uttari** | In a fourth course or layer, above the three courses or layers.
+| **Karaḷe karaḷe** | For each handful of grass.
+## {kkv} The rule and the meaning of its words
+> මහල්ලකං පන භික්ඛුනා විහාරං කාරයමානෙන යාව ද්වාරකොසා අග්ගළට්ඨපනාය ආලොකසන්ධිපරිකම්මාය ද්වත්තිච්ඡදනස්ස පරියායං අප්පහරිතෙ ඨිතෙන අධිට්ඨාතබ්බං, තතො චෙ උත්තරි අප්පහරිතෙපි ඨිතො අධිට්ඨහෙය්‍ය, පාචිත්තියං.
+This is **the ninth rule of the Bhūtagāma chapter** (**navame**). The Kaṅkhāvitaraṇī explains the words thus:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Mahallakaṃ** | Having an owner (**sassāmika**).
+| **Vihāraṃ** | Plastered inside and outside.
+| **Yāva dvārakosā** | The dvārakosa is, by the maximum limit, an area of **two and a half cubits** around the door-post.
+| **Aggaḷaṭṭhapanāya** | For fixing the door-frame with its panel. A lightly swinging door panel strikes the wall when opened and the frame when closed; by that striking the wall shakes, then the clay moves and becomes loose or falls. Although “this is to be done” is said neither in the mātikā nor in the word analysis, by the context of the origin story the meaning should be seen as: up to the door-post, for fixing the door, it may be plastered, or have plaster applied, again and again.
+| **Ālokasandhiparikammāya** | Ālokasandhi are the window panels; when opened they strike a span or more of wall; the surrounding area is obtained in all directions. So in all directions an area the width of the window panel may be plastered, or have plaster applied, for finishing the windows.
+| **Dvatticchadanassa pariyāyaṃ** | Two or three layers of roofing — “pariyāya” means a layer; the meaning is that two or three layers may be directed.
+| **Appaharite ṭhitena** | Standing where there are no crops. **Harita** — the first crops of the seven kinds of grain and so on, and the later crops such as mung beans, black gram, sesame, horse gram, gourds and pumpkins, are meant. What has been sown in a field and has not yet come up, but will come up when rain falls, also counts as crops; one who directs standing there incurs a **dukkaṭa**.
+## {kkv} The full meaning
+%% Limit | For one directing while standing where there are no crops there is also this limit: he should stand where a man seated at the side of the ridge-pole or the finial of a peaked roof, looking from the edge of the eaves, sees the monk standing on the ground, and where the monk, looking up likewise, sees the one seated above; inside that, even where there are no crops, he may not stand.
+%% Going beyond | “Tato ce uttari” — above three courses when roofing in courses, or above three layers when roofing in layers,
+%% Counting | by the number of bricks, stones and lumps of plaster when roofing with bricks, stones and plaster, and by the number of leaves and handfuls of grass when roofing with grass and leaves,
+%% Result | there is a **pācittiya**.
+## {kkv} The laying down of the rule and the command
+%% Place | Laid down at Kosambī,
+%% Person | concerning the Elder Channa,
+%% Matter | **on the matter of having it roofed and plastered again and again**, this rule
+%% Kind of rule | is a **common rule** (**sādhāraṇa-paññatti**) — shared with the nuns;
+%% Command | and it is **anāṇattika**.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| More than two or three layers | The triad (perceiving it as more, in doubt, perceiving it as less), he directs | PC
+| Less than two or three layers | For one who perceives it as more, or is in doubt | DK
+| A place with crops | Directing while standing there | DK
+## {kkv} No offence
+# In whitewashing and so on;
+# With two or three layers, or less than two or three layers;
+# In caves, grottoes, grass huts and so on;
+# For one who has it built for another, or with his own wealth;
+# For one who directs the rest, except the living quarters;
+# For the insane and so on.
+## {kkv} Factors (= tīṇi — three)
+# It is a large dwelling (mahallaka-vihāra);
+# It is one’s own living quarters;
+# Directing beyond (the limit).
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest follow the method stated in the **Sañcaritta rule**.
+
+@pac20
+T: සප්පාණක සික්ඛාපදය || The Rule on Water with Living Beings
+R: - || -
+N: ආළවිය, අග්ගාළව චෛත්‍යය || Āḷavī, Aggāḷava shrine
+P: ආළවක භික්ෂූන් || The Āḷavaka monks
+V: ප්‍රාණීන් සහිත ජලය තණ, මැටි මත ඉසීම || Sprinkling grass and clay with water containing living beings
+K: AD sd=s an=s anu=0 vj=P cit=3 ved=3
+Z: නොසිතා, සිහි නොමැතිව, නොදැන; උමතු ආදීන් || Unintentionally, without mindfulness, not knowing; the insane etc.
+#si
+## {story} කථා වස්තුව
+### සිඤ්චන වස්තුව
+@ ආළවිය · අග්ගාළව චෛත්‍යය
+:::short
+ආළවක භික්ෂූහු නවකර්ම කරමින් ==ප්‍රාණීන් සහිත බව දැන දැනම ඒ ජලය තණ හා මැටි මත ඉසූහ==. භාග්‍යවතුන් වහන්සේ ගරහා ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ ආළවියෙහි අග්ගාළව චෛත්‍යයෙහි වැඩ වසන සේක. එකල ආළවක භික්ෂූහු නවකර්ම කරමින් ==ප්‍රාණීන් සහිත බව දැන දැනම ඒ ජලය තණ මත ද මැටි මත ද ඉසිති, ඉස්සවති==.
+අල්පේච්ඡ භික්ෂූහු “ආළවක භික්ෂූහු කෙසේ නම් දැන දැන ප්‍රාණීන් සහිත ජලය තණ මත ද මැටි මත ද ඉසින්නාහු ද, ඉස්සවන්නාහු ද?” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ; නොයෙක් අයුරින් ගරහා භාග්‍යවතුන් වහන්සේට සැල කළහ. භාග්‍යවතුන් වහන්සේ “මහණෙනි, ඔබ … සැබෑ ද?” යි විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂයෙනි, ඔබ කෙසේ නම් …? මෝඝපුරුෂයෙනි, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා ශික්ෂාපදය පැනවූ සේක:
+:::
+!pn: ශික්ෂාපදය
+> යො පන භික්ඛු ජානං සප්පාණකං උදකං තිණං වා මත්තිකං වා සිඤ්චෙය්‍ය වා සිඤ්චාපෙය්‍ය වා, පාචිත්තියං.
+~ යම් භික්‍ෂුවක් වනාහි දැන දැන ප්‍රාණීන් සහිත ජලය තණ කොළවලට හෝ මැටිවලට හෝ ඉසින්නේ නම් හෝ ඉස්සවන්නේ නම්, පචිති වේ.
+!src: මෙම ශික්ෂාපදයට අනුපඤ්ඤත්ති නැත; මුල් පැනවීම ම සම්පූර්ණ ශික්ෂාපදය වේ.
+## {story} පදභාජනීය — පද විභාගය
+|! පදය | පෙළෙහි අර්ථය
+| **ජානාති** | තමා ම දනී, හෝ අනුන් ඔහුට දන්වති.
+| **සිඤ්චෙය්‍ය** | තමා ඉසියි නම් පාචිත්තිය.
+| **සිඤ්චාපෙය්‍ය** | අනෙකෙකුට අණ කරයි නම් පාචිත්තිය; ==එක් වරක් අණ ලත් තැනැත්තා බොහෝ වුව ද ඉසියි නම් (එක්) පාචිත්තියක්==.
+## {story} ආපත්ති — සංඥාව අනුව
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| ප්‍රාණීන් සහිත ජලය | ප්‍රාණීන් සහිත යැයි සලකා තණ හෝ මැටි ඉසියි / ඉස්සවයි | PC
+| ප්‍රාණීන් සහිත ජලය | සැක සහිතව එසේ කරයි | DK
+| ප්‍රාණීන් සහිත ජලය | ප්‍රාණීන් රහිත යැයි සලකා එසේ කරයි | N
+| ප්‍රාණීන් රහිත ජලය | ප්‍රාණීන් සහිත යැයි සලකා | DK
+| ප්‍රාණීන් රහිත ජලය | සැක සහිතව | DK
+| ප්‍රාණීන් රහිත ජලය | ප්‍රාණීන් රහිත යැයි සලකා | N
+## {story} අනාපත්ති
+# නොසිතා (**අසඤ්චිච්ච**);
+# සිහි නොමැතිව (**අස්සතියා**);
+# නොදන්නාහට (**අජානන්තස්ස**);
+# උමතු වූවහුට (**උම්මත්තකස්ස**);
+# ආදිකම්මිකයාට (**ආදිකම්මිකස්ස**).
+## {att} “ජානං සප්පාණකං” හා ඇවැත් ගණන
+- **ජානං සප්පාණකං** — “මෙය ප්‍රාණීන් සහිත ය” යි කෙසේ හෝ දැනගෙන.
+- **සිඤ්චෙය්‍ය වා සිඤ්චාපෙය්‍ය වා** — ඒ ජලයෙන් තමා ඉසින්නේ ද, අනෙකෙකුට අණ කොට ඉස්සවන්නේ ද.
+|! ක්‍රියාව | ඇවැත් ගණන
+| ධාරාව නොසිඳ ඉසින කල — එක් පැන් කළයක | එක් ඇවතක් (සියලු බඳුන්වල මේ ක්‍රමය ම ය)
+| ධාරාව සිඳිමින් ඉසින කල | ප්‍රයෝගයක් පාසා ඇවැත්
+| ඇළක් (**මාතිකා**) (කෙතට) මුහුණ ලා කරයි — දවස මුළුල්ලේ ගලා ගියත් | එක් ඇවතක්
+| තැනින් තැන බැඳ, එතැනින් මෙතැනට ගෙන යයි | ප්‍රයෝගයක් පාසා ඇවැත්
+| ගැල් බරක් පමණ තණ වුව ද එක් ප්‍රයෝගයකින් ජලයට දමයි | එක් ඇවතක්
+| එකින් එක තණ හෝ කොළ දමයි | ප්‍රයෝගයක් පාසා ඇවැත්
+| මැටි, දර, ගොම ආදියෙහි | මේ ක්‍රමය ම ය
+!src: මෙය මහා ජලාශයක් අරබයා නොකියන ලදී; තණ හෝ මැටි දැමූ කල අවසන් වන (සිඳී යන), හෝ කැළඹෙන, යම් ජලයක ප්‍රාණීන් මැරේ ද, එවැනි ජලය අරබයා කියන ලදැයි දත යුතුය.
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> යො පන භික්ඛු ජානං සප්පාණකං උදකං තිණං වා මත්තිකං වා සිඤ්චෙය්‍ය වා සිඤ්චාපෙය්‍ය වා, පාචිත්තියං.
+මෙය **භූතගාම වග්ගයේ දසවන (අවසන්) ශික්ෂාපදයයි** (**දසමෙ**). කඞ්ඛාවිතරණිය පද මෙසේ විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **ජානං සප්පාණකං** | “මෙය ප්‍රාණීන් සහිත ය” යි දැක හෝ අසා හෝ යම් කිසි ආකාරයකින් දැනගෙන.
+| **සිඤ්චෙය්‍ය වා සිඤ්චාපෙය්‍ය වා** | ඒ ජලයෙන් තමා ඉසින්නේ ද, අනෙකෙකුට අණ කොට ඉස්සවන්නේ ද.
+## {kkv} සම්පූර්ණ අර්ථය
+|! ක්‍රියාව | ඇවැත් ගණන
+| ධාරාව නොසිඳ ඉසින කල — එක් කළයක | එක් ඇවතක්
+| ධාරාව සිඳිමින් | ප්‍රයෝග ගණනින් ඇවැත්
+| ඇළක් (කෙතට) මුහුණ ලා කරයි — දවස මුළුල්ලේ ගලා ගියත් | එක් ඇවතක්
+| තැනින් තැන බැඳ වෙනත් තැනකට ගෙන යයි | ප්‍රයෝග ගණනින් ඇවැත්
+| බොහෝ තණ, කොළ, අතු ආදිය එක් ප්‍රයෝගයකින් ජලයට දමයි | එක් ඇවතක්
+| එකින් එක දමයි | ප්‍රයෝග ගණනින් ඇවැත්
+| ඉස්සවීමෙහි අණ කිරීම පමණෙහි | DK
+| එක් අණකින් බොහෝ වුව ද ඉසියි | අණ කළාට එක් පාචිත්තියක් ම ය
+!src: මෙය මෙසේ දමන කල අවසන් වන, හෝ කැළඹෙන, ප්‍රාණීන් මැරෙන පරිදි වූ ජලය අරබයා කියන ලදී; මහා ජලාශය නොවේ.
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ස්ථානය | ආළවියෙහි,
+%% පුද්ගලයා | ආළවක භික්ෂූන් අරබයා,
+%% වස්තුව | **ඉසීමේ වස්තුවෙහි** පනවන ලද මෙය
+%% ප්‍රඥප්තිය | **සාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට ද පොදු ය;
+%% ආණත්තිය | **සාණත්තික**යි — අනුන් ලවා කරවීමෙන් ද ඇවැත් වේ.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| ප්‍රාණීන් සහිත ජලය | ප්‍රාණීන් සහිත යැයි සලකා ඉසියි / ඉස්සවයි | PC
+| ප්‍රාණීන් රහිත ජලය | ප්‍රාණීන් සහිත යැයි සලකන්නාට | DK
+| දෙකෙහි ම (සහිත / රහිත) | සැක සහිත වූවහුට | DK
+## {kkv} අනාපත්ති
+# ප්‍රාණීන් රහිත යැයි සලකන්නාට;
+# නොසිතා හෝ සිහි නොමැතිව ඉසින්නාට;
+# නොදන්නාහට;
+# උමතු වූවහු ආදීන්ට.
+## {kkv} අංග (= චත්තාරි — සතරකි)
+# ජලය ප්‍රාණීන් සහිත වීම;
+# “ඉසීමෙන් ප්‍රාණීහු මැරෙනු ඇත” යි දැනීම;
+# ඒ ජලය එබඳු ම (ප්‍රාණීන් මැරෙන ආකාර) වීම;
+# වධක චේතනාවක් නොමැතිව, යම් කිසි කටයුත්තක් සඳහා තණ ආදිය ඉසීම.
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **අදින්නාදාන සික්ඛාපද**යට සමාන ය. මෙය වනාහි **පණ්ණත්තිවජ්ජ**, **තිචිත්ත**, **තිවේදන** වේ.
+#en
+## {story} The Origin Story
+### The Matter of Sprinkling
+@ Āḷavī · Aggāḷava shrine
+:::short
+Doing building work, the Āḷavaka monks ==knowingly sprinkled water containing living beings on grass and clay==. The Blessed One rebuked them and laid down the rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Āḷavī, at the Aggāḷava shrine. At that time the Āḷavaka monks, doing building work, ==knowing that the water contained living beings, sprinkled it on grass and on clay, and had it sprinkled==.
+The monks of few wishes complained, criticised and spread it about: “How can the Āḷavaka monks, knowing that water contains living beings, sprinkle it on grass and on clay, and have it sprinkled?” Having criticised them in many ways, they told the Blessed One. The Blessed One asked, “Is it true, monks, that you …?” “It is true, Blessed One.” He rebuked them: “Foolish men, how can you …? Foolish men, this does not inspire faith in those without faith …” — and he laid down the training rule:
+:::
+!pn: The training rule
+> යො පන භික්ඛු ජානං සප්පාණකං උදකං තිණං වා මත්තිකං වා සිඤ්චෙය්‍ය වා සිඤ්චාපෙය්‍ය වා, පාචිත්තියං.
+~ Whatever monk, knowing that water contains living beings, should sprinkle it on grass or clay, or cause it to be sprinkled: Pācittiya.
+!src: This rule has no supplementary rule (anupaññatti); the original rule is the complete training rule.
+## {story} Word analysis
+|! Word | Meaning in the text
+| **Jānāti** | He knows it himself, or others inform him.
+| **Siñceyya** | He sprinkles it himself — pācittiya.
+| **Siñcāpeyya** | He commands another — pācittiya; ==commanded once, (the other) sprinkles even a great deal — (one) pācittiya==.
+## {story} Offences by perception
+|! Object | Perception and act | Offence
+| Water with living beings | Perceiving it as having beings, he sprinkles grass or clay / has it sprinkled | PC
+| Water with living beings | Doing so while in doubt | DK
+| Water with living beings | Doing so perceiving it as without beings | N
+| Water without living beings | Perceiving it as having beings | DK
+| Water without living beings | While in doubt | DK
+| Water without living beings | Perceiving it as without beings | N
+## {story} No offence
+# Unintentionally (**asañcicca**);
+# Without mindfulness (**assatiyā**);
+# For one who does not know (**ajānantassa**);
+# For one who is insane (**ummattakassa**);
+# For the first offender (**ādikammikassa**).
+## {att} “Jānaṃ sappāṇakaṃ” and the number of offences
+- **Jānaṃ sappāṇakaṃ** — knowing in some way or other, “this has living beings in it”.
+- **Siñceyya vā siñcāpeyya vā** — he sprinkles with that water himself, or commands another and has it sprinkled.
+|! Act | Number of offences
+| Sprinkling without breaking the stream — from one water pot | One offence (the same method for all vessels)
+| Sprinkling while breaking the stream | An offence for each effort
+| He opens a channel (**mātikā**) towards (the field) — even if it flows the whole day | One offence
+| He blocks it here and there and leads it from one place to another | An offence for each effort
+| He throws even a cartload of grass into the water with one effort | One offence
+| He throws in grass or leaves one by one | An offence for each effort
+| With clay, wood, cow dung and the like | The same method
+!src: This was not said with reference to a great body of water; it should be understood as said with reference to water that is used up (dries out), or becomes muddied, when grass or clay is thrown in — water in which the beings die.
+## {kkv} The rule and the meaning of its words
+> යො පන භික්ඛු ජානං සප්පාණකං උදකං තිණං වා මත්තිකං වා සිඤ්චෙය්‍ය වා සිඤ්චාපෙය්‍ය වා, පාචිත්තියං.
+This is **the tenth (last) rule of the Bhūtagāma chapter** (**dasame**). The Kaṅkhāvitaraṇī explains the words thus:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Jānaṃ sappāṇakaṃ** | Knowing in any way, by seeing or hearing, “this has living beings in it”.
+| **Siñceyya vā siñcāpeyya vā** | He sprinkles with that water himself, or commands another and has it sprinkled.
+## {kkv} The full meaning
+|! Act | Number of offences
+| Sprinkling without breaking the stream — from one pot | One offence
+| Breaking the stream | Offences by the number of efforts
+| He opens a channel towards (the field) — even if it flows the whole day | One offence
+| He blocks it here and there and leads it elsewhere | Offences by the number of efforts
+| He throws much grass, leaves, branches and the like into the water with one effort | One offence
+| He throws them in one by one | Offences by the number of efforts
+| In having it sprinkled, on the command | DK
+| On one command, even if a great deal is sprinkled | Just one pācittiya for the one who commands
+!src: This is said with reference to water that, when things are thrown in like this, is used up or becomes muddied so that the beings die — not a great body of water.
+## {kkv} The laying down of the rule and the command
+%% Place | Laid down at Āḷavī,
+%% Person | concerning the Āḷavaka monks,
+%% Matter | **on the matter of sprinkling**, this rule
+%% Kind of rule | is a **common rule** (**sādhāraṇa-paññatti**) — shared with the nuns;
+%% Command | and it is **sāṇattika** — the offence also arises by getting another to do it.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| Water with living beings | Perceiving it as having beings, he sprinkles / has it sprinkled | PC
+| Water without living beings | For one who perceives it as having beings | DK
+| In both cases (with / without beings) | For one in doubt | DK
+## {kkv} No offence
+# For one who perceives it as without beings;
+# For one who sprinkles unintentionally or without mindfulness;
+# For one who does not know;
+# For the insane and so on.
+## {kkv} Factors (= cattāri — four)
+# The water contains living beings;
+# Knowing, “the beings will die by sprinkling”;
+# The water is in fact like that;
+# Sprinkling grass and so on for some purpose, without the intention to kill.
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest are the same as in the rule on taking what is not given (**Adinnādāna-sikkhāpada**). But this one is **paṇṇattivajja**, **ticitta** and **tivedana**.
