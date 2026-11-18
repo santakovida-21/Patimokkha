@@ -1,0 +1,680 @@
+@np11
+T: කෝසිය සික්ඛාපදය || Silk-mixed Felt Rug
+R: - || -
+N: ආළවිය, අග්ගාළව චෛත්‍යය || Āḷavī, Aggāḷava shrine
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: පණු මරා සේද මිශ්‍ර සන්ථත කරවීම || Having felt made with silk, killing silkworms
+K: SC sd=a an=s anu=0
+Z: වියන, බිත්ති තිර, ඇතිරිලි, කොට්ට ආදිය කිරීම; උමතු ආදීන් || Making canopies, wall-hangings, spreads, pillows and the like; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ ආළවිය · අග්ගාළව චෛත්‍යය
+**ෂඩ්වර්ගීය භික්ෂූහු** සේද කරන්නන් වෙත ගොස් =="ආවුසෝ, බොහෝ සේද පණුවන් තම්බා අපට දෙන්න; අපි ද කෝසිය මිශ්‍ර සන්ථතයක් කරන්නෙමු" යි ඉල්ලූහ==. ඔවුහු "ශාක්‍යපුත්‍රීය ශ්‍රමණයෝ අපි නොකියවුවත් පැමිණ ප්‍රාණඝාතය කරවති" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**කොසියමිස්සකං** — **එක් සේද කෙඳකින් වුව ද** මිශ්‍ර වූ; එය කරන තැන **සුළඟින් වැටුණු** සේද කෙඳකින් මිශ්‍ර වුව ද මෙසේ ම ය.
+**සන්ථතං** — සම බිමක ලොම් (මෙහි සේද කෙඳි) **එකක් මත එකක් අතුරා**, කැඳ ආදිය ඉස තළා **පෙරළිම් ලෙස (felt)** සකසන දෙයයි — එය කළ යුතු ලක්ෂණයයි. (වියන ලද රෙද්දක් නොවේ.)
+**කාරාපෙය්‍ය නිස්සග්ගියං** — කරන, කරවන ප්‍රයෝගවල දුක්කටයි; **ලැබීමෙන්** නිස්සග්ගිය වේ.
+නිස්සජ්ජන වචනය: "ඉදං මෙ, භන්තෙ, කොසියමිස්සකං සන්ථතං කාරාපිතං නිස්සග්ගියං…" — **ඉදිරි සියලු සන්ථත ශික්ෂාපදවල** මෙම වචනයට අනුව දත යුතුය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**ආළවියේදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා කෝසිය මිශ්‍ර සන්ථත කරවීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. තමා සඳහා කරවීම වශයෙන් **සාණත්තිකයි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| කිරීමේ, කරවීමේ ප්‍රයෝගවල | DK
+| තමා සඳහා කළ / කරවූ සන්ථතය ලැබීමෙන් | NP
+| **චතුක්ක පාචිත්තිය** — තමා ආරම්භ කොට තමා ම නිම කිරීම; තමා ආරම්භ කොට අනුන් ලවා නිම කරවීම; අනුන් ආරම්භ කළ එකක් තමා නිම කිරීම; අනුන් ආරම්භ කළ එකක් අනුන් ලවා නිම කරවීම — සතරෙහි ම | NP
+| **අනුන් සඳහා** කිරීම හෝ කරවීම | DK
+| අනුන් කළ එකක් ලැබ පරිභෝග කිරීම | DK
+## (ඈ) අනාපත්ති
+# **වියන, බිත්ති තිර (භූමත්ථරණ), සාණිපාකාර, බිම ඇතිරිලි, කොට්ට, බිම්බෝහන** ආදිය කරන්නාට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **සේද මිශ්‍ර** බව.
+# **තමා සඳහා** සන්ථතය කිරීම හෝ කරවීම.
+# **ලැබීම**.
+## (ඊ) සමුට්ඨානාදිය
+සඤ්චරිත්ත සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි.
+#en
+## The Story
+@ Āḷavī · Aggāḷava shrine
+**The group-of-six monks** went to silk-makers and ==asked, “Friends, cook many silkworms and give us the silk; we too want to make a silk-mixed felt rug.”== They complained, “The Sakyan recluses come to us unbidden and make us kill living beings.” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Kosiyamissakaṃ** — mixed with **even a single silk fibre**, even one **blown in by the wind** where it is being made.
+**Santhataṃ** — made by **spreading the fibres layer upon layer** on level ground, sprinkling them with rice-water and the like and beating them into **felt** — this is the defining mark of how it is made. (It is not woven cloth.)
+**Kārāpeyya nissaggiyaṃ** — dukkaṭa in the efforts of making or having it made; **nissaggiya on receiving it**.
+Forfeiture formula: “Venerable sirs, this silk-mixed felt rug that I had made is to be forfeited…” — **all the following felt-rug rules** follow this wording.
+## (B) The laying down of the rule and the command
+It was laid down at **Āḷavī** concerning the group-of-six monks, on the matter of having silk-mixed felt rugs made. It is **not a common rule**. Since one may have it made for oneself, it is **sāṇattika**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| In the efforts of making or having it made | DK
+| On receiving a rug made, or had made, for himself | NP
+| **Fourfold pācittiya** — begun and finished by himself; begun by himself and finished by another; begun by another and finished by himself; begun by another and finished by another — in all four | NP
+| Making or having it made **for another** | DK
+| Using one made by another, after receiving it | DK
+## (D) No offence
+# Making **a canopy, floor-covering, screen, ground-spread, pillow, cushion** and the like.
+# For the insane and so on, and for the first offenders.
+## (E) Factors (= tīṇi — three)
+# **Mixed with silk**.
+# Making or having made **for himself** a felt rug.
+# **Receiving** it.
+## (F) Origin and the rest (samuṭṭhāna)
+The go-between origin; by doing; not freed by perception; without intention; blameworthy by rule; bodily and verbal action; three kinds of mind; three feelings.
+
+@np12
+T: සුද්ධකාළක සික්ඛාපදය || Pure Black Wool Rug
+R: - || -
+N: වේසාලිය, මහාවනය || Vesālī, Great Wood
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සම්පූර්ණ කළු ලොම් සන්ථත කරවීම || Having felt made of pure black wool
+K: SC sd=a an=s anu=0
+Z: වියන, බිම ඇතිරිලි, කොට්ට ආදිය; උමතු ආදීන් || Canopies, floor-coverings, pillows etc.; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ වේසාලිය · මහාවනය කූටාගාර ශාලාව
+**ෂඩ්වර්ගීය භික්ෂූහු** ==පිරිසිදු කළු එළු ලොම්වලින් සන්ථත කරවූහ==. ජනපද සංචාරයේ යන මිනිස්සු විහාරය බලන විට ඒවා දැක "කාමභෝගී ගිහියන් මෙනි" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සුද්ධකාළකානං** — **වෙනත් ලොම් සමඟ මිශ්‍ර නොකළ**, පිරිසිදු කළු එළු ලොම්වලින්.
+**එළකලොමානං සන්ථතං** — සම බිමක ලොම් **එකක් මත එකක් අතුරා**, කැඳ ආදිය ඉස **තළා** සකසන **පෙරළිම් සන්ථතයක්** (වියන ලද රෙද්දක් නොවේ).
+**කාරාපෙය්‍ය නිස්සග්ගියං** — කරන, කරවන **ප්‍රයෝගවල දුක්කට**; **ලැබීමෙන්** නිස්සග්ගිය වේ.
+|! ආකාරය | ඇවැත
+| තමා පිණිස — තමා හෝ අනුන් **ආරම්භ කොට** තමා හෝ අනුන් **නිම කළ** එකක් ලැබීම | NP
+| **අනෙකෙකු පිණිස** කිරීම / කරවීම | DK
+| **අනෙකෙකු කළ** එකක් ලැබ පරිහරණය | DK
+**අනාපත්ති** — **වියනක්, බිම් ඇතිරිල්ලක්, තිර පවුරක්, මෙට්ටයක් හෝ කොට්ටයක්** කිරීම; උමතු ආදීන්.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**වේසාලියේදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පිරිසිදු කළු ලොම් සන්ථත කරවීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| කිරීමේ, කරවීමේ ප්‍රයෝගවල | DK
+| තමා සඳහා කළ / කරවූ සන්ථතය ලැබීමෙන් (චතුක්ක පාචිත්තිය) | NP
+| අනුන් සඳහා කිරීම / කරවීම; අනුන් කළ එකක් ලැබ පරිභෝගය | DK
+## (ඈ) අනාපත්ති
+# **වියන, බිම ඇතිරිලි, තිර, කොට්ට** ආදිය කරන්නාට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **පිරිසිදු කළු ලොම්** වීම.
+# **තමා සඳහා** සන්ථතය කිරීම හෝ කරවීම.
+# **ලැබීම**.
+## (ඊ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (ඡසමුට්ඨාන — කාය, වාචා, කාය-වාචා, කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි**, **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Vesālī · the Gabled Hall in the Great Wood
+**The group-of-six monks** ==had felt rugs made of pure black wool==. People touring the monasteries saw them and complained, “Like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Suddhakāḷakānaṃ** — of pure black wool, **unmixed with other wool**.
+**Eḷakalomānaṃ santhataṃ** — a **felt** rug made by **spreading the wool layer upon layer** on level ground, sprinkling it with rice-water and the like and **beating** it (not woven cloth).
+**Kārāpeyya nissaggiyaṃ** — **dukkaṭa in the efforts** of making or having it made; **nissaggiya on receiving it**.
+|! Case | Offence
+| for oneself — **begun** by oneself or others and **finished** by oneself or others, receiving it | NP
+| making / having made **for another** | DK
+| using one **made by another** | DK
+**No offence** — making **a canopy, floor covering, screen, mattress or pillow**; the insane etc.
+## (B) The laying down of the rule and the command
+It was laid down at **Vesālī** concerning the group-of-six monks. It is **not a common rule**, and **sāṇattika**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| In the efforts of making or having it made | DK
+| On receiving one made for himself (fourfold pācittiya) | NP
+| Making it for another; using one made by another | DK
+## (D) No offence
+# Making **canopies, floor-coverings, screens, pillows** and the like.
+# For the insane and so on, and for the first offenders.
+## (E) Factors (= tīṇi — three)
+# **Pure black wool**.
+# Making or having made **for himself** a felt rug.
+# **Receiving** it.
+## (F) Origin and the rest (samuṭṭhāna)
+**Matchmaking (go-between) origin** (six origins — body; speech; body–speech; body–mind; speech–mind; body–speech–mind), **by doing**, **no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+@np13
+T: ද්වෙභාග සික්ඛාපදය || Proportions of Wool
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කෙළවරේ පමණක් සුදු ලොම් දමා කළු සන්ථත කරවීම || Putting a little white wool only on the edges
+K: SC sd=a an=s anu=0 kr=KA
+Z: නියමිත ප්‍රමාණය හෝ ඊට අඩු කළු ලොම් ගැනීම; සුදු හා දුඹුරු වැඩියෙන් ගැනීම; වියන ආදිය; උමතු ආදීන් || Taking the set proportion of black or less; more white and brown; canopies etc.; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+පෙර ශික්ෂාපදය පැනවූ පසු **ෂඩ්වර්ගීය භික්ෂූහු** ==සන්ථතයේ **කෙළවරේ පමණක්** ස්වල්ප සුදු ලොම් දමා, පිරිසිදු කළු ලොම්වලින් ම සන්ථත කරවූහ==. භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ද්වෙ භාගා** — කොටස් දෙකක්. **ආදාතබ්බා** — ගත යුතුය. **ගොචරියානං** — **කපිල (දුඹුරු)** වර්ණ ලොම්.
+## (ආ) කොටස් බෙදීම
+සන්ථතය කිරීමට කැමති ලොම් ප්‍රමාණය **කිරා**:
+|! ලොම් වර්ගය | කොටස
+| කළු (කාළක) | **කොටස් දෙකක්** (උපරිමය)
+| සුදු (ඕදාත) | **කොටසක්** (අවමය)
+| දුඹුරු (ගෝචරිය) | **කොටසක්** (අවමය)
+**එක් කළු ලොමක් වුව ද** වැඩි වුවොත් නිස්සග්ගිය වේ; කළු ලොම් අඩු වීම වටී.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා එබඳු සන්ථත කිරීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| කිරීමේ, කරවීමේ ප්‍රයෝගවල | DK
+| කළු ලොම් කොටස් දෙකට වඩා (එක් ලොමක් වුව ද) ගෙන කළ සන්ථතය ලැබීමෙන් (චතුක්ක පාචිත්තිය) | NP
+| අනුන් සඳහා කිරීම / කරවීම; අනුන් කළ එකක් ලැබ පරිභෝගය | DK
+**විශේෂයක්** — මෙම සන්ථත **තුන** (කෝසිය, සුද්ධකාළක, ද්වෙභාග) **නිස්සජ්ජනය කොට ආපසු ලැබුණත් පරිභෝග කිරීම නොවටී**.
+## (ඉ) අනාපත්ති
+# **කළු ලොම් කොටස් දෙකක් හෝ ඊට අඩුවෙන්**, සුදු හා දුඹුරු කොටස් එකක් හෝ ඊට වැඩියෙන් ගෙන කරන්නාට.
+# **වියන, බිම ඇතිරිලි** ආදිය කරන්නාට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# කළු ලොම් **කොටස් දෙකට වඩා** වීම (සුදු / දුඹුරු කොටස නොගැනීම).
+# **තමා සඳහා** සන්ථතය කිරීම හෝ කරවීම.
+# **ලැබීම**.
+## (උ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (ඡසමුට්ඨාන — කාය, වාචා, කාය-වාචා, කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියාකිරියයි** (කිරීම කිරියාව; සුදු, දුඹුරු කොටස් නොගැනීම අකිරියාව), **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+After the previous rule was laid down, **the group-of-six monks** ==had rugs made of pure black wool, putting a little white wool **only on the edges**==. The monks complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Dve bhāgā** — two parts. **Ādātabbā** — are to be taken. **Gocariyānaṃ** — of **tawny (brown)** wool.
+## (B) The proportions
+**Weighing** the wool one wants to make the rug with:
+|! Kind of wool | Share
+| Black | **two parts** (at most)
+| White | **one part** (at least)
+| Brown | **one part** (at least)
+If there is **even one black hair** too many, it is nissaggiya; less black is allowed.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six monks. It is **not a common rule**, and **sāṇattika**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| In the efforts of making or having it made | DK
+| On receiving a rug with more than two parts black (even by one hair) (fourfold pācittiya) | NP
+| Making it for another; using one made by another | DK
+**A special point** — these **three** rugs (silk, pure black, two-parts) **may not be used even after being forfeited and returned**.
+## (E) No offence
+# Making it with **two parts black or less**, and one part or more each of white and brown.
+# Making **canopies, floor-coverings** and the like.
+# For the insane and so on, and for the first offenders.
+## (F) Factors (= tīṇi — three)
+# **More than two parts** black (not taking the white and brown parts).
+# Making or having made **for himself** a felt rug.
+# **Receiving** it.
+## (G) Origin and the rest (samuṭṭhāna)
+**Matchmaking (go-between) origin** (six origins — body; speech; body–speech; body–mind; speech–mind; body–speech–mind), **by doing and not doing** (making is doing; not taking the white and brown parts is not doing), **no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+@np14
+T: ඡබ්බස්ස සික්ඛාපදය || Keeping a Rug for Six Years
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: බොහෝ භික්ෂූන් || A number of monks
+V: වාර්ෂිකව අලුත් සන්ථත ඉල්ලීම || Asking for new rugs every year
+K: SC sd=a an=s anu=1 kr=KA
+Z: වසර සය සම්පූර්ණ වීම; භික්ෂු සම්මුතිය; අනුන් සඳහා; අනුන් කළ එකක් ලැබීම; වියන ආදිය; උමතු ආදීන් || Six years complete; authorisation; for another; receiving one made by another; canopies etc.; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**බොහෝ භික්ෂූහු** ==වසරක් පාසා අලුත් සන්ථත කරවූහ==. ලොම් ඉල්ලා ඉල්ලා මිනිසුන්ට කරදර කළ හෙයින් "අපගේ නිවෙස්වල සන්ථත ලොම්වලින් පිරී යයි" යි ඔවුහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+පසුව කොසඹෑ නුවර **ගිලන් භික්ෂුවකට** ඥාතීන් ඇරයුම් කළ නමුත් බර සන්ථතය ගෙන යාමට නොහැකි වූ බැවින් "අඤ්ඤත්‍ර භික්ඛුසම්මුතියා" අනුප්‍රඥප්තිය එක් විය.
+## (අ) පද විවරණය
+**නවං පන භික්ඛුනා සන්ථතං කාරාපෙත්වා ඡබ්බස්සානි ධාරෙතබ්බං** — අලුත් සන්ථතයක් කරවා **වසර සයක්** දැරිය යුතුය.
+**ඔරෙන චෙ ඡන්නං වස්සානං** — වසර සයේ **ඇතුළත** (මෙපිට).
+**අඤ්ඤත්‍ර භික්ඛුසම්මුතියා** — සංඝයා **ගිලන් භික්ෂුවකට** දෙන **සන්ථත සම්මුතිය** හැර, සම්මුතිය නොලත් අයෙකු වසර සය ඇතුළත වෙනත් සන්ථතයක් කරයි නම් නිස්සග්ගිය වේ.
+**සම්මුතිය ලත් අයට** — රෝගය නොසංසිඳුණු තාක්, හෝ සංසිඳී නැවත කිපුණු තාක්, **ගිය ගිය තැන වසරක් පාසා** වුව ද කළ හැකිය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** බොහෝ භික්ෂූන් අරබයා වාර්ෂිකව සන්ථත කරවීමේ වස්තුවෙහි පැනවිණි. "අඤ්ඤත්‍ර භික්ඛුසම්මුතියා" **අනුප්‍රඥප්තියයි**. **අසාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| කිරීමේ, කරවීමේ ප්‍රයෝගවල | DK
+| වසර සය ඇතුළත, සම්මුතිය නැතිව, තමා සඳහා කළ නව සන්ථතය ලැබීමෙන් (චතුක්ක පාචිත්තිය) | NP
+| අනුන් සඳහා කිරීම / කරවීම | N
+## (ඈ) අනාපත්ති
+# **වසර සය සම්පූර්ණ** වූ පසු කරන්නාට.
+# **භික්ෂු සම්මුතිය** ලත් අයට.
+# **අනුන් සඳහා** කිරීම, කරවීම; **අනුන් කළ** එකක් ලැබ පරිභෝග කිරීම.
+# **වියන, බිම ඇතිරිලි** ආදිය.
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **වසර සය නොපිරීම**, සම්මුතිය නොලැබීම.
+# **තමා සඳහා** නව සන්ථතයක් කිරීම හෝ කරවීම.
+# **ලැබීම**.
+## (ඊ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (ඡසමුට්ඨාන — කාය, වාචා, කාය-වාචා, කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියාකිරියයි**, **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**A number of monks** ==had new felt rugs made every year==. Pestering people again and again for wool, they made them complain, “Our houses are filled with wool for rugs.” The Blessed One laid down the rule.
+Later at Kosambī, **a sick monk** invited by his relatives could not carry his heavy rug, so “except with the authorisation of the monks” was added.
+## (A) Explanation of terms
+**Navaṃ pana bhikkhunā santhataṃ kārāpetvā chabbassāni dhāretabbaṃ** — having had a new rug made, he is to keep it **for six years**.
+**Orena ce channaṃ vassānaṃ** — **within** six years.
+**Aññatra bhikkhusammutiyā** — except for the **rug authorisation** that the Saṅgha gives **a sick monk**, one without it who makes another rug within six years has a nissaggiya.
+**One with the authorisation** may make one **every year, wherever he goes**, as long as the illness has not subsided, or has subsided and flared up again.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a number of monks, on the matter of having rugs made every year. “Except with the authorisation of the monks” is the **supplementary rule**. It is **not a common rule**, and **sāṇattika**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| In the efforts of making or having it made | DK
+| On receiving a new rug made for himself within six years without authorisation (fourfold pācittiya) | NP
+| Making or having it made for another | N
+## (D) No offence
+# Making it **after six full years**.
+# With **the monks' authorisation**.
+# Making it **for another**; using one **made by another**.
+# **Canopies, floor-coverings** and the like.
+# For the insane and so on, and for the first offenders.
+## (E) Factors (= tīṇi — three)
+# **Six years not complete**, and no authorisation.
+# Making or having made **for himself** a new rug.
+# **Receiving** it.
+## (F) Origin and the rest (samuṭṭhāna)
+**Matchmaking (go-between) origin** (six origins — body; speech; body–speech; body–mind; speech–mind; body–speech–mind), **by doing and not doing**, **no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+@np15
+T: නිසීදනසන්ථත සික්ඛාපදය || Sitting Rug with Old Border
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: බොහෝ භික්ෂූන් || A number of monks
+V: පරණ සන්ථත අත්හැර අලුත් ඒවා කරවීම || Discarding old rugs and having new ones made
+K: SC sd=a an=s anu=0 kr=KA
+Z: පරණ සන්ථතයක් නොමැති විට; අනුන් සඳහා; අනුන් කළ එකක් ලැබීම; වියන ආදිය; උමතු ආදීන් || No old rug available; for another; receiving one made by another; canopies etc.; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+භාග්‍යවතුන් වහන්සේ තුන් මසක් හුදෙකලාව වැඩ සිටින බව දැනුම් දුන් කල්හි, ධුතාංගධාරීන්ට පමණක් අවසර ඇති බව අසා **බොහෝ භික්ෂූහු** ==පරණ සන්ථත අත්හැර== ආරණ්‍යක, පිණ්ඩපාතික, පංසුකූලික බව සමාදන් වූහ. බුදුරදුන් සැරිසරන විට ==විසිරී තැන තැන දමා තිබූ සන්ථත== දැක කරුණ විමසා ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**නිසීදනසන්ථතං** — හිඳීම සඳහා කරන සන්ථතය.
+**පුරාණසන්ථතං** — **එක් වරක් වුව ද** හිඳගත් හෝ සැතපුණු සන්ථතය.
+**සමන්තා සුගතවිදත්ථි** — පරණ සන්ථතයේ එක් පැත්තකින් **වටකුරු හෝ සිව්‍රැස් ලෙස** කපා ගන්නා කොටස **සුගත වියතක්** පමණ වන සේ ගත යුතුය.
+**දුබ්බණ්ණකරණාය** — අලුත් සන්ථතයේ වර්ණය අඩු කිරීම පිණිස. අතුරන විට **එක් ස්ථානයක** හෝ, **ලිහා මිශ්‍ර කොට** අතුරා ගත යුතුය — එවිට වඩා ස්ථිර වේ.
+**අනාදා චෙ** — පරණ සන්ථතයක් **ඇති විට** එය නොගෙන. **නැති නම්** නොගෙන කළත් වටී.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** බොහෝ භික්ෂූන් අරබයා සන්ථත අත්හැරීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| කිරීමේ, කරවීමේ ප්‍රයෝගවල | DK
+| පරණ සන්ථතයක් තිබියදී සුගත වියතක් නොගෙන තමා සඳහා කළ නිසීදන සන්ථතය ලැබීමෙන් (චතුක්ක පාචිත්තිය) | NP
+## (ඈ) අනාපත්ති
+# **පරණ සන්ථතයක් නොමැති** විට නොගෙන කිරීම.
+# සුගත වියතක් **ගෙන** කිරීම; **අඩු ප්‍රමාණයක්** ගෙන කිරීම (පාළිය).
+# **අනුන් සඳහා** කිරීම; **අනුන් කළ** එකක් ලැබ පරිභෝග කිරීම.
+# **වියන, බිම ඇතිරිලි** ආදිය.
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# පරණ සන්ථතයක් ඇතිව **සුගත වියත නොගැනීම**.
+# **තමා සඳහා** නිසීදන සන්ථතයක් කිරීම හෝ කරවීම.
+# **ලැබීම**.
+## (ඊ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (ඡසමුට්ඨාන — කාය, වාචා, කාය-වාචා, කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියාකිරියයි**, **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+When the Blessed One announced he would spend three months in seclusion, hearing that only those keeping the austere practices might visit, **a number of monks** ==discarded their old rugs== and took up the wilderness, almsfood and rag-robe practices. Walking through the dwellings, the Blessed One saw ==rugs thrown about here and there==, asked the reason, and laid down the rule.
+## (A) Explanation of terms
+**Nisīdanasanthataṃ** — a felt rug for sitting.
+**Purāṇasanthataṃ** — a rug sat or lain on **even once**.
+**Samantā sugatavidatthi** — the piece cut from one side of the old rug, **round or square**, should measure **one sugata span**.
+**Dubbaṇṇakaraṇāya** — to dull the colour of the new rug. When spreading, it may be laid **in one place**, or **teased apart and mixed in** — that way it is stronger.
+**Anādā ce** — not taking it **when there is** an old rug. **If there is none**, it is allowed without taking any.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a number of monks, on the matter of discarding rugs. It is **not a common rule**, and **sāṇattika**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| In the efforts of making or having it made | DK
+| On receiving a sitting rug made for himself without taking a sugata span from an existing old rug (fourfold pācittiya) | NP
+## (D) No offence
+# Not taking any when **there is no old rug**.
+# Making it **taking** a sugata span; or taking **less** (Pāḷi).
+# Making it **for another**; using one **made by another**.
+# **Canopies, floor-coverings** and the like.
+# For the insane and so on, and for the first offenders.
+## (E) Factors (= tīṇi — three)
+# **Not taking a sugata span** though there is an old rug.
+# Making or having made **for himself** a sitting rug.
+# **Receiving** it.
+## (F) Origin and the rest (samuṭṭhāna)
+**Matchmaking (go-between) origin** (six origins — body; speech; body–speech; body–mind; speech–mind; body–speech–mind), **by doing and not doing**, **no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+@np16
+T: එළකලෝම සික්ඛාපදය || Carrying Wool
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: එක්තරා භික්ෂුවක් || A certain monk
+V: ලොම් පොදියක් ගෙන යමින් මිනිසුන්ගේ සරදමට ලක් වීම || Being mocked while carrying a bundle of wool
+K: EL sd=a an=a anu=0
+Z: යොදුන් තුනක් ගෙන ගොස් ආපසු ගෙන ඒම; වාසය සඳහා ගොස් ඉන් ඔබ්බට ගෙන යාම; පැහැර ගත් / නිස්සජ්ජනය කළ ලොම් ආපසු ලැබ ගෙන යාම; අනුන් ලවා ගෙන යැවීම; නූලෙන් බැඳ කළ භාණ්ඩ; උමතු ආදීන් || Carrying three yojanas and back; going to stay and carrying it beyond; carrying wool recovered after theft or forfeiture; having another carry it; finished articles, even tied with thread; the insane etc.
+G: 5
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+කොසොල් දනව්වේ සිට සැවැත් නුවරට යන **එක්තරා භික්ෂුවකට** මඟදී එළු ලොම් ලැබුණි. ඔහු ==ලොම් සිවුරේ පොදියක් කොට ගෙන යද්දී මිනිස්සු "ස්වාමීනි, කොපමණකට ගත්තේ ද? ලාභය කොපමණ වේ ද?" යි සරදම් කළහ==. ඔහු ලැජ්ජාවට පත් විය. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**අද්ධානමග්ගප්පටිපන්නස්ස** — දිගු මඟක යන අයට. මෙය **වස්තු මාත්‍රයක්** දැක්වීමකි; **ඕනෑම තැනක** ධාර්මිකව ලැබ ගැනීමේ දොසක් නැත.
+**තියොජනපරමං** — **ලැබුණු ස්ථානයේ සිට** යොදුන් **තුනක්** උපරිම කොට.
+**සහත්ථා** — **තමා ම** ගෙන යා යුතු.
+**අසන්තෙ හාරකෙ** — ගෙන යන **වෙනත් කෙනෙකු නැති** විට; සිටී නම් ඔහු ලවා ගෙන යැවීම වටී.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** එක්තරා භික්ෂුවක් අරබයා යොදුන් තුන ඉක්මවීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ලොම් ගෙන (අවම වශයෙන් **වාත රෝගයට පිළියමක් ලෙස නූලෙන් නොබැඳ කන් සිදුරේ දැමූ** ලොම් වුව ද) යොදුන් තුන ඉක්මවා **පළමු පියවර** තැබීම | DK
+| **දෙවන පියවර** තැබීම (**තික පාචිත්තිය**) | NP
+| යොදුන් තුනට අඩු නමුත් වැඩි යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඈ) අනාපත්ති
+# යොදුන් තුනක් **ගෙන ගොස් ආපසු** ගෙන ඒම.
+# **වාසය කිරීමේ අදහසින්** ගොස් ඉන් ඔබ්බට ගෙන යාම.
+# **පැහැර ගත්** හෝ **නිස්සජ්ජනය කළ** ලොම් ආපසු ලැබ ගෙන යාම.
+# **අනුන් ලවා** ගෙන යැවීම.
+# අවම වශයෙන් **නූලකින් වුව ද බැඳ කළ භාණ්ඩයක්** ගෙන යාම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= පඤ්ච — පහකි)
+# එළු ලොම් **භාණ්ඩයක් නොකළ** බව.
+# **පළමු ලැබීම** (පැහැර ගෙන / නිස්සජ්ජනය කොට ආපසු ලත් දෙයක් නොවීම).
+# තමා ම ගෙන, හෝ **නොදන්නා අනුන්ගේ යානයක** දමා **යොදුන් තුන ඉක්මවීම**.
+# **ගෙන ගොස් ආපසු නොඒම**.
+# **වාසය කිරීමේ අදහසක් නොවීම**.
+## (ඊ) සමුට්ඨානාදිය
+**එළකලෝම සමුට්ඨානයි** (කාය, කාය-චිත්ත), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කායකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**A certain monk**, travelling from Kosala to Sāvatthī, was given goat's wool on the way. As he ==carried it tied up in his robe, people mocked him: “Venerable sir, how much did you pay for it? What profit will you make?”== He was ashamed. The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Addhānamaggappaṭipannassa** — for one on a long road. This merely **states the occasion**; there is no fault in receiving it lawfully **anywhere**.
+**Tiyojanaparamaṃ** — up to **three yojanas** **from the place where it was received**.
+**Sahatthā** — to be carried **by himself**.
+**Asante hārake** — when there is **no one else** to carry it; if there is, he may have him carry it.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a certain monk, on the matter of exceeding three yojanas. It is **not a common rule**, and **anāṇattika**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Carrying wool — even some **put untied in the ear-hole as a remedy for wind illness** — and taking **the first step** beyond three yojanas | DK
+| Taking **the second step** (**triple pācittiya**) | NP
+| Less than three yojanas, but perceiving it as more or in doubt | DK
+## (D) No offence
+# Carrying it three yojanas **and back**.
+# Going **with the intention of staying**, then carrying it further.
+# Carrying wool **recovered after theft** or **after forfeiture**.
+# **Having another** carry it.
+# Carrying **a finished article**, even one merely tied with thread.
+# For the insane and so on, and for the first offender.
+## (E) Factors (= pañca — five)
+# The wool **not made into an article**.
+# **First receipt** (not recovered after theft or forfeiture).
+# Exceeding three yojanas — carrying it himself, or putting it **in another's vehicle without his knowledge**.
+# **Not carrying it there and back**.
+# **No intention of staying**.
+## (F) Origin and the rest (samuṭṭhāna)
+**The wool origin** (body; body and mind); **by doing; not freed by perception; without intention; blameworthy by rule; bodily action; three kinds of mind; three feelings**.
+
+@np17
+T: එළකලෝමධෝවාපන සික්ඛාපදය || Having Wool Washed by a Nun
+R: - || -
+N: ශාක්‍ය ජනපදය, කපිලවස්තු නිග්‍රෝධාරාමය || Sakyan country, Nigrodhārāma at Kapilavatthu
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: භික්ෂුණීන් ලවා ලොම් සෝදවීම || Having nuns wash wool
+K: SC sd=a an=s anu=0
+Z: ඥාති භික්ෂුණිය; නොකියා සේදීම; පරිභෝග නොකළ / කළ භාණ්ඩ; ශික්ෂමානා / සාමණේරී; උමතු ආදීන් || A related nun; washing unasked; finished articles; a trainee or novice nun; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ ශාක්‍ය ජනපදය · කපිලවස්තු නිග්‍රෝධාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==භික්ෂුණීන් ලවා එළු ලොම් සෝදවා, පඬු පොවා, ලිහා පිළියෙළ කරවූහ==. භික්ෂුණීන්ගේ අත් පඬුවලින් තැවරුණි; ඔවුන්ට **උද්දේශ, පරිපෘච්ඡා, අධිශීල, අධිචිත්ත, අධිප්‍රඥා** සඳහා කාලයක් නොලැබුණි. **මහාප්‍රජාපතී ගෝතමී** තෙරණිය භාග්‍යවතුන් වහන්සේට සැල කළ කල්හි ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ධොවාපෙය්‍ය** — සෝදවයි. **රජාපෙය්‍ය** — පඬු පොවයි. **විජටාපෙය්‍ය** — ලොම් ලිහා, වෙන් කොට පිළියෙළ කරවයි.
+විනිශ්චයට අයත් කරුණු — ඥාති නොවන භික්ෂුණිය, අණ කිරීමේ ආකාර, ශික්ෂමානා / උපාසිකාවකට දුන් දෙය ඇය උපසම්පන්න වී සේදීම ආදිය.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**ශාක්‍ය ජනපදයේදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා ලොම් සෝදවීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| අණ ලත් භික්ෂුණියගේ ප්‍රයෝගවල | DK
+| සේදූ, පඬු පෙවූ හෝ ලිහූ සැණින් (**තික පාචිත්තිය**) | NP
+| තුනම හෝ දෙකක් කරවීම — එකකින් නිස්සග්ගිය, අනෙක්වාට දුක්කට | NP + DK
+| ඥාති භික්ෂුණියක ඥාති නොවන යැයි සිතීම / සැක කිරීම; එකතෝ උපසම්පන්න අයෙකු ලවා; අනුන්ගේ ලොම් සෝදවීම | DK
+## (ඈ) අනාපත්ති
+# **ඥාති භික්ෂුණිය** සේදීම; ඥාතියගේ මිතුරිය **නොකියා** සේදීම.
+# **භාණ්ඩයක් ලෙස කළ** (පරිභෝග නොකළ) ලොම් සේදවීම.
+# **ශික්ෂමානා, සාමණේරී** සේදීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **භාණ්ඩයක් නොකළ එළු ලොම්** වීම.
+# **ඥාති නොවන භික්ෂුණියකට අණ කිරීම**.
+# ඇය **සේදීම ආදිය** කිරීම.
+## (ඊ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (ඡසමුට්ඨාන — කාය, වාචා, කාය-වාචා, කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි**, **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sakyan country · Nigrodhārāma at Kapilavatthu
+**The group-of-six monks** ==had nuns wash, dye and card goat's wool==. The nuns' hands were stained with dye, and they had no time for **recitation, questioning, higher virtue, higher mind and higher wisdom**. When **Mahāpajāpatī Gotamī** told the Blessed One, he laid down the rule.
+## (A) Explanation of terms
+**Dhovāpeyya** — has it washed. **Rajāpeyya** — has it dyed. **Vijaṭāpeyya** — has it teased apart and carded.
+The analysis covers — the unrelated nun, the ways of commanding, cloth given to a trainee or laywoman who washes it after ordination, and so on.
+## (B) The laying down of the rule and the command
+It was laid down in **the Sakyan country** concerning the group-of-six monks, on the matter of having wool washed. It is **not a common rule**, and **sāṇattika**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| In the efforts of the nun so commanded | DK
+| The moment it is washed, dyed or carded (**triple pācittiya**) | NP
+| Having all three or two done — one nissaggiya, the rest dukkaṭa | NP + DK
+| A related nun perceived as unrelated / in doubt; one ordained on one side; having another's wool washed | DK
+## (D) No offence
+# A **related nun** washes it; her companion washes it **unasked**.
+# Having wool **already made into an article** washed.
+# A **trainee nun or novice nun** washes it.
+# For the insane and so on, and for the first offenders.
+## (E) Factors (= tīṇi — three)
+# **Goat's wool not made into an article**.
+# **Commanding an unrelated nun**.
+# Her **washing and so on**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Matchmaking (go-between) origin** (six origins — body; speech; body–speech; body–mind; speech–mind; body–speech–mind), **by doing**, **no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+@np18
+T: රූපිය (ජාතරූප) සික්ඛාපදය || Accepting Gold and Money
+R: - || -
+N: රජගහ නුවර, වේළුවනය || Rājagaha, Veḷuvana
+P: උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිර || Ven. Upananda the Sakyan
+V: තමාට තැබූ මස් කොටස වෙනුවට කහවණුවක් පිළිගැනීම || Accepting a coin in place of the meat kept for him
+K: SC sd=s an=s anu=0 kr=KoA
+Z: ආරාමය / ආවසථය තුළ වැටුණු දෙය හිමියාට තබා දීමට ගැනීම; උමතු ආදීන් || Picking up what fell within a monastery or rest-house to keep it for the owner; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ රජගහ නුවර · වේළුවනය
+රජගහ නුවර **උපනන්ද** තෙරුන්ගේ උපස්ථායක පවුලක් තෙරුන්ට **මස් කොටසක්** තබා තිබුණි. රාත්‍රියේ පවුලේ දරුවෙකු ඇඬූ විට එය ඔහුට දී, උදයේ තෙරුන් පැමිණි කල්හි "ස්වාමීනි, මස් නැත; කහවණුවකින් කුමක් ගෙනෙන්න ද?" යි ඇසූහ. තෙරුන් =="කහවණුව මට දෙන්න" යි කියා එය පිළිගත්හ==. මිනිස්සු "ශාක්‍යපුත්‍රීය ශ්‍රමණයෝ ද අප මෙන් රන් රිදී පිළිගනිති" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) "ජාතරූපරජතං" යන්නෙහි අර්ථය
+**ජාතරූපං** — **රන්**. **රජතං** — **රිදී**; එසේ ම **කහවණු** ද, **ලෝහ මාසක, දැව මාසක, ලාකඩ මාසක** ආදී **ව්‍යවහාරයේ (මුදල් ලෙස) යෙදෙන** සියල්ල ද මෙහි "රජත" ලෙස ගැනේ.
+## (ආ) "උග්ගණ්හෙය්‍ය", "උග්ගණ්හාපෙය්‍ය", "සාදියෙය්‍ය"
+|! පදය | අර්ථය
+| උග්ගණ්හෙය්‍ය | තමා සඳහා දෙන දෙයක්, හෝ කොතැනක හෝ හිමියෙකු නැතිව ඇති දෙයක් දැක **තමා ම ගැනීම**.
+| උග්ගණ්හාපෙය්‍ය | එය ම **අනුන් ලවා ගැන්වීම**.
+| උපනික්ඛිත්තං වා සාදියෙය්‍ය | "මෙය ආර්‍යයන්ට වේවා" යි **සම්මුඛව** හෝ "අසවල් තැන මගේ රන් රිදී ඇත; එය ඔබට වේවා" යි **පරම්මුඛව** හෝ වචනයෙන්, අත් සංඥාවෙන් "ඔබට" යි අත්හළ දෙයක් **කයින්, වචනයෙන් ප්‍රතික්ෂේප නොකොට සිතින් ඉවසීම**.
+සිතින් කැමති වී ගැනීමට කැමති වුව ද කයින් හෝ වචනයෙන් "මෙය නොකැප ය" යි ප්‍රතික්ෂේප කරයි නම්, හෝ කය වචනයෙන් ප්‍රතික්ෂේප නොකළත් **පිරිසිදු සිතින්** "මෙය අපට නොකැප ය" යි නොඉවසයි නම් **වටී**.
+**නිස්සග්ගියං** — ගැනීම ආදියෙන් එකක් කරන්නාට, **එකට නොබැඳුණු** වස්තුවල **වස්තු ගණනට** නිස්සග්ගිය පාචිත්තියයි.
+## (ඇ) නිස්සජ්ජනය හා රූපිය ඡට්ටකයා
+මෙය **සංඝ මධ්‍යයේ ම** නිස්සජ්ජනය කළ යුතුය: "අහං, භන්තෙ, රූපියං පටිග්ගහෙසිං, ඉදං මෙ, භන්තෙ, නිස්සග්ගියං, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි."
+|! තත්ත්වය | කළ යුතු දෙය
+| ගිහියෙක් එහි පැමිණියොත් | "මෙය දැනගන්න" යි කිව යුතුය.
+| "මෙයින් කුමක් ගෙනෙන්න ද?" යි ඇසුවොත් | "මෙය" යි නොකියා "ගිතෙල් ආදිය භික්ෂූන්ට කැප ය" යි **කැප දෙය පමණක්** කිව යුතුය.
+| ඔහු ගෙනාවොත් | **රූපිය පිළිගත් භික්ෂුව හැර** සියල්ලන් බෙදා පරිභෝග කළ යුතුය. පිළිගත් භික්ෂුවට එයින් ලැබුණු කිසිවක් — **එයින් වැඩුණු ගසක සෙවණ වුව ද** — පරිභෝග කිරීම නොවටී.
+| ඔහු කිසිවක් ගෙනෙන්නට අකමැති නම් | "මෙය ඉවත දමන්න" යි කිව යුතුය; ඔහු කොතැනක දැමුවත්, ගෙන ගියත් නොවැළැක්විය යුතුය.
+| ඔහු ඉවත නොදමයි නම් | **අංග පහකින් යුත්** භික්ෂුවක් **රූපිය ඡට්ටකයා** ලෙස සම්මත කළ යුතුය — ඔහු **සලකුණක් නොතබා අසූචියක් මෙන්** ඉවත දැමිය යුතුය; සලකුණක් තැබුවොත් දුක්කටයි.
+**රූපිය ඡට්ටකයාගේ අංග පහ** — ඡන්දයෙන්, ද්වේෂයෙන්, මෝහයෙන්, භයෙන් අගතියට නොයන, **ඉවත දැමූ දෙය හා නොදැමූ දෙය දන්නා**.
+## (ඈ) ප්‍රඥප්තිය හා ආණත්තිය
+**රජගහයේදී** උපනන්ද ස්ථවිරයන් අරබයා රූපිය පිළිගැනීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. "ගන්වයි" යන ආකාරයෙන් **සාණත්තිකයි**.
+## (ඉ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| තමා සඳහා රන් රිදී ගැනීම, ගැන්වීම, ඉවසීම — වස්තු ගණනට (**තික පාචිත්තිය**) | NP
+| රූපිය නොවන දෙයක් රූපිය යැයි සිතීම හෝ සැක කිරීම | DK
+| **සංඝයා, චෛත්‍යය** ආදීන් සඳහා ගැනීම | DK
+| **මුතු, මැණික්** ආදිය (දුක්කට වස්තු) පිළිගැනීම | DK
+| රූපිය ඡට්ටකයා සලකුණක් තබා ඉවත දැමීම | DK
+## (ඊ) අනාපත්ති
+# ආරාමය හෝ ආවසථය තුළ වැටී ඇති දෙයක් **හිමියාට ගෙන යනු පිණිස** තබා ගැනීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (උ) අංග (= තීණි — තුනකි)
+# **රන් හෝ රිදී** (මුදල්) වීම.
+# **තමා උදෙසා** වීම.
+# **ගැනීම, ගැන්වීම, ඉවසීම** යන තුනෙන් එකක් වීම.
+## (ඌ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (ඡසමුට්ඨාන — කාය, වාචා, කාය-වාචා, කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි හෝ අකිරියයි** (ගැනීමෙන් ඇවැත් වන බැවින් කිරිය; ප්‍රතික්ෂේප නොකිරීමෙන් ඇවැත් වන බැවින් අකිරිය), **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Rājagaha · Veḷuvana
+A family at Rājagaha that supported Ven. **Upananda** had set aside **a portion of meat** for him. At night a child of the family cried, and they gave it to him; in the morning, when Upananda came, they said, “Venerable sir, the meat is gone; what shall we bring you for a kahāpaṇa?” He ==said, “Give me the kahāpaṇa,” and accepted it==. People complained, “The Sakyan recluses accept gold and silver just as we do.” The Blessed One laid down the rule.
+## (A) The meaning of “jātarūparajataṃ”
+**Jātarūpaṃ** — **gold**. **Rajataṃ** — **silver**; and also **kahāpaṇas**, and **copper, wooden and lac māsakas** and all that **pass as currency**, are here included under “silver.”
+## (B) “Uggaṇheyya”, “uggaṇhāpeyya”, “sādiyeyya”
+|! Term | Meaning
+| Uggaṇheyya | **Taking it himself** — something given to him, or unowned and lying anywhere.
+| Uggaṇhāpeyya | **Having another take** it.
+| Upanikkhittaṃ vā sādiyeyya | When something is relinquished to him — face to face, “Let this be the master's,” or in his absence, “My gold is in such a place; let it be yours,” by word or gesture — **consenting to it in mind without refusing it by body or speech**.
+If, though wanting it in his mind, he refuses it by body or speech — “This is not allowable” — or, without refusing by body or speech, **with a pure mind** does not consent, thinking “This is not allowable for us,” it is **allowed**.
+**Nissaggiyaṃ** — for one who does any of these, a nissaggiya pācittiya **for each item**, if the items are **not fastened together**.
+## (C) Forfeiture and the money-disposer
+It must be forfeited **in the midst of the Saṅgha**: “Venerable sirs, I accepted money; this is to be forfeited by me; I forfeit it to the Saṅgha.”
+|! Situation | What to do
+| If a layman comes there | He should be told, “Know this.”
+| If he asks, “What shall I bring with it?” | Without saying “this,” he should be told only what is **allowable**: “Ghee and the like are allowable for monks.”
+| If he brings something | All share and use it **except the monk who accepted the money**. He may not use anything arising from it — **not even the shade of a tree grown from it**.
+| If he does not want to bring anything | He should be told, “Throw it away”; wherever he puts it, or if he takes it away, he should not be stopped.
+| If he will not throw it away | A monk with **five qualities** should be appointed **money-disposer** — he should throw it away **without noting the place, like excrement**; if he notes it, a dukkaṭa.
+**The five qualities of a money-disposer** — not going wrong through desire, hatred, delusion or fear, and **knowing what has and has not been thrown away**.
+## (D) The laying down of the rule and the command
+It was laid down at **Rājagaha** concerning Ven. Upananda, on the matter of accepting money. It is a **common rule**. Because of “has another take it,” it is **sāṇattika**.
+## (E) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Taking, having taken, or consenting to gold or money for himself — by the number of items (**triple pācittiya**) | NP
+| Something not money perceived as money, or in doubt | DK
+| Taking it **for the Saṅgha, a shrine** and so on | DK
+| Accepting **pearls, gems** and the like (dukkaṭa objects) | DK
+| The money-disposer throwing it away while noting the place | DK
+## (F) No offence
+# Picking up what has fallen within a monastery or rest-house **to keep it for the owner**.
+# For the insane and so on, and for the first offender.
+## (G) Factors (= tīṇi — three)
+# **Gold or silver** (money).
+# **For himself**.
+# One of **taking, having it taken, or consenting**.
+## (H) Origin and the rest (samuṭṭhāna)
+**Matchmaking (go-between) origin** (six origins — body; speech; body–speech; body–mind; speech–mind; body–speech–mind), **by doing or by not doing** (falling into it by taking is doing; by not refusing, not doing), **no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+@np19
+T: රූපියසංවෝහාර සික්ඛාපදය || Trading with Money
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මුදලින් මුදල් හුවමාරු කිරීම || Exchanging money for money
+K: SC sd=s an=a anu=0
+Z: උමතු ආදීන් හා ආදිකම්මිකයන් පමණි || Only the insane and the first offenders
+G: 2
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==නොයෙක් ආකාරයෙන් රූපිය හුවමාරු කළහ — රන්වලින් රිදී, රිදීවලින් රන් ආදී වශයෙන්==. මිනිස්සු "ශාක්‍යපුත්‍රීය ශ්‍රමණයෝ කාමභෝගී ගිහියන් මෙන් රූපිය ගනුදෙනු කරති" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**නානප්පකාරකං** — **කළ** (ආභරණාදී ලෙස කළ), **නොකළ**, **කළ-නොකළ** ආදී වශයෙන් නොයෙක් ආකාර.
+**රූපියසංවොහාරං** — **රන් රිදී (මුදල්) හුවමාරු කිරීම**.
+පෙර ශික්ෂාපදයෙන් නිස්සග්ගිය වස්තු හා දුක්කට වස්තු **පිළිගැනීම** වළක්වන ලදී; මෙයින් **හුවමාරු කිරීම** වළක්වයි.
+## (ආ) හුවමාරුවේ ඇවැත් වගුව
+|! දෙන දෙය | ලබන දෙය | ඇවැත
+| දුක්කට වස්තුව (මුතු, මැණික් ආදිය) | දුක්කට වස්තුව හෝ කැප වස්තුව | DK
+| කැප වස්තුව | දුක්කට වස්තුව | DK
+| නිස්සග්ගිය වස්තුව (රන්, රිදී, මුදල්) | නිස්සග්ගිය, දුක්කට හෝ කැප වස්තුව | NP
+| දුක්කට වස්තුව හෝ කැප වස්තුව | නිස්සග්ගිය වස්තුව | NP
+එය **සංඝ මධ්‍යයේ** නිස්සජ්ජනය කළ යුතුය. ගිහියෙක් පැමිණියොත් "**මෙය දැනගන්න**" යි කිව යුතුය; "මෙයින් කුමක් ගෙනෙන්න ද?" යි ඇසුවොත් **ගිතෙල් ආදී කැප දෙය පමණක්** කිව යුතුය. ඔහු ගෙනාවොත් **හුවමාරු කළ භික්ෂුව හැර** සියල්ලන් පරිභෝග කළ යුතුය; ඔහු ඉවත නොදමයි නම් **අංග පහකින් යුත් රූපිය ඡට්ටකයෙකු** සම්මත කොට **සලකුණක් නොතබා** ඉවත දැමවිය යුතුය.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා රූපිය හුවමාරුවේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඈ) අනාපත්ති
+# උමතු ආදීන්ට හා ආදිකම්මිකයන්ට පමණි.
+## (ඉ) අංග (= ද්වේ — දෙකකි)
+# තමාගේ ධනයෙන් හුවමාරු කරන දෙය, **හෝ** හුවමාරු කරන ධනය **රූපිය වීම**.
+# **හුවමාරු කිරීම**.
+## (ඊ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (ඡසමුට්ඨාන — කාය, වාචා, කාය-වාචා, කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි**, **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six monks** ==engaged in various kinds of money transactions — silver for gold, gold for silver and so on==. People complained, “The Sakyan recluses deal in money like householders who enjoy sensual pleasures.” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Nānappakārakaṃ** — of various kinds: **worked** (into ornaments and the like), **unworked**, **partly worked** and so on.
+**Rūpiyasaṃvohāraṃ** — **exchanging gold and silver (money)**.
+The previous rule forbade **accepting** objects entailing forfeiture or dukkaṭa; this one forbids **exchanging** them.
+## (B) Offences in exchange
+|! Gives | Gets | Offence
+| A dukkaṭa object (pearls, gems etc.) | A dukkaṭa object or an allowable thing | DK
+| An allowable thing | A dukkaṭa object | DK
+| An object entailing forfeiture (gold, silver, money) | An object entailing forfeiture, a dukkaṭa object or an allowable thing | NP
+| A dukkaṭa object or an allowable thing | An object entailing forfeiture | NP
+It is to be forfeited **in the midst of the Saṅgha**. If a layman comes, he should be told, “**Know this**”; if he asks what to bring with it, only **allowable things such as ghee** should be named. If he brings something, all may use it **except the monk who made the exchange**; if he will not throw it away, **a money-disposer with five qualities** is appointed, who throws it away **without noting the place**.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six monks, on the matter of trading with money. It is a **common rule**, and **anāṇattika**.
+## (D) No offence
+# Only for the insane and so on, and for the first offenders.
+## (E) Factors (= dve — two)
+# What he exchanges with his own funds, **or** the funds he exchanges, **being money**.
+# **Exchanging**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Matchmaking (go-between) origin** (six origins — body; speech; body–speech; body–mind; speech–mind; body–speech–mind), **by doing**, **no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.
+@np20
+T: කයවික්කය සික්ඛාපදය || Buying and Selling
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිර || Ven. Upananda the Sakyan
+V: පරිබ්‍රාජකයෙකු සමඟ සිවුරු හුවමාරුවේදී මිල කථා කිරීම || Bargaining with a wanderer in exchanging a robe
+K: SC sd=s an=a anu=0
+Z: මිල විමසීම; කැප කාරකයෙකුට පෙන්වීම; "මෙය අපට ඇත, අපට මෙය ඕනෑ" යි කීම; සහධාර්මිකයන් සමඟ හුවමාරුව; උමතු ආදීන් || Asking the price; pointing it out to a steward; saying “We have this; we need that”; exchanging with co-religionists; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**උපනන්ද** තෙරුන් දක්ෂ ලෙස මසා මනාව පඬු පෙවූ සිවුරක් දුටු පරිබ්‍රාජකයෙක් "මේ සිවුර මට දෙන්න, මම ඔබට මගේ සළුව දෙමි" යි කීවේය. "දැනගන්න" යි ==මිල කථා කොට හුවමාරුව කළ තෙරුන්==, පසුව මිතුරන්ගේ වචනයෙන් පසුතැවිලි වූ පරිබ්‍රාජකයා සළුව ආපසු ඉල්ලූ කල්හි, ==ආපසු දීම ප්‍රතික්ෂේප කළහ==. පරිබ්‍රාජකයා "පසුතැවිලි වූ ගිහියෙකුට ගිහියෝ පවා ආපසු දෙති; පැවිද්දෙකු පැවිද්දෙකුට නොදෙන්නේ ද?" යි දොස් කීවේය. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**නානප්පකාරකං** — සිවුරු ආදී **කැප භාණ්ඩ** වශයෙන් නොයෙක් ආකාර.
+**කයවික්කයං** — **මිලට ගැනීම (කය) හා විකිණීම (වික්කය)**. "මෙයින් මෙය දෙන්න, මෙය ගෙනෙන්න, හුවමාරු කරන්න, මිලට ගන්න" ආදී ලෙස **අනුන්ගේ කැප භාණ්ඩය ගන්නා විට කය** ද, **තමාගේ කැප භාණ්ඩය දෙන විට වික්කය** ද වේ.
+එබැවින් **සහධාර්මිකයන් පස් දෙනා හැර**, එසේ තමාගේ කැප භාණ්ඩය දී **මවගේ සන්තක** කැප භාණ්ඩයක් වුව ද ගන්නේ නම් නිස්සග්ගිය වේ.
+## (ආ) නිස්සජ්ජනය
+නිස්සග්ගිය වචනයෙන් **සංඝයාට, ගණයකට හෝ පුද්ගලයෙකුට** නිස්සජ්ජනය කළ යුතුය. "මෙය වළඳා හෝ ගෙන මෙය ගෙනෙන්න, කරන්න" යි පඬු ආදිය ගෙන්වා, හෝ **ධමකරණය** (පෙරහන) ආදී පිරිකර, **බිම පිරිසිදු කිරීම** ආදී නව කර්ම කරවා ගත්තේ නම් — වස්තුව ඇත්නම් නිස්සජ්ජනය කළ යුතුය; **නැත්නම් පාචිත්තිය පමණක්** දෙසිය යුතුය.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** උපනන්ද ස්ථවිරයන් අරබයා ගැනුම් විකිණුම් වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| සහධාර්මිකයෙකු නොවන අයෙකු සමඟ තමාගේ කැප දෙයින් කැප දෙයක් ගැනීම (**තික පාචිත්තිය**) | NP
+| ගැනුම්කරු නොවූ, වෙළඳාමක් නොවූ ගනුදෙනුවක් ලෙස සිතීම හෝ සැක කිරීම | DK
+| වස්තුව නැති විට (වළඳා අවසන් / කරවා අවසන්) | PC
+## (ඉ) අනාපත්ති
+# **"මෙය කීයද?"** යි මිල විමසීම.
+# භාණ්ඩය ගැනීමට කැමති තැනැත්තා හැර **වෙනත් අයෙකු** — අවම වශයෙන් **ඔහුගේ ම පුතා හෝ සහෝදරයා** වුව ද — **කැප කාරකයා** කොට "මෙයින් මෙය ගෙන දෙන්න" යි කීම.
+# **"මෙය අපට ඇත; අපට මෙය හා මෙය ඕනෑ"** යි කියා, **තමාගේ ධනයෙන්** ලැබුණු දෙය ගැනීම.
+# **සහධාර්මිකයන් සමඟ** හුවමාරුව.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# තමාගේ ධනයෙන් හුවමාරු කරන දෙය හා හුවමාරු කරන ධනය **කැප වස්තු වීම**.
+# **සහධාර්මිකයෙකු නොවීම**.
+# **ගැනුම් විකිණුමට පැමිණීම**.
+## (උ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (ඡසමුට්ඨාන — කාය, වාචා, කාය-වාචා, කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි**, **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+A wanderer saw a robe that Ven. **Upananda** had skilfully sewn and well dyed, and said, “Give me this robe and I'll give you my cloak.” Saying “You decide,” Upananda ==bargained and made the exchange==. Later the wanderer, persuaded by his friends, regretted it and asked for his cloak back, but Upananda ==refused to return it==. The wanderer complained, “Even householders give back to a householder who regrets a deal; won't one gone forth give back to one gone forth?” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Nānappakārakaṃ** — of various kinds, by way of **allowable goods** such as robes.
+**Kayavikkayaṃ** — **buying (kaya) and selling (vikkaya)**. Saying, “Give this for that, bring this, exchange, buy,” one **buys** when taking another's allowable goods and **sells** when giving one's own.
+So, **except with the five co-religionists**, if he gives his own allowable goods and takes allowable goods in this way — **even his mother's** — it is nissaggiya.
+## (B) Forfeiture
+It is to be forfeited **to a Saṅgha, a group or an individual** with the forfeiture formula. If he has had dye and the like brought — “Eat this, or take this, and bring or do that” — or had requisites such as **a water-strainer** made, or new work such as **clearing ground** done: if the object remains it is to be forfeited; **if not, only the pācittiya** is to be confessed.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning Ven. Upananda, on the matter of buying and selling. It is a **common rule**, and **anāṇattika**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Getting allowable goods with his own allowable goods from one who is not a co-religionist (**triple pācittiya**) | NP
+| Perceiving a non-trade as trade, or in doubt | DK
+| When the object no longer exists (eaten or used up) | PC
+## (E) No offence
+# Asking the price: **“What does this cost?”**
+# Making **someone other** than the seller — **even his own son or brother** — a steward and telling him, “Get this with that and give it to me.”
+# Saying, **“We have this; we need this and this,”** and taking what is obtained with his own goods.
+# Exchanging **with co-religionists**.
+# For the insane and so on, and for the first offender.
+## (F) Factors (= tīṇi — three)
+# What he exchanges and what he gets **being allowable things**.
+# The other party **not a co-religionist**.
+# **Engaging in buying and selling**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Matchmaking (go-between) origin** (six origins — body; speech; body–speech; body–mind; speech–mind; body–speech–mind), **by doing**, **no release by perception, without intention, blameworthy by convention, bodily and verbal action, three kinds of mind, three feelings**.

@@ -1,0 +1,493 @@
+@as1
+T: සම්මුඛා විනය || Face-to-face Verdict
+R: ඉපදුණු ඉපදුණු අධිකරණ සංසිඳවීම පිණිස, සන්සුන් කිරීම පිණිස සම්මුඛා විනය දිය යුතුය. || For the settling and pacifying of issues as they arise, a face-to-face verdict is to be given.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**අසම්මුඛව (නැති තැන)** සිටි භික්ෂූන්ට **තජ්ජනීය, නියස්ස, පබ්බාජනීය, පටිසාරණීය, උක්ඛේපනීය** කර්ම කළහ==. අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ "**අසම්මුඛව කළ කර්ම අධර්ම කර්ම ය**" යි වදාරා, අධිකරණ **සම්මුඛව** විසඳිය යුතු බව වදාළහ (චූළවග්ග, සමථක්ඛන්ධකය).
+## (අ) අධිකරණ සතර — කඞ්ඛාවිතරණී අනුව
+**සත්ත** — සමථවල **ගණන** යි. **අධිකරණසමථා** — **අධිකරණ සංසිඳවන, සන්සුන් කරන** බැවින් එසේ කියනු ලැබේ.
+|! අධිකරණය | අර්ථය
+| **විවාදාධිකරණය** | "**ධර්මය ය**" හෝ "**අධර්මය ය**" ආදී **වස්තු දහඅටකින්** විවාද කරන භික්ෂූන්ගේ **විවාදය**
+| **අනුවාදාධිකරණය** | **සීල විපත්තියෙන්**, හෝ **ආචාර, දිට්ඨි, ආජීව විපත්තියෙන්** චෝදනා කරන අයගේ **අනුවාදය — උපවාදය හා චෝදනාව**
+| **ආපත්තාධිකරණය** | මාතිකාවේ ආ **පහ** හා විභංගයේ ආ **දෙක** යන **ආපත්ති ස්කන්ධ සත** ම
+| **කිච්චාධිකරණය** | සංඝයාගේ **අපලෝකන ආදී කර්ම සතර** කිරීම
+## (ආ) සම්මුඛතා සතර
+සම්මුඛා විනය නම් අධිකරණය සංසිඳෙන විට පවතින මේ **සම්මුඛතා සතර** යි:
+|! සම්මුඛතාව | අර්ථය — කඞ්ඛාවිතරණී අනුව
+| **සංඝ සම්මුඛතා** | කර්මය කරන සංඝයා **සමගිව, සම්මුඛව** සිටීම
+| **ධම්ම සම්මුඛතා** | සංසිඳවිය යුතු **වස්තුව සත්‍ය (භූත)** වීම
+| **විනය සම්මුඛතා** | සංසිඳවිය යුතු **ආකාරයට ම** සංසිඳවීම
+| **පුග්ගල සම්මුඛතා** | **විවාද කරන්නා හා විවාද කරනු ලබන්නා** — දෙපක්ෂය ම **සම්මුඛව** සිටීම
+==**උබ්බාහිකාවකින්** සංසිඳවන විට **සංඝ සම්මුඛතාව** නැත==; **පුද්ගලයෙකු හෝ ගණයෙකු ඉදිරියේ** ඇවැත් දෙසන විට ද **සංඝ සම්මුඛතාව** නැත.
+## (ඇ) සංසිඳවන අධිකරණ
+==**අධිකරණ සතර ම** සම්මුඛා විනය සමඟ සංසිඳේ==; **කිච්චාධිකරණය සම්මුඛා විනයෙන් පමණක්** සංසිඳේ.
+|! අධිකරණය | සම්මුඛා විනයෙන් සංසිඳෙන ආකාරය
+| **විවාදාධිකරණය** | **උපන් විහාරයේ ම**, හෝ වෙනත් තැනකට **යන අතරමඟ**, හෝ **ගෙන ගොස් භාර දුන් තැන සංඝයා** විසින්, නොහැකි නම් **එහි ම උබ්බාහිකාවට සම්මත භික්ෂූන්** විසින් විනිශ්චය කිරීම
+| **අනුවාදාධිකරණය** | **චෝදනා කරන්නාගේ හා චෝදනා ලබන්නාගේ** වචන අසා, **ඇවතක් නැත්නම් දෙදෙනාට ම සමා කරවා**, **ඇත්නම් "මෙහි මේ ඇවත ය"** යි විනිශ්චය කිරීම
+| **ආපත්තාධිකරණය** | සම්මුඛා විනයෙන් **පමණක්** නොසංසිඳේ — **පටිඤ්ඤාතකරණය** හෝ **තිණවත්ථාරකය** සමඟ ය
+| **කිච්චාධිකරණය** | **සම්මුඛා විනයෙන් ම**
+## (ඈ) විනිශ්චය කරන තැන — පිළිවෙළ
+# පළමුව **අධිකරණය උපන් ආවාසයේ ම** සංඝයා සංසිඳවීමට උත්සාහ කරයි.
+# නොහැකි නම් **වඩා බොහෝ භික්ෂූන් සිටින ආවාසයකට** ගෙන යයි; **අතරමඟ දී** ද සංසිඳවිය හැකිය.
+# එහි දී **අනන්ත කථා** ඇති වී **කිසිවකුගේ කීමේ අර්ථය නොතේරේ** නම්, **අංග දහයකින් යුත්** භික්ෂූන් **උබ්බාහිකාවට** සම්මත කොට ඔවුන් ලවා විනිශ්චය කරවයි.
+**උබ්බාහිකාවට සම්මත කළ යුතු භික්ෂුවගේ අංග දහය (චූළවග්ගය):**
+# **සිල්වත්** ය — පාතිමොක්ඛ සංවරයෙන් සංවෘත, ආචාර ගෝචර සම්පන්න, අණුමාත්‍ර වරදෙහි ද භය දක්නා.
+# **බහුශ්‍රැත** ය — ඇසූ දේ දරන, රැස් කරන.
+# **ප්‍රාතිමෝක්ෂ දෙක ම** විස්තර වශයෙන් **මනාව උගත්, මනාව විභජනය කළ, සූත්‍ර හා අනුව්‍යඤ්ජන වශයෙන් මනාව විනිශ්චය කළ**.
+# **විනයයේ ස්ථිර, නොසැලෙන**.
+# **දෙපක්ෂයට ම** හඟවන්නට, දක්වන්නට, බලන්නට, පහදවන්නට **සමර්ථ**.
+# **අධිකරණය උපදවීමට හා සංසිඳවීමට දක්ෂ**.
+# **අධිකරණය දන්නා**.
+# **අධිකරණයේ හේතුව (සමුදය) දන්නා**.
+# **අධිකරණයේ නිරෝධය දන්නා**.
+# **අධිකරණ නිරෝධයට යන මඟ දන්නා**.
+## (ඉ) ධාර්මික හා අධාර්මික සම්මුඛා විනය
+|! කවුරුන් කවුරුන් හඟවයි ද | ප්‍රතිඵලය
+| **අධර්මවාදී** පුද්ගලයෙක් / බොහෝ දෙනෙක් / සංඝයා, **ධර්මවාදී** පුද්ගලයෙකු / බොහෝ දෙනෙකු / සංඝයා "**මෙය ධර්මය, මෙය විනය, මෙය ශාස්තෘ ශාසනය; මෙය ගන්න, මෙය රුචි කරන්න**" යි හඟවා, සංසිඳවයි (**කෘෂ්ණ පක්ෂ නවකය**) | **අධර්මයෙන්** සංසිඳුණි — **සම්මුඛා විනයට සමාන ව්‍යාජයක්**
+| **ධර්මවාදී** පුද්ගලයෙක් / බොහෝ දෙනෙක් / සංඝයා, **අධර්මවාදී** පුද්ගලයෙකු / බොහෝ දෙනෙකු / සංඝයා එසේ හඟවා සංසිඳවයි (**ශුක්ල පක්ෂ නවකය**) | **ධර්මයෙන්** සංසිඳුණි — **සම්මුඛා විනයෙන්**
+## (ඊ) නැවත ඇවිස්සීම
+ධර්මයෙන් සංසිඳවූ අධිකරණය "**නැවත කළ යුතුය**" යි දැන දැන ඇවිස්සීම **පාචිත්තිය 63 (උක්කෝටන)** ය.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==carried out **censure, guidance, banishment, reconciliation and suspension** acts against monks **who were not present**==. Monks of few wishes complained. The Blessed One declared “**Acts done in absence are illegitimate**,” and taught that issues must be settled **face to face** (Cūḷavagga, Samatha-khandhaka).
+## (A) The four kinds of issue — according to the Kaṅkhāvitaraṇī
+**Satta** — **the number** of the settlements. **Adhikaraṇasamathā** — so called because they **settle and calm issues**.
+|! Issue | Meaning
+| **dispute (vivāda)** | the **dispute** of monks arguing on **the eighteen grounds**, such as “**this is Dhamma**” or “**this is not Dhamma**”
+| **accusation (anuvāda)** | the **accusation — reproach and charge** — of those accusing of **failure in morality**, or **in conduct, view or livelihood**
+| **offence (āpatti)** | **all seven classes of offence** — **five** in the Mātikā and **two** in the Vibhaṅga
+| **duty (kicca)** | carrying out **the four Saṅgha acts**, by announcement and the rest
+## (B) The four kinds of presence
+A face-to-face verdict is **these four kinds of presence** when an issue is settled:
+|! Presence | Meaning — according to the Kaṅkhāvitaraṇī
+| **of the Saṅgha** | the Saṅgha doing the act is **present and united**
+| **of the Dhamma** | the matter to be settled **is real (bhūta)**
+| **of the Vinaya** | it is settled **just as it should be settled**
+| **of the individuals** | **the one disputing and the one disputed with** — both parties **present**
+==When it is settled **by a referral committee**, **presence of the Saṅgha** is lacking==; when an offence is confessed **before an individual or a group**, **presence of the Saṅgha** is also lacking.
+## (C) Issues it settles
+==**All four issues** are settled together with the face-to-face verdict==; **duties are settled by the face-to-face verdict alone**.
+|! Issue | How it is settled face to face
+| **dispute** | decided **in the monastery where it arose**, or **on the way** to another place, or **by the Saṅgha to which it was handed over**, or failing that, **by monks authorised there as a referral committee**
+| **accusation** | hearing **the accuser and the accused**, **if there is no offence, having both forgive each other**, **if there is, deciding “this is the offence here”**
+| **offence** | **not** by the face-to-face verdict **alone** — together with **acting on acknowledgement** or **covering over with grass**
+| **duty** | **by the face-to-face verdict alone**
+## (D) Where it is decided — in order
+# First the Saṅgha **in the residence where the issue arose** tries to settle it.
+# If it cannot, the issue is taken **to a residence with more monks**; it may also be settled **on the way**.
+# If there **endless talk** arises and **the meaning of what anyone says cannot be understood**, monks **with ten qualities** are authorised as **a referral committee (ubbāhikā)** to decide it.
+**The ten qualities of a monk for the referral committee (Cūḷavagga):**
+# **Virtuous** — restrained by the Pātimokkha, of good conduct and resort, seeing danger in the slightest fault.
+# **Learned** — retaining and storing what he has heard.
+# Has **both Pātimokkhas** **well learnt in detail, well analysed, well decided by rule and detail**.
+# **Firm in the Vinaya, not to be shaken**.
+# **Able** to make **both parties** understand, see, look and be reconciled.
+# **Skilled at raising and settling issues**.
+# **Knows the issue**.
+# **Knows its origin**.
+# **Knows its cessation**.
+# **Knows the way to its cessation**.
+## (E) Legitimate and illegitimate face-to-face settlement
+|! Who persuades whom | Result
+| **one who speaks against the Dhamma** — an individual / several / a Saṅgha — persuades **one who speaks Dhamma** — an individual / several / a Saṅgha — “**This is Dhamma, this is Vinaya, this is the Teacher’s instruction; take this, approve this**,” and settles it (**the dark nine**) | settled **illegitimately** — **a counterfeit of the face-to-face verdict**
+| **one who speaks Dhamma** — an individual / several / a Saṅgha — persuades **one who speaks against the Dhamma** thus and settles it (**the bright nine**) | settled **legitimately** — **by the face-to-face verdict**
+## (F) Reopening
+Knowingly reopening an issue legitimately settled, saying “**it must be done again**,” is **pācittiya 63 (reopening)**.
+
+@as2
+T: සති විනය || Verdict of Mindfulness
+R: සති විනය දිය යුතුය. || A verdict of mindfulness is to be given.
+#si
+## කථා වස්තුව
+@ රජගහ නුවර · වේළුවනය කලන්දක නිවාපය
+ආයුෂ්මත් **දබ්බ මල්ලපුත්ත** තෙරුන් **සත් හැවිරිදි වියේ දී රහත්** වූහ. සංඝයාට සේවය කිරීමට සිතා, **සංඝයා විසින් සෙනසුන් පනවන්නා හා බත් උද්දේශකයා ලෙස සම්මත** කරනු ලැබූහ. රාත්‍රියේ පැමිණි භික්ෂූන්ට **ඇඟිල්ල දල්වා (තේජෝ ධාතු සමාපත්තියෙන්)** ආලෝකය දෙමින් සෙනසුන් පෙන්වූහ.
+**මෙත්තිය-භූමජක** භික්ෂූහු **නවක ද අල්පපුණ්‍ය ද** වූ බැවින් සංඝයාගේ **ලාමක සෙනසුන් හා ලාමක බත්** ඔවුන්ට ලැබිණ. **කල්‍යාණභත්තික ගෘහපතියාගේ** ප්‍රණීත දානය බලාපොරොත්තු වූ දිනයේ ද ලාමක බත ලැබී, ==කිපී **මෙත්තියා භික්ෂුණිය** ලවා දබ්බ තෙරුන්ට **"මා දූෂණය කළේය"** යි **අමූලක සීල විපත්තියකින්** චෝදනා කරවූහ==.
+භාග්‍යවතුන් වහන්සේ සංඝයා රැස් කොට "**දබ්බ, මේ භික්ෂුණිය කියන්නාක් මෙන් කළ බවක් සිහි වේ ද?**" යි ඇසූ කල්හි, තෙරුන් "**ස්වාමීනි, භාග්‍යවතුන් වහන්සේ මා දන්නා සේක**" යි කියා, "**ස්වාමීනි, සිහිනයෙන් වත් මෛථුනය සේවනය කළ බවක් නොදනිමි**" යි කීහ. භික්ෂුණිය **නාසනය** කරනු ලැබූවාය; මෙත්තිය-භූමජකයෝ තමන් ඇය පෙළඹවූ බව පිළිගත්හ. එවිට භාග්‍යවතුන් වහන්සේ **සතිවෙපුල්ලප්පත්ත (සිහිය විපුල බවට පත්)** දබ්බ තෙරුන්ට **සතිවිනය දීමට** අනුදැන වදාළහ.
+## (අ) විස්තරය — කඞ්ඛාවිතරණී අනුව
+==**ක්ෂීණාශ්‍රවයෙකුට (රහතන් වහන්සේ වැනි පිරිසිදු භික්ෂුවකට)** **අමූලක සීල විපත්තියකින්** චෝදනා කරන විට==, ඔහු **සතිවිනය ඉල්ලුවහොත්**, සංඝයා **ඤත්තිචතුත්ථ කර්මයෙන්** සතිවිනය දෙයි.
+==සතිවිනය දුන් පසු **ඒ පුද්ගලයා කෙරෙහි කිසිවකුගේ චෝදනාවක් නොනැගේ**==.
+## (ආ) සංසිඳවන අධිකරණ
+|! අධිකරණය | ආකාරය
+| **අනුවාදාධිකරණය** | **සම්මුඛා විනයෙන් හා සතිවිනයෙන්** සංසිඳේ
+## (ඇ) දෙන ආකාරය
+# චෝදනා ලැබූ භික්ෂුව **සංඝයා වෙත ගොස්**, **උතුරු සළුව ඒකාංශ කොට**, **වැඩිමහල් භික්ෂූන්ගේ පා වැඳ**, **උක්කුටිකව හිඳ**, **ඇඳිලි බැඳ** — "**ස්වාමීනි, මොවුහු මට අමූලක සීල විපත්තියකින් චෝදනා කරති; සිහිය විපුල බවට පත් මම සංඝයාගෙන් සතිවිනය ඉල්ලමි**" යි **තෙවරක්** ඉල්ලයි.
+# **ව්‍යක්ත, ප්‍රතිබල** භික්ෂුවක් **ඤත්තියක් හා අනුස්සාවන තුනකින්** (ඤත්තිචතුත්ථ කර්මයෙන්) සංඝයාට දන්වයි.
+# "**සංඝයා විසින් සතිවිනය දෙන ලදී**" යි ධාරණය කරයි.
+## (ඈ) ධාර්මික සතිවිනය දානයේ අංග පහ
+# භික්ෂුව **පිරිසිදු, ඇවැත් රහිත** ය.
+# **ඔහුට චෝදනා කරති**.
+# ඔහු **ඉල්ලයි**.
+# සංඝයා **ධර්මයෙන්** දෙයි.
+# සංඝයා **සමගිව** දෙයි.
+#en
+## The Story
+@ Rājagaha · Veḷuvana, the squirrels' feeding place
+Ven. **Dabba the Mallian** **became an arahant at seven years of age**. Wishing to serve the Saṅgha, he was **authorised by the Saṅgha as assigner of lodgings and allocator of meals**. For monks arriving at night he showed the lodgings **by the light of his blazing finger (attaining the fire element)**.
+**The Mettiya-Bhūmajaka monks**, being **junior and of little merit**, received **the Saṅgha’s poorer lodgings and poorer meals**. On the day they expected **the householder Kalyāṇabhattika’s** fine meal, they again received a poor one, and ==in anger had **the nun Mettiyā** accuse Dabba — “**He has violated me**” — with **a groundless failure in morality**==.
+The Blessed One convened the Saṅgha and asked, “**Dabba, do you remember having done what this nun says?**” He replied, “**Venerable sir, the Blessed One knows me**,” and, “**Venerable sir, I do not recall indulging in sexual intercourse even in a dream.**” The nun was **expelled**; the Mettiya-Bhūmajakas admitted they had incited her. The Blessed One then allowed **a verdict of mindfulness** to be given to Dabba, **who had reached fullness of mindfulness (sativepullappatta)**.
+## (A) Explanation — according to the Kaṅkhāvitaraṇī
+==When **one whose taints are destroyed (a pure monk such as an arahant)** is accused **with a groundless failure in morality**==, and he **asks for a verdict of mindfulness**, the Saṅgha gives it **by a motion-and-three-announcements act**.
+==Once the verdict of mindfulness is given, **no one’s accusation against that person takes hold**==.
+## (B) Issues it settles
+|! Issue | How
+| **accusation** | settled **by the face-to-face verdict and the verdict of mindfulness**
+## (C) How it is given
+# The accused monk **goes to the Saṅgha**, **arranges his upper robe over one shoulder**, **pays respect at the feet of the senior monks**, **squats**, **raises his joined palms** and asks **three times**: “**Venerable sirs, these monks accuse me with a groundless failure in morality; having reached fullness of mindfulness, I ask the Saṅgha for a verdict of mindfulness.**”
+# **A competent, capable** monk informs the Saṅgha **with a motion and three proclamations** (a motion-and-three-announcements act).
+# He records: “**The verdict of mindfulness has been given by the Saṅgha.**”
+## (D) Five factors of a legitimate verdict of mindfulness
+# The monk is **pure, without offence**.
+# **They accuse him**.
+# He **asks for it**.
+# The Saṅgha gives it **legitimately**.
+# The Saṅgha gives it **in unity**.
+
+@as3
+T: අමූළ්හ විනය || Verdict of Past Insanity
+R: අමූළ්හ විනය දිය යුතුය. || A verdict of past insanity is to be given.
+#si
+## කථා වස්තුව
+@ රජගහ නුවර · වේළුවනය කලන්දක නිවාපය
+**ගග්ග** නම් භික්ෂුවක් ==**උමතු වී, සිත විපරීත වී**, බොහෝ **ශ්‍රමණයෙකුට නොගැළපෙන** දේ කීය, කළේය==. පසුව සුවය ලත් ඔහුට භික්ෂූහු "**ආයුෂ්මත, මෙබඳු ඇවතකට පැමිණි බව සිහි වේ ද?**" යි චෝදනා කළහ. ඔහු "**ඇවැත්නි, මම උමතු වීමි; උමතුවෙන් මා විසින් එය කරන ලදී; එය මට සිහි නොවේ**" යි කීව ද ඔවුහු නැවත නැවත චෝදනා කළහ. භාග්‍යවතුන් වහන්සේ **අමූළ්හ වූ (දැන් මුළා නොවූ)** ගග්ගට **අමූළ්හවිනය දීමට** අනුදැන වදාළහ.
+## (අ) විස්තරය — කඞ්ඛාවිතරණී අනුව
+==**උමතු භික්ෂුවක්** **උමතුව සිටියදී කළ ශ්‍රමණයෙකුට නොගැළපෙන දේ** ගැන "**සිහි වේ ද?**" යි චෝදනා ලබයි==. "**ඇවැත්නි, උමතු වූ මා එය කළෙමි; මට එය සිහි නොවේ**" යි කීව ද **චෝදනා ලබමින් ම** සිටී නම්, **නැවත චෝදනා නොකරනු පිණිස** අමූළ්හවිනය ඉල්ලයි. සංඝයා **ඤත්තිචතුත්ථ කර්මයෙන්** දෙයි.
+==අමූළ්හවිනය දුන් පසු **ඒ හේතුව නිසා** ඒ පුද්ගලයා කෙරෙහි **කිසිවකුගේ චෝදනාවක් නොනැගේ**==.
+## (ආ) සංසිඳවන අධිකරණ
+|! අධිකරණය | ආකාරය
+| **අනුවාදාධිකරණය** | **සම්මුඛා විනයෙන් හා අමූළ්හවිනයෙන්** සංසිඳේ
+## (ඇ) දෙන ආකාරය
+# භික්ෂුව සංඝයා වෙත ගොස්, **උතුරු සළුව ඒකාංශ කොට**, **වැඩිමහල් භික්ෂූන්ගේ පා වැඳ**, **උක්කුටිකව හිඳ**, **ඇඳිලි බැඳ** — "**ස්වාමීනි, මම උමතු වීමි; උමතුවෙන් මා බොහෝ ශ්‍රමණයෙකුට නොගැළපෙන දේ කළෙමි; භික්ෂූහු මට චෝදනා කරති; අමූළ්හ වූ මම සංඝයාගෙන් අමූළ්හවිනය ඉල්ලමි**" යි **තෙවරක්** ඉල්ලයි.
+# **ව්‍යක්ත, ප්‍රතිබල** භික්ෂුවක් **ඤත්තිචතුත්ථ කර්මයෙන්** දෙයි.
+## (ඈ) ධාර්මික හා අධාර්මික අමූළ්හවිනය දාන — චූළවග්ගය
+|! භික්ෂුවගේ තත්ත්වය | ඔහු කියන දෙය | විනිශ්චය
+| ඇවතකට පැමිණ, **සිහි ඇතිව ම** | "**ඇවැත්නි, එබඳු ඇවතක් සිහි නොවේ**" | **අධාර්මික**
+| ඇවතකට පැමිණ, **සිහි ඇතිව ම** | "**සිහිනයක් මෙන් සිහි වේ**" | **අධාර්මික**
+| ඇවතකට පැමිණ, **උමතු නොවූවෙකු උමතුවකු මෙන් හැසිර** | "**මම ද මෙසේ කරමි, ඔබ ද මෙසේ කරති; මට ද එය වටී, ඔබට ද වටී**" | **අධාර්මික**
+| **සැබැවින් ම උමතු වූ**, උමතුවෙන් කළ දේ **සිහි නොවන** | "**ඇවැත්නි, එය සිහි නොවේ**" | **ධාර්මික**
+| **සැබැවින් ම උමතු වූ**, | "**සිහිනයක් මෙන් සිහි වේ**" | **ධාර්මික**
+| **සැබැවින් ම උමතු වූ**, | "**මම ද මෙසේ කරමි ... ඔබට ද වටී**" (උමතුව නිසා ම) | **ධාර්මික**
+#en
+## The Story
+@ Rājagaha · Veḷuvana, the squirrels' feeding place
+A monk named **Gagga** ==**went insane, his mind deranged**, and did and said much **unbecoming to an ascetic**==. After he recovered, monks accused him: “**Venerable, do you remember committing such an offence?**” Though he said, “**Friends, I was insane; I did that in my insanity; I don’t remember it**,” they kept accusing him. The Blessed One allowed **a verdict of past insanity** to be given to Gagga, **now no longer deluded (amūḷha)**.
+## (A) Explanation — according to the Kaṅkhāvitaraṇī
+==**An insane monk** is accused, “**Do you remember?**”, about **unbecoming conduct done during his insanity**==. Though he says, “**Friends, I did that when insane; I don’t remember it**,” if **the accusations continue**, he asks for a verdict of past insanity **so that he will not be accused again**. The Saṅgha gives it **by a motion-and-three-announcements act**.
+==Once it is given, **no one’s accusation against him on that account takes hold**==.
+## (B) Issues it settles
+|! Issue | How
+| **accusation** | settled **by the face-to-face verdict and the verdict of past insanity**
+## (C) How it is given
+# The monk goes to the Saṅgha, **arranges his upper robe over one shoulder**, **pays respect at the feet of the senior monks**, **squats**, **raises his joined palms** and asks **three times**: “**Venerable sirs, I was insane; in my insanity I did much that was unbecoming; the monks accuse me; being no longer deluded, I ask the Saṅgha for a verdict of past insanity.**”
+# **A competent, capable** monk gives it **by a motion-and-three-announcements act**.
+## (D) Legitimate and illegitimate grants — Cūḷavagga
+|! The monk’s state | What he says | Ruling
+| has committed an offence, **remembering it** | “**Friends, I don’t remember such an offence**” | **illegitimate**
+| has committed an offence, **remembering it** | “**I remember it as in a dream**” | **illegitimate**
+| has committed an offence, **sane but acting insane** | “**I do this, you do this; it’s allowable for me, allowable for you**” | **illegitimate**
+| **really was insane**, **does not remember** what he did | “**Friends, I don’t remember it**” | **legitimate**
+| **really was insane** | “**I remember it as in a dream**” | **legitimate**
+| **really was insane** | “**I do this … allowable for you**” (because of the insanity) | **legitimate**
+
+@as4
+T: පටිඤ්ඤාතකරණ || Acting on Acknowledgement
+R: පිළිගැනීම (පටිඤ්ඤාව) අනුව කටයුතු කළ යුතුය. || It is to be dealt with in accordance with what is acknowledged.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==භික්ෂූන්ගේ **පිළිගැනීමක් (පටිඤ්ඤාවක්) නොමැතිව** ඔවුන්ට **තජ්ජනීය, නියස්ස, පබ්බාජනීය, පටිසාරණීය, උක්ඛේපනීය** කර්ම කළහ==. අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ **පිළිගැනීම අනුව ම** කටයුතු කළ යුතු බව වදාළහ.
+## (අ) විස්තරය — කඞ්ඛාවිතරණී අනුව
+==ඇවතට පැමිණි භික්ෂුවගේ **"මම මේ ඇවතට පැමිණියෙමි"** යන **පිළිගැනීම (පටිඤ්ඤාව)** අනුව ම **කරවීම**== — පටිඤ්ඤාතකරණය යි.
+|! ඇවැත | පටිඤ්ඤාව | කරණය
+| **ලහුක ඇවැත්** (පාචිත්තිය ආදිය) | "**ස්වාමීනි, මම අසවල් ඇවතට පැමිණියෙමි**" — "**දකිහි ද?**" — "**ඔව්, දකිමි**" | "**මතු සංවර වන්න**" යි කීම
+| **සංඝාදිසේස** | **පරිවාස ආදිය ඉල්ලීම** | **පරිවාස ආදිය දීම**
+## (ආ) සංසිඳවන අධිකරණ
+|! අධිකරණය | ආකාරය
+| **ආපත්තාධිකරණය** | **සම්මුඛා විනයෙන් හා පටිඤ්ඤාතකරණයෙන්** සංසිඳේ
+==**එක් භික්ෂුවක් ඉදිරියේ, ගණයක් ඉදිරියේ හෝ සංඝයා මැද** ලහුක ඇවතක් දේශනා කරන විට== ආපත්තාධිකරණය මේ සමථ දෙකෙන් සංසිඳේ.
+## (ඇ) ඇවැත් දේශනාවේ සම්මුඛතා
+|! සම්මුඛතාව | අර්ථය
+| **පුග්ගල සම්මුඛතා** | **දේශනා කරන්නා හා දේශනා පිළිගන්නා** සම්මුඛව සිටීම
+| **ධම්ම, විනය සම්මුඛතා** | ඇවැත **සත්‍ය වීම** හා **නිසි ආකාරයෙන්** දේශනා කිරීම
+| **සංඝ සම්මුඛතා** | **පුද්ගලයෙකු හෝ ගණයෙකු ඉදිරියේ** දේශනා කරන විට **නැත**
+## (ඈ) ධාර්මික හා අධාර්මික පටිඤ්ඤාතකරණ — චූළවග්ගය
+|! ඇවැත | ඔහු පිළිගන්නේ | කරනු ලබන්නේ | විනිශ්චය
+| **පාරාජික** | "**සංඝාදිසේසයකට පැමිණියෙමි**" | සංඝාදිසේසයෙන් | **අධාර්මික**
+| ඇවතකට පැමිණ | **ඒ ඇවත නොව වෙනත් ලහුක / ගරුක ඇවතක්** පිළිගනී | ඔහු පිළිගත් ඇවතින් | **අධාර්මික**
+| **පාරාජික** | "**පාරාජිකයකට පැමිණියෙමි**" | පාරාජිකයෙන් | **ධාර්මික**
+| ඇවතකට පැමිණ | **ඒ ඇවත ම** පිළිගනී | **ඒ ඇවතින් ම** | **ධාර්මික**
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==carried out **censure, guidance, banishment, reconciliation and suspension** acts against monks **without their acknowledgement**==. Monks of few wishes complained. The Blessed One taught that matters are to be dealt with **according to what is acknowledged**.
+## (A) Explanation — according to the Kaṅkhāvitaraṇī
+==Dealing with an offender **according to his own acknowledgement** — “**I have committed this offence**”== — is acting on acknowledgement.
+|! Offence | Acknowledgement | Dealing
+| **light offences** (pācittiya etc.) | “**Venerable sir, I have committed such-and-such an offence**” — “**Do you see it?**” — “**Yes, I see it**” | saying, “**Be restrained in future**”
+| **saṅghādisesa** | **asking for probation etc.** | **giving probation etc.**
+## (B) Issues it settles
+|! Issue | How
+| **offence** | settled **by the face-to-face verdict and acting on acknowledgement**
+==When a light offence is confessed **before one monk, before a group or in the midst of the Saṅgha**==, the offence issue is settled by these two.
+## (C) Presence in confession
+|! Presence | Meaning
+| **of the individuals** | **the one confessing and the one receiving the confession** are present
+| **of the Dhamma, of the Vinaya** | the offence **is real** and is confessed **in the proper way**
+| **of the Saṅgha** | **lacking** when confessed **before an individual or a group**
+## (D) Legitimate and illegitimate acting on acknowledgement — Cūḷavagga
+|! Offence | He acknowledges | Dealt with by | Ruling
+| **pārājika** | “**I have committed a saṅghādisesa**” | a saṅghādisesa | **illegitimate**
+| any offence | **a different offence, lighter or heavier** | the offence he acknowledged | **illegitimate**
+| **pārājika** | “**I have committed a pārājika**” | a pārājika | **legitimate**
+| any offence | **that very offence** | **that very offence** | **legitimate**
+
+@as5
+T: යේභුය්‍යසිකා || Majority Decision
+R: යේභුය්‍යසිකාව (බහුතර තීරණය) දිය යුතුය. || A majority decision is to be given.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+භික්ෂූහු **සංඝයා මැද ආරවුල්, කලහ, විවාදවලට පැමිණ**, ==**මුඛ නැමැති ආයුධවලින් එකිනෙකා විදිමින්**== සිටියහ; ඒ අධිකරණය සංසිඳවිය නොහැකි විය. භාග්‍යවතුන් වහන්සේ "**මහණෙනි, එබඳු අධිකරණය යේභුය්‍යසිකාවෙන් සංසිඳවීමට අනුදනිමි**" යි වදාරා **සලාකග්ගාහාපකයෙකු** සම්මත කිරීමට අනුදැන වදාළහ.
+## (අ) විස්තරය — කඞ්ඛාවිතරණී අනුව
+විවාදාධිකරණය **සම්මුඛා විනයෙන් පමණක්** නොසංසිඳේ නම්, **උබ්බාහිකාවට සම්මත භික්ෂූහු** "**අපට සංසිඳවිය නොහැකිය**" යි **සංඝයාට ම** භාර දෙති. එවිට සංඝයා **අංග පහකින් යුත්** භික්ෂුවක් **සලාකග්ගාහාපකයා** ලෙස සම්මත කොට, ඔහු ලවා **සලාක (ඡන්ද කූරු) ගන්වා**, රැස් වූ පිරිසේ ==**ධර්මවාදීන්ගේ බහුතරය** අනුව, **ධර්මවාදීන් කියන පරිදි**== සංසිඳවයි.
+==**යේභුය්‍යසික කර්මය කිරීම** — "යේභුය්‍යසිකා" නම් වේ==.
+## (ආ) සංසිඳවන අධිකරණ
+|! අධිකරණය | ආකාරය
+| **විවාදාධිකරණය** | **සම්මුඛා විනයෙන් හා යේභුය්‍යසිකාවෙන්** සංසිඳේ
+## (ඇ) සලාකග්ගාහාපක භික්ෂුවගේ අංග පහ
+# **ඡන්දයෙන්** අගතියට නොයන.
+# **ද්වේෂයෙන්** අගතියට නොයන.
+# **මෝහයෙන්** අගතියට නොයන.
+# **භයෙන්** අගතියට නොයන.
+# **ගත් සලාක හා නොගත් සලාක** දන්නා.
+ඔහු **ඤත්තිදුතිය කර්මයෙන්** සම්මත කළ යුතුය.
+## (ඈ) සලාක ගැනීමේ ක්‍රම තුන
+|! ක්‍රමය | කරන ආකාරය
+| **ගූළ්හක (රහස්)** | සලාක දෙවර්ගය වෙන් කොට, එක් එක් භික්ෂුවට "**මෙය මෙබඳු වාදියාගේ, මෙය මෙබඳු වාදියාගේ; කැමැත්ත ගන්න**" යි කියා, **"කිසිවකුට නොපෙන්වන්න"** යි ගන්වයි. **අධර්මවාදීන් බහුතර** යැයි දැනගතහොත් **"නරක ලෙස ගත්තේය"** යි **ආපසු ගනී**; **ධර්මවාදීන් බහුතර** නම් **"මනාව ගත්තේය"** යි **දන්වයි**
+| **සකණ්ණජප්පක (කනට කොඳුරා)** | එක් එක් භික්ෂුවකගේ **කන ළඟ** "**මෙය මෙබඳු වාදියාගේ සලාකය ... කැමැත්ත ගන්න; කිසිවකුට නොකියන්න**" යි කියයි. ඉතිරිය ගූළ්හකය මෙනි — **අධර්මවාදීන් බහුතර නම් ආපසු ගනී**, **ධර්මවාදීන් බහුතර නම් දන්වයි**
+| **විවටක (විවෘත)** | **ධර්මවාදීන් බහුතර** බව දන්නේ නම් **විවෘතව ම** ගන්වයි
+## (ඉ) ධාර්මික හා අධාර්මික සලාක ගැනීම් — චූළවග්ගය
+|! අධාර්මික සලාකග්ගාහ දහය | ධාර්මික සලාකග්ගාහ දහය
+| අධිකරණය **සුළු** ය | අධිකරණය **සුළු නොවේ**
+| **නිසි ගමනක් ගොස් නැත** (ආවාසයෙන් ආවාසයට නොගිය) | **නිසි ගමන ගොස් ඇත**
+| **සිහි කරවා, සිහි කරවා නැත** | **සිහි කරවා ඇත**
+| **අධර්මවාදීන් බහුතර** බව දනී | **ධර්මවාදීන් බහුතර** බව දනී
+| **අධර්මවාදීන් බහුතර වෙත්වා** යි සිතයි | **ධර්මවාදීන් බහුතර වෙත්වා** යි සිතයි
+| **සංඝයා බිඳෙනු ඇතැයි** දනී | **සංඝයා නොබිඳෙනු ඇතැයි** දනී
+| **සංඝයා බිඳේවා** යි සිතයි | **සංඝයා නොබිඳේවා** යි සිතයි
+| **අධර්මයෙන්** ගනිති | **ධර්මයෙන්** ගනිති
+| **වර්ගව (අසමගිව)** ගනිති | **සමගිව** ගනිති
+| **තම දෘෂ්ටිය අනුව** නොගනිති | **තම දෘෂ්ටිය අනුව** ගනිති
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Monks **in the midst of the Saṅgha had fallen into strife, quarrels and disputes**, ==**stabbing one another with the weapons of their tongues**==, and could not settle the issue. The Blessed One said, “**Monks, I allow such an issue to be settled by majority decision**,” and allowed **a distributor of voting tickets** to be authorised.
+## (A) Explanation — according to the Kaṅkhāvitaraṇī
+If a dispute is not settled **by the face-to-face verdict alone**, **the monks authorised as a referral committee** hand it back **to the Saṅgha**, saying, “**We cannot settle it.**” The Saṅgha then authorises a monk **with five qualities** as **ticket distributor**, has him **distribute tickets**, and settles it ==according to **the majority of those who speak Dhamma** in the assembly, **as they say**==.
+==**Carrying out the majority-decision act** is called “majority decision”==.
+## (B) Issues it settles
+|! Issue | How
+| **dispute** | settled **by the face-to-face verdict and majority decision**
+## (C) Five qualities of the ticket distributor
+# Does not go astray **through desire**.
+# Does not go astray **through hatred**.
+# Does not go astray **through delusion**.
+# Does not go astray **through fear**.
+# Knows **which tickets have been taken and which not**.
+He is authorised **by a motion-and-one-announcement act**.
+## (D) Three ways of taking tickets
+|! Way | How it is done
+| **secret (gūḷhaka)** | separating the two kinds of ticket, he tells each monk, “**This is for those who say this, this for those who say that; take whichever you like**,” adding “**Don’t show anyone**.” If he finds **those against the Dhamma are the majority**, he **takes them back** as “**badly taken**”; if **those of the Dhamma are the majority**, he **announces it** as “**well taken**”
+| **whispering in the ear (sakaṇṇajappaka)** | he says **into each monk’s ear**, “**This is the ticket for those who say this … take whichever you like; don’t tell anyone**.” Then as with the secret way — **if those against the Dhamma are the majority he takes them back**, **if those of the Dhamma are, he announces it**
+| **open (vivaṭaka)** | if he knows **those of the Dhamma are the majority**, he has the tickets taken **openly**
+## (E) Legitimate and illegitimate ticket-taking — Cūḷavagga
+|! The ten illegitimate | The ten legitimate
+| the issue is **trivial** | the issue is **not trivial**
+| **it has not gone the proper course** (from residence to residence) | **it has gone the proper course**
+| **it has not been brought to mind repeatedly** | **it has been brought to mind**
+| he knows **those against the Dhamma are the majority** | he knows **those of the Dhamma are the majority**
+| he thinks “**may those against the Dhamma be the majority**” | he thinks “**may those of the Dhamma be the majority**”
+| he knows **the Saṅgha will split** | he knows **the Saṅgha will not split**
+| he thinks “**may the Saṅgha split**” | he thinks “**may the Saṅgha not split**”
+| they take them **illegitimately** | they take them **legitimately**
+| they take them **as a faction** | they take them **in unity**
+| they **do not** take them **according to their view** | they take them **according to their view**
+
+@as6
+T: තස්සපාපියසිකා || Further Punishment
+R: තස්සපාපියසිකාව දිය යුතුය. || A further-punishment act is to be given.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**උපවාළ** නම් භික්ෂුවක් ==සංඝයා මැද **ඇවතක් ගැන විමසද්දී**, **ප්‍රතික්ෂේප කොට පිළිගත්තේය, පිළිගෙන ප්‍රතික්ෂේප කළේය**, **එකකින් අනෙකක් වසා කථා කළේය**, **දැන දැන බොරු කීය**==. අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ උපවාළ භික්ෂුවට **තස්සපාපියසිකා කර්මය** කිරීමට අනුදැන වදාළහ.
+## (අ) විස්තරය — කඞ්ඛාවිතරණී අනුව
+==**පාරාජිකයකින් හෝ පාරාජිකයට සමීප (සාමන්ත) ඇවතකින්** චෝදනා ලබන, **එකකින් අනෙකක් වසන**, **පව් බහුල බැවින් පාපිෂ්ඨ** පුද්ගලයෙකුට==, සංඝයා — "**මොහු මුල් නොසිඳුණෙක් නම්, මනාව හැසිර ඔසාරණය ලබනු ඇත; මුල් සිඳුණෙක් නම් ඔහුට ම නාසනය වනු ඇත**" යි සිතා — **ඤත්තිචතුත්ථ කර්මයෙන්** තස්සපාපියසිකා කර්මය කරයි.
+## (ආ) සංසිඳවන අධිකරණ
+|! අධිකරණය | ආකාරය
+| **අනුවාදාධිකරණය** | **සම්මුඛා විනයෙන් හා තස්සපාපියසිකාවෙන්** සංසිඳේ
+## (ඇ) ධාර්මිකව කිරීමේ අංග පහ
+# **අපිරිසිදු** ය.
+# **ලජ්ජා නැති** ය.
+# **චෝදනා සහිත** ය.
+# සංඝයා **ධර්මයෙන්** කරයි.
+# සංඝයා **සමගිව** කරයි.
+## (ඈ) ධාර්මික හා අධාර්මික කර්ම
+|! අධාර්මික කර්මය (අංග තුනෙන් යුත්) | ධාර්මික කර්මය (අංග තුනෙන් යුත්)
+| **අසම්මුඛව** කළ | **සම්මුඛව** කළ
+| **නොවිමසා** කළ | **විමසා** කළ
+| **පිළිගැනීමක් නැතිව** කළ | **පිළිගැනීමෙන්** කළ
+| **ඇවතක් නැති** අයට කළ | **ඇවතක් ඇති** අයට කළ
+| **දේශනා කළ යුතු නොවන** ඇවතකට කළ | **දේශනා කළ යුතු** ඇවතකට කළ
+| **දේශනා කළ** ඇවතකට කළ | **දේශනා නොකළ** ඇවතකට කළ
+| **චෝදනා නොකොට** කළ | **චෝදනා කොට** කළ
+| **සිහි නොකරවා** කළ | **සිහි කරවා** කළ
+| **ඇවත නොනංවා** කළ | **ඇවත නංවා** කළ
+| **අධර්මයෙන්** කළ | **ධර්මයෙන්** කළ
+| **වර්ගව** කළ | **සමගිව** කළ
+## (ඉ) කැමති නම් කළ හැකි අය — අංග තුන
+# **ආරවුල්, කලහ, විවාද, වාද** කරන, සංඝයා තුළ **අධිකරණ** උපදවන්නා.
+# **බාල, අව්‍යක්ත, ඇවැත් බහුල, සීමාවක් නැති** (අනපදාන) තැනැත්තා.
+# **නුසුදුසු ගිහි සංසර්ගයෙන්** ගිහියන් හා මිශ්‍රව වසන්නා.
+## (ඊ) කර්මය කළ භික්ෂුවගේ වත් දහඅට
+# **උපසම්පදා** නොකළ යුතුය.
+# **නිස්සය** නොදිය යුතුය.
+# **සාමණේරයෙකු** උපස්ථානයට නොගත යුතුය.
+# **භික්ෂුණී ඔවාදක සම්මුතිය** නොඉවසිය යුතුය.
+# සම්මත වුව ද **භික්ෂුණීන්ට අවවාද** නොකළ යුතුය.
+# යම් ඇවතක් නිසා කර්මය කළේ ද **ඒ ඇවතට** නොපැමිණිය යුතුය.
+# **එබඳු වෙනත්** ඇවතකට නොපැමිණිය යුතුය.
+# **ඊට වඩා නරක** ඇවතකට නොපැමිණිය යුතුය.
+# **කර්මයට** නොගැරහිය යුතුය.
+# **කර්මය කළවුන්ට** නොගැරහිය යුතුය.
+# **ප්‍රකෘති භික්ෂුවකගේ උපෝසථය** නොනැවැත්විය යුතුය.
+# **පවාරණය** නොනැවැත්විය යුතුය.
+# **අණ කිරීමක් (සවචනීය)** නොකළ යුතුය.
+# **අනුවාදය (චෝදනාවට මූලිකත්වය)** නොගත යුතුය.
+# **අවසර** නොගන්වා යුතුය (ඕකාසං න කාරෙතබ්බං).
+# **චෝදනා** නොකළ යුතුය.
+# **සිහි** නොකරවිය යුතුය.
+# **භික්ෂූන් හා ආරවුල් ඇති** නොකළ යුතුය.
+## (උ) කර්මයේ අරමුණ
+==**මුල් නොසිඳුණෙක්** නම් මනාව හැසිර **ඔසාරණය** (කර්මයෙන් නිදහස් කිරීම) ලබයි; **මුල් සිඳුණෙක් (පාරාජිකයෙක්)** නම් **ඔහුට ම නාසනය** වේ== (කඞ්ඛාවිතරණී).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+A monk named **Upavāḷa**, ==**being questioned about an offence** in the midst of the Saṅgha, **denied and then admitted, admitted and then denied**, **evaded one question with another**, and **told deliberate lies**==. Monks of few wishes complained. The Blessed One allowed **a further-punishment act** to be carried out against Upavāḷa.
+## (A) Explanation — according to the Kaṅkhāvitaraṇī
+==For **a wicked person, wicked from the abundance of his wrongdoing**, who is accused **of a pārājika or something close to a pārājika** and **evades one question with another**==, the Saṅgha — thinking, “**If his root is not cut, he will behave properly and gain reinstatement; if it is cut, he will destroy himself**” — carries out the further-punishment act **by a motion-and-three-announcements act**.
+## (B) Issues it settles
+|! Issue | How
+| **accusation** | settled **by the face-to-face verdict and further punishment**
+## (C) Five factors for doing it legitimately
+# He is **impure**.
+# He is **shameless**.
+# He is **under accusation**.
+# The Saṅgha does it **legitimately**.
+# The Saṅgha does it **in unity**.
+## (D) Legitimate and illegitimate acts
+|! Illegitimate (with three factors) | Legitimate (with three factors)
+| done **in his absence** | done **in his presence**
+| done **without questioning** | done **after questioning**
+| done **without acknowledgement** | done **with acknowledgement**
+| done to one **without an offence** | done to one **with an offence**
+| for an offence **not to be confessed** | for an offence **to be confessed**
+| for an offence **already confessed** | for an offence **not yet confessed**
+| done **without accusing** | done **after accusing**
+| done **without reminding** | done **after reminding**
+| done **without charging the offence** | done **after charging the offence**
+| done **illegitimately** | done **legitimately**
+| done **as a faction** | done **in unity**
+## (E) Whom the Saṅgha may act against if it wishes — three factors
+# One who **makes strife, quarrels, disputes and contention**, raising **issues** in the Saṅgha.
+# One who is **foolish, incompetent, full of offences, without limit**.
+# One who lives **in unsuitable association with householders**.
+## (F) The eighteen duties of one subjected to the act
+# He should not **give full ordination**.
+# He should not **give dependence**.
+# He should not **have a novice attend on him**.
+# He should not **accept authorisation to admonish nuns**.
+# Even if authorised, he should not **admonish nuns**.
+# He should not commit **the offence for which the act was done**.
+# He should not commit **a similar offence**.
+# He should not commit **a worse one**.
+# He should not **criticise the act**.
+# He should not **criticise those who did the act**.
+# He should not **cancel a regular monk’s Uposatha**.
+# He should not **cancel his Pavāraṇā**.
+# He should not **give orders**.
+# He should not **take the lead in accusing**.
+# He should not **ask leave (to accuse)**.
+# He should not **accuse**.
+# He should not **remind (of an offence)**.
+# He should not **make monks quarrel**.
+## (G) The purpose of the act
+==If **his root is not cut**, he behaves properly and gains **reinstatement**; if **his root is cut (a pārājika)**, **he destroys himself**== (Kaṅkhāvitaraṇī).
+
+@as7
+T: තිණවත්ථාරක || Covering over with Grass
+R: තිණවත්ථාරකය (තණකොළයෙන් වැසීම) දිය යුතුය. || Covering over as with grass is to be done.
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ආරවුල්, කලහ, විවාදවලට පැමිණ** වාසය කළ භික්ෂූන් විසින් ==**ශ්‍රමණයෙකුට නොගැළපෙන බොහෝ දේ කියන ලදී, කරන ලදී**==. පසුව ඔවුන්ට මෙසේ සිතිණ: "**අපි මේ ඇවැත්වලින් එකිනෙකා ලවා කරවන්නෙමු නම්, ඒ අධිකරණය දරුණු බවට, කර්කශ බවට, භේදයට හේතු විය හැකිය; අප කුමක් කළ යුතු ද?**" භාග්‍යවතුන් වහන්සේ **තිණවත්ථාරකයෙන්** එබඳු අධිකරණය සංසිඳවීමට අනුදැන වදාළහ.
+## (අ) විස්තරය — කඞ්ඛාවිතරණී අනුව
+==**දෙපක්ෂයට බෙදී ආරවුල් කළ** භික්ෂූහු **බොහෝ ශ්‍රමණයෙකුට නොගැළපෙන හැසිරීම්** කොට, පසුව **ලැජ්ජා ධර්මය උපන්** කල්හි==, එකිනෙකා ලවා ඇවැත් කරවීමේ **දෝෂය** දැක තිණවත්ථාරක කර්මය කරති.
+**"තිණවත්ථාරක"** — ==**අසූචියක් තණකොළයෙන් වසා දමන්නාක් මෙන්**== ඇවැත් **එකවර වසා** සංසිඳවීම.
+## (ආ) සංසිඳවන අධිකරණ
+|! අධිකරණය | ආකාරය
+| **ආපත්තාධිකරණය** | **සම්මුඛා විනයෙන් හා තිණවත්ථාරකයෙන්** සංසිඳේ
+## (ඇ) කරන ආකාරය — චූළවග්ගය
+# **සියල්ලන් ම එක් තැනක රැස්** විය යුතුය.
+# **ව්‍යක්ත, ප්‍රතිබල** භික්ෂුවක් **සංඝයාට** ඤත්තියක් තබයි: "**අප ආරවුල් කරද්දී බොහෝ නොගැළපෙන දේ කළෙමු... සංඝයාට සුදුසු නම්, සංඝයා මේ අධිකරණය තිණවත්ථාරකයෙන් සංසිඳවන්නේය — ථුල්ලවජ්ජ හා ගිහි සම්බන්ධ ඇවැත් හැර.**"
+# **එක් එක් පක්ෂයේ** ව්‍යක්ත භික්ෂුවක් **තම පක්ෂයට** දන්වයි: "**ආයුෂ්මතුනි, ඔබට සුදුසු නම්, ඔබගේ ද මාගේ ද ඇවැත්, ඔබගේ ද මාගේ ද යහපත පිණිස, සංඝයා මැද තිණවත්ථාරකයෙන් දෙසන්නෙමි — ථුල්ලවජ්ජ හා ගිහි සම්බන්ධ ඇවැත් හැර.**"
+# ඉන්පසු ඔහු **සංඝයාට ඤත්තිදුතිය කර්මයෙන්** දන්වා දෙසයි; "**අපගේ මේ ඇවැත් සංඝයා මැද තිණවත්ථාරකයෙන් දෙසන ලදී**" යි ධාරණය කරයි.
+# **අනෙක් පක්ෂය ද** එසේ ම කරයි.
+## (ඈ) නොමිදෙන දේ
+|! නොමිදෙන ඇවැත් / පුද්ගලයන් | හේතුව
+| **ථුල්ලවජ්ජ** — **පාරාජික, සංඝාදිසේස** වැනි **බරපතල** ඇවැත් | තිණවත්ථාරකයෙන් නොවසේ
+| **ගිහි සම්බන්ධ** — ගිහියන්ට නින්දා කිරීම ආදී ඇවැත් | තිණවත්ථාරකයෙන් නොවසේ
+| **දිට්ඨාවිකම්ම** කළ අය — "**මෙය මට නොරුචිය**" යි **විරුද්ධත්වය පළ කළ** අය | ඔවුන්ගේ ඇවැත් නොමිදේ
+| **එහි නොසිටි** අය | ඔවුන්ගේ ඇවැත් නොමිදේ
+==**හත්ථපාසයට පැමිණ** "**මෙය මට නොරුචිය**" යි විරුද්ධත්වය පළ නොකළ සියල්ලන්ගේ — **නින්දට ගිය අයගේ පවා** — **ථුල්ලවජ්ජ හා ගිහි සම්බන්ධ ඇවැත් හැර සියලු ඇවැත්** නැගිටෙයි== (කඞ්ඛාවිතරණී).
+## (ඉ) අධිකරණ හා සමථ — සම්පූර්ණ සාරාංශය
+|! අධිකරණය | සංසිඳවන සමථ
+| **විවාදාධිකරණය** | **දෙකකින්** — සම්මුඛා විනය, යේභුය්‍යසිකා
+| **අනුවාදාධිකරණය** | **සතරකින්** — සම්මුඛා විනය, සති විනය, අමූළ්හ විනය, තස්සපාපියසිකා
+| **ආපත්තාධිකරණය** | **තුනකින්** — සම්මුඛා විනය, පටිඤ්ඤාතකරණය, තිණවත්ථාරකය
+| **කිච්චාධිකරණය** | **එකකින්** — සම්මුඛා විනය පමණි
+## (ඊ) ප්‍රාතිමෝක්ෂ නිගමනය
+**"කච්චිත්ථ පරිසුද්ධා"** — "**මේ සමථ සතෙහි ඔබ පිරිසිදු ද? සමථවලින් සංසිඳවිය යුතු කිසිවක් ඔබට නැද්ද?**" යි ඇසීමයි; මෙයින් **සියලු ඇවැත්වලින් පිරිසිදු බව** අසනු ලැබේ.
+**"එත්තකං ... සික්ඛිතබ්බං"** — "**භාග්‍යවතුන් වහන්සේගේ සූත්‍රයෙහි (ප්‍රාතිමෝක්ෂයෙහි) ආ, එහි ඇතුළත්, අඩ මසක් පාසා උද්දේශයට එන මෙපමණ ශික්ෂාපද — කයින් සමගිව, සිතින් සතුටුව, විවාද නොකරමින් හික්මිය යුතුය**" — ඒ ඒ ශික්ෂාපදය **නොඉක්මවා අධිසීල ශික්ෂාව සම්පූර්ණ කළ යුතුය** (කඞ්ඛාවිතරණී).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+While monks **lived in strife, quarrels and disputes**, ==**much unbecoming to ascetics was said and done**==. Later they thought: “**If we make one another answer for these offences, the issue may lead to harshness, violence and schism; what should we do?**” The Blessed One allowed such an issue to be settled **by covering over with grass**.
+## (A) Explanation — according to the Kaṅkhāvitaraṇī
+==Monks **split into two factions and quarrelling** did **much unbecoming conduct**; later, **when a sense of shame arose**==, seeing **the danger** of making one another answer for the offences, they carry out the covering-over-with-grass act.
+**“Tiṇavatthāraka”** — settling by ==**covering the offences all at once, as one covers filth with grass**==.
+## (B) Issues it settles
+|! Issue | How
+| **offence** | settled **by the face-to-face verdict and covering over with grass**
+## (C) How it is done — Cūḷavagga
+# **All must assemble in one place**.
+# **A competent, capable** monk sets a motion **before the Saṅgha**: “**While quarrelling we did much that was unbecoming… if it is fitting for the Saṅgha, let it settle this issue by covering over with grass — except for grave faults and those connected with householders.**”
+# A competent monk **of each faction** informs **his own faction**: “**Venerables, if it suits you, I will confess in the midst of the Saṅgha, by covering over with grass, your offences and mine, for your good and mine — except grave faults and those connected with householders.**”
+# He then informs the Saṅgha **by a motion-and-one-announcement act** and confesses; it is recorded: “**These offences of ours have been confessed in the midst of the Saṅgha by covering over with grass.**”
+# **The other faction** does the same.
+## (D) What is not released
+|! Offences / persons not released | Why
+| **grave faults (thullavajja)** — **heavy** offences such as **pārājika and saṅghādisesa** | not covered by this act
+| **connected with householders** — offences such as reviling laypeople | not covered by this act
+| those who **voiced dissent** — “**This does not please me**” | their offences are not released
+| those **not present** | their offences are not released
+==For all **within arm’s reach** who did not voice dissent — **even those who have fallen asleep** — **all offences except grave faults and those connected with householders** are cleared== (Kaṅkhāvitaraṇī).
+## (E) Issues and settlements — full summary
+|! Issue | Settled by
+| **dispute** | **two** — face-to-face verdict, majority decision
+| **accusation** | **four** — face-to-face verdict, verdict of mindfulness, verdict of past insanity, further punishment
+| **offence** | **three** — face-to-face verdict, acting on acknowledgement, covering over with grass
+| **duty** | **one** — the face-to-face verdict alone
+## (F) The conclusion of the Pātimokkha
+**“Kaccittha parisuddhā”** — asks, “**Are you pure in these seven settlements? Is there nothing of yours to be settled by them?**”; by this **purity from all offences** is asked.
+**“Ettakaṃ … sikkhitabbaṃ”** — “**This much of the training — handed down in the Blessed One’s text (the Pātimokkha), included in it, coming up for recitation every half-month — is to be trained in, united in body, rejoicing in mind, without dispute**” — **not transgressing each rule, the training in higher virtue is to be fulfilled** (Kaṅkhāvitaraṇī).

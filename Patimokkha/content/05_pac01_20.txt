@@ -1,0 +1,337 @@
+@pac1
+T: මුසාවාද සික්ඛාපදය || The Rule on False Speech
+R: දැන දැන බොරු කීමෙහි පාචිත්තිය වේ. || In deliberately telling a lie, there is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: හත්ථක ශාක්‍යපුත්‍ර භික්ෂුව || The monk Hatthaka the Sakyan
+V: වාදයේදී කී දේ නිෂේධ කොට නිෂේධ කළ දේ පිළිගැනීම || Denying what he had said and admitting what he had denied in debate
+K: AD sd=s an=a anu=0
+Z: නොවිමසා වහා කීම, එකක් කියන්නට ගොස් අනෙකක් කීම, උමතු ආදීන් || Speaking hastily without examining, a slip of the tongue, the insane etc.
+
+@pac2
+T: ඕමසවාද සික්ඛාපදය || The Rule on Abusive Speech
+R: භික්ෂුවකට පහත් කොට ආක්‍රෝශ කරමින් කථා කිරීමෙහි පාචිත්තිය වේ. || In insulting speech, there is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ප්‍රියශීලී භික්ෂූන්ට දශ අක්කෝස වස්තුවෙන් බැණ වැදීම || Abusing well-behaved monks with the ten grounds of abuse
+K: AD sd=s an=a anu=0 ved=D
+Z: අර්ථය, ධර්මය, අනුශාසනය පෙරදැරිව කීම; උමතු ආදීන් || Speaking for the sake of meaning, Dhamma or instruction; the insane etc.
+
+@pac3
+T: පෙසුඤ්ඤ සික්ඛාපදය || The Rule on Divisive Speech
+R: භික්ෂූන් අතර කේළාම් කීමෙහි පාචිත්තිය වේ. || In malicious tale-bearing between monks, there is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කලහ කරන භික්ෂූන් අතර කේළාම් ගෙන යාම || Carrying tales between quarrelling monks
+K: AD sd=s an=a anu=0
+Z: ප්‍රිය කාමතාව නොව, අහිත වැළැක්වීම පිණිස කීම; උමතු ආදීන් || Speaking not to win favour or cause division; the insane etc.
+
+@pac4
+T: පදසොධම්ම සික්ඛාපදය || Reciting Dhamma Word by Word
+R: යම් භික්ෂුවක් අනුපසම්පන්නයෙකුට පදයෙන් පදය ධර්මය කියවයි නම් පාචිත්තිය වේ. || Should any monk make an unordained person recite Dhamma word by word, it is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: උපාසකයන්ට පදයෙන් පදය ධර්මය කියවීම || Making lay followers recite Dhamma word by word
+K: PD sd=s an=a anu=0
+Z: එක්ව උගැනීම, එක්ව සජ්ඣායනය, ප්‍රගුණ පාඨය කියන්නහුට කියවීම; උමතු ආදීන් || Learning or reciting together, prompting one who knows the text well; the insane etc.
+
+@pac5
+T: පඨම සහසෙය්‍ය සික්ඛාපදය || Sleeping in the Same Place
+R: යම් භික්ෂුවක් අනුපසම්පන්නයෙකු සමඟ දෙරැයකට තුන්රැයකට වඩා එක් සෙනසුනක සයනය කරයි නම් පාචිත්තිය වේ. || Should any monk lie down in the same lodging with an unordained person for more than two or three nights, it is a pācittiya.
+N: ආළවිය, අග්ගාළව චෛත්‍යය || Āḷavī, Aggāḷava shrine
+P: බොහෝ නවක භික්ෂූන් || A number of new monks
+V: ගිහියන් සමඟ සිහි මුළාවෙන් නිදා ගැනීම || Sleeping unmindfully together with lay people
+K: EL sd=s an=a anu=1
+Z: දෙරැය තුන්රැය වාසය, සම්පූර්ණයෙන් වසා නැති හෝ නොවට වූ තැන, හිඳ සිටීම; උමතු ආදීන් || Staying two or three nights, a place not fully roofed or enclosed, sitting up; the insane etc.
+
+@pac6
+T: දුතිය සහසෙය්‍ය සික්ඛාපදය || Sleeping in the Same Place — Second Rule
+R: යම් භික්ෂුවක් මාතුගාමයෙකු (ස්ත්‍රියක්) සමඟ එක් සෙනසුනක සයනය කරයි නම් පාචිත්තිය වේ. || Should any monk lie down in the same lodging with a woman, it is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: අනුරුද්ධ ස්ථවිරයන් වහන්සේ || Ven. Anuruddha
+V: මාතුගාමයා සමඟ එක් ගෘහයක රැය ගත කිරීම || Spending the night in the same house as a woman
+K: EL sd=s an=a anu=0
+Z: නොදැන, වසා නැති තැන, හිඳ සිටීම, ස්ත්‍රිය නිදා සිටියදී නොදැනුම; උමතු ආදීන් || Not knowing, an open place, sitting up; the insane etc.
+
+@pac7
+T: ධම්මදේසනා සික්ඛාපදය || The Rule on Teaching Dhamma
+R: විඤ්ඤු පුරුෂයෙකු නැතිව මාතුගාමයාට වචන පහ හයකට වැඩියෙන් ධර්මය දේශනා කරයි නම් පාචිත්තිය වේ. || Should any monk teach Dhamma to a woman in more than five or six sentences, except with a knowledgeable man present, it is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උදායී ස්ථවිර || Ven. Udāyī
+V: ගෘහිණියන්ට කනෙහි ධර්මය දේශනා කිරීම || Teaching Dhamma in the ears of housewives
+K: PD sd=s an=a anu=2 kr=KA
+Z: විඤ්ඤු පුරුෂයකු සිටීම, වචන හයකට අඩුව, නැගිට නැවත දේශනා, ප්‍රශ්නයකට පිළිතුරු; උමතු ආදීන් || A knowledgeable man present, six sentences or fewer, answering a question; the insane etc.
+
+@pac8
+T: භූතාරෝචන සික්ඛාපදය || Announcing What Is True
+R: අනුපසම්පන්නයෙකුට උත්තරිමනුස්ස ධර්මයක් ඇත්ත වශයෙන් ම ඇත්නම් එය කියයි නම් පාචිත්තිය වේ. || Should any monk report a superhuman state to an unordained person, when it is true, it is a pācittiya.
+N: වේසාලිය, මහාවනය || Vesālī, Great Wood
+P: වග්ගුමුදා තීරවාසී භික්ෂූන් || The monks on the bank of the Vaggumudā
+V: ගිහියන්ට එකිනෙකාගේ උත්තරිමනුස්ස ධර්ම කීම || Praising each other's superhuman states to lay people
+K: BH sd=s an=a anu=0
+Z: උපසම්පන්නයෙකුට ඇත්ත කීම, ආදිකම්මිකයා; උමතු ආදීන් || Telling the truth to a fully ordained person; the first offender
+G: 4
+
+@pac9
+T: දුට්ඨුල්ලාරෝචන සික්ඛාපදය || Announcing a Grave Offence
+R: භික්ෂු සම්මුතියකින් තොරව භික්ෂුවකගේ දුට්ඨුල්ල ඇවතක් අනුපසම්පන්නයෙකුට කියයි නම් පාචිත්තිය වේ. || Should any monk tell an unordained person of a monk's grave offence, except with the authorisation of the monks, it is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: උපනන්ද තෙරුන්ගේ සංඝාදිසේස ඇවත ගිහියන්ට කීම || Telling lay people of Upananda's saṅghādisesa offence
+K: AD sd=s an=a anu=1 ved=D
+Z: වස්තුව පමණක් කීම, ඇවත පමණක් කීම, භික්ෂු සම්මුතිය ඇතිව; උමතු ආදීන් || Telling only the deed or only the offence, with authorisation; the insane etc.
+
+@pac10
+T: පඨවීඛණන සික්ඛාපදය || Digging the Earth
+R: යම් භික්ෂුවක් පොළොව හාරයි නම් හෝ හාරවයි නම් පාචිත්තිය වේ. || Should any monk dig the ground or have it dug, it is a pācittiya.
+N: ආළවිය, අග්ගාළව චෛත්‍යය || Āḷavī, Aggāḷava shrine
+P: ආළවක භික්ෂූන් || The Āḷavaka monks
+V: නවකර්ම සඳහා පොළොව හෑරීම || Digging the ground for building work
+K: AD sd=s an=s anu=0 vj=P cit=3 ved=3
+Z: "මෙය දැනගන්න, මෙය දෙන්න" ආදී කප්පිය වචනය, නොසිතා, නොසිහියෙන්, නොදැන; උමතු ආදීන් || Allowable words such as "know this", unintentionally, without knowing; the insane etc.
+
+@pac11
+T: භූතගාම සික්ඛාපදය || The Rule on Plant Life
+R: භූතගාමය (වැවෙන ශාක) විනාශ කිරීමෙහි පාචිත්තිය වේ. || In destroying plant life, there is a pācittiya.
+N: ආළවිය, අග්ගාළව චෛත්‍යය || Āḷavī, Aggāḷava shrine
+P: ආළවක භික්ෂූන් || The Āḷavaka monks
+V: ගස් කැපීම || Cutting trees
+K: AD sd=s an=s anu=0 vj=P cit=3 ved=3
+Z: කප්පිය වචනය, නොසිතා, නොසිහියෙන්, නොදැන; උමතු ආදීන් || Allowable words, unintentionally, without knowing; the insane etc.
+
+@pac12
+T: අඤ්ඤවාදක සික්ඛාපදය || The Rule on Evasive Speech
+R: අනෙකක් කියා මඟහැරීමෙහි හා නිහඬව සිට වෙහෙසීමෙහි පාචිත්තිය වේ. || In evasive speech and in causing frustration, there is a pācittiya.
+N: කොසඹෑ නුවර, ඝෝසිතාරාමය || Kosambī, Ghositārāma
+P: ඡන්න ස්ථවිර || Ven. Channa
+V: සංඝ මධ්‍යයේ අනෙකකින් අනෙකක් වසා දැමීම || Covering one thing with another in the midst of the Saṅgha
+K: AD sd=s an=a anu=1 kr=KoA ved=D
+Z: නොදැන ඇසීම, ගිලන් බැවින් නොකීම, කලහ වේ යැයි නොකීම; උමතු ආදීන් || Asking because one does not know, not speaking due to illness or to avoid strife; the insane etc.
+
+@pac13
+T: උජ්ඣාපනක සික්ඛාපදය || Making Others Look Down on a Monk
+R: සම්මත භික්ෂුවකට අවමන් කරවීමෙහි හා දොස් කීමෙහි පාචිත්තිය වේ. || In making others look down on, and in criticising, an authorised monk, there is a pācittiya.
+N: රජගහ නුවර, වේළුවනය || Rājagaha, Veḷuvana
+P: මෙත්තිය-භූමජක භික්ෂූන් || The Mettiya and Bhūmajaka monks
+V: දබ්බ මල්ලපුත්ත තෙරුන් ගැන අවමන් කරවීම || Making others look down on Ven. Dabba Mallaputta
+K: AD sd=s an=a anu=1 ved=D
+Z: ඡන්දාදි වශයෙන් කරන්නහුට ඇත්ත කීම; උමතු ආදීන් || Criticising one who truly acts from bias; the insane etc.
+
+@pac14
+T: පඨම සේනාසන සික්ඛාපදය || Lodging Furniture — First Rule
+R: සංඝික ඇඳ, පුටු, මෙට්ට, කොට්ට එළිමහනේ අතුරා, නොඅකුලා නොඅකුලවා, නොවිචාරා යයි නම් පාචිත්තිය වේ. || Should any monk set out a Saṅgha bed, bench, mattress or stool in the open and leave without putting it away or having it put away, or without taking leave, it is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: බොහෝ භික්ෂූන් || A number of monks
+V: එළිමහනේ සෙනසුන් අතුරා නොඅකුලා යාම || Leaving lodging furniture out in the open
+K: KT sd=s an=a anu=0 kr=KA
+Z: පවත්වා යාම, විචාරා යාම, ආපදාවක්; උමතු ආදීන් || Putting it away, taking leave, in an emergency; the insane etc.
+
+@pac15
+T: දුතිය සේනාසන සික්ඛාපදය || Lodging Furniture — Second Rule
+R: සංඝික විහාරයක සෙය්‍යාවක් අතුරා හෝ අතුරවා නොඅකුලා, නොවිචාරා යයි නම් පාචිත්තිය වේ. || Should any monk spread bedding in a Saṅgha dwelling and leave without putting it away or taking leave, it is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: සත්තරසවග්ගිය භික්ෂූන් || The group-of-seventeen monks
+V: සෙය්‍යා නොඅකුලා යාමෙන් වේයන් කෑම || Leaving bedding which was eaten by termites
+K: KT sd=s an=a anu=0 kr=KA
+Z: පවත්වා යාම, විචාරා යාම, ආපදාවක්; උමතු ආදීන් || Putting it away, taking leave, in an emergency; the insane etc.
+
+@pac16
+T: අනුපඛජ්ජ සික්ඛාපදය || The Rule on Encroaching
+R: සංඝික විහාරයක පළමුව පැමිණි භික්ෂුවකගේ උපචාරයට දැන දැන ඇතුළු වී, "අපහසු වන්නා ඉවත් යනු ඇත" යි සිතා සෙය්‍යාව සකසයි නම් පාචිත්තිය වේ. || Should any monk knowingly lie down in a Saṅgha dwelling encroaching on a monk who arrived first, thinking "whoever is crowded will leave", it is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ථෙර භික්ෂූන්ගේ උපචාරයට ඇතුළු වී සෙය්‍යා කැප්පීම || Encroaching on the space of senior monks
+K: P1 sd=s an=a anu=0 ved=D
+Z: ගිලන්, සීත-උෂ්ණ පීඩිත, ආපදා; උමතු ආදීන් || One who is ill, oppressed by cold or heat, emergencies; the insane etc.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+The **group-of-six monks**, wishing to spend the rains right there, thought, “Whoever is crowded will leave,” and entered the area around the places where the elder monks were staying and laid down their bedding. (In the Pāli the action word seems to be missing here.) The Blessed One laid down the rule:
+> “Yo pana bhikkhu saṅghike vihāre jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya — ‘yassa sambādho bhavissati, so pakkamissatī’ti, etadeva paccayaṃ karitvā anaññaṃ, pācittiyaṃ.”
+## (A) The meaning of “jānaṃ”, “pubbupagataṃ”, “anupakhajja”
+**Jānaṃ** — knowing, “This one is not to be made to get up”; in the word-analysis — knowing that he is senior, sick, or given [the place] by the Saṅgha:
+# **Vuḍḍha** — because he is senior, he cannot be made to get up.
+# **Gilāna** — because he is sick, he cannot be made to get up.
+# **Given by the Saṅgha** — the Saṅgha, considering the great service of a storekeeper, Dhamma-preacher, Vinaya expert, teacher of a group and so on, authorises him for permanent residence; he too cannot be made to get up.
+**Pubbupagataṃ** — who arrived first. **Anupakhajja** — entering the area around his bed or bench, or the place where he goes in and out. The area (*upacāra*): in a large dwelling, one and a half cubits (*diyaḍḍha hattha*) all around; in a small dwelling, as much as is suitable within that one and a half cubits; when entering, from the foot-washing stone up to the bed; when leaving, from the bed up to the place for urinating.
+**Seyyaṃ kappeyya** — wishing to crowd him, for one who spreads bedding in that area or has it spread, a dukkaṭa; for one who sits or lies down on it, a pācittiya; for one who does both, two pācittiyas; for one who does it again and again, according to the number of efforts.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six monks. It is a **common rule**; it is **anāṇattika**; it is a **tika-pācittiya**; in a personal dwelling it is a **tika-dukkaṭa**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| In a Saṅgha dwelling, entering the area of a monk who cannot be made to get up and, wishing to crowd him, spreading bedding or having it spread | DK
+| Sitting or lying down there (in all three perceptions) | PC
+| Outside that area — in the attendance hall or the dwelling's surroundings — for one who spreads, sits or lies down | DK
+| In another person's private dwelling | DK
+| In one's own private dwelling | N
+## (D) No offence
+# For one who spreads it in his own dwelling or that of a trusted friend;
+# For one who enters because he is sick, or oppressed by cold or heat;
+# In emergencies; for the insane and so on.
+## (E) Factors (= cattāri — four)
+# It is a **Saṅgha dwelling**.
+# Knowing that he **cannot be made to get up**.
+# **Wishing to crowd** him.
+# **Sitting or lying down** within the area.
+## (F) Origin and the rest (samuṭṭhāna)
+The same as the **first pārājika rule**; the feeling is **painful** only.
+
+@pac17
+T: නික්කඩ්ඪන සික්ඛාපදය || The Rule on Evicting a Monk
+R: යම් භික්ෂුවක් කිපී අසතුටු සිතින් භික්ෂුවක් සංඝික විහාරයෙන් නෙරපයි නම් හෝ නෙරපවයි නම් පාචිත්තිය වේ. || Should any monk, angry and displeased, evict a monk from a Saṅgha dwelling or have him evicted, it is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සත්තරසවග්ගිය භික්ෂූන් ගෙළින් අල්ලා ඇද දැමීම || Dragging the group-of-seventeen out by the neck
+K: AD sd=s an=s anu=0 ved=D
+Z: භණ්ඩනකාරක, අලජ්ජී, උමතු, නිසි ලෙස නොපවත්නා ශිෂ්‍යයන් නික්මවීම; උමතු ආදීන් || Evicting a troublemaker, a shameless one, or a misbehaving pupil; the insane etc.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+The **group-of-seventeen monks** repaired a large Saṅgha dwelling to spend the rains there. The **group-of-six monks** said, “It belongs to us; get up.” When they replied, “You stay too, and we will stay as well,” the group-of-six, angry and displeased, ==grabbed them by the neck and dragged them out== of the dwelling. The Blessed One laid down the rule:
+> “Yo pana bhikkhu bhikkhuṃ kupito anattamano saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṃ.”
+## (A) The meaning of “kupito anattamano” and “nikkaḍḍheyya vā nikkaḍḍhāpeyya vā”
+**Kupita** — angry; **anattamana** — with a displeased mind.
+In places such as a many-storeyed mansion or a four-sided hall with many rooms, for one who drags him out past them with a single effort, without stopping in between, there is one pācittiya; for one who stops and makes many efforts, there are pācittiyas according to the number of doors. For one who sends him out with words, “Get out,” without touching him with the hand, the method is the same.
+In having him evicted, there is a dukkaṭa just for the command “Get him out”; after commanding once, even if many doors are passed, the one who commands has one pācittiya; but if he commanded, fixing it as “through so many doors” or “up to the main door”, there are pācittiyas according to the number of doors.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six monks. It is a **common rule**; it is **sāṇattika**; it is a **tika-pācittiya**; in a personal dwelling it is a **tika-dukkaṭa**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| With an angry, displeased mind, evicting a monk from a Saṅgha dwelling or having him evicted (in all three perceptions) | PC
+| Putting out his requisites; putting him or his requisites out of the attendance hall or the dwelling's surroundings | DK
+| Putting an unordained person or his requisites out of the dwelling or its surroundings (by the number of separate requisites) | DK
+| Evicting from another person's dwelling | DK
+| Evicting from one's own private dwelling | N
+## (D) No offence
+# For one who evicts from his own dwelling or that of a trusted friend;
+# For one who evicts a troublemaker, or his requisites, even from the whole monastery;
+# For one who evicts a shameless or insane monk from the place where he himself lives;
+# For one who evicts pupils or co-residents who do not behave properly, or their requisites;
+# For the insane and so on.
+## (E) Factors (= tīṇi — three)
+# It is a **Saṅgha dwelling**.
+# The ordained monk is **free from being a troublemaker** and so on.
+# **Evicting him, or having him evicted, out of anger**.
+## (F) Origin and the rest (samuṭṭhāna)
+As in the **Adinnādāna rule**; the feeling is **painful** only.
+
+@pac18
+T: වෙහාසකුටි සික්ඛාපදය || The Rule on the Raised Hut
+R: සංඝික විහාරයක උඩුමහල් කුටියක ගලවිය හැකි පා ඇති ඇඳක හෝ පුටුවක බර දමා හිඳියි නම් හෝ නිදයි නම් පාචිත්තිය වේ. || Should any monk sit or lie down forcefully on a bed or bench with detachable legs in an upper-storey loft of a Saṅgha dwelling, it is a pācittiya.
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: එක්තරා භික්ෂුවක් || A certain monk
+V: ඇඳේ පාදය ගැලවී යට භික්ෂුවගේ හිසට වැටීම || A bed leg falling on the head of a monk below
+K: EL sd=s an=a anu=0
+Z: හිස ගැටෙන උස, යට පරිභෝග නැති, ඇණ ගැසූ ඇඳ; උමතු ආදීන් || A loft where heads would touch, nobody below, legs pegged; the insane etc.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+A monk staying in the **upper loft** of a Saṅgha dwelling sat down suddenly on a bed with **detachable legs** (*āhaccapādaka*). The leg of the bed came off and fell on the head of the monk below; he cried out. The Blessed One laid down the rule:
+> “Yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṃ mañcaṃ vā pīṭhaṃ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṃ.”
+## (A) The meaning of “uparivehāsakuṭiyā”, “āhaccapādakaṃ”, “abhinisīdeyya”
+**Uparivehāsakuṭi** — a two- or three-storeyed hut whose upper floor is not covered over; in the word-analysis, what is meant is one where **the head of a man of average height does not touch** [the beams] (*asīsaghaṭṭā*).
+**Āhaccapādaka** — having legs set in by piercing the frame.
+**Abhinisīdeyya** — sits down pressing on it (or, as an accusative used in the sense of location, sitting or lying on the bed or bench); “abhi” is a prefix for the beauty of the word.
+In a loft with these marks, at least as high as the head of a man of average height does not touch the lower beams, for one who sits or lies down on a bed or bench with detachable legs placed on the beams, there is a pācittiya according to the number of efforts, as said in the Anupakhajja rule.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a certain monk. It is a **common rule**; it is **anāṇattika**; it is a **tika-pācittiya**; in a personal dwelling it is a **tika-dukkaṭa**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| In a Saṅgha dwelling, in a loft where the head does not touch, sitting or lying down on a bed or bench with detachable legs (in all three perceptions) | PC
+| Doing so in another person's dwelling | DK
+| Doing so in one's own private dwelling | N
+## (D) No offence
+# In one's own dwelling or that of a trusted friend; in a hut that is not a loft; in one where the head touches;
+# When the space below is not used, being filled with timber and so on; when the upper floor is covered with planks or finished with plaster and so on;
+# For one who takes something or leans on it while standing in the loft itself;
+# For one who sits on a bed whose legs have pegs driven through above (*paṭāṇi*);
+# For the insane and so on.
+## (E) Factors (= cattāri — four)
+# It is a **Saṅgha dwelling**.
+# It is a **loft where the head does not touch**.
+# The space below **is in use**.
+# **Sitting or lying down** on a bed or bench with detachable legs that are not pegged.
+## (F) Origin and the rest (samuṭṭhāna)
+The same as the **Eḷakaloma rule**.
+
+@pac19
+T: මහල්ලකවිහාර සික්ඛාපදය || The Rule on a Large Dwelling
+R: මහා විහාරයක් කරවන භික්ෂුව, හරිත නැති තැනක සිට, සෙවිලි ස්ථර දෙකක් තුනක් දක්වා පමණක් වැඩ මෙහෙයවිය යුතුය; ඊට වැඩියෙන් මෙහෙයවයි නම් පාචිත්තිය වේ. || When a monk is having a large dwelling built, he may supervise up to two or three layers of roofing, standing where there are no crops; if he supervises beyond that, even standing where there are no crops, it is a pācittiya.
+N: කොසඹෑ නුවර, ඝෝසිතාරාමය || Kosambī, Ghositārāma
+P: ඡන්න ස්ථවිර || Ven. Channa
+V: විහාරය නැවත නැවත සෙවිලි කරවා බර වැඩි වී කඩා වැටීම || Re-roofing a dwelling until it collapsed
+K: SC sd=s an=a anu=0
+Z: ගුහා, ලෙන්, තණ කුටි; අනුන් සඳහා; තමාගේ ධනයෙන්; උමතු ආදීන් || Caves, grass huts; building for another; with one's own wealth; the insane etc.
+#en
+## The Story
+@ Kosambī · Ghositārāma
+**Ven. Channa**, again and again, had the finished dwelling that had been built for him **roofed and plastered**, so that through the excess weight it collapsed; gathering grass and wood, he also damaged a brahmin's barley field. The Blessed One laid down the rule:
+> “Mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena yāvadvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṃ appaharite ṭhitena adhiṭṭhātabbaṃ. Tato ce uttariṃ appaharitepi ṭhito adhiṭṭhaheyya, pācittiyaṃ.”
+## (A) The meaning of “mahallakaṃ”, “yāva dvārakosā”, “aggaḷaṭṭhapanāya”, “ālokasandhiparikammāya”
+# **Mahallaka** — having an owner (one that a householder is building for him); **vihāra** — plastered inside, outside, or both.
+# **Yāva dvārakosā** — the area of two and a half cubits (*aḍḍhateyya hattha*) around the door frame.
+# **Aggaḷaṭṭhapanāya** — so that the door panel is fixed firmly. Because the door panel strikes the wall when opened and the frame when closed, the wall shakes and the clay loosens and falls; therefore one may plaster again and again up to the door frame.
+# **Ālokasandhiparikammāya** — for finishing the window panels; because they strike when opened, one may plaster a space the width of a panel in every direction.
+## (B) The meaning of “dvatticchadanassa pariyāyaṃ”
+Pariyāya = a layer (of roofing); two or three layers may be supervised. **Appaharite ṭhitena** — standing in a place without crops; crops are the first and later grains (*pubbaṇṇa-aparaṇṇa*); even those not yet ripe, which will ripen with rain, count as crops; if one supervises standing among crops, there is a dukkaṭa.
+The limit for standing where there are no crops: one must stand in a place where a man sitting at the side of the ridge-pole or the pinnacle of a peaked roof, looking from the edge of the eaves, can see the monk; even if it is without crops inside that, it is not allowed.
+**Tato ce uttari** — going beyond three courses when building in courses; beyond three layers when building in layers; there is a pācittiya according to the number of bricks, stones or lumps of plaster; with grass and leaves, according to the number of leaves or bundles of grass.
+## (C) The laying down of the rule and the command
+It was laid down at **Kosambī** concerning Ven. Channa. It is a **common rule**; it is **anāṇattika**; it is a **tika-pācittiya**; for one who perceives more than two or three layers when it is less, or is in doubt, there is a dukkaṭa.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Supervising beyond two or three layers (in all three perceptions: more, doubt, less) — by the number of bricks, stones, lumps of plaster, bundles of grass or leaves | PC
+| When it is less than two or three layers, perceiving it as more, or being in doubt | DK
+| Supervising while standing among crops | DK
+| When it is less than two or three layers, perceiving it as less | N
+## (E) No offence
+# In whitewashing and so on;
+# Within two or three layers, or less than that;
+# In caves, grottoes, grass huts and so on;
+# For one who builds for others, or with his own wealth;
+# For one who supervises anywhere other than the living quarters;
+# For the insane and so on.
+## (F) Factors (= tīṇi — three)
+# It is a **large dwelling**.
+# It is **one's own living quarters**.
+# **Supervising beyond** [the limit].
+## (G) Origin and the rest (samuṭṭhāna)
+As stated in the **Sañcaritta rule**.
+
+@pac20
+T: සප්පාණක සික්ඛාපදය || The Rule on Water with Living Beings
+R: යම් භික්ෂුවක් ප්‍රාණීන් සහිත ජලය බව දැන දැන තණ හෝ මැටි ඉසියි නම් හෝ ඉසවයි නම් පාචිත්තිය වේ. || Should any monk knowingly sprinkle grass or clay with water containing living beings, or have it sprinkled, it is a pācittiya.
+N: ආළවිය, අග්ගාළව චෛත්‍යය || Āḷavī, Aggāḷava shrine
+P: ආළවක භික්ෂූන් || The Āḷavaka monks
+V: සප්පාණක ජලයෙන් තණ, මැටි තෙත් කිරීම || Wetting grass and clay with water containing beings
+K: AD sd=s an=s anu=0 vj=P cit=3 ved=3
+Z: ප්‍රාණීන් නැතැයි සිතීම, නොසිතා, නොදැන; උමතු ආදීන් || Thinking there are no beings, unintentionally, not knowing; the insane etc.
+#en
+## The Story
+@ Āḷavī · Aggāḷava shrine
+The **Āḷavaka monks**, doing building work, ==knowing that the water contained living beings==, wetted grass and clay with that water, and had it wetted. The Blessed One laid down the rule:
+> “Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ tiṇaṃ vā mattikaṃ vā siñceyya vā siñcāpeyya vā, pācittiyaṃ.”
+## (A) The meaning of “jānaṃ sappāṇakaṃ”, “siñceyya”, “siñcāpeyya”
+**Jānaṃ sappāṇakaṃ** — knowing, by having seen or heard, “This has living beings in it.” **Siñceyya** — pours it himself; **siñcāpeyya** — commands another and has it poured.
+For one who pours without breaking the stream, there is one offence for one pot; for one who pours breaking it, according to the number of efforts. For one who makes a channel flow, there is one offence even if it flows the whole day; for one who blocks it here and there and leads it elsewhere, according to the number of efforts. For one who throws in many grasses, leaves and branches with one effort, there is one offence; for one who throws them in one by one, according to the number of efforts.
+This was said about water that becomes less, gets stirred up and in which the beings die when things are thrown in; not about a great body of water. In having it poured, there is a dukkaṭa for the command; even if much is poured on one command, the one who commands has one pācittiya.
+## (B) The laying down of the rule and the command
+It was laid down at **Āḷavī** concerning the Āḷavaka monks, on the matter of sprinkling. It is a **common rule**; it is **sāṇattika** (the offence also arises by getting another person to do it).
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The water has beings in it, with the perception that it has beings, knowing “the beings will die by pouring”, pouring it on grass or clay or having it poured | PC
+| Being in doubt about water with beings, pouring it or having it poured | DK
+| Water without beings, perceiving it as having beings or being in doubt, pouring it or having it poured | DK
+| Water with beings, perceiving it as without beings | N
+| Water without beings, perceiving it as without beings | N
+## (D) No offence
+# For one who thinks there are no beings;
+# For one who pours without intending to, or without mindfulness;
+# For one who does not know;
+# For the insane and so on.
+## (E) Factors (= cattāri — four)
+# The water **contains beings**.
+# Knowing, “**the beings will die** by pouring.”
+# The water **is in fact like that**.
+# Pouring grass and so on, or having it poured, for some purpose **without the intention to kill**.
+## (F) Origin and the rest (samuṭṭhāna)
+As in the **Adinnādāna rule**; the difference is that this is **paṇṇattivajja**, **ticitta** and **tivedana**.

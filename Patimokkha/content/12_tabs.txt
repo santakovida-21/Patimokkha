@@ -1,0 +1,733 @@
+@pac11
+T: භූතගාම සික්ඛාපදය || The Rule on Plant Life
+R: භූතගාමය (වැවෙන ශාක) විනාශ කිරීමෙහි පාචිත්තිය වේ. || In destroying plant life, there is a pācittiya.
+N: ආළවිය, අග්ගාළව චෛත්‍යය || Āḷavī, Aggāḷava shrine
+P: ආළවක භික්ෂූන් || The Āḷavaka monks
+V: ගස් කැපීම || Cutting trees
+K: AD sd=s an=s anu=0 vj=P cit=3 ved=3
+Z: කප්පිය වචනය, නොසිතා, නොසිහියෙන්, නොදැන; උමතු ආදීන් || Allowable words, unintentionally, without knowing; the insane etc.
+#si
+## {story} කථා වස්තුව
+### රුක්ඛඡින්දන වස්තුව
+@ ආළවිය · අග්ගාළව චෛත්‍යය
+:::short
+ආළවියෙහි නවකර්ම කරන ආළවක භික්ෂූහු ==ගස් කැපූහ, කප්පවූහ==. එක් භික්ෂුවක් ගසක් කපන විට, එහි වූ දේවතාවිය තම භවනය නොකපන ලෙස ඉල්ලුවා ය; ඔහු එය නොසලකා කපා, ඇගේ දරුවාගේ බාහුවට ද පහර දුන්නේ ය. ඇය ක්‍රෝධය නවතා භාග්‍යවතුන් වහන්සේට සැල කළා ය; උන්වහන්සේ භික්ෂුව ජීවිතයෙන් තොර නොකිරීම ගැන ඇයට ප්‍රශංසා කොට, හිස් (**විවිත්ත**) ගසකට යැවූ සේක. ගසෙහි ජීවයක් ඇතැයි සලකන මිනිස්සු “ශ්‍රමණයෝ **ඒකේන්ද්‍රිය ජීවයක්** පෙළති” යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ භික්ෂූන්ට ගරහා ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ ආළවියෙහි අග්ගාළව චෛත්‍යයෙහි වැඩ වසන සේක. එකල ආළවක භික්ෂූහු නවකර්ම කරමින් ==ගස් කපති, කප්පවති==. එක් ආළවක භික්ෂුවක් ද ගසක් කපයි. ඒ ගසෙහි අධිවාසය කළ දේවතාවිය ඒ භික්ෂුවට “ස්වාමීනි, තමන්ගේ භවනය කරනු කැමැත්තෙන් මාගේ භවනය නොකපනු මැනවි” යි කීවා ය. ඒ භික්ෂුව එය නොසලකා කැපුවේ ම ය; ඒ දේවතාවියගේ දරුවාගේ බාහුවට ද පහර දුන්නේ ය.
+එවිට ඒ දේවතාවියට “මම මේ භික්ෂුව මෙහිදී ම ජීවිතයෙන් තොර කරන්නෙම් නම් මැනවි” යි සිතිණ. නැවත “මා මේ භික්ෂුව ජීවිතයෙන් තොර කිරීම සුදුසු නොවේ; මේ කරුණ භාග්‍යවතුන් වහන්සේට සැල කරන්නෙම් නම් මැනවි” යි සිතා, භාග්‍යවතුන් වහන්සේ වෙත එළඹ ඒ කරුණ සැල කළා ය.
+භාග්‍යවතුන් වහන්සේ “දේවතාවිය, යහපති, යහපති! ඔබ ඒ භික්ෂුව ජීවිතයෙන් තොර නොකළේ යහපති. ඉදින් අද ඔබ ඒ භික්ෂුව ජීවිතයෙන් තොර කළා නම් බොහෝ පව් උපදවා ගන්නෙහි ය. දේවතාවිය, යන්න; අසවල් තැන හිස් (**විවිත්ත**) ගසක් ඇත; එයට එළඹෙන්න” යි වදාළ සේක.
+මිනිස්සු “ශාක්‍යපුත්‍රීය ශ්‍රමණයෝ කෙසේ නම් ගස් කපන්නාහු ද, කප්පවන්නාහු ද? ශාක්‍යපුත්‍රීය ශ්‍රමණයෝ **ඒකේන්ද්‍රිය ජීවයක්** පෙළන්නාහු ය” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ. ඒ නින්දාව ඇසූ අල්පේච්ඡ භික්ෂූහු ද “ආළවක භික්ෂූහු කෙසේ නම් ගස් කපන්නාහු ද, කප්පවන්නාහු ද?” යි දොස් කියා භාග්‍යවතුන් වහන්සේට සැල කළහ.
+භාග්‍යවතුන් වහන්සේ “මහණෙනි, ඔබ ගස් කපන බවත් කප්පවන බවත් සැබෑ ද?” යි විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂයෙනි, ඔබ කෙසේ නම් ගස් කපන්නාහු ද, කප්පවන්නාහු ද? මෝඝපුරුෂයෙනි, ==මිනිස්සු ගසෙහි ජීවයක් ඇතැයි සලකන්නෝ ය==. මෝඝපුරුෂයෙනි, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා ශික්ෂාපදය පැනවූ සේක.
+:::
+!pn: මුල් පැනවීම
+> භූතගාමපාතබ්‍යතාය පාචිත්තියං.
+~ වැඩෙන ගහකොල සිඳීමෙන් පචිති වේ.
+!src: මෙම ශික්ෂාපදයට අනුපඤ්ඤත්ති නැත; මුල් පැනවීම ම සම්පූර්ණ ශික්ෂාපදය වේ.
+## {story} පදභාජනීය — භූතගාමය (බීජජාත පස)
+**භූතගාමය** නම් බීජජාත පසකි: **මූලබීජ**, **ඛන්ධබීජ**, **ඵළුබීජ**, **අග්ගබීජ** හා පස්වැනි වූ **බීජබීජ** ය.
+|! බීජජාතය | පාළියෙහි දැක්වෙන උදාහරණ | හටගන්නා තැන
+| **මූලබීජ** | හලිද්දි (කහ), සිඞ්ගිවෙර (ඉඟුරු), වචා, වචත්ත, අතිවිසා, කටුකරොහිණී, උසීර, භද්දමූත්තක | මුලෙහි හටගනී, මුලෙහි උපදී
+| **ඛන්ධබීජ** | අස්සත්ථ, නිග්‍රොධ (නුග), පිලක්ඛ, උදුම්බර (දිඹුල්), කච්ඡක, කපිත්ථන | කඳෙහි හටගනී, කඳෙහි උපදී
+| **ඵළුබීජ** | උච්ඡු (උක්), වෙළු (උණ), නළ (බට) | පුරුකෙහි හටගනී, පුරුකෙහි උපදී
+| **අග්ගබීජ** | අජ්ජුක, ඵණිජ්ජක, හිරිවෙර | අග්‍රයෙහි හටගනී, අග්‍රයෙහි උපදී
+| **බීජබීජ** | පුබ්බණ්ණ, අපරණ්ණ (ධාන්‍ය වර්ග) | බීජයෙහි හටගනී, බීජයෙහි උපදී
+පාළියෙහි නම් කළ මේවා හැර වෙනත් යමක් මුලෙහි, කඳෙහි, පුරුකෙහි, අග්‍රයෙහි හෝ බීජයෙහි හටගනී නම්, එය ද ඒ ඒ බීජජාතයට ම අයත් වේ.
+## {story} ආපත්ති — සංඥාව අනුව
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| බීජය (භූතගාමය) | බීජ යැයි සලකා කපයි / කප්පවයි, බිඳියි / බිඳවයි, පිසියි / පිසවයි | PC
+| බීජය | සැක සහිතව එසේ කරයි | DK
+| බීජය | අබීජ යැයි සලකා එසේ කරයි | N
+| අබීජය | බීජ යැයි සලකා එසේ කරයි | DK
+| අබීජය | සැක සහිතව එසේ කරයි | DK
+| අබීජය | අබීජ යැයි සලකා එසේ කරයි | N
+## {story} අනාපත්ති
+# “මෙය දැනගන්න, මෙය දෙන්න, මෙය ගෙනෙන්න, මෙයින් ප්‍රයෝජන ඇත, මෙය කප්පිය කරන්න” යි කියයි නම්;
+# නොසිතා (**අසඤ්චිච්ච**) විනාශ වූ කල්හි;
+# සිහි නොමැතිව (**අස්සතියා**) විනාශ වූ කල්හි;
+# නොදන්නාහට (**අජානන්තස්ස**);
+# උමතු වූවහුට (**උම්මත්තකස්ස**);
+# ආදිකම්මිකයාට (**ආදිකම්මිකස්ස**).
+## {att} කථා වස්තුවට අදාළ විශේෂ කරුණු
+- **දරුවාගේ අත කැපුණු ආකාරය** — එසවූ පොරොව නවතා ගත නොහැකිව, මිනිස් ඇසට නොපෙනෙන, මහරජුන් වෙතින් ලද **රුක්ඛට්ඨක** දිව්‍ය විමානයෙහි සැතපී සිටි දරුවාගේ අත ළය මුලින් ම (**ථනමූලෙ**) කැපිණ.
+- **“රුක්ඛධම්ම”** — හිමවතෙහි පක්ෂ දිනවල දේවතා සමාගමක් වේ. එහිදී “ඔබ රුක්ඛධම්මයෙහි පිහිටියෙහි ද?” යි විමසති. ගස කපන කල ඒ ගසෙහි දේවතාවා සිත නොදූෂ්‍ය කර ගැනීම **රුක්ඛධම්ම** යි. එහි නොපිහිටි දේවතාවට ඒ සමාගමට ඇතුළු වීමට නොලැබේ. මේ ආදීනවය ද, **ඡද්දන්ත** ආදී කාලයෙහි තථාගතයන්ගේ පූර්ව චරිතය ද සිහි කළ හෙයින් ඇය භික්ෂුව නොමැරුවා ය.
+- **භාග්‍යවතුන් වහන්සේට සැල කිරීමට හේතුව** — “මේ භික්ෂුව පියෙකු ඇති පුතෙකි (ශාස්තෘවරයකු ඇත්තෙකි); භාග්‍යවතුන් වහන්සේ මේ වරද අසා සීමාවක් බඳිනු ඇත, ශික්ෂාපදයක් පනවනු ඇත” යි සලකා ය.
+- **දේශනාව හා ඵලය** — භාග්‍යවතුන් වහන්සේ ඇය සනසමින් නැගුණු ක්‍රෝධය නවතා ගන්නා තැනැත්තා රියැදුරෙකු යැයි දක්වන ගාථාව (ධම්මපද 222) වදාළ සේක; ගාථාව අවසානයේ ඇය **සෝවාන් ඵලයෙහි** පිහිටියා ය. ඉන්පසු පිරිසට ක්‍රෝධය දුරු කරන භික්ෂුව සර්පයා දිරූ සැවය හරින්නාක් මෙන් මෙලොව පරලොව හරින බව දක්වන ගාථාව (සුත්තනිපාත 1) වදාළ සේක.
+- **හිස් ගස** — දේවතාවියට දුන් ගස ආළවියෙහි නොව **ජේතවනයේ වැට ඇතුළත** විය; එහි හිමිකරු වූ දෙවියා චුත වූ හෙයින් “හිස්” (**විවිත්ත**) යැයි කියන ලදී. එතැන් පටන් ඇය බුද්ධෝපස්ථායිකාවක් විය; මහේශාක්‍ය දෙවියන් පැමිණෙන කල අල්පේශාක්‍ය දෙවියන් ඉවත්ව යතත්, ඇයට තම වාසස්ථානයෙහි ම හිඳ බණ ඇසීමට ලැබිණ. පළමු යාමයෙහි භික්ෂූන් ද, මැදියම් යාමයෙහි දෙවියන් ද අසන ප්‍රශ්න සියල්ල ඇය එහි ම හිඳ අසයි; සතරවරම් රජවරු ද භාග්‍යවතුන් වහන්සේට උපස්ථානයට පැමිණ යන විට ඇය දැක ම යති.
+## {att} “බීජජාත” හා පාළියේ නැති අමතර උදාහරණ
+පැරණි අටුවාවල කී විවරණය පාළියේ “යානි වා පනඤ්ඤානිපි අත්ථි මූලෙ ජායන්ති” ආදිය සමඟ නොගැළපෙන හෙයින් සමන්තපාසාදිකාව මෙසේ විවරණය කරයි. **“බීජජාත”** යන්නට අර්ථ දෙකකි:
+# බීජයෙන් හටගත් දෑ — ගස් ආදියට නමකි.
+# පැළ වී කොළ හා මුල් හටගත් බීජ — මෙයින් තෙත් වැලි ආදියෙහි තැබූ, කොළ මුල් හටගත් ඉඟුරු ආදිය ද ඇතුළත් වේ.
+“**යානි වා පනඤ්ඤානිපි අත්ථි මූලෙ ජායන්ති**” යන්නෙහි අර්ථය: පඳුරු, වැල්, ගස් ආදිය යම් මුලක හටගනී ද, **ඒ මුල** ද, පාළියේ කී කහ ආදිය ද යන සියල්ල **මූලබීජ** නම් වේ. ඛන්ධබීජ ආදියෙහි ද මේ ක්‍රමය ම ය.
+|! බීජජාතය | අට්ඨකථාවේ එක් කළ උදාහරණ
+| **මූලබීජ** | ආලුව, කසෙරු, කමල, උප්පල, පුණ්ඩරීක, කුවලය, කන්ද, පාටලි මුල් ආදිය
+| **ඛන්ධබීජ** | අම්බාටක, ඉන්දසාල, නුහී, පාළිභද්දක, කණිකාර ආදිය
+| **ඵළුබීජ** | අමූලවල්ලි, චතුරස්සවල්ලි, කණවීර ආදිය
+| **අග්ගබීජ** | මකචි, සුමන, ජයසුමන ආදිය
+| **බීජබීජ** | අඹ, දඹ, කොස් ඇට ආදිය
+## {att} “බීජෙ බීජසඤ්ඤී” — මෙහි “බීජ” යනු කුමක් ද?
+“හැල් වීවලින් කළ බත” “හැල්වල බත” යැයි කියන්නාක් මෙන්, **බීජයෙන් හටගත් භූතගාමය** ම මෙහි “බීජ” යැයි කියන ලදී. නැතහොත් (**අථ වා**), ශික්ෂාපද විභඞ්ගයේ මුල් පදය වූ “**භූතගාමො නාම**” යන්න සමඟ ගළපා පාඨයේ අර්ථය මෙසේ දත යුතුය:
+%% වස්තුව | භූතගාමය වූ යම් බීජයක් වේ ද, ඒ බීජයෙහි
+%% සංඥාව | බීජ යැයි සලකන්නේ (**බීජසඤ්ඤී**),
+%% කැපීම | පිහිය ආදිය ගෙන තමා කපයි හෝ අනුන් ලවා කප්පවයි ද,
+%% බිඳීම | ගල් ආදිය ගෙන තමා බිඳියි හෝ අනුන් ලවා බිඳවයි ද,
+%% පිසීම | ගින්න ළං කොට තමා පිසියි හෝ අනුන් ලවා පිසවයි ද,
+%% ඵලය | ඔහු **පාචිත්තියට** පැමිණේ.
+- භූතගාමයෙන් මුදා තැබූ බීජය (**බීජගාම**) **දුක්කට වස්තුවකි**. එබැවින් වචනාර්ථය පමණක් ගෙන, භූතගාමයෙන් වෙන් වූ බීජයක් කැපීම ආදියට පාචිත්තිය නොකිය යුතුය.
+- **සාරාංශය:** භූතගාමය විනාශ කිරීම → පාචිත්තිය; භූතගාමයෙන් මුදා ගත් බීජගාම පස් වර්ගය විනාශ කිරීම → දුක්කට.
+## {att} ජලයෙහි හටගන්නා භූතගාමය
+අබ ප්‍රමාණ, තල බීජ ප්‍රමාණ ආදී, කොළ සහිත හෝ රහිත සියලු සේවාල වර්ග — අන්තිමේදී **උදකපප්පටකය** (උඩ තද රළු පැහැති, යට මෘදු නිල් පැහැති ජල සෙවෙල) දක්වා — භූතගාම ලෙස සැලකිය යුතුය.
+|! අවස්ථාව | ක්‍රියාව | ඇවැත
+| මුල පොළොවේ පිහිටි සේවාලය (එහි ස්ථානය පොළොවයි) | කොතැනක හෝ විනාශ කිරීම, හෝ උදුරා වෙනත් තැනකට ගෙන යාම | PC
+| ජලයෙහි පාවෙන සේවාලය (එහි ස්ථානය මුළු ජලයම යි) | විනාශ කිරීම | PC
+| ජලයෙහි පාවෙන සේවාලය | නෑමේදී අතින් එහා මෙහා කර ඉවත් කිරීම (ස්ථාන මාරුවක් නොවේ) | N
+| ජලයෙහි පාවෙන සේවාලය | ජලය නැතිව දැන දැන ජලයෙන් ඔසවා ගැනීම | නොවටී
+| ජලයෙහි පාවෙන සේවාලය | ජලය සමඟ ඔසවා නැවත ජලයට දැමීම | N
+| පෙරහනෙන් පිටතට එන සේවාල සහිත ජලය | කප්පිය කරවා ම පරිභෝග කළ යුතුය | —
+| මානෙල්, පියුම් ආදී ජලජ වැල් තෘණ | ජලයෙන් උදුරා දැමීම හෝ එහිම විනාශ කිරීම | PC
+| අනුන් උදුරා දැමූ මානෙල්, පියුම් ආදිය (බීජගාමයට අයත් ය) | විනාශ කිරීම | DK
+| ජලයෙන් ඔසවා ගත්, නොමැලවුණු තල බීජ ප්‍රමාණ හෝ අබ ප්‍රමාණ සේවාලය (**අග්ගබීජ**යට අයත් ය) | විනාශ කිරීම | DK
+!src: මහාපච්චරී ආදී අටුවාවල මෙවැනි දෑ දුක්කට වස්තු යැයි ද, අන්ධක අටුවාවේ “සම්පූර්ණ භූතගාමයක් නොවන හෙයින් දුක්කට” යැයි ද කීවත්, සමන්තපාසාදිකාව ඒවා නොපිළිගනී: “අසම්පූර්ණ භූතගාමය” යන තුන්වන කොටසක් පාළියෙහි හෝ අටුවාවල නැත; තවද “ගරු ලහු දෙකෙහි ගරු පක්ෂයෙහි සිටිය යුතුය” යනු විනය ලක්ෂණයයි. “එය බීජගාමයට අයත් වේ” යැයි කීම ද නොගැළපේ; එවැනි බීජගාමයක් භූතගාමයෙන් හටගත්තක් නොවන හෙයිනි.
+## {att} ගොඩබිම — කොටන්, කෙසෙල්, උණ හා සිටවූ දඬු
+|! වස්තුව | තත්ත්වය | අයත් වන්නේ | ඇවැත
+| කපා දැමූ ගසක ඉතිරි වූ හරිත කොටන (**ඛාණු**) — කකුධ, කරඤ්ජ, පියඞ්ගු, කොස් ආදී උඩට වැඩෙන ඒවා | උඩට වැඩෙයි | භූතගාම | PC
+| තල්, පොල් ආදීන්ගේ කොටන | උඩට නොවැඩෙයි | බීජගාම | DK
+| ඵල නොහටගත් කෙසෙල් ගසක කොටන | — | භූතගාම | PC
+| ඵල හටගත් කෙසෙල් ගසක කොටන | — | බීජගාම | DK
+| ඵල හටගත් කෙසෙල් ගස, ඵල හටගත් උණ පඳුර | කොළ නිල් පැහැව ඇති තාක් | භූතගාම | PC
+| ඵල හටගත් කෙසෙල් / උණ | අග සිට වියළෙන්නට පටන් ගත් කල (ඉන් කිසිවක් නොහටගනී) | ඵළුබීජ — බීජගාම | DK
+| කපා රැස් කළ ඉන්දසාල ආදී දඬු | රියන් ප්‍රමාණ අතු නික්මුණත් | බීජගාම | DK
+| මණ්ඩපයට, වැටට, වැල් යැවීමට පොළොවේ සිටවූ දඬු | මුල් හා කොළ දෙක ම නික්මුණු කල | නැවත භූතගාම | PC
+| එසේ සිටවූ දඬු | මුල් පමණක් හෝ කොළ පමණක් නික්මුණු කල | බීජගාම | DK
+## {att} පැළ වන බීජ — භූතගාමය වන්නේ කවදා ද?
+පොළොවෙහි වතුර දමා තැබූ, නැතහොත් කැබලි ආදියෙහි තෙත් පස් දමා තැබූ බීජ, මුල පමණක් හෝ කොළ පමණක් නික්මුණත් බීජ ම ය. මුල් හා උඩින් අංකුරය නික්මුණත්, අංකුරය හරිත නොවන තාක් බීජ ම ය.
+|! බීජය | බීජගාම ලෙස සැලකෙන තාක් | භූතගාම වන්නේ
+| මුං ආදිය | කොළ නොනැගුණු තාක් | කොළ නැගුණු කල
+| වී ආදිය | අංකුරය හරිත නොවූ තාක් | අංකුරය නිල් කොළ පැහැ වූ කල
+| තල් ඇට | මුලින් ඌරු දළක් වැනි මුල නික්මුණත්, උඩින් පත්‍ර වැටිය නොනික්මුණු තාක් | පත්‍ර වැටිය නික්මුණු කල
+| පොල් | ලෙල්ල බිඳ දත් ඉඳිකටුවක් වැනි අංකුරය නික්මුණත්, මුව අඟක් වැනි නිල් පත්‍ර වැටියක් නොවූ තාක් | එවැනි පත්‍ර වැටියක් හටගත් කල — මුල නොනික්මුණත් (“අමූලක භූතගාමය”)
+| අඹ ඇට ආදිය | වී ආදියෙහි මෙන් ම විනිශ්චය කළ යුතුය | වී ආදියෙහි මෙන්
+## {att} ගස්, බිත්ති, භාජන මත හටගන්නා දෑ
+|! වස්තුව | ක්‍රියාව / තත්ත්වය | ඇවැත
+| ගසෙහි හටගෙන ගස වසාගෙන වැඩෙන **වන්දාක** (පරපෝෂී ශාක) ආදිය (ගසම එහි ස්ථානයයි) | විනාශ කිරීම හෝ ගසෙන් ගලවා ගැනීම | PC
+| පඳුරු දඬුවල ඇඟිලි මුදුවක් මෙන් වෙළෙන අමූලික ලතාව | විනාශ කිරීම හෝ ගලවා ගැනීම | PC
+| ගෙපැල් මුහුණත, ප්‍රාකාර, වේදිකා, චෛත්‍ය ආදියේ නිල් පැහැ සේවාලය | කොළ දෙක තුනක් නොහටගත් තාක් (**අග්ගබීජ**) | DK
+| එම සේවාලය | කොළ හටගත් පසු | PC
+| එවැනි සේවාල ඇති තැන්වලට හුණු බදාම දීම | — | නොවටී
+| අනුපසම්පන්නයකු බැදූ බදාමයට උඩින් තෙල් ආලේපයක් දීම | — | N
+| ග්‍රීෂ්ම කාලයෙහි වියළී ගිය සේවාලය | ඉදල් ආදියෙන් අතුල්ලා ඉවත් කිරීම | N
+| පැන් කළ ආදියේ **පිටත** සේවාලය | — | DK
+| පැන් කළ ආදියේ **ඇතුළත** සේවාලය | ගණනට නොගැනේ (**අබ්බොහාරික**) | N
+| දැහැටි, කැවිලි ආදියේ පුස් (**කණ්ණක**) | ගණනට නොගැනේ (**අබ්බොහාරික**) | N
+| හරිත පැහැ නැති, කොළ නැති ගල් සෙවෙල් වර්ග, ගල් පාසි ආදිය | — | DK
+| හතු (**අහිච්ඡත්තක**) | කැකුළු අවස්ථාවේ | DK
+| හතු | පිපුණු කල පටන් (**අබ්බොහාරික**) | N
+| අමු ගසකින් හතු ගැනීම (ගසේ පොත්ත විනාශ වේ) | — | PC
+| අමු ගසේ පොතු පතුරු (**පප්පටිකා**) | ගැනීම | PC
+| ගසින් ගිලිහී පවතින ඉන්දසාල, කකුධ ආදීන්ගේ පතුරු | ගැනීම | N
+| ගසින් ගිලිහී ඇති හෝ වියළි ගසක ඇලී ඇති ලාටු (**නිය්‍යාස**) හෝ ලාකඩ (**ලාඛා**) | ගැනීම | N
+| අමු ගසක ඇති ලාටු හෝ ලාකඩ | ගැනීම | නොවටී
+| ගස සොලවා පඬු කොළ හෝ මේරූ කිණිහිරි ආදී මල් හෙළීම | — | PC
+| අත් කුකුසින් ඉන්දසාල, නුහී ආදී මෘදු කඳන් මත හෝ ගසෙහි ම ඇති තල් කොළ ආදිය මත අකුරු කැපීම | — | PC
+## {att} කැපීම, බිඳීම, පිසීම — විශේෂ අවස්ථා
+%% ඡින්දති වා ඡෙදාපෙති වා | “තණකොළ කපමි” යන අදහසින් ඉදල් කූරකින් වුව ද බිම අතුගාමින් තමා කපයි නම් හෝ අනුන් ලවා කප්පවයි නම් — ඇවැත් වේ.
+%% භින්දති වා භෙදාපෙති වා | සක්මන් කරන්නේ වුව ද “කැඩෙන දේ කැඩේවා, බිඳෙන දේ බිඳේවා; සක්මන් මඟ පෙන්වමි” යි සිතා දැන දැන පාගා තණකොළ, වැල් ආදිය තමා බිඳියි නම් හෝ අනුන් ලවා බිඳවයි නම් — ඇවැත් වේ. තණකොළයක් හෝ වැලක් ගැට ගසන විට බිඳේ නම් ගැටයක් ද නොගැසිය යුතුය.
+%% පචති වා පචාපෙති වා | පාත්‍රය පිසීමට කැමැත්තේ වුව ද තණකොළ ආදිය මත දැන දැන ගිනි දල්වා තමා පිසියි නම් හෝ අනුන් ලවා පිසවයි නම් — ඇවැත් වේ.
+- **සොරුන් නොනැගීමට** — තල් ගස් ආදියට **දාරුමක්කටක** (ලී කුරු) ගැසීම, කටු බැඳීම භික්ෂුවට නොවටී. ගසට තද නොකර, ගස නොපෙළා ළං කර තැබීම පමණක් නම් වටී.
+|! කීම | විනිශ්චය
+| “ගස කපන්න, වැල කපන්න, අල හෝ මුල උදුරන්න” | වටී — නියම නොකළ හෙයිනි
+| නම සඳහන් කොට “අඹ ගස, චතුරස්සවල්ලිය, ආලුව අලය, මුඤ්ජ තණ, අසවල් ගසේ පොත්ත කපන්න, බිඳින්න, උදුරන්න” | වටී — මෙය ද නියම නොකළ වචනයකි
+| “**මේ** අඹ ගස කපන්න” ආදී | නොවටී — නියම කළ වචනයයි
+| “මුං පිසින්න, උඳු පිසින්න” | වටී
+| “**මේ** මුං පිසින්න, **මේ** උඳු පිසින්න” | නොවටී
+## {att} සාමණේරයන් සමඟ, අතු හා ඉඟුරු
+- මල් නෙළන සාමණේරයන්ට අත්තක් නමා දීම වටී; එහෙත් එම මල්වලින් පැන් සුවඳ කළ යුතු නොවේ. පැන් සුවඳ කරනු කැමැත්තා සාමණේරයා ඔසවා මල් නෙළවිය යුතුය.
+- තමා කනු කැමැත්තෙන් ඵල අත්තක් නොනැමිය යුතුය; සාමණේරයා ඔසවා ඵලය ගන්වා ගත යුතුය.
+- පඳුරක් හෝ වැලක් උදුරන සාමණේරයන් සමඟ එක්ව අල්වා ඇදීම නොවටී; ඔවුන්ගේ උත්සාහය ඇති කිරීමට, නොඅදිමින් අදින්නාක් මෙන් පෙන්වා අගින් අල්ලා ගැනීම වටී.
+- අතු සිටවූ කල පැළ වන ගස්වල අත්තක් මැසි පවන් ආදිය සඳහා කප්පිය නොකරවා ගෙන, එහි පොත්තෙහි හෝ කොළයෙහි නියපොත්තෙන් වුව ද ඉරි අඳියි නම් **දුක්කට** ය. අමු ඉඟුරු ආදියෙහි ද එසේ ම ය.
+- කප්පිය කරවා සිසිල් තැනක තැබූ ඉඟුරු ආදියෙහි මුල් හටගත්තේ නම් උඩ කොටස කැපීම වටී; අංකුර හටගත්තේ නම් යට කොටස කැපීම වටී; මුල් හා නිල් අංකුර දෙකම හටගත්තේ නම් නොවටී.
+## {att} කප්පිය කරණය — අමතර විස්තර
+කප්පිය කිරීම මේ සූත්‍රය අනුව දත යුතුය: “මහණෙනි, ශ්‍රමණ කප්ප පසකින් ඵල පරිභෝගයට අනුදනිමි.”
+|! ශ්‍රමණ කප්පය | අර්ථය
+| **අග්ගිපරිජිත** | ගින්නෙන් යටපත් කළ — දැවුණු, ස්පර්ශ කළ
+| **සත්ථපරිජිත** | ආයුධයෙන් යටපත් කළ — කැපූ, විදි
+| **නඛපරිජිත** | නියපොත්තෙන් යටපත් කළ
+| **අබීජ** | බීජ නැති — ස්වභාවයෙන් ම කප්පිය ය
+| **නිබ්බට්ටබීජ** | බීජය ඉවත් කළ — ස්වභාවයෙන් ම කප්පිය ය
+- **ගින්න** — දර ගිනි, ගොම ගිනි ආදී ඕනෑම ගින්නකින්, රත් කළ යකඩ කැබැල්ලකින් පවා කළ හැක.
+- **ආයුධය** — ලෝහමය ආයුධයක් විය යුතුය.
+- **නියපොතු** — මිනිසුන්ගේ ද, සිංහ, ව්‍යාඝ්‍ර, දිවි, වඳුරු ආදීන්ගේ හා පක්ෂීන්ගේ ද තියුණු නියපොතුවලින් කළ හැක. අශ්ව, මී, ඌරු, මුව, ගව ආදීන්ගේ කුර තියුණු නොවන හෙයින් නොවටී; කළත් නොකළා වේ. ඇතුන්ගේ නියපොතු කුර නොවන හෙයින් වටී. ශරීරයේ ම ඇති ඒවායින් ද ගලවා ගත් ඒවායින් ද කළ හැක.
+- උක් හා දර එකට බැඳ ඇති කල බැඳි **ලණුව** හෝ වැල විදීම නොවටී.
+- උක් කැබලි පිරවූ කූඩයක් ගෙනා කල එක් කැබැල්ලක් කප්පිය කළ විට සියල්ල කප්පිය වේ.
+## {att} අනාපත්ති පදවල විවරණය
+|! පදය | අට්ඨකථාවේ නිදසුන
+| “**ඉමං ජාන**” ආදිය | “මේ මුල් බෙහෙත දැනගන්න, මේ මුල හෝ කොළය දෙන්න, මේ ගස හෝ වැල ගෙනෙන්න, මේ මලෙන්, ඵලයෙන්, කොළයෙන් ප්‍රයෝජන ඇත, මේ ගස, වැල, ඵලය කප්පිය කරන්න” — මෙපමණකින් **භූතගාමයෙන් මිදීම** කළා වේ; පරිභෝග කරන විට **බීජගාමයෙන් මිදීමට** නැවත කප්පිය කරවිය යුතුය.
+| **අසඤ්චිච්ච** (නොසිතා) | ගල්, ගස් ආදිය පෙරළන විට, අත්තක් අදින විට, සැරයටියෙන් බිමට තට්ටු කරමින් යන විට තණකොළ සිඳේ නම් — ඒවා සිඳිනු සිතා නොකළ හෙයින් අනාපත්ති.
+| **අස්සතියා** (සිහි නැතිව) | වෙනත් දෙයක සිත යොමු කර කිසිවකු සමඟ කතා කරමින් පා ඇඟිල්ලෙන් හෝ අතින් තණ හෝ වැල් සිඳිමින් සිටී නම් — අනාපත්ති.
+| **අජානන්තස්ස** (නොදන්නාහට) | ඇතුළත බීජගාමයක් හෝ භූතගාමයක් ඇති බව ද, සිඳින බව ද නොදැන, වැටක හෝ පිදුරු ගොඩක ආරක්ෂාවට හාරන උපකරණයක් (**නිඛාදන**, **ඛණිත්ති**) හෝ උදැල්ලක් (**කුදාල**) තබයි; නැතහොත් අත දැවෙන හෙයින් ගින්න බිම හෙළයි — එහිදී තණ සිඳේ නම් හෝ දැවේ නම් අනාපත්ති.
+## {att} විශේෂ විනිශ්චය — ගසක් යට සිරවූ භික්ෂුව
+- සියලු අටුවාවල (මනුස්සවිග්ගහ පාරාජිකා වර්ණනාවේ) මෙසේ කියැවේ: භික්ෂුවක් ගසකින් යට වුණේ හෝ වළකට වැටුණේ නම්, ගස කපා හෝ පොළොව හාරා පිටතට ආ හැකි වුව ද, **ජීවිතය සඳහා වුව ද තමා විසින් එය නොකළ යුතුය**. **වෙනත් භික්ෂුවකට** පොළොව හාරා, ගස කපා, හෝ අමු ගසකින් දණ්ඩක් කපා ගස පෙරළා ඔහු පිටතට ගැනීම වටී; අනාපත්ති.
+- සමන්තපාසාදිකාව මෙහි හේතුවක් නොදකී. දක්නට ඇත්තේ “මහණෙනි, ලැව් ගින්නක් දැවෙන කල ප්‍රතිගින්නක් දීමට, **පරිත්තං** (ආරක්ෂාව සඳහා ගිනි පරතරයක්) කිරීමට අනුදනිමි” (චූළවග්ග) යන එක ම සූත්‍රයයි. එයට අනුලෝම වශයෙන් “තමාට නොවටී, අනුන්ට වටී” යන වෙනස ලැබිය නොහැක.
+- “තමා සඳහා කරන්නා ආත්ම ස්නේහයෙන් අකුසල් සිතින් කරයි, අනෙකා කරුණාවෙන් කරයි” යන හේතුව ද පිළිගත නොහැක; කුසල් සිතින් ද මේ ඇවැතට පැමිණේ (තිචිත්තයි).
+- එහෙත් සියලු අටුවාවල කියා ඇති හෙයින් ප්‍රතික්ෂේප කළ නොහැක. මෙහි යුක්තිය සෙවිය යුතුය; නැතහොත් අටුවාචාරීන් කෙරෙහි ශ්‍රද්ධාවෙන් පිළිගත යුතුය.
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> භූතගාමපාතබ්‍යතාය පාචිත්තියං.
+මෙය **භූතගාම වග්ගයේ පළමු ශික්ෂාපදයයි** (**භූතගාමවග්ගස්ස පඨමෙ**). කඞ්ඛාවිතරණිය මුලින් ම ශික්ෂාපදයේ පද විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **භූත** | “**භවන්ති අහෙසුඤ්චා**” ති භූතා — උපදින, උපන්; එනම් හටගන්නා, වැඩෙන, හටගත්, වැඩුණු දෑ.
+| **ගාම** | රාශිය (සමූහය).
+| **භූතගාම** | භූතයන්ගේ රාශිය, නැතහොත් භූතයෝ ම රාශියක් ලෙස — **පිහිටි හරිත තෘණ, රුක් ආදියට** කියන නමකි.
+| **පාතබ්‍යතා** | කැපීම, බිඳීම ආදියෙන් කැමැති පරිදි පරිභෝග කළ හැකි බව.
+| **පාතබ්‍යතාය** | නිමිත්ත අර්ථයෙහි සප්තමී විභක්තිය (**නිමිත්තත්ථෙ භුම්මවචනං**) — “භූතගාමය කැපීම ආදිය හේතුවෙන් පාචිත්තිය” යන අර්ථයයි.
+## {kkv} සම්පූර්ණ අර්ථය
+%% හටගත් තැන | පොළොව, ජලය, ප්‍රාකාර ආදී යම් කිසි තැනක හටගත්,
+%% තත්ත්වය | නොවියළි (**අසුක්ඛ**),
+%% ප්‍රමාණය | ==ඉතා සියුම් තෘණයක්, අබ ප්‍රමාණ සේවාලයක් පවා== වූ භූතගාමයක්
+%% ක්‍රියාව | උදුරා දැමීම, කැපීම, විදීම ආදියෙන් යම් භික්ෂුවක් විනාශ කෙරේ ද, නැතහොත් **පඨවිඛණන** සික්ඛාපදයෙහි කී පරිදි (“මේ තැන / මේ රුක” යි නියම කොට) අනුන් ලවා විනාශ කරවා ද,
+%% ඵලය | ඒ භික්ෂුව **පාචිත්තියට** පැමිණේ.
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ස්ථානය | ආළවියෙහි,
+%% පුද්ගලයා | ආළවක භික්ෂූන් අරබයා,
+%% වස්තුව | **රුක් කැපීමේ වස්තුවෙහි** පනවන ලද මෙය
+%% ප්‍රඥප්තිය | **සාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට ද පොදු ය;
+%% ආණත්තිය | **සාණත්තික**යි — අනුන් ලවා කරවීමෙන් ද ඇවැත් වේ.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| භූතගාමය | භූතගාම යැයි සලකා කපයි, බිඳියි, විදියි, උදුරයි ආදියෙන් විනාශ කරයි / කරවයි | PC
+| භූතගාමයෙන් වෙන් කළ බීජගාමය (මූල, ඛන්ධ, ඵළු, අග්ග, බීජබීජ — බඳුනක තිබූ, රැස් කළ, බිම සිටවූ) — මුල පමණක් හෝ අංකුරය පමණක් නික්මුණු (විදත්ථි ප්‍රමාණ පත්‍ර වැටියක් නික්මුණත්), නැතහොත් මුල නික්මුණත් නොනික්මුණත් අංකුරය තවම හරිත නොවූ | විනාශ කරයි / කරවයි | DK
+| භූතගාමය හෝ බීජගාමය | සැක සහිතව විනාශ කරයි / කරවයි | DK
+| භූතගාම බීජගාම නොවන දෙය | භූතගාම බීජගාම යැයි සලකා විනාශ කරයි / කරවයි | DK
+| භූතගාම බීජගාම නොවන දෙය | සැක සහිතව විනාශ කරයි / කරවයි | DK
+| භූතගාමය හෝ බීජගාමය | එසේ නොවේ යැයි වැරදි ලෙස සලකා (**අතථාසඤ්ඤී**) විනාශ කරයි | N
+## {kkv} අනාපත්ති
+# භූතගාමයෙහි හෝ බීජගාමයෙහි, එසේ නොවේ යැයි අතථා සංඥාව ඇත්තහුට;
+# නොසිතා, සිහි නොමැතිව, හෝ නොදැන විනාශ කරන්නහුට;
+# “මේ රුක” යි නියම නොකොට “රුක කපන්න, වැල කපන්න” ආදීන් කියන්නහුට;
+# “මේ මල හෝ ඵලය දැනගන්න, මෙය දෙන්න, මෙය ගෙනෙන්න, මෙයින් මට ප්‍රයෝජන ඇත, මෙය කප්පිය කරන්න” යි කියන්නහුට;
+# උමතු වූවහු ආදීන්ට.
+## {kkv} කප්පිය කරණය
+කප්පිය වචනයෙන් භූතගාමයෙන් වෙන් කළ බීජජාතය ද නැවත **“කප්පියං කරොහී”** යි කප්පිය කරවා ම පරිභෝග කළ යුතුය; එසේ කළ කල්හි එය බීජගාමයෙන් ද මිදේ.
+# කප්පිය කිරීම **ගින්නෙන්, නියපොත්තෙන් හෝ ආයුධයෙන්** කළ යුතුය.
+# **ගින්නෙන්** — කවර ගින්නකින් වුව ද එක් පැත්තක් ස්පර්ශ කරවා “කප්පිය” යි කියා ම කළ යුතුය.
+# **ආයුධයෙන්** — ඉදිකටුවක්, නියපොතු කපනයක් පවා වූ කවර තියුණු ආයුධයක තුඩින් හෝ දාරයෙන් හෝ විදීමක් හෝ කැපීමක් පෙන්වා “කප්පිය” යි කියා කළ යුතුය.
+# **නියපොත්තෙන්** — ගව, මී ආදීන්ගේ කුර හැර, නොකුණු වූ මිනිස් හෝ තිරිසන් නියපොත්තකින් (කපා ගෙනා එකකින් පවා) ආයුධයෙහි කී පරිදි ම කළ යුතුය.
+# බීජ පර්වතයක් තරම් රාශියක්, කපා එක්කොට බැඳි රුක් දහසක්, බැඳ තැබූ උක් මහා බරක් වුව ද එක් බීජයක, එක් අත්තක, එක් උක් දණ්ඩක කප්පිය කළ කල සියල්ල කප්පිය කළා වේ. උක් සමඟ බැඳි දර කැබැල්ල විදීම වටී; එහෙත් බර බැඳි වැල විදීම නොවටී.
+# ඉදුණු ගම්මිරිස් (**මරිචපක්ක**) ආදියෙන් මිශ්‍ර කළ බතෙහි බත් ඇටයක් විදීම වුව ද වටී; තල, සහල් ආදියෙහි ද එසේ ම ය. කැඳෙහි දැමූ ඒවා එකට බැඳී නොසිටින හෙයින් එකින් එක විද කළ යුතුය.
+# කපිට්ඨ ඵල ආදියෙහි ඇතුළත මිඤ්ජය කටුවෙන් වෙන්ව සෙලවේ නම් බිඳවා කප්පිය කරවිය යුතුය; එකට බැඳී ඇත්නම් කටුවෙහි ම කළ හැක.
+# ළපටි වූ අබීජ ඵලයක හෝ බීජය ඉවත් කොට පරිභෝග කළ යුතු ඵලයක කප්පිය කිරීම **අවශ්‍ය නැත**.
+## {kkv} අංග (= තීණි — තුනකි)
+# භූතගාමය වීම;
+# භූතගාම සංඥාව ඇති වීම;
+# විනාශ කිරීම හෝ විනාශ කරවීම.
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **පඨවිඛණන සික්ඛාපද**යට සමාන ය.
+#en
+## {story} The Origin Story
+### The Matter of Cutting Trees (Rukkhachindana-vatthu)
+@ Āḷavī · Aggāḷava shrine
+:::short
+At Āḷavī the Āḷavaka monks, doing building work, ==cut trees and had them cut==. When one monk cut a tree, the deity living in it asked him not to destroy her dwelling; he ignored her and struck her child’s arm. Restraining her anger, she told the Blessed One, who praised her for not taking the monk’s life and sent her to a vacant (**vivitta**) tree. People, who regard trees as having life, criticised the monks for harming **a being with one faculty**. The Blessed One rebuked the monks and laid down the training rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Āḷavī, at the Aggāḷava shrine. At that time the Āḷavaka monks, doing building work, ==cut trees and had them cut==. One Āḷavaka monk was cutting a tree. The deity who lived in that tree said to the monk: “Venerable sir, wishing to build a dwelling for yourself, do not cut down my dwelling.” Paying no attention, the monk cut it anyway, and struck the arm of the deity’s child.
+Then the deity thought: “What if I were to take this monk’s life right here?” Then she thought: “It would not be proper for me to take this monk’s life. What if I were to tell this matter to the Blessed One?” So she approached the Blessed One and told him the matter.
+“Good, good, deity! It is good that you did not take that monk’s life. Had you taken that monk’s life today, you would have produced much demerit. Go, deity; in such-and-such a place there is a vacant tree. Go there.”
+People complained, criticised and spread it about: “How can the Sakyan recluses cut trees and have them cut? The Sakyan recluses are harming **a being with one faculty**!” Hearing the people complaining, the monks of few wishes also complained: “How can the Āḷavaka monks cut trees and have them cut?” — and they told the Blessed One.
+The Blessed One asked: “Is it true, monks, that you cut trees and have them cut?” “It is true, Blessed One.” He rebuked them: “Foolish men, how can you cut trees and have them cut? Foolish men, ==people regard a tree as having life==. Foolish men, this does not inspire faith in those without faith …” — and he laid down the training rule.
+:::
+!pn: The original rule
+> භූතගාමපාතබ්‍යතාය පාචිත්තියං.
+~ For the destruction of plant life: Pācittiya.
+!src: This rule has no supplementary rule (anupaññatti); the original rule is the complete training rule.
+## {story} Word analysis — bhūtagāma (the five kinds of seed)
+**Bhūtagāma** (plant life) means the five kinds of seed: root-seed (**mūlabīja**), trunk-seed (**khandhabīja**), joint-seed (**phaḷubīja**), tip-seed (**aggabīja**), and fifth, seed-seed (**bījabīja**).
+|! Kind of seed | Examples given in the Pāli | Where it grows from
+| **Mūlabīja** | Haliddi (turmeric), siṅgivera (ginger), vacā, vacatta, ativisā, kaṭukarohiṇī, usīra, bhaddamuttaka | Grows from the root, arises from the root
+| **Khandhabīja** | Assattha, nigrodha (banyan), pilakkha, udumbara (cluster fig), kacchaka, kapitthana | Grows from the trunk, arises from the trunk
+| **Phaḷubīja** | Ucchu (sugarcane), veḷu (bamboo), naḷa (reed) | Grows from a joint, arises from a joint
+| **Aggabīja** | Ajjuka, phaṇijjaka, hirivera | Grows from the tip, arises from the tip
+| **Bījabīja** | Pubbaṇṇa, aparaṇṇa (kinds of grain) | Grows from the seed, arises from the seed
+Besides those named in the Pāli, whatever else grows from a root, trunk, joint, tip or seed also belongs to that same kind of seed.
+## {story} Offences by perception
+|! Object | Perception and act | Offence
+| Seed (plant life) | Perceiving it as seed, he cuts it / has it cut, breaks it / has it broken, cooks it / has it cooked | PC
+| Seed | Doing so while in doubt | DK
+| Seed | Doing so perceiving it as not seed | N
+| Not seed | Doing so perceiving it as seed | DK
+| Not seed | Doing so while in doubt | DK
+| Not seed | Doing so perceiving it as not seed | N
+## {story} No offence
+# He says, “Know this, give this, bring this, this is needed, make this allowable”;
+# When it is destroyed unintentionally (**asañcicca**);
+# When it is destroyed without mindfulness (**assatiyā**);
+# For one who does not know (**ajānantassa**);
+# For one who is insane (**ummattakassa**);
+# For the first offender (**ādikammikassa**).
+## {att} Special points about the origin story
+- **How the child’s arm was cut** — unable to stop the raised axe, the monk cut off, right at the base of the breast (**thanamūle**), the arm of the child lying in the tree-dwelling divine mansion that the deity had received from the Great King and that is beyond human sight.
+- **“Rukkhadhamma”** (the duty of a tree deity) — on the fortnightly days there is an assembly of deities in the Himalaya, where they ask, “Do you stand in rukkhadhamma?” **Rukkhadhamma** means that, when a tree is being cut, its deity does not let her mind become corrupted with anger. A deity who does not stand in it may not enter that assembly. Seeing this danger, and recalling the Tathāgata’s past conduct (as in the **Chaddanta** birth), she did not kill the monk.
+- **Why she told the Blessed One** — she reflected: “This monk is a son who has a father (a teacher); hearing of this misconduct, the Blessed One will set a boundary and lay down a training rule.”
+- **The teaching and its fruit** — consoling her, the Blessed One spoke the verse that calls the one who checks arisen anger a true charioteer (Dhammapada 222); at its end she was established in the **fruit of stream-entry**. Then, teaching the assembly, he spoke the verse on the monk who removes anger as a snake sheds its old skin (Suttanipāta 1).
+- **The vacant tree** — the tree given to the deity was not at Āḷavī but **inside the enclosure of Jetavana**; its owner, a young deva, had passed away, so it was called “vacant” (**vivitta**). From then on she became an attendant of the Buddha; when powerful deities arrived and lesser ones withdrew, she could stay seated in her own dwelling and hear the Dhamma. The questions the monks asked in the first watch and the deities in the middle watch — she heard them all seated there; and the Four Great Kings, coming to attend on the Blessed One, saw her before they left.
+## {att} “Bījajāta” and extra examples not in the Pāli
+Because the older commentaries’ explanation does not fit the Pāli “whatever else grows from a root” and so on, the Samantapāsādikā explains it this way. **“Bījajāta”** is explained in two ways:
+# What is born from seeds — a name for trees and so on.
+# Seeds that have sprouted, producing leaves and roots — this includes ginger and the like placed in moist sand that have put out leaves and roots.
+“Whatever else grows from a root” means: **the root** in which shrubs, creepers, trees and so on grow, together with the turmeric and so on named in the Pāli — all of this is called **mūlabīja**. The same method applies to trunk-seed and the rest.
+|! Kind of seed | Examples added by the commentary
+| **Mūlabīja** | Āluva, kaseru, kamala, uppala, puṇḍarīka, kuvalaya, kanda, pāṭali root and so on
+| **Khandhabīja** | Ambāṭaka, indasāla, nuhī, pāḷibhaddaka, kaṇikāra and so on
+| **Phaḷubīja** | Amūlavalli, caturassavalli, kaṇavīra and so on
+| **Aggabīja** | Makaci, sumana, jayasumana and so on
+| **Bījabīja** | Mango, rose-apple and jackfruit seeds and so on
+## {att} “Bīje bījasaññī” — what does “seed” mean here?
+Just as rice made from sāli grain is called “rice of sāli”, here **the plant life arisen from seed** is itself called “seed”. Or else (**atha vā**), read together with the first word of the rule’s analysis, “**bhūtagāmo nāma**”, the passage means:
+%% Object | Regarding a seed that is plant life,
+%% Perception | one who perceives it as seed (**bījasaññī**)
+%% Cutting | and, taking a knife or the like, cuts it himself or has another cut it,
+%% Breaking | or, taking a stone or the like, breaks it himself or has another break it,
+%% Cooking | or, bringing fire to it, cooks it himself or has another cook it,
+%% Result | falls into a **pācittiya**.
+- A seed kept after being released from plant life (**bījagāma**) is **an object of dukkaṭa**. So one should not, taking the words literally, say that cutting a seed separated from plant life is a pācittiya.
+- **In short:** destroying plant life → pācittiya; destroying any of the five kinds of seed-life released from plant life → dukkaṭa.
+## {att} Plant life growing in water
+All kinds of moss — mustard-sized, sesame-seed-sized and so on, with leaves or without — down to **udakapappaṭaka** (water scum: hard and rough-coloured above, soft and blue below) are to be regarded as plant life.
+|! Case | Act | Offence
+| Moss whose root is fixed in the ground (its place is the ground) | Destroying it anywhere, or pulling it up and moving it to another place | PC
+| Moss floating in water (its place is the whole water) | Destroying it | PC
+| Moss floating in water | Pushing it this way and that with the hands while bathing (not a change of place) | N
+| Moss floating in water | Deliberately lifting it out of the water without water | Not allowed
+| Moss floating in water | Lifting it up together with water and putting it back in the water | N
+| Water with moss that passes through the strainer | Use it only after having it made allowable | —
+| Water creepers and grasses such as water-lilies and lotuses | Pulling them out of the water, or destroying them right there | PC
+| Water-lilies, lotuses etc. pulled out by others (they count as seed-life) | Destroying them | DK
+| Sesame-seed or mustard-sized moss lifted out of water and not withered (counts as tip-seed) | Destroying it | DK
+!src: The Mahāpaccarī and other commentaries call such things objects of dukkaṭa, and the Andhaka commentary says “dukkaṭa, because it is not complete plant life”; the Samantapāsādikā does not accept these: a third class, “incomplete plant life”, is found neither in the Pāli nor in the commentaries, and it is a principle of the Vinaya that “between the heavier and the lighter, one should stand by the heavier”. To say “it belongs to seed-life” does not fit either, since such seed-life does not have plant life as its root.
+## {att} On land — stumps, banana, bamboo and planted stakes
+|! Object | Condition | Counts as | Offence
+| The green stump left of a cut tree — kakudha, karañja, piyaṅgu, jackfruit and others that grow upward | It grows upward | Plant life | PC
+| Stumps of palmyra, coconut and the like | It does not grow upward | Seed-life | DK
+| Stump of a banana plant that has not fruited | — | Plant life | PC
+| Stump of a banana plant that has fruited | — | Seed-life | DK
+| A banana plant or bamboo that has fruited | As long as the leaves are green | Plant life | PC
+| A fruited banana or bamboo | Once it starts drying from the top (nothing grows from it) | Joint-seed — seed-life | DK
+| Indasāla and other stakes cut and piled up | Even if branches a cubit long come out | Seed-life | DK
+| Stakes planted in the ground for a pavilion, a fence or for creepers | When both roots and leaves have come out | Plant life again | PC
+| Such planted stakes | When only roots or only leaves have come out | Seed-life | DK
+## {att} Sprouting seeds — when do they become plant life?
+Seeds kept on the ground and watered, or put in pots with moist soil, are still seeds even if only the root or only a leaf has come out. Even if roots and a shoot above have come out, they are seeds as long as the shoot is not green.
+|! Seed | Counts as seed-life while | Becomes plant life when
+| Mung beans etc. | The leaves have not risen | The leaves have risen
+| Rice etc. | The shoot is not green | The shoot has turned blue-green like a leaf
+| Palmyra seed | Even with a root like a boar’s tusk, as long as no leaf-stalk has come out above | The leaf-stalk comes out
+| Coconut | Even with a shoot like a tooth-pick breaking through the husk, as long as there is no blue leaf-stalk like a deer’s horn | Such a leaf-stalk forms — even without a root (“rootless plant life”)
+| Mango stones etc. | Judged in the same way as rice | As with rice
+## {att} Things growing on trees, walls and vessels
+|! Object | Act / condition | Offence
+| **Vandāka** (epiphytes) and the like that grow on a tree and spread over it (the tree is its place) | Destroying it, or removing it from the tree | PC
+| A rootless creeper winding round shrub stems like a finger-ring | Destroying it or removing it | PC
+| Blue-green moss on house fronts, walls, railings, cetiyas etc. | Before two or three leaves have formed (tip-seed) | DK
+| That moss | After leaves have formed | PC
+| Applying lime plaster on places with such moss | — | Not allowed
+| Applying an oily coat over plaster laid by an unordained person | — | N
+| Moss that has dried up in the hot season | Scraping it off with a broom etc. | N
+| Moss on the **outside** of water pots etc. | — | DK
+| Moss on the **inside** of water pots etc. | Not reckoned (**abbohārika**) | N
+| Mould (**kaṇṇaka**) on tooth-sticks, cakes etc. | Not reckoned (**abbohārika**) | N
+| Kinds of stone-moss and lichen that are not green and have no leaves | — | DK
+| Mushroom (**ahicchattaka**) | While still a bud | DK
+| Mushroom | From when it has opened (**abbohārika**) | N
+| Taking a mushroom from a living tree (the bark is damaged) | — | PC
+| Bark scales (**pappaṭikā**) of a living tree | Taking them | PC
+| Scales of indasāla, kakudha etc. that have come loose from the tree | Taking them | N
+| Resin (**niyyāsa**) or lac that has come loose from a tree, or is stuck on a dead tree | Taking it | N
+| Resin or lac on a living tree | Taking it | Not allowed
+| Shaking a tree to make yellow leaves or ripe kaṇikāra flowers etc. fall | — | PC
+| Carving letters out of restlessness on soft trunks such as indasāla and nuhī, or on palm leaves still on the tree | — | PC
+## {att} Cutting, breaking, cooking — special cases
+%% Chindati vā chedāpeti vā | Even sweeping the ground with a broom-stick with the intention “I will cut the grass”, he cuts it himself or has another cut it — an offence.
+%% Bhindati vā bhedāpeti vā | Even while doing walking meditation, deliberately trampling, thinking “let what breaks break; I will show a walking path”, he breaks grass, creepers and the like himself or has another break them — an offence. If a grass or creeper breaks when knotted, one should not even tie a knot.
+%% Pacati vā pacāpeti vā | Even wanting to bake a bowl, deliberately lighting a fire on grass and the like, he cooks it himself or has another cook it — an offence.
+- **Against thieves** — fixing wooden spikes (**dārumakkaṭaka**) on palm trees or tying thorns on them so thieves cannot climb is not allowed for a monk; merely placing them so they touch without pressing the tree is allowed.
+|! Saying | Ruling
+| “Cut a tree, cut a creeper, dig up a tuber or root” | Allowed — not specified
+| Naming it: “Cut / break / dig up a mango tree, the caturassa creeper, the āluva tuber, muñja grass, the bark of such-and-such tree” | Allowed — this too is unspecified
+| “Cut **this** mango tree” and so on | Not allowed — this is specified
+| “Cook mung beans, cook black gram” | Allowed
+| “Cook **these** mung beans, cook **this** black gram” | Not allowed
+## {att} With novices; branches and ginger
+- One may bend down a branch for novices picking flowers; but one should not scent drinking water with those flowers. One who wishes to scent water should lift a novice up and have the flowers picked.
+- One should not bend a fruit branch wishing to eat the fruit oneself; lift a novice up and have the fruit taken.
+- One should not grab hold and pull together with novices who are uprooting a shrub or creeper; to encourage them, one may hold the tip, showing as if pulling without pulling.
+- From trees whose branches take root when planted, if a branch taken for a fly-whisk etc. without being made allowable is scratched on its bark or leaf, even with a fingernail, it is **dukkaṭa**. The same for fresh ginger and the like.
+- If ginger etc. made allowable and kept in a cool place sprouts roots, one may cut the upper part; if it sprouts a shoot, one may cut the lower part; if both roots and a green shoot have sprouted, it is not allowed.
+## {att} Making allowable — further details
+Making allowable is to be understood by this discourse: “Monks, I allow fruit to be eaten when made allowable by the five recluse’s allowances.”
+|! Recluse’s allowance | Meaning
+| **Aggiparijita** | Overcome by fire — burnt, touched by fire
+| **Satthaparijita** | Overcome by a blade — cut or pierced
+| **Nakhaparijita** | Overcome by a nail
+| **Abīja** | Seedless — allowable by itself
+| **Nibbaṭṭabīja** | With the seed removed — allowable by itself
+- **Fire** — any fire, of wood, of cow-dung and so on, even a heated piece of iron.
+- **Blade** — it should be a metal blade.
+- **Nails** — it can be done with the sharp nails of humans, of lions, tigers, leopards, monkeys and the like, and of birds. The hooves of horses, buffaloes, pigs, deer, cattle and the like are not sharp, so they are not allowed; done with them, it is not done. Elephants’ nails are not hooves, so they are allowed. Nails still on the body or removed may both be used.
+- When sugarcane and firewood are tied together, piercing the **rope** or creeper that binds them is not allowed.
+- When a basket filled with sugarcane pieces is brought, making one piece allowable makes all of it allowable.
+## {att} Explanation of the no-offence terms
+|! Term | The commentary’s illustration
+| “**Imaṃ jāna**” (“know this”) etc. | “Know this root medicine; give this root or leaf; bring this tree or creeper; this flower, fruit or leaf is needed; make this tree, creeper or fruit allowable” — this much effects **release from plant life**; when using it, one must have it made allowable again for **release from seed-life**.
+| **Asañcicca** (unintentionally) | When rolling stones or logs, dragging a branch, or walking while striking the ground with a staff, grass gets cut — since he did not intend to cut it, no offence.
+| **Assatiyā** (without mindfulness) | Absent-minded, talking with someone, he stands cutting grass or a creeper with his toe or hand — no offence.
+| **Ajānantassa** (for one not knowing) | Not knowing that there is seed-life or plant life inside, nor that he is cutting, he puts a chisel or digging stick (**nikhādana**, **khaṇitti**) or a hoe (**kudāla**) into a fence or a straw heap for safe keeping; or, his hand being burnt, he drops a fire — if grass is cut or burnt there, no offence.
+## {att} A special ruling — a monk trapped under a tree
+- All the commentaries (in the explanation of the third pārājika) say: if a monk is pinned under a tree or has fallen into a pit, even if he could get out by cutting the tree or digging the ground, **he must not do it himself, even to save his life**. **Another monk** may dig the ground, cut the tree, or cut a stick from a living tree, roll the tree away and get him out — no offence.
+- The Samantapāsādikā sees no reason for this. The only discourse found is: “Monks, when a forest fire is burning, I allow you to set a counter-fire and to make a firebreak” (Cūḷavagga). From this, the distinction “not allowed for oneself, allowed for another” cannot be derived.
+- The reason “one doing it for himself acts from self-love with an unwholesome mind, while the other acts out of compassion” is not acceptable either, since this offence is incurred even with a wholesome mind (it is ticitta).
+- But since it is stated in all the commentaries, it cannot be rejected. The reasoning should be sought, or it should be accepted out of faith in the teachers of the commentaries.
+## {kkv} The rule and the meaning of its words
+> භූතගාමපාතබ්‍යතාය පාචිත්තියං.
+This is **the first rule of the Bhūtagāma chapter** (**bhūtagāmavaggassa paṭhame**). The Kaṅkhāvitaraṇī begins by explaining the words of the rule:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Bhūta** | “They come to be and have come to be” — things that arise and grow, have arisen and have grown.
+| **Gāma** | A mass, a heap.
+| **Bhūtagāma** | A mass of bhūtas, or the bhūtas themselves as a mass — a name for **green grass, trees and so on that are rooted in place**.
+| **Pātabyatā** | Being something to be used as one likes, by cutting, breaking and so on.
+| **Pātabyatāya** | A locative in the sense of cause (**nimittatthe bhummavacanaṃ**) — “a pācittiya because of cutting and so on of plant life”.
+## {kkv} The full meaning
+%% Where it grows | A monk who, regarding plant life growing anywhere — on the ground, in water, on walls and so on —
+%% Condition | that is not dried up (**asukkha**),
+%% Size | ==even a very fine grass, or moss the size of a mustard seed==,
+%% Act | destroys it by pulling it out, cutting it, piercing it and so on, or has another destroy it in the way stated in the **earth-digging rule** (by specifying “this place / this tree”),
+%% Result | falls into a **pācittiya**.
+## {kkv} The laying down of the rule and the command
+%% Place | Laid down at Āḷavī,
+%% Person | concerning the Āḷavaka monks,
+%% Matter | **on the matter of cutting trees**, this rule
+%% Kind of rule | is a **common rule** (**sādhāraṇa-paññatti**) — shared with the nuns;
+%% Command | and it is **sāṇattika** — the offence also arises by getting another to do it.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| Plant life (**bhūtagāma**) | Perceiving it as plant life, he destroys it by cutting, breaking, piercing, pulling out and so on, or has it destroyed | PC
+| Seed-life (**bījagāma**) separated from plant life (root-, trunk-, joint-, tip- or seed-seed — in a container, in a heap, or planted in the ground) — when only the root or only the shoot has come out (even if a leaf-stalk a span long has come out), or, whether or not the root has come out, the shoot is not yet green | He destroys it or has it destroyed | DK
+| Plant life or seed-life | He destroys it while in doubt | DK
+| What is neither plant life nor seed-life | He destroys it perceiving it as plant life or seed-life | DK
+| What is neither plant life nor seed-life | He destroys it while in doubt | DK
+| Plant life or seed-life | He destroys it perceiving it as not so (**atathā-saññā**) | N
+## {kkv} No offence
+# For one who, regarding plant life or seed-life, wrongly perceives it as not so;
+# For one who destroys it unintentionally, without mindfulness, or without knowing;
+# For one who says “cut a tree, cut a creeper” and so on, without specifying “this tree”;
+# For one who says “know this flower or fruit, give this, bring this, I need this, make this allowable”;
+# For the insane and so on.
+## {kkv} Making allowable (kappiya karaṇa)
+Seed-kinds separated from plant life by an allowable word should also be used only after having them made allowable again by saying **“kappiyaṃ karohi”**; done in this way, it is also freed from being seed-life.
+# Making allowable should be done **with fire, with a nail, or with a blade**.
+# **With fire** — with any fire, touching it on one part and saying “kappiya”.
+# **With a blade** — with any sharp blade, even a needle or nail-cutter, showing a piercing or a cut with its point or edge, and saying “kappiya”.
+# **With a nail** — except the hooves of cattle, buffaloes and so on, with any human or animal nail that is not rotten (even one cut off and brought), in the same way as said for the blade.
+# Even if there is a mountain-sized heap of seeds, a thousand trees cut and bound together, or a great load of sugarcane tied up, when one seed, one branch or one cane is made allowable, all is made allowable. Piercing a stick bound together with the sugarcane is fine; but piercing the creeper with which the load is tied is not.
+# In rice mixed with peppers and so on, piercing even one grain of rice is fine; the same with sesame and rice grains. Things put into gruel are not held together, so each one must be pierced.
+# In wood-apple (kapiṭṭha) fruits and the like, if the inner pulp moves free of the shell, have it broken and then make it allowable; if it is attached, it may be done on the shell.
+# For a young fruit with no seed, or a fruit to be eaten after removing the seed, making allowable is **not needed**.
+## {kkv} Factors (= tīṇi — three)
+# It is plant life;
+# Having the perception of plant life;
+# Destroying it or having it destroyed.
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest are the same as in the earth-digging rule (**Pathavīkhaṇana-sikkhāpada**).
+
+@pac12
+T: අඤ්ඤවාදක සික්ඛාපදය || The Rule on Evasive Speech
+R: - || -
+N: කොසඹෑ නුවර, ඝෝසිතාරාමය || Kosambī, Ghositārāma
+P: ආයුෂ්මත් ඡන්න || Ven. Channa
+V: අනෙකකින් අනෙකක් වැසීම (සංඝ මධ්‍යයේ විමසන කල) || Covering one thing with another (when questioned in the midst of the Saṅgha)
+K: AD sd=s an=a anu=1 kr=KoA ved=D
+Z: නොදැන විමසීම; ගිලන් බැවින් නොකීම; කලහ, සංඝභේද හෝ අධර්ම කර්ම වේ යැයි නොකීම; උමතු ආදීන් || Asking because one does not know; not speaking because of illness, or to avoid strife, schism or an unlawful act; the insane etc.
+#si
+## {story} කථා වස්තුව
+### අඤ්ඤවාදක වස්තුව
+@ කොසඹෑ නුවර · ඝෝසිතාරාමය
+:::short
+ආයුෂ්මත් ඡන්නයෝ අනාචාරයක් හැසිර, සංඝ මධ්‍යයෙහි ඇවතින් විමසන කල “කවුරු පැමිණියේ ද? කුමකට ද? …” යි ==අනෙකකින් අනෙකක් වැසූහ==. අල්පේච්ඡ භික්ෂූන් එය සැල කළ කල, භාග්‍යවතුන් වහන්සේ ඔහුට ගරහා, සංඝයා ලවා **අඤ්ඤවාදක කර්මය** කරවා ශික්ෂාපදය පැනවූ සේක.
+:::
+:::long
+එක් සමයෙක බුදුරජාණන් වහන්සේ කොසඹෑ නුවර ඝෝසිතාරාමයෙහි වැඩ වසන සේක. එකල ආයුෂ්මත් ඡන්නයෝ අනාචාරයක් හැසිර, සංඝ මධ්‍යයෙහි ඇවතින් විමසනු ලබන්නාහු ==අනෙකකින් අනෙකක් වසති== (**අඤ්ඤෙනඤ්ඤං පටිචරති**): “කවුරු (ඇවතට) පැමිණියේ ද? කුමකට පැමිණියේ ද? කුමක් කෙරෙහි පැමිණියේ ද? කෙසේ පැමිණියේ ද? කවරෙකු ගැන කියන්නහු ද? කුමක් කියන්නහු ද?” යනුවෙනි.
+යම් ඒ අල්පේච්ඡ භික්ෂූහු වූවාහු ද, ඔවුහු “ආයුෂ්මත් ඡන්නයෝ සංඝ මධ්‍යයෙහි ඇවතින් විමසනු ලබන්නාහු කෙසේ නම් ‘කවුරු පැමිණියේ ද … කුමක් කියන්නහු ද’ යි අනෙකකින් අනෙකක් වසන්නාහු ද?” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ.
+භාග්‍යවතුන් වහන්සේ “ඡන්නය, ඔබ සංඝ මධ්‍යයෙහි ඇවතින් විමසනු ලබන්නේ ‘කවුරු පැමිණියේ ද … කුමක් කියන්නහු ද’ යි අනෙකකින් අනෙකක් වසන බව සැබෑ ද?” යි විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂය, ඔබ කෙසේ නම් සංඝ මධ්‍යයෙහි ඇවතින් විමසනු ලබන්නේ අනෙකකින් අනෙකක් වසන්නෙහි ද? මෝඝපුරුෂය, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා, දැහැමි කථාවක් කොට භික්ෂූන් ඇමතූ සේක: “එසේ නම් මහණෙනි, සංඝයා ඡන්න භික්ෂුවට ==**අඤ්ඤවාදක** (කර්මය) රෝපණය කෙරේවා==” යි වදාළ සේක. ඒ අනුව දක්ෂ, සමර්ථ භික්ෂුවක් **ඤත්තිදුතිය කර්මවාචාවකින්** සංඝයාට දැනුම් දී, සංඝයා ඡන්න භික්ෂුවට **අඤ්ඤවාදක කර්මය** රෝපණය කළේ ය.
+ඉක්බිති භාග්‍යවතුන් වහන්සේ ආයුෂ්මත් ඡන්නයන්ට නොයෙක් අයුරින් ගරහා, පෝෂණයට අපහසු බවේ (**දුබ්භරතා**) අගුණ කියා … “මහණෙනි, මේ ශික්ෂාපදය මෙසේ උදෙසිය යුතුය” යි වදාළ සේක:
+:::
+!pn: මුල් පැනවීම
+> අඤ්ඤවාදකෙ පාචිත්තියං.
+~ සඟ මැද විචාළ දෙය හැර අනෙකක් කීමෙහි පචිති වේ.
+### විහෙසක වස්තුව
+:::short
+පසුව “වසන්නේ නම් ඇවතට පැමිණෙමි” යි සිතා ඡන්නයෝ ==නිශ්ශබ්ද වී සංඝයා වෙහෙසූහ==. භාග්‍යවතුන් වහන්සේ නැවත ගරහා, **විහෙසක කර්මය** ද කරවා ශික්ෂාපදය සම්පූර්ණ කළ සේක.
+:::
+:::long
+එකල ආයුෂ්මත් ඡන්නයෝ සංඝ මධ්‍යයෙහි ඇවතින් විමසනු ලබන්නාහු, “අනෙකකින් අනෙකක් වසන්නේ නම් ඇවතට පැමිණෙන්නෙමි” යි (සලකා) ==නිශ්ශබ්ද වී සංඝයා වෙහෙසති== (**තුණ්හීභූතො සඞ්ඝං විහෙසෙති**).
+අල්පේච්ඡ භික්ෂූහු “ආයුෂ්මත් ඡන්නයෝ සංඝ මධ්‍යයෙහි ඇවතින් විමසනු ලබන්නාහු කෙසේ නම් නිශ්ශබ්ද වී සංඝයා වෙහෙසන්නාහු ද?” යි අවමන් කළහ, දොස් කීහ, නින්දා කළහ.
+භාග්‍යවතුන් වහන්සේ “ඡන්නය, ඔබ සංඝ මධ්‍යයෙහි ඇවතින් විමසනු ලබන්නේ නිශ්ශබ්ද වී සංඝයා වෙහෙසන බව සැබෑ ද?” යි විචාළ සේක. “සැබෑ ය, භාග්‍යවතුන් වහන්ස” යි කී කල්හි, “මෝඝපුරුෂය, ඔබ කෙසේ නම් සංඝ මධ්‍යයෙහි ඇවතින් විමසනු ලබන්නේ නිශ්ශබ්ද වී සංඝයා වෙහෙසන්නෙහි ද? මෝඝපුරුෂය, මෙය නොපැහැදුණවුන්ගේ පැහැදීම පිණිස නොවේ …” යි ගරහා, දැහැමි කථාවක් කොට භික්ෂූන් ඇමතූ සේක: “එසේ නම් මහණෙනි, සංඝයා ඡන්න භික්ෂුවට ==**විහෙසක** (කර්මය) රෝපණය කෙරේවා==” යි වදාළ සේක. ඒ අනුව දක්ෂ, සමර්ථ භික්ෂුවක් **ඤත්තිදුතිය කර්මවාචාවකින්** සංඝයාට දැනුම් දී, සංඝයා ඡන්න භික්ෂුවට **විහෙසක කර්මය** රෝපණය කළේ ය.
+ඉක්බිති භාග්‍යවතුන් වහන්සේ ආයුෂ්මත් ඡන්නයන්ට නොයෙක් අයුරින් ගරහා, පෝෂණයට අපහසු බවේ (**දුබ්භරතා**) අගුණ කියා … “මහණෙනි, මේ ශික්ෂාපදය මෙසේ උදෙසිය යුතුය” යි වදාළ සේක:
+:::
+!pn: අනුපඤ්ඤත්තිය — අවසන් පැනවීම (සම්පූර්ණ ශික්ෂාපදය)
+> අඤ්ඤවාදකෙ විහෙසකෙ පාචිත්තියං.
+~ සඟ මැද විචාළ දෙය හැර අනෙකක් කීමෙහි ද, නිහඬව හිඳීමෙන් සංඝයා වෙහෙස කරවීමෙහි ද පචිති වේ.
+## {story} පදභාජනීය — අඤ්ඤවාදක හා විහෙසක
+### අඤ්ඤවාදක
+%% ස්ථානය | සංඝ මධ්‍යයෙහි
+%% විමසීම | වස්තුවෙන් හෝ ඇවතින් හෝ විමසනු ලබන්නේ,
+%% අදහස | එය කියනු නොකැමැත්තේ, එය හෙළි කරනු (**උග්ඝාටෙතු**) නොකැමැත්තේ,
+%% ක්‍රියාව | “කවුරු පැමිණියේ ද, කුමකට පැමිණියේ ද, කුමක් කෙරෙහි පැමිණියේ ද, කෙසේ පැමිණියේ ද, කවරෙකු ගැන කියන්නහු ද, කුමක් කියන්නහු ද” යි අනෙකකින් අනෙකක් වසයි නම්,
+%% නාමය | හෙතෙම **අඤ්ඤවාදක** නම් වේ.
+### විහෙසක
+%% ස්ථානය | සංඝ මධ්‍යයෙහි
+%% විමසීම | වස්තුවෙන් හෝ ඇවතින් හෝ විමසනු ලබන්නේ,
+%% අදහස | එය කියනු නොකැමැත්තේ, එය හෙළි කරනු නොකැමැත්තේ,
+%% ක්‍රියාව | නිශ්ශබ්ද වී (**තුණ්හීභූතො**) සංඝයා වෙහෙසයි නම්,
+%% නාමය | හෙතෙම **විහෙසක** නම් වේ.
+## {story} ආපත්ති — කර්මය රෝපණය කළ / නොකළ බව අනුව
+|! කර්මය | ක්‍රියාව (සංඝ මධ්‍යයෙහි වස්තුවෙන් හෝ ඇවතින් විමසන කල, කියනු හෙළි කරනු නොකැමැත්තේ) | ඇවැත
+| අඤ්ඤවාදක කර්මය රෝපණය **නොකළ** කල | අනෙකකින් අනෙකක් වසයි | DK
+| විහෙසක කර්මය රෝපණය **නොකළ** කල | නිශ්ශබ්ද වී සංඝයා වෙහෙසයි | DK
+| අඤ්ඤවාදක කර්මය රෝපණය **කළ** කල | අනෙකකින් අනෙකක් වසයි | PC
+| විහෙසක කර්මය රෝපණය **කළ** කල | නිශ්ශබ්ද වී සංඝයා වෙහෙසයි | PC
+!src: පාඨ සටහන: මෙම පාළි සංස්කරණයේ දුක්කට කොටසේ “**ආරොපිතෙ**” යනුවෙන් මුද්‍රිතය. එහෙත් පාචිත්තිය අටුවාව එම පදය “**අරොපිතෙ** — කම්මවාචාය අනාරොපිතෙ” (කර්ම වාක්‍යයෙන් රෝපණය නොකළ) ලෙස ද, කඞ්ඛාවිතරණිය “**අනාරොපිතෙ**” ලෙස ද ගන්නා හෙයින්, මෙහි අර්ථය “රෝපණය නොකළ කල” යන්නයි.
+## {story} ආපත්ති — කර්මය හා සංඥාව අනුව
+|! කර්මය | සංඥාව හා ක්‍රියාව | ඇවැත
+| ධම්මකම්මය (ධර්මානුකූල කර්මය) | ධම්මකම්ම යැයි සලකා අඤ්ඤවාදක / විහෙසක වෙයි | PC
+| ධම්මකම්මය | සැක සහිතව එසේ කරයි | PC
+| ධම්මකම්මය | අධම්මකම්ම යැයි සලකා එසේ කරයි | PC
+| අධම්මකම්මය | ධම්මකම්ම යැයි සලකා එසේ කරයි | DK
+| අධම්මකම්මය | සැක සහිතව එසේ කරයි | DK
+| අධම්මකම්මය | අධම්මකම්ම යැයි සලකා එසේ කරයි | DK
+## {story} අනාපත්ති
+# නොදන්නේ විමසයි නම් (**අජානන්තො පුච්ඡති**);
+# ගිලන් වූයේ නොකියයි නම් (**ගිලානො වා න කථෙති**);
+# “සංඝයාට භණ්ඩනයක්, කලහයක්, විග්‍රහයක් හෝ විවාදයක් වන්නේ ය” යි නොකියයි නම්;
+# “සංඝභේදයක් හෝ සංඝරාජියක් වන්නේ ය” යි නොකියයි නම්;
+# “(සංඝයා) අධර්මයෙන් හෝ වර්ගයෙන් හෝ කර්මයට නුසුදුස්සෙකුට කර්මයක් කරන්නේ ය” යි නොකියයි නම්;
+# උමතු වූවහුට (**උම්මත්තකස්ස**);
+# ආදිකම්මිකයාට (**ආදිකම්මිකස්ස**).
+## {att} කථා වස්තුවේ පදවලට අදාළ විශේෂ කරුණු
+|! පදය | සමන්තපාසාදිකා විවරණය
+| **අනාචාරං ආචරිත්වා** | නොකළ යුත්තක් කොට — එනම් කය හා වචනය යන දොරටුවලින් ඇවතකට පැමිණ.
+| **අඤ්ඤෙනඤ්ඤං පටිචරති** | අනෙක් වචනයකින් අනෙක් වචනයක් වසයි, සඟවයි, යටපත් කරයි (**අජ්ඣොත්ථරති**). ඒ වැසීමේ ක්‍රමය දක්වමින් “කවුරු පැමිණියේ ද” ආදිය කියන ලදී.
+| **අඤ්ඤවාදකං රොපෙතු** | අඤ්ඤවාදකය ආරෝපණය කෙරේවා — එනම් පිහිටුවාවා (**පතිට්ඨාපෙතු**). “**විහෙසකං රොපෙතු**” යන්නෙහි ද මේ ක්‍රමය ම ය.
+## {att} ප්‍රශ්න හයේ අනුපිළිවෙළ — ඡන්නයන් කතාව වෙනතකට හැරවූ ආකාරය
+ඡන්නයන්ගේ යම් වරදක් දැක සංඝ මධ්‍යයෙහි විමසූ කල, එක් එක් පිළිතුරෙන් ඔහු කතාව වෙනතකට හැරවූ ආකාරය අටුවාව මෙසේ ගළපයි:
+|! භික්ෂූන් කී දෙය | ඡන්නයන්ගේ පිළිතුර
+| “ඇවැත්නි, ඔබ ඇවතකට පැමිණියෙහි ය.” | “**කවුරු** පැමිණියේ ද?”
+| “එසේ නම් ඔබ ය.” | “මම **කුමකට** පැමිණියෙම් ද?”
+| “පාචිත්තියකට හෝ දුක්කටයකට ය.” | (වස්තුව විමසමින්) “මම **කුමක් කෙරෙහි** පැමිණියෙම් ද?”
+| “අසවල් නම් වස්තුවෙහි ය.” | “මම **කෙසේ** පැමිණියෙම් ද? කුමක් කරමින් පැමිණියෙම් ද?”
+| “මෙනම් දෙයක් කරමින් පැමිණියෙහි ය.” | “**කවරෙකු** ගැන කියන්නහු ද?”
+| “ඔබ ගැන කියමු.” | “**කුමක්** කියන්නහු ද?”
+## {att} පාළියේ නැති (පාළිමුත්තක) වැසීමේ ක්‍රම
+පාළියෙහි නොකී මෙවැනි ක්‍රමවලින් ද අනෙකකින් අනෙකක් වසන බව දත යුතුය:
+|! භික්ෂූන්ගේ චෝදනාව | වසන ආකාරය
+| “ඔබේ පසුම්බියෙහි (**සිපාටිකා**) කහවණුවක් දක්නට ලැබිණ; මෙවැනි නුසුදුසු දෙයක් කුමට කරහි ද?” | “ස්වාමීනි, හොඳින් දුටුවේ ය; එහෙත් මෙය කහවණුවක් නොවේ, ඊයම් තැටියකි (**තිපුමණ්ඩල**).”
+| “ඔබ සුරා පානය කරනු දක්නා ලදී; එසේ කුමට කරහි ද?” | “ස්වාමීනි, හොඳින් දුටුවේ ය; එහෙත් මෙය සුරා නොවේ, බෙහෙත් පිණිස සකසූ **අරිට්ඨ**යකි.”
+| “ඔබ ස්ත්‍රියක සමඟ වැසුණු අසුනක හුන්නේ දක්නා ලදී; මෙවැනි නුසුදුසු දෙයක් කුමට කරහි ද?” | “යමෙක් දුටුවේ නම් හොඳින් දුටුවේ ය; එහෙත් එහි නුවණැති දෙවැන්නෙක් සිටියේ ය; ඔහු කුමට නොපෙනුණේ ද?”
+| “ඔබ විසින් මෙවැනි කිසිවක් දක්නා ලද්දේ ද?” යි විචාළ කල | “නොඇසේ” යි කන ළං කරයි.
+| කනට (**සෝතද්වාරයෙන්**) විමසන්නන්ට | ඇස ළං කරයි.
+## {att} “අරොපිතෙ” — පාඨය හා අර්ථය
+%% අරොපිතෙ අඤ්ඤවාදකෙ | කර්ම වාක්‍යයෙන් (**කම්මවාචාය**) රෝපණය නොකළ (**අනාරොපිතෙ**) අඤ්ඤවාදකයෙහි ය;
+%% අරොපිතෙ විහෙසකෙ | විහෙසකයෙහි ද මේ ක්‍රමය ම ය.
+!src: පාළි සංස්කරණයේ “ආරොපිතෙ” ලෙස මුද්‍රිත වුවත්, අටුවාවේ පදය “**අරොපිතෙ**” වන අතර එය “**අනාරොපිතෙ**” ලෙස විවරණය කරයි; එබැවින් දුක්කට ලැබෙන්නේ කර්මය රෝපණය නොකළ කල්හි ය.
+## {att} “ධම්මකම්මෙ ධම්මකම්මසඤ්ඤී” — අර්ථය
+%% කර්මය | අඤ්ඤවාදක විහෙසක රෝපණය කිරීමේ යම් කර්මයක් කරන ලද ද, එය ධම්මකම්මයක් වේ නම්,
+%% සංඥාව | ඒ භික්ෂුව එහි ධම්මකම්ම යැයි සලකන්නේ (**ධම්මකම්මසඤ්ඤී**)
+%% ක්‍රියාව | අඤ්ඤවාදකය ද විහෙසකය ද කරයි නම්,
+%% ඵලය | ඔහුට ඒ අඤ්ඤවාදකයෙහි ද විහෙසකයෙහි ද **පාචිත්තිය** වේ — ඉතිරි පද ද මේ ක්‍රමයෙන් දත යුතුය.
+## {att} අනාපත්ති පදවල විවරණය
+|! පදය | අට්ඨකථාවේ විවරණය
+| **අජානන්තො පුච්ඡති** | ඇවත හෝ ඇවතට පැමිණි බව හෝ නොදන්නේ ම “ඔබ කුමක් කියන්නහු ද? මම නොදනිමි” යි විමසයි.
+| **ගිලානො වා න කථෙති** | කතා කිරීමට නොහැකි වන පරිදි මුඛයෙහි එවැනි රෝගයක් ඇත්තේ ය.
+| **සඞ්ඝස්ස භණ්ඩනං වා** ආදිය | “සංඝ මධ්‍යයෙහි කීවොත්, ඒ හේතුවෙන් සංඝයාට භණ්ඩනයක්, කලහයක් හෝ විවාදයක් වන්නේ ය; එය නොවේවා” යි සිතා නොකියයි. ඉතිරිය පැහැදිලි ය.
+## {att} සියා කිරියා, සියා අකිරියා — හේතුව
+- අනෙකකින් අනෙකක් වසන්නහුට (**අඤ්ඤවාදක**) ඇවැත ක්‍රියාවෙන් (**කිරියා**) වේ.
+- නිශ්ශබ්දතාවයෙන් වෙහෙසන්නහුට (**විහෙසක**) ඇවැත අක්‍රියාවෙන් (**අකිරියා**) වේ.
+## {kkv} ශික්ෂාපදය හා පදාර්ථය
+> අඤ්ඤවාදකෙ, විහෙසකෙ පාචිත්තියං.
+මෙය **භූතගාම වග්ගයේ දෙවන ශික්ෂාපදයයි** (**දුතියෙ**). කඞ්ඛාවිතරණිය මුලින් ම ශික්ෂාපදයේ පද විවරණය කරයි:
+|! පදය | කඞ්ඛාවිතරණී විවරණය
+| **අඤ්ඤවාදක** | සංඝ මධ්‍යයෙහි විනයධරයා යම් කරුණක් විමසයි ද, එයින් අනෙකක් කියයි — එබැවින් අඤ්ඤවාදක ය; අනෙකකින් අනෙකක් වැසීමට (**අඤ්ඤෙනඤ්ඤං පටිචරණ**) නමකි.
+| **විහෙසක** | වෙහෙසයි — එබැවින් විහෙසක ය; නිශ්ශබ්දතාවයට (**තුණ්හීභාව**) නමකි.
+| **අඤ්ඤවාදකෙ විහෙසකෙ** | ඒ (**තස්මිං**) අඤ්ඤවාදකයෙහි ද විහෙසකයෙහි ද.
+| **පාචිත්තියං** | ==වස්තු දෙකෙහි පාචිත්තිය දෙකක්== (**වත්ථුද්වයෙ පාචිත්තියද්වයං**) කියන ලදී.
+## {kkv} සම්පූර්ණ අර්ථය
+%% ඇවත | ==සාවශේෂ (**සාවසෙස**) ඇවතකට== — එනම් පාරාජික නොවන ඇවතකට — පැමිණි යම් භික්ෂුවක්
+%% විමසීම | සංඝ මධ්‍යයෙහි විමසනු ලබන්නේ,
+%% අදහස | එය කියනු නොකැමැත්තේ,
+%% අඤ්ඤවාදක | අනෙක් වචනයකින් අනෙකක් වසමින් ඒ ඒ අයුරින් කතාව වෙනතකට හරවයි ද (**වික්ඛිපති**),
+%% විහෙසක | යමෙක් නිශ්ශබ්දතාවයෙන් වෙහෙසයි ද,
+%% කර්මය | ඔවුනට භාග්‍යවතුන් වහන්සේ අනුදැන වදාළ **අඤ්ඤවාදක කර්මය** ද **විහෙසක කර්මය** ද සංඝයා විසින් කළ කල්හි,
+%% ඵලය | නැවත එසේ කරන්නන්ට **පාචිත්තිය** වේ.
+## {kkv} ප්‍රඥප්තිය හා ආණත්තිය
+%% ස්ථානය | කොසඹෑ නුවර,
+%% පුද්ගලයා | ඡන්න ස්ථවිරයන් අරබයා,
+%% වස්තුව | **අනෙකකින් අනෙකක් වැසීමේ වස්තුවෙහි** (**අඤ්ඤෙනඤ්ඤං පටිචරණවත්ථු**) පනවන ලද මෙය
+%% ප්‍රඥප්තිය | **සාධාරණපඤ්ඤත්ති**යකි — භික්ෂුණීන්ට ද පොදු ය;
+%% ආණත්තිය | **අනාණත්තික**යි — අනුන්ට අණ කිරීමෙන් ඇවැත් නොවේ.
+## {kkv} ආපත්ති භේදය
+|! වස්තුව | සංඥාව හා ක්‍රියාව | ඇවැත
+| ධම්මකම්මයෙන් රෝපණය කළ අඤ්ඤවාදක / විහෙසක | ධම්මකම්ම යැයි සලකා, සැක සහිතව, හෝ අධම්මකම්ම යැයි සලකා (තිකය) එසේ කරයි | PC
+| අධම්මකම්මයෙන් රෝපණය කළ අඤ්ඤවාදක / විහෙසක | ධම්මකම්ම යැයි සලකා, සැක සහිතව, හෝ අධම්මකම්ම යැයි සලකා (තිකය) එසේ කරයි | DK
+| රෝපණය නොකළ (**අනාරොපිත**) අඤ්ඤවාදක හෝ විහෙසක | අනෙකකින් අනෙකක් වසයි හෝ නිශ්ශබ්ද වී වෙහෙසයි | DK
+## {kkv} අනාපත්ති
+# ඇවත හෝ ඇවතට පැමිණි බව නොදැන “ඔබ කුමක් කියන්නහු ද?” යි විමසන්නහුට;
+# ගිලන් බැවින් නොකියන්නහුට;
+# “සංඝයාට භණ්ඩන ආදිය වන්නේ ය” යන අදහසින් නොකියන්නහුට;
+# “අධර්මයෙන් හෝ වර්ගයෙන් හෝ කර්මයට නුසුදුස්සෙකුට කර්මයක් කරන්නාහු ය” යන අදහසින් නොකියන්නහුට;
+# උමතු වූවහු ආදීන්ට.
+## {kkv} අංග (= තීණි — තුනකි)
+# ධම්මකම්මයෙන් රෝපණය කර තිබීම;
+# ඇවතින් හෝ වස්තුවෙන් හෝ විමසනු ලැබීම;
+# වසනු කැමැත්තෙන් අනෙකකින් අනෙකක් වැසීම හෝ නිශ්ශබ්ද වීම.
+## {kkv} සමුට්ඨානාදිය
+සමුට්ඨාන ආදිය **අදින්නාදාන සික්ඛාපද**යට සමාන ය. මෙය වනාහි **සියා කිරියා, සියා අකිරියා** වේ; **දුක්ඛ වේදනා** ද වේ.
+#en
+## {story} The Origin Story
+### The Matter of Evasive Speech (Aññavādaka-vatthu)
+@ Kosambī · Ghositārāma
+:::short
+Ven. Channa, having misbehaved and being questioned about an offence in the midst of the Saṅgha, ==covered one thing with another==: “Who has fallen into it? What? In what? How? …” When the monks of few wishes reported it, the Blessed One rebuked him, had the Saṅgha impose the **act of evasive speech** on him, and laid down the rule.
+:::
+:::long
+At one time the Buddha, the Blessed One, was staying at Kosambī, in the Ghositārāma. At that time Ven. Channa, having misbehaved, was being questioned about an offence in the midst of the Saṅgha, and ==he covered one thing with another== (**aññenaññaṃ paṭicarati**): “Who has fallen into it? What has he fallen into? In what has he fallen? How has he fallen? Whom are you speaking of? What are you saying?”
+The monks of few wishes complained, criticised and spread it about: “How can Ven. Channa, when questioned about an offence in the midst of the Saṅgha, cover one thing with another — ‘Who has fallen into it? … What are you saying?’”
+The Blessed One asked: “Is it true, Channa, that when questioned about an offence in the midst of the Saṅgha you cover one thing with another — ‘Who has fallen into it? … What are you saying?’” “It is true, Blessed One.” He rebuked him: “Foolish man, how can you, when questioned about an offence in the midst of the Saṅgha, cover one thing with another? Foolish man, this does not inspire faith in those without faith …” Having given a Dhamma talk, he addressed the monks: “Well then, monks, ==let the Saṅgha impose **evasive speech** (aññavādaka) on the monk Channa==.” Accordingly, a competent and capable monk informed the Saṅgha by a **formal act of one motion and one announcement** (**ñattidutiya-kammavācā**), and the Saṅgha imposed the **act of evasive speech** on the monk Channa.
+Then the Blessed One, having rebuked Ven. Channa in many ways, spoke against being hard to support (**dubbharatā**) … and said: “Monks, you should recite this training rule like this:”
+:::
+!pn: The original rule
+> අඤ්ඤවාදකෙ පාචිත්තියං.
+~ Evasive speech: Pācittiya.
+### The Matter of Causing Frustration (Vihesaka-vatthu)
+:::short
+Later Channa, thinking, “If I evade I will fall into an offence,” ==stayed silent and frustrated the Saṅgha==. The Blessed One rebuked him again, had the **act of causing frustration** imposed as well, and completed the rule.
+:::
+:::long
+At that time Ven. Channa, when questioned about an offence in the midst of the Saṅgha, thinking, “If I cover one thing with another I will fall into an offence,” ==stayed silent and frustrated the Saṅgha== (**tuṇhībhūto saṅghaṃ viheseti**).
+The monks of few wishes complained, criticised and spread it about: “How can Ven. Channa, when questioned about an offence in the midst of the Saṅgha, stay silent and frustrate the Saṅgha?”
+The Blessed One asked: “Is it true, Channa, that when questioned about an offence in the midst of the Saṅgha you stay silent and frustrate the Saṅgha?” “It is true, Blessed One.” He rebuked him: “Foolish man, how can you, when questioned about an offence in the midst of the Saṅgha, stay silent and frustrate the Saṅgha? Foolish man, this does not inspire faith in those without faith …” Having given a Dhamma talk, he addressed the monks: “Well then, monks, ==let the Saṅgha impose **causing frustration** (vihesaka) on the monk Channa==.” Accordingly, a competent and capable monk informed the Saṅgha by a **formal act of one motion and one announcement** (**ñattidutiya-kammavācā**), and the Saṅgha imposed the **act of causing frustration** on the monk Channa.
+Then the Blessed One, having rebuked Ven. Channa in many ways, spoke against being hard to support (**dubbharatā**) … and said: “Monks, you should recite this training rule like this:”
+:::
+!pn: Supplementary rule — the final rule (complete training rule)
+> අඤ්ඤවාදකෙ විහෙසකෙ පාචිත්තියං.
+~ Evasive speech and harassment: Pācittiya.
+## {story} Word analysis — aññavādaka and vihesaka
+### Aññavādaka (evasive speaker)
+%% Place | One who, in the midst of the Saṅgha,
+%% Questioning | being questioned about a matter or about an offence,
+%% Intention | not wishing to tell it, not wishing to reveal it (**ugghāṭetu**),
+%% Act | covers one thing with another — “Who has fallen into it? What has he fallen into? In what has he fallen? How has he fallen? Whom are you speaking of? What are you saying?” —
+%% Name | is called **aññavādaka** (an evasive speaker).
+### Vihesaka (one who causes frustration)
+%% Place | One who, in the midst of the Saṅgha,
+%% Questioning | being questioned about a matter or about an offence,
+%% Intention | not wishing to tell it, not wishing to reveal it,
+%% Act | stays silent (**tuṇhībhūto**) and frustrates the Saṅgha,
+%% Name | is called **vihesaka** (one who causes frustration).
+## {story} Offences — whether the act has been imposed or not
+|! Act of the Saṅgha | What he does (questioned in the Saṅgha about a matter or offence, not wishing to tell or reveal it) | Offence
+| Evasive speech **not** yet imposed | Covers one thing with another | DK
+| Causing frustration **not** yet imposed | Stays silent and frustrates the Saṅgha | DK
+| Evasive speech **has been** imposed | Covers one thing with another | PC
+| Causing frustration **has been** imposed | Stays silent and frustrates the Saṅgha | PC
+!src: Textual note: in this Pāli edition the dukkaṭa clauses are printed “**āropite**”. But the Pācittiya commentary reads the word as “**aropite** — not imposed by the formal announcement (kammavācāya anāropite)”, and the Kaṅkhāvitaraṇī says “**anāropite**”; so the meaning is “when it has not been imposed”.
+## {story} Offences — by the act and by perception
+|! Act | Perception and act | Offence
+| A legitimate act (**dhammakamma**) | Perceiving it as legitimate, he speaks evasively / causes frustration | PC
+| A legitimate act | Doing so while in doubt | PC
+| A legitimate act | Doing so perceiving it as illegitimate | PC
+| An illegitimate act (**adhammakamma**) | Doing so perceiving it as legitimate | DK
+| An illegitimate act | Doing so while in doubt | DK
+| An illegitimate act | Doing so perceiving it as illegitimate | DK
+## {story} No offence
+# He asks because he does not know (**ajānanto pucchati**);
+# Being ill, he does not speak (**gilāno vā na katheti**);
+# He does not speak, thinking, “There will be a dispute, a quarrel, a contention or an argument in the Saṅgha”;
+# He does not speak, thinking, “There will be a schism or a rift in the Saṅgha”;
+# He does not speak, thinking, “(The Saṅgha) will carry out an act unlawfully, or by a faction, or against one who does not deserve an act”;
+# For one who is insane (**ummattakassa**);
+# For the first offender (**ādikammikassa**).
+## {att} Points on words in the origin story
+|! Word | Samantapāsādikā explanation
+| **Anācāraṃ ācaritvā** (having misbehaved) | Having done what should not be done — that is, having fallen into an offence through the doors of body and speech.
+| **Aññenaññaṃ paṭicarati** | He covers one word with another word, conceals it, overwhelms it (**ajjhottharati**). Showing the way he covered it, “Who has fallen into it?” and so on is said.
+| **Aññavādakaṃ ropetu** | Let it impose evasive speech — that is, let it establish it (**patiṭṭhāpetu**). The same method applies to “**vihesakaṃ ropetu**”.
+## {att} The sequence of six questions — how Channa turned the talk aside
+When some transgression of his had been seen and he was questioned in the midst of the Saṅgha, the commentary connects each reply by which he turned the talk aside:
+|! What the monks said | Channa’s reply
+| “Friend, you have fallen into an offence.” | “**Who** has fallen into it?”
+| “You, then.” | “**What** have I fallen into?”
+| “A pācittiya or a dukkaṭa.” | (asking about the matter) “**In what** have I fallen?”
+| “In such-and-such a matter.” | “**How** have I fallen? Doing what did I fall?”
+| “You fell doing this.” | “**Whom** are you speaking of?”
+| “We are speaking of you.” | “**What** are you saying?”
+## {att} Ways of evading not given in the Pāli (pāḷimuttaka)
+It should be understood that one also covers one thing with another in ways like these, not stated in the Pāli:
+|! The monks’ charge | How he covers it
+| “A kahāpaṇa coin was seen in your purse (**sipāṭikā**); why do you do something so unsuitable?” | “Well seen, venerable sir — but it is not a kahāpaṇa; it is a tin disc (**tipumaṇḍala**).”
+| “You were seen drinking alcohol; why do you do this?” | “Well seen, venerable sir — but it is not alcohol; it is **ariṭṭha** prepared as medicine.”
+| “You were seen sitting with a woman on a concealed seat; why do you do something so unsuitable?” | “Whoever saw it saw it well — but there was a wise second person there; why was he not seen?”
+| Asked, “Did you see anything like this?” | He turns his ear, saying, “I can’t hear.”
+| To those asking through the ear-door (**sotadvāra**) | He turns his eye towards them.
+## {att} “Aropite” — the reading and its meaning
+%% Aropite aññavādake | “Aropite aññavādake” means: when evasive speech has not been imposed (**anāropite**) by the formal announcement (**kammavācāya**);
+%% Aropite vihesake | the same method applies to causing frustration.
+!src: Though this Pāli edition prints “āropite”, the commentary’s word is “**aropite**” and it explains it as “**anāropite**”; so the dukkaṭa applies when the act has not been imposed.
+## {att} “Dhammakamme dhammakammasaññī” — the meaning
+%% Act | If the act imposing evasive speech and causing frustration that was carried out is a legitimate act,
+%% Perception | and that monk, perceiving it as legitimate (**dhammakammasaññī**),
+%% Act | speaks evasively and causes frustration,
+%% Result | then for that evasive speech and causing frustration he incurs a **pācittiya** — the remaining terms should be understood in the same way.
+## {att} Explanation of the no-offence terms
+|! Term | The commentary’s explanation
+| **Ajānanto pucchati** | Not knowing the offence, or not knowing that he has fallen into it, he asks, “What are you saying? I do not know.”
+| **Gilāno vā na katheti** | He has such an illness in his mouth that he is unable to speak.
+| **Saṅghassa bhaṇḍanaṃ vā** etc. | He does not speak, thinking, “If it is told in the midst of the Saṅgha, because of it there will be a dispute, a quarrel or an argument in the Saṅgha; may that not happen.” The rest is clear.
+## {att} Sometimes by doing, sometimes by not doing — why
+- For one who covers one thing with another (**aññavādaka**), the offence arises by doing (**kiriyā**).
+- For one who frustrates by silence (**vihesaka**), the offence arises by not doing (**akiriyā**).
+## {kkv} The rule and the meaning of its words
+> අඤ්ඤවාදකෙ, විහෙසකෙ පාචිත්තියං.
+This is **the second rule of the Bhūtagāma chapter** (**dutiye**). The Kaṅkhāvitaraṇī begins by explaining the words of the rule:
+|! Word | Kaṅkhāvitaraṇī explanation
+| **Aññavādaka** | Whatever matter the Vinaya expert asks about in the midst of the Saṅgha, he says something other than that — hence aññavādaka; a name for covering one thing with another (**aññenaññaṃ paṭicaraṇa**).
+| **Vihesaka** | He frustrates — hence vihesaka; a name for silence (**tuṇhībhāva**).
+| **Aññavādake vihesake** | In that (**tasmiṃ**) evasive speech and in that causing frustration.
+| **Pācittiyaṃ** | ==Two pācittiyas for the two matters== (**vatthudvaye pācittiyadvayaṃ**) are stated.
+## {kkv} The full meaning
+%% Offence | A monk who has fallen into ==a curable offence (**sāvasesa**)== — that is, one other than a pārājika —
+%% Questioning | and, being questioned in the midst of the Saṅgha,
+%% Intention | not wishing to tell it,
+%% Aññavādaka | covers one thing with other words and turns the talk aside this way and that (**vikkhipati**),
+%% Vihesaka | or who frustrates by silence —
+%% The act | when the Saṅgha has carried out against them the **act of evasive speech** and the **act of causing frustration** allowed by the Blessed One,
+%% Result | there is a **pācittiya** for those who do so again.
+## {kkv} The laying down of the rule and the command
+%% Place | Laid down at Kosambī,
+%% Person | concerning the Elder Channa,
+%% Matter | **on the matter of covering one thing with another** (**aññenaññaṃ paṭicaraṇa-vatthu**), this rule
+%% Kind of rule | is a **common rule** (**sādhāraṇa-paññatti**) — shared with the nuns;
+%% Command | and it is **anāṇattika** — no offence arises by commanding another.
+## {kkv} Division of offences
+|! Object | Perception and act | Offence
+| Evasive speech / causing frustration imposed by a legitimate act | Doing so perceiving it as legitimate, in doubt, or perceiving it as illegitimate (the triad) | PC
+| Evasive speech / causing frustration imposed by an illegitimate act | Doing so perceiving it as legitimate, in doubt, or perceiving it as illegitimate (the triad) | DK
+| Evasive speech or causing frustration not imposed (**anāropita**) | Covering one thing with another, or frustrating by silence | DK
+## {kkv} No offence
+# For one who, not knowing the offence or that he has fallen into it, asks, “What are you saying?”;
+# For one who does not speak because of illness;
+# For one who does not speak with the thought, “There will be disputes and so on in the Saṅgha”;
+# For one who does not speak with the thought, “They will carry out an act unlawfully, by a faction, or against one who does not deserve an act”;
+# For the insane and so on.
+## {kkv} Factors (= tīṇi — three)
+# The act has been imposed by a legitimate act;
+# Being questioned about an offence or about a matter;
+# Wishing to hide it, covering one thing with another or staying silent.
+## {kkv} Origin and the rest (samuṭṭhāna)
+The origin and the rest are the same as in the rule on taking what is not given (**Adinnādāna-sikkhāpada**). But this one arises **sometimes by doing, sometimes by not doing**, and its feeling is **painful** (**dukkha-vedanā**).

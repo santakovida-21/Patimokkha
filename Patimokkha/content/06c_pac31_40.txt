@@ -1,0 +1,977 @@
+@pac31
+T: ආවසථපිණ්ඩ සික්ඛාපදය || Food at a Public Rest-house
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ආවසථ ශාලාවේ නැවත නැවත නැවතී දානය අනුභව කිරීම || Staying on and eating repeatedly at a public rest-house
+K: EL sd=s an=a anu=1
+Z: ගිලනාට; එක් වරක්; යන එන මගදී හා ගිය තැන එක් දිනය බැගින්; අයිතිකරුවන් ආරාධනා කොට දීම; භික්ෂූන් උදෙසා ම පැනවූ දෙය; යාවදත්ථ නොපැනවූ දෙය; භෝජන පහ හැර අන් දේ; උමතු ආදීන් || The sick; once; one day each on the way and at the destination; when the owners invite; what was set up specifically for monks; not set up “as much as wanted”; foods other than the five; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+සැවැත් නුවරට නුදුරු එක් **පූගයක්** (සමිතියක්) **ආවසථ ශාලාවක** දානයක් පිළියෙළ කර තිබිණ. **ෂඩ්වර්ගීය භික්ෂූහු** ==එහි නැවත නැවත නැවතී (අනුවසිත්වා) දානය අනුභව කළහ==. මිනිස්සු "**මේ ශ්‍රමණයන්ට පමණක් නොව, සියල්ලන්ට ම අපි මෙය පිළියෙළ කළෙමු; මොවුහු නැවත නැවත නැවතී කති**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+පසුව **සාරිපුත්ත** තෙරුන් කොසොල් රට චාරිකාවේ වඩිද්දී එක් ආවසථයකට පැමිණියහ. ගිලන් වූ උන්වහන්සේට මිනිස්සු දෙවන දිනයේ ද දන් දීමට කැමති වූහ. තෙරුන් කුකුස් ඇතිව නොපිළිගත් හෙයින් කුසගින්නේ සිටියහ. භාග්‍යවතුන් වහන්සේ "**අගිලානෙන — නොගිලනාට**" යන අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**අගිලානෙන** — **අඩ යොදුනක්** වුව ද යාමට සමත් තැනැත්තා. (එය නොහැකි තැනැත්තා ගිලනෙකි.)
+**එකො** — **එක් දිනක** (එක් වේලක්).
+**ආවසථපිණ්ඩො** — "මෙතරම් දෙනාට", "මෙතරම් පමණක්" යි **කිසිදු පාෂණ්ඩයක් (නිකායක්) හෝ ප්‍රමාණයක් නියම නොකොට**, ශාලා ආදී ඕනෑම තැනක **පින් කැමැත්තවුන් පනවූ** භෝජනය.
+**භුඤ්ජිතබ්බො** — එක් පවුලක් හෝ පවුල් කිහිපයක් එක්ව, එක් තැනක හෝ තැන් කිහිපයක ("අද මෙතැන, හෙට එතැන" යි) පනවූ දෙයෙන් **එක් තැනක එක් දිනක් පමණක්** අනුභව කළ යුතුය.
+**තතො චෙ උත්තරි** — **දෙවන දින සිට** එම තැනෙහි හෝ අනෙක් තැනෙක ඔවුන් සතු දෙය —
+|! ක්‍රියාව | ඇවැත
+| අනුභව කිරීම පිණිස **පිළිගැනීම** | DK
+| ගිල දමන **පිඩක් පාසා** | PC
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා නැවත නැවත නැවතී ආවසථ පිණ්ඩය අනුභව කිරීමේ වස්තුවෙහි පැනවිණි. "**අගිලානෙන**" අනුප්‍රඥප්තියයි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| නොගිලනෙකු දෙවන දින සිට අනුභව කිරීම — නොගිලන් බව දැන, සැක ඇතිව, හෝ ගිලන් යැයි සිතා (**තික පාචිත්තිය**) | PC
+| ගිලනෙකු නොගිලන් යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඈ) අනාපත්ති
+# **ගිලනාට** — ගිලන් යැයි සිතා.
+# **එක් වරක්** අනුභව කිරීම.
+# යද්දී **අතරමගදී එක් දිනක්**, ගිය තැන **එක් දිනක්**, එද්දී අතරමගදී **එක් දිනක්**, පැමිණි තැන **එක් දිනක්**.
+# "යමි" යි අනුභව කොට පිටත් ව යම් **උපද්‍රවයකින් ආපසු** හැරී, ආරක්ෂිත බව දැන යද්දී **නැවත එක් දිනක්**.
+# **අයිතිකරුවන් ආරාධනා කොට** දෙන විට.
+# **භික්ෂූන් උදෙසා ම** පැනවූ දෙය; **යාවදත්ථ (කැමති තරම්) ලෙස නොපැනවූ** දෙය.
+# **භෝජන පහ හැර** අන් දේ අනුභව කිරීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **ආවසථ පිණ්ඩයක්** වීම.
+# **නොගිලන්** බව.
+# **නැවත නැවතී (දෙවන දින) අනුභව කිරීම**.
+## (ඊ) සමුට්ඨානාදිය
+**එළකලෝම සමුට්ඨානයි** (කාය, කාය-චිත්ත), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කායකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Not far from Sāvatthī a certain **guild** had set up a meal at a **public rest-house**. **The group-of-six** ==stayed on and ate there again and again==. People complained, “**We prepared this not just for these ascetics but for everyone, and they keep staying on and eating!**” The Blessed One laid down the rule.
+Later Ven. **Sāriputta**, wandering in Kosala, came to a rest-house. He was ill, and people wanted to feed him a second day too, but being scrupulous he declined and went hungry. The Blessed One added the supplementary rule “**agilānena — for one who is not ill**.”
+## (A) Explanation of terms
+**Agilānena** — one able to travel **even half a yojana**. (One unable to do so is ill.)
+**Eko** — **one day** (one meal).
+**Āvasathapiṇḍo** — food set up in a hall or anywhere **by people wishing for merit**, without specifying any **sect or amount** (“for so many,” “only so much”).
+**Bhuñjitabbo** — whether set up by one family or several together, at one place or several (“today here, tomorrow there”), it may be eaten **at one place for one day only**.
+**Tato ce uttari** — **from the second day**, of what belongs to them, at that place or another —
+|! Act | Offence
+| **receiving** it to eat | DK
+| **each mouthful** swallowed | PC
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of staying on and eating rest-house food. “**Agilānena**” is a supplementary rule. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| One not ill eating from the second day — perceiving himself as not ill, in doubt, or as ill (**triple pācittiya**) | PC
+| One ill perceiving himself as not ill, or in doubt | DK
+## (D) No offence
+# For **the sick** — perceiving himself as sick.
+# Eating **once**.
+# **One day on the way** going, **one day** at the destination, **one day on the way** back, **one day** on arrival.
+# Having eaten and set out, saying “I'm going,” **turned back by some danger**, then going on when it is safe — **one more day**.
+# When **the owners invite** him and give.
+# What was set up **specifically for monks**; what was **not set up “as much as wanted.”**
+# Eating **something other than the five foods**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Rest-house food**.
+# **Not ill**.
+# **Staying on and eating** (a second day).
+## (F) Origin and the rest (samuṭṭhāna)
+**Eḷakaloma origin** (body; body–mind), **by doing, no release by perception, without intention, an offence by convention, bodily action, three kinds of consciousness, three feelings**.
+
+@pac32
+T: ගණභෝජන සික්ඛාපදය || Group Meals
+R: - || -
+N: රජගහ නුවර, වේළුවනය || Rājagaha, Veḷuvana
+P: දේවදත්ත || Devadatta
+V: පිරිස සමඟ ඉල්ලා ගණ භෝජනය වැළඳීම || Eating group meals obtained by asking, with his followers
+K: EL sd=s an=a anu=7
+Z: සමය සතෙහි; ගණ භෝජනයක් නොවේ යැයි සිතා; දෙතුන් දෙනෙකු එක්ව ගැනීම; පිඬු සිඟා එක්ව වැළඳීම; නිත්‍ය භත්ත ආදිය; භෝජන පහ හැර අන් දේ; උමතු ආදීන් || On the seven occasions; perceiving it as not a group meal; two or three receiving together; eating together after alms round; regular meals etc.; foods other than the five; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ රජගහ නුවර · වේළුවනය කලන්දක නිවාපය
+**දේවදත්ත** ==ලාභ සත්කාර පිරිහී, පිරිස සමඟ පවුල්වලට ගොස් ඉල්ලා ඉල්ලා අනුභව කළේය==. මිනිස්සු "**කෙසේ නම් ශාක්‍යපුත්‍රීය ශ්‍රමණයෝ පවුල්වලට ගොස් ඉල්ලා කන්නෝ ද? සුභෝජනය කාට අමිහිරි ද?**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ "**ගණභොජනෙ පාචිත්තියං**" යි පැනවූහ.
+ඉන්පසු එක් එක් අවස්ථාවෙහි භික්ෂූන් කුකුස් ඇති කරගත් හෙයින් භාග්‍යවතුන් වහන්සේ **සමය සතක්** අනුදැන්නහ — **ගිලන් සමය**, **චීවරදාන සමය**, **චීවරකාර සමය**, **අද්ධානගමන සමය**, **නාවාභිරුහන සමය**, **මහා සමය**, **සමණභත්ත සමය** (බිම්බිසාර රජුගේ ඥාති ආජීවකයෙක් සියලු පැවිද්දන්ට දන් දීමට කැමති වූ අවස්ථාව).
+## (අ) පද විවරණය
+**ගණො** — **සතර දෙනෙක් හෝ ඊට වැඩි** භික්ෂූන්.
+**ගණභොජනං** — ඒ සතර දෙනාට **ආරාධනාවකින්** හෝ **ඉල්ලීමකින් (විඤ්ඤත්ති)** ලැබුණු **භෝජන පහෙන්** (බත, කොමු, සත්තු, මාළු, මස්) එකක්.
+**ආරාධනා වශයෙන්** — යමෙක් භික්ෂූන් සතර දෙනෙකු වෙත ගොස් **ඕනෑම වචනයකින් හෝ භාෂාවකින් භෝජන පහෙන් එකක නම** සඳහන් කොට "**බතින් ආරාධනා කරමි, මගේ බත ගන්න**" ආදී ලෙස ආරාධනා කළ විට, ඔවුන් එක්ව හෝ වෙන් වෙන්ව ආරාධිත වී, එක්ව හෝ වෙන්ව ගොස් **එක්ව පිළිගත්තොත්** — පසුව එක්ව හෝ වෙන්ව කෑව ද — **ගණභෝජනයයි**. ==මෙහි **පිළිගැනීම ම** ප්‍රමාණයයි.==
+**ඉල්ලීම් වශයෙන්** — බත් ආදියේ නම ගෙන එක්ව හෝ වෙන්ව ඉල්ලා ගොස් එක්ව පිළිගත්තොත් එය ද ගණභෝජනයයි.
+දෙයාකාරයෙහි ම — **පිළිගැනීමේ දුක්කටයි**; ගිල දමන **පිඩක් පාසා පාචිත්තියයි**.
+## (ආ) සමය සත
+|! සමය | අර්ථය
+| **ගිලාන සමය** | පා පැළී ඇති තරම් වුව ද **පිඬු සිඟා යා නොහැකි** අවස්ථාව
+| **චීවරදාන සමය** | කඨිනය නොඇතිරූ විට **කත්තික මාසය**; ඇතිරූ විට **මාස පහ**
+| **චීවරකාර සමය** | සිවුරු කරන විට **සිවුරේ යම් වැඩක්** කරන්නාට
+| **අද්ධානගමන සමය** | **අඩ යොදුනක්** වුව ද යාමට කැමති, යන, හෝ ගිය අවස්ථාව
+| **නාවාභිරුහන සමය** | ඔරුවකින් යාමට කැමති, යන, ගිය අවස්ථාව
+| **මහා සමය** | ගොචර ගමේ **සතර දෙනෙකු පිඬු සිඟා යැපිය නොහැකි** අවස්ථාව
+| **සමණභත්ත සමය** | **ඕනෑම පැවිද්දෙකු** (තීර්ථකයෙකු) දානයට ආරාධනා කරන අවස්ථාව
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**රජගහ නුවරදී** **දේවදත්ත** අරබයා ඉල්ලා අනුභව කිරීමේ වස්තුවෙහි පැනවිණි. "**අඤ්ඤත්‍ර සමයා**" — **සත් ආකාර අනුප්‍රඥප්තියකි**. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| සමයක් නොමැතිව ගණභෝජනයක් පිළිගැනීම | DK
+| ගිල දැමීම — ගණභෝජනය බව දැන, සැක ඇතිව, හෝ නොවේ යැයි සිතා (**තික පාචිත්තිය**) — පිඩක් පාසා | PC
+| ගණභෝජනයක් නොවූ දෙයක් එසේ යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# **සමය සතෙහි**.
+# ගණභෝජනයක් **නොවේ යැයි** සිතා.
+# **දෙදෙනෙකු හෝ තිදෙනෙකු** එක්ව පිළිගැනීම.
+# බොහෝ දෙනා **පිඬු සිඟා ගොස් එක්ව** අනුභව කිරීම.
+# **නිත්‍ය භත්ත, සලාක භත්ත, පක්ඛික, උපෝසථික, පාටිපදික** ආදී දානවල.
+# **භෝජන පහ හැර** අන් සියල්ලෙහි.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **ගණභෝජනයක්** වීම.
+# **සමයක් නැති** බව.
+# **ගිල දැමීම**.
+## (උ) සමුට්ඨානාදිය
+**එළකලෝම සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කායකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Rājagaha · Veḷuvana, the squirrels' feeding place
+**Devadatta**, ==having lost gain and honour, went with his followers to families and ate by asking==. People complained, “**How can the Sakyan ascetics go to families and eat by asking? Who doesn't like good food?**” The Blessed One laid down: “**Gaṇabhojane pācittiyaṃ.**”
+Then, as monks became scrupulous in various situations, the Blessed One allowed **seven occasions** — **illness**, **robe-giving time**, **robe-making time**, **travelling**, **a boat journey**, **a great occasion**, and **a meal for ascetics** (when an Ājīvaka relative of King Bimbisāra wished to feed all who had gone forth).
+## (A) Explanation of terms
+**Gaṇo** — **four or more** monks.
+**Gaṇabhojanaṃ** — one of **the five foods** (rice, porridge, flour-cake, fish, meat) obtained by those four through **an invitation** or **by asking**.
+**By invitation** — if someone goes to four monks and invites them **naming one of the five foods in any word or language** — “**I invite you to rice; accept my rice**” — and they, invited together or separately, going together or separately, **receive it together**, it is a group meal, even if they then eat together or apart. ==**Receiving** is the decisive point.==
+**By asking** — if they ask naming rice etc., together or separately, go and receive it together, that too is a group meal.
+In both cases — **dukkaṭa on receiving**; **pācittiya for each mouthful**.
+## (B) The seven occasions
+|! Occasion | Meaning
+| **Illness** | unable to go for alms — even just cracked feet
+| **Robe-giving time** | without kaṭhina, **the month of Kattika**; with kaṭhina, **five months**
+| **Robe-making time** | for one doing **any work on a robe** being made
+| **Travelling** | wishing to go, going or having gone **even half a yojana**
+| **Boat journey** | wishing to go, going or having gone by boat
+| **Great occasion** | when **four monks cannot get by** on alms in the village
+| **Ascetics' meal** | when **any person gone forth** (a sectarian) invites to a meal
+## (C) The laying down of the rule and the command
+It was laid down at **Rājagaha** concerning **Devadatta**, on the matter of eating by asking. “**Aññatra samayā**” is a **sevenfold supplementary rule**. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Receiving a group meal without the occasion | DK
+| Swallowing it — perceiving it as a group meal, in doubt, or as not (**triple pācittiya**) — each mouthful | PC
+| Not a group meal, perceived as one or in doubt | DK
+## (E) No offence
+# **On the seven occasions**.
+# Perceiving it **as not a group meal**.
+# **Two or three** receiving together.
+# Many **going for alms and then eating together**.
+# **Regular meals, meals by ticket, fortnightly, Uposatha and first-day meals** etc.
+# Anything **other than the five foods**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **A group meal**.
+# **No occasion**.
+# **Swallowing**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Eḷakaloma origin, by doing, no release by perception, without intention, an offence by convention, bodily action, three kinds of consciousness, three feelings**.
+
+@pac33
+T: පරම්පරභෝජන සික්ඛාපදය || Out-of-turn Meals
+R: - || -
+N: වේසාලිය, මහාවනය || Vesālī, Great Wood
+P: බොහෝ භික්ෂූන් || A number of monks
+V: ආරාධිත දානයට පෙර අන් තැනක අනුභව කිරීම || Eating elsewhere before the meal one was invited to
+K: KT sd=a an=a anu=3 kr=KA
+Z: සමයේ; පළමු ආරාධනාව විකප්පනය කොට; ආරාධනා දෙක තුනක් එක් කොට; ආරාධනා පිළිවෙළින්; මුළු ගමෙන් / පූගයෙන් ආරාධනා කළ විට; "පිඬු ගනිමි" යි කීම; නිත්‍ය භත්ත ආදිය; භෝජන පහ හැර; උමතු ආදීන් || On an occasion; having assigned the first invitation; combining two or three invitations; in the order of invitations; invited by a whole village or guild; saying “I'll take alms”; regular meals etc.; other than the five foods; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ වේසාලිය · මහාවනය කූටාගාර ශාලාව
+වේසාලියේ **පිළිවෙළින් ප්‍රණීත දාන** පැවැත්විණ. එක් **දුප්පත් කම්කරුවෙක්** "මේ අය මෙතරම් සකසා පුදන්නේ, මම ද දානයක් දෙමි" යි සිතා, තම ස්වාමියාගෙන් ලැබූ මුදලින් **බුද්ධ ප්‍රමුඛ සංඝයාට** දානයකට ආරාධනා කොට බොහෝ ආහාර සූදානම් කළේය. එහෙත් ==භික්ෂූහු උදෑසන ම අන් තැන්වල කොට, ඔහුගේ දානයෙන් ස්වල්පයක් පමණක් ගත්හ==. ආහාර බොහෝ ඉතිරි වූ හෙයින් ඔහු "**මා කොතරම් වෙහෙසී සකසා ද, ආර්‍යයෝ ස්වල්පයක් ගත්හ**" යි නොසතුටු වූයේය. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+පසුව **ගිලන් භික්ෂූන්**, **චීවරදාන සමයේ** හා **චීවරකාර සමයේ** භික්ෂූන් කුකුස් ඇති කරගත් හෙයින් **සමය තුනක්** අනුදැන්නහ.
+## (අ) පද විවරණය
+**පරම්පරභොජනං** — **භෝජන පහෙන් එකකින් ආරාධනා ලැබූ** භික්ෂුවක්, **පළමුව ආරාධනා කළ තැනැත්තාගේ භෝජනය** — පිළිවෙළ කඩ කොට හෝ විකප්පනය නොකොට — **පසුව ආරාධනා කළ අනෙකෙකුගේ** භෝජනයෙන් කෑම.
+==එබැවින් පළමු ආරාධනාව **විකප්පනය නොකොට**, පසු ආරාධනා කළ පවුලෙන් ලද භික්ෂාවෙන් **එක් බත් ඇටයක් වුව ද** ගිල දැමීම පාචිත්තියයි.==
+## (ආ) පළමු ආරාධනාව විකප්පනය කිරීම
+සහධාර්මිකයන් පස් දෙනාගෙන් කෙනෙකුට —
+|! ආකාරය | කියන ආකාරය
+| සම්මුඛා | "**මය්හං භත්තපච්චාසං තුය්හං දම්මි**" හෝ "…**විකප්පෙමි**"
+| පරම්මුඛා | "**…ඉත්ථන්නාමස්ස දම්මි**" හෝ "…**විකප්පෙමි**"
+පරිවාරයේ ඒ විකප්පනය ද ගෙන "**අනුප්‍රඥප්ති සතරකි**" යි කීහ.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**වේසාලියේදී** බොහෝ භික්ෂූන් අරබයා ආරාධිත තැනින් අන් තැනක අනුභව කිරීමේ වස්තුවෙහි පැනවිණි. "**අඤ්ඤත්‍ර සමයා**" — **ත්‍රිවිධ අනුප්‍රඥප්තියකි** (ගිලාන, චීවරදාන, චීවරකාර). **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| සමයක් නොමැතිව, පළමු ආරාධනාව විකප්පනය නොකොට පසු ආරාධනාවේ භෝජනය ගිල දැමීම — පරම්පර බව දැන, සැක ඇතිව, හෝ නොවේ යැයි සිතා (**තික පාචිත්තිය**) | PC
+| පරම්පර භෝජනයක් නොවූ දෙයක් එසේ යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# **සමයේ** (ගිලාන, චීවරදාන, චීවරකාර).
+# පළමු ආරාධනාව **විකප්පනය කොට**.
+# **එකට මිශ්‍ර** වූ ආරාධනා දෙක තුනක් **එක් කොට** අනුභව කිරීම.
+# **ආරාධනා පිළිවෙළින්** අනුභව කිරීම.
+# **මුළු ගමෙන් හෝ පූගයෙන්** ආරාධනා කළ විට ඒ අතරින් ඕනෑම තැනක.
+# ආරාධනා කරද්දී "**පිඬු ගනිමි**" යි කීම.
+# **නිත්‍ය භත්ත** ආදියෙහි; **භෝජන පහ හැර** අන් සියල්ලෙහි.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **පරම්පර භෝජනයක්** වීම.
+# **සමයක් නැති** බව.
+# **ගිල දැමීම**.
+## (උ) සමුට්ඨානාදිය
+**කථින සමුට්ඨානයි, කිරියාකිරියයි** (අනුභව කිරීම කිරියාව; විකප්පනය නොකිරීම අකිරියාව), **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Vesālī · the Gabled Hall in the Great Wood
+At Vesālī a **succession of fine meals** was being given. A **poor labourer**, thinking, “These people give so carefully; I too will give a meal,” used the wages he had from his master to invite **the Saṅgha headed by the Buddha** and prepared plenty of food. But ==the monks had eaten elsewhere early in the morning and took only a little of his food==. Much was left over, and he was dismayed: “**I took such trouble, and the venerables took so little.**” The Blessed One laid down the rule.
+Later, as **sick monks** and monks at **robe-giving** and **robe-making time** became scrupulous, he allowed **three occasions**.
+## (A) Explanation of terms
+**Paramparabhojanaṃ** — a monk **invited to one of the five foods** eating, **out of order or without assigning it**, from **the meal of a later inviter** instead of **the one who invited him first**.
+==So, without **assigning** the first invitation, swallowing **even a single grain** from alms obtained at the family that invited later is pācittiya.==
+## (B) Assigning the first invitation
+To one of the five co-religionists —
+|! Way | What is said
+| in presence | “**Mayhaṃ bhattapaccāsaṃ tuyhaṃ dammi**” or “…**vikappemi**”
+| in absence | “**…itthannāmassa dammi**” or “…**vikappemi**”
+Counting this assignment too, the Parivāra speaks of “**four supplementary rules**.”
+## (C) The laying down of the rule and the command
+It was laid down at **Vesālī** concerning a number of monks, on the matter of eating elsewhere than where invited. “**Aññatra samayā**” is a **threefold supplementary rule** (illness, robe-giving, robe-making). It is a **rule not shared**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Without an occasion, not having assigned the first invitation, swallowing the later meal — perceiving it as out of turn, in doubt, or as not (**triple pācittiya**) | PC
+| Not out of turn, perceived as such or in doubt | DK
+## (E) No offence
+# **On an occasion** (illness, robe-giving, robe-making).
+# Having **assigned** the first invitation.
+# Eating two or three **mixed invitations together**.
+# Eating **in the order of invitations**.
+# When invited by **a whole village or guild**, eating at any of them.
+# Saying “**I'll take alms**” when being invited.
+# At **regular meals** etc.; anything **other than the five foods**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **An out-of-turn meal**.
+# **No occasion**.
+# **Swallowing**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Kathina origin, by doing and not doing** (eating; not assigning), **no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac34
+T: කාණමාතා සික්ඛාපදය || Kāṇā's Mother
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: බොහෝ භික්ෂූන් || A number of monks
+V: පමණ නොදැන කැවිලි හා මාර්ගෝපකරණ පිළිගැනීම || Accepting cakes and provisions without moderation
+K: SC sd=s an=a anu=0
+Z: තෑගි / මාර්ගෝපකරණ සඳහා නොපිළියෙළ කළ දෙය; ඒ සඳහා පිළියෙළ කොට ඉතිරි වූ දෙය; ගමන නතර වූ විට; ඥාතීන් / පවාරණය කළ අය; තමාගේ ධනයෙන්; උමතු ආදීන් || Not prepared as a gift or provisions; leftovers of such; journey called off; relatives / those who invited; own funds; the insane etc.
+G: 5
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**කාණමාතා** නම් ශ්‍රද්ධාවන්ත උපාසිකාවකගේ දියණිය **කාණා** අසල ගමක පුරුෂයෙකුට විවාහ කර දී තිබිණ. ඇය මව බැලීමට පැමිණ ආපසු යන කල්හි මව "**හිස් අතින් යවන්නේ කෙසේ ද?**" යි **කැවිලි (පූව)** පිසුවාය. පිඬු සිඟා ආ භික්ෂුවකට එයින් දුන්නාය; ඔහු අනෙකෙකුට කීය; ==එසේ පැමිණි භික්ෂූන්ට දෙද්දී කැවිලි සියල්ල අවසන් විය==. නැවත පිසූ විට ද එසේ ම විය. තෙවනුව ද එසේ ම විය. කාණාගේ සැමියා "**කාණා නොඑයි**" යි **වෙනත් බිරිඳක් පාවා ගත්තේය**. කාණා හඬමින් සිටියාය.
+එමෙන් ම, එක් **ගැල් කරුවෙක්** රජගහයේ සිට පිටත් වීමට **මාර්ගෝපකරණ** (මන්ථ) සූදානම් කළ කල්හි භික්ෂූන් පැමිණ ඒවා ගත් හෙයින් ඔහුට කලට පිටත් විය නොහැකි වූයේය. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ. (පසුව කාණමාතාව ද කාණා ද භාග්‍යවතුන් වහන්සේ දේශනාවෙන් පැහැදුණහ.)
+## (අ) පද විවරණය
+**පූවෙහි** — **තෑගි (පහෙණක)** සඳහා පිළියෙළ කළ **අතිරස, මෝදක, සක්ඛලිකා** ආදී ඕනෑම **කැවිලි** වර්ගයක්.
+**මන්ථෙහි** — **මාර්ගෝපකරණ (පාථෙය්‍ය)** සඳහා පිළියෙළ කළ **සත්තු, තල, සහල්** ආදී ඕනෑම දෙයක්.
+**ද්වත්තිපත්තපූරා** — පාත්‍රයේ **මුව දාරයට පහළ රේඛාව නොඉක්මවූ**, පාත්‍ර **දෙකක් හෝ තුනක්** පිරෙන තරම්.
+**තතො චෙ උත්තරි** — තුන්වන පාත්‍රය **ගොඩ කොට** ගත්තේ නම්, රේඛාවට ඉහළින් ඇති **කැවිලි ගණනින්** පාචිත්තිය.
+## (ආ) දැනුම් දීම හා බෙදා දීම
+|! තත්ත්වය | කළ යුත්ත
+| තමා **පාත්‍ර දෙකක්** ගත් විට | පිටත දුටු භික්ෂුවට "**මා මෙහි පාත්‍ර දෙකක් ගතිමි, ඔබ එකක් ගන්න**" යි කිව යුතුය
+| ඔහු එකක් ගත් පසු | ඊළඟ භික්ෂුවට "**පළමුවැන්නා දෙකක්, මම එකක් ගතිමි; ඔබ නොගන්න**" යි කිව යුතුය
+| තමා ම **පාත්‍ර තුනක්** ගත් විට | දුටු භික්ෂුවට "**මෙහි නොගන්න**" යි කිව යුතුය — ==නොකීමේ දුක්කට; අසා ගැනීමේ ද දුක්කට==
+**බෙදා දීම** — ලත් තැනට **ළඟ ම ආසනශාලාවට, විහාරයට** හෝ නිතර යන තැනකට ගොස්, **එක් පාත්‍රයක් තමාට තබා ඉතිරිය භික්ෂු සංඝයාට** දිය යුතුය — **මිත්‍රයන්ට කැමති සේ** දීම නොවටී. එක් පාත්‍රයක් පමණක් ගත් තැනැත්තා අකමැත්තෙන් කිසිවක් දිය යුතු නැත; කැමති දෙයක් කළ හැකිය.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** බොහෝ භික්ෂූන් අරබයා පමණ නොදැන පිළිගැනීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| පාත්‍ර දෙක තුනකට වඩා පිළිගැනීම — වැඩි බව දැන, සැක ඇතිව, හෝ අඩු යැයි සිතා (**තික පාචිත්තිය**) — රේඛාවට ඉහළ කැවිලි ගණනින් | PC
+| පාත්‍ර තුනක් ගත් තැනැත්තා අනෙකාට නොකීම; අසා ම ගැනීම | DK
+| පාත්‍ර දෙක තුනට අඩු දෙයක් වැඩි යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# පාත්‍ර දෙක තුන **පමණක්** පිළිගැනීම.
+# **තෑගි සඳහා හෝ මාර්ගෝපකරණ සඳහා නොපිළියෙළ** කළ දෙය.
+# ඒ සඳහා පිළියෙළ කොට **ඉතිරි** වූ දෙය.
+# **ගමන නතර** වූ විට.
+# **ඥාතීන්**, **පවාරණය කළ අය** දෙන විට.
+# **තමාගේ ධනයෙන්** ගැනීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= පඤ්ච — පහකි)
+# **පඬුරක් ලෙස හෝ ගමනට සූදානම් කළ කැවිලි හෝ මාර්ගෝපකරණ** වීම.
+# **ඉතිරි නොවූ** දෙයක් වීම.
+# **ගමන නතර නොවූ** බව.
+# **ඥාති නොවන** ආදීන් වීම.
+# **අතිරේකව පිළිගැනීම**.
+## (උ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (සමුට්ඨාන සය), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**Kāṇā**, daughter of a devout laywoman called **Kāṇā's mother**, had been married to a man in a nearby village. When she was returning after visiting her mother, the mother thought, “**How can I send her back empty-handed?**” and baked **cakes**. A monk came for alms and she gave him some; he told another; ==giving to the monks who came, all the cakes were used up==. She baked again, and the same happened; and a third time. Kāṇā's husband, saying “**Kāṇā isn't coming back**,” **took another wife**, and Kāṇā wept.
+Likewise, a **caravan man** about to leave Rājagaha prepared **provisions**; monks came and took them, so he could not set out on time. The Blessed One laid down the rule. (Afterwards Kāṇā's mother and Kāṇā were inspired by the Blessed One's teaching.)
+## (A) Explanation of terms
+**Pūvehi** — **cakes** of any kind — atirasa, modaka, sakkhalikā etc. — prepared **as a gift**.
+**Manthehi** — anything — flour-meal, sesame, rice etc. — prepared **as travel provisions**.
+**Dvattipattapūrā** — **two or three** bowlfuls **not above the line below the rim**.
+**Tato ce uttari** — if he takes the third bowl **heaped**, pācittiya **by the number of cakes above the line**.
+## (B) Informing others and sharing
+|! Situation | What to do
+| having taken **two bowlfuls** | tell a monk he sees outside: “**I've taken two bowlfuls here; you may take one**”
+| after that monk takes one | he tells the next: “**The first took two, I took one; don't take any**”
+| having taken **three** himself | tell any monk he sees, “**Don't take here**” — ==not telling is dukkaṭa; taking after hearing is dukkaṭa too==
+**Sharing** — he should go to the **nearest assembly hall, monastery**, or wherever he regularly goes, **keep one bowlful and give the rest to the Saṅgha** — not to his friends as he likes. One who took a single bowlful need not give anything unwillingly; he may do as he likes.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a number of monks, on the matter of accepting without moderation. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Accepting more than two or three bowlfuls — perceiving it as more, in doubt, or as less (**triple pācittiya**) — by the cakes above the line | PC
+| Having taken three, not telling another; taking after being told | DK
+| Less than two or three bowlfuls, perceived as more or in doubt | DK
+## (E) No offence
+# Accepting **only** two or three bowlfuls.
+# What was **not prepared as a gift or as provisions**.
+# **Leftovers** of what was prepared for that.
+# When **the journey is called off**.
+# When **relatives** or **those who invited** give.
+# Getting it with **one's own funds**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= pañca — five)
+# **Cakes or travel provisions** (given as a gift or for a journey).
+# **Not leftovers**.
+# **The journey not called off**.
+# From **unrelated people** etc.
+# **Accepting in excess**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Go-between origin** (six origins), **by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac35
+T: පඨමපවාරණා සික්ඛාපදය || Eating after Refusing
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: බොහෝ භික්ෂූන් || A number of monks
+V: පවාරණය කළ පසු අනතිරිත්ත ආහාර අනුභව කිරීම || Eating food not made “leftover” after having refused
+K: KT sd=a an=a anu=1 kr=KA
+Z: අතිරිත්ත කරවා අනුභව කිරීම; අතිරිත්ත කරවා කන්නෙමි යි ගැනීම; අනුන් සඳහා ගැනීම; ගිලනාගේ ඉතිරිය; යාමකාලික ආදිය සුදුසු පරිදි; උමතු ආදීන් || Eating after having it made leftover; taking it to have it so made; taking for another; a sick monk's leftovers; later-time medicines as allowed; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+එක් **බ්‍රාහ්මණයෙක්** භික්ෂූන්ට දානයට ආරාධනා කළේය. භික්ෂූහු ==වළඳා **පවාරණය කොට** (තවත් එපා යි ප්‍රතික්ෂේප කොට), පසුව ඥාති පවුල්වලට ගොස් එහි ද වැළඳූහ; ඇතැම්හු පිඬු ද ගෙනවුත් කෑහ==. බ්‍රාහ්මණයා "**අපගේ දානය සෑහෙන්නේ නැද්ද?**" යි නොසතුටු විය. භාග්‍යවතුන් වහන්සේ "**වළඳා පවාරණය කළ භික්ෂුවක් ඛාදනීය හෝ භෝජනීය කයි නම් පාචිත්තිය**" යි පැනවූහ.
+පසුව **ගිලන් භික්ෂූන්ට** ලැබෙන ප්‍රණීත ආහාර ඉතිරි වූ කල්හි අනෙක් භික්ෂූන් කුකුස් ඇතිව ඒවා නොකෑ හෙයින් කපුටන් කෑහ. භාග්‍යවතුන් වහන්සේ **අතිරිත්ත කිරීම (විනය කර්මය)** හා **ගිලන් ඉතිරිය** අනුදැන "**අනතිරිත්තං**" අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**භුත්තාවී** — **භෝජන පහෙන් අබ ඇටයක් තරම්වත්** ගිල දැමූ තැනැත්තා.
+**පවාරිතො** — **අංග පහකින්** පවාරණය (ප්‍රතික්ෂේපය) කළ තැනැත්තා:
+|! අංගය | අර්ථය
+| **අසනං පඤ්ඤායති** | ඔහු **අනුභව කරමින් සිටී** — මුවෙහි, අතෙහි හෝ පාත්‍රයෙහි **ආශාවෙන් යුත්** භෝජනයක් ඇත
+| **භොජනං පඤ්ඤායති** | පිළිගන්වන්නේ **පවාරණයට හේතු වන භෝජනයකි** (භෝජන පහෙන් එකක්)
+| **හත්ථපාසෙ ඨිතො** | දායකයා **රියන් දෙකහමාරක (හත්ථපාස)** ඇතුළත සිටී
+| **අභිහරති** | ඔහු එය **කයින් ළං කරයි** (පිළිගන්වයි)
+| **පටික්ඛෙපො පඤ්ඤායති** | භික්ෂුව **කයින් (ඇඟිල්ල සෙලවීම ආදී) හෝ වචනයෙන් ("එපා, නොදෙන්න")** ප්‍රතික්ෂේප කරයි
+## (ආ) හත්ථපාසය (අත්පස)
+**හත්ථපාසය** යනු **රියන් දෙකහමාරකි** (අඩ්ඪතෙය්‍යහත්ථ). එය මනින ආකාරය (විනයසංග්‍රහ අට්ඨකථාව, පාචිත්තිය අට්ඨකථාව):
+|! පිළිගන්නා භික්ෂුව | මැනීම ආරම්භ වන්නේ
+| හිඳ සිටී නම් | **ආසනයේ පසු කෙළවරේ** සිට
+| සිටගෙන සිටී නම් | **විළුඹේ** (විළුඹ කෙළවරේ) සිට
+| සැතපී සිටී නම් | **සැතපුණු පැත්තේ පිටත කෙළවරේ** සිට
+දෙන්නා හිඳ, සිට හෝ සැතපී සිටියත්, **දිගු කළ අත හැර**, ඔහුගේ **ළඟම ඇති අඟ** (හිස, දණහිස ආදිය) දක්වා — රියන් දෙකහමාරක් ඇතුළත විය යුතුය.
+එක් අයෙකු **ඉහළ (අහසේ / ගසේ / වහලයේ)** ද අනෙකා **බිම** ද සිටී නම්: **බිම සිටින්නාගේ හිසේ** සිට, ඉහළ සිටින්නාගේ දීමට හෝ ගැනීමට දිගු කළ අත හැර **ළඟම අඟ** දක්වා මැනිය යුතුය. ළිඳක හා ළිං කට්ටේ, ගසක හා පොළොවේ සිටින විට ද මෙසේ ම ය.
+!dgm: hp-seated **1. හිඳ සිටින භික්ෂුව** — ආසනයේ පසු කෙළවරේ සිට, නැමී දෙන්නාගේ හිස දක්වා රියන් 2½.
+!dgm: hp-standing **2. සිටගෙන සිටින භික්ෂුව** — විළුඹේ සිට, දෙන්නාගේ හිස දක්වා රියන් 2½.
+!dgm: hp-lying **3. සැතපී සිටින භික්ෂුව** — සැතපුණු පැත්තේ පිටත කෙළවරේ (පිටුපස) සිට, දෙන්නාගේ දණහිස දක්වා රියන් 2½.
+!dgm: hp-roof **4. වහලය මත හා ඉණිමඟ මත** — ඉහළ සිටින්නාගේ පතුල හා පහළ සිටින්නාගේ හිස අතර රියන් 2½.
+!dgm: hp-tree **5. ගසක සිටින්නා හා බිම සිටින්නා** — ගසේ සිටින්නාගේ පය හා බිම සිටින භික්ෂුවගේ හිස අතර රියන් 2½.
+**අභිහාරය** — හිසේ භාජන රැසක් තබාගෙන සිටගෙන "ගන්න" යි කීමෙන් පමණක් අභිහාරය නොපෙනේ; **මඳක් වුව ද නැමුණොත්** පහළ භාජනය අත දිගු කොට එක් කොටසකින් පිළිගැනීම ප්‍රමාණවත් ය — සියලු භාජන පිළිගත්තේ වේ. හත්ථපාසය ඉක්මවා දිගු හැන්දකින් දෙන්නේ නම් "ළඟට ඇවිත් දෙන්න" යි කිව යුතුය.
+## (ඇ) පවාරණයට හේතු වන භෝජන
+|! භෝජනය | පවාරණයට හේතු වේ | නොවේ
+| **ඔදන** (බත) | හැල්, වී, යව, ගෝධුම, තණහාල්, වරක, කුද්‍රූසක යන **ධාන්‍ය සතෙන්** — කන විට **ගත් තැන හිස් වීම** පෙනේ නම් (කැඳ ලෙස පිසුව ද) | උණු, දියාරු, බිව හැකි කැඳ; උණ සහල්, අල, ගෙඩි ආදියෙන් බත
+| **කුම්මාස** | **යවයෙන්** කළ | මුං ආදියෙන් කළ
+| **සත්තු** | ධාන්‍ය සත බැද කළ | සම පාකයෙන් බැද අව්වේ වියළූ ඒවායේ කුඩු; විලඳ
+| **මච්ඡ / මංස** | කැප මාළු මස් — **අබ ඇටයක් තරම්** කැබැල්ලක් වුව ද | අකැප මස්; කුලදූෂණාදියෙන් ලද අකැප භෝජන
+**අභිහරණය** — ළඟ හුන් භික්ෂුවක් අතේ තිබෙන පාත්‍රය **නොඔසවා** "බත් ගන්න" යි කීමෙන් හෝ පෙට්ටිය **බිම තබා** කීමෙන් පවාරණය නොවේ; **ස්වල්පයක් ඔසවා** කී විට වේ. **වචනයෙන් පමණක්** පිළිගැන්වූ දෙය ප්‍රතික්ෂේප කිරීමෙන් පවාරණය නොවේ.
+**නාමය** — "**රසය ගන්න**" යි කී විට ප්‍රතික්ෂේපයෙන් පවාරණය නොවේ; "**මස් රසය**", "**මෙය ගන්න**" යි කී විට වේ. "**කොස් ව්‍යඤ්ජනය ගන්න**" (මාළු මස් මිශ්‍ර වුව ද) යි **පවාරණයට හේතු නොවන නමින්** කී විට නොවේ.
+**ඉරියව්ව** — පවාරණය කළ ඉරියව්ව **නොබිඳ** ම අනුභව කළ යුතුය.
+## (ඈ) අනතිරිත්ත — අතිරිත්ත කිරීම
+**අනතිරිත්තං** — **විනය කර්ම ආකාර සතකින්** අතිරිත්ත නොකළ, හෝ **ගිලනාගේ ඉතිරිය** නොවූ දෙය. අතිරිත්ත කිරීම අසාර්ථක වන ආකාර සත:
+# **අකැප** දෙයක් — කැප නොකළ ගෙඩි, අල ආදිය හෝ අකැප මස් / භෝජන — කිරීම.
+# භික්ෂුව **නොපිළිගත්** දෙයක් කිරීම.
+# කැප කරවීමට ආ භික්ෂුව **ස්වල්පයක් වත් නොඔසවා / නොළං කොට** කිරීම.
+# **හත්ථපාසයෙන් පිටත** සිට කිරීම.
+# අතිරිත්ත කරන්නා පවාරණයට හේතු වන භෝජනයක් **අනුභව නොකළ** කෙනෙකු වීම.
+# අතිරිත්ත කරන්නා ද **පවාරණය කොට ආසනයෙන් නැගිට** සිටීම.
+# "**අලමෙතං සබ්බං**" (මේ සියල්ල ප්‍රමාණවත්) යි **වචනයෙන් නොකීම**.
+අතිරිත්ත කරන්නා **ළඟ හුන් අයෙකුගේ පාත්‍රයෙන් එක් බත් ඇටයක්** කා තිබුණ ද "භුත්තාවී" ය. **අතිරිත්ත කළ පසු ඊට අලුතින් එකතු කළ** ආමිසය එම බඳුනෙහි ම නැවත කළ නොහැකිය; **වෙනත් බඳුනක** කළ හැකිය. අතිරිත්ත කළ දෙය **කළ තැනැත්තා හැර** අන් පවාරිතයන්ට ද කෑ හැකිය.
+**ගිලානාතිරිත්ත** — ගිලනාගේ කෑ ඉතිරිය පමණක් නොව, ==ගිලනා උදෙසා "අද හෝ හෙට, කැමති විට කයි" යි ගෙනා **සියල්ල**== ගිලාන අතිරිත්තයයි.
+## (ඉ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** බොහෝ භික්ෂූන් අරබයා වෙනත් තැනක අනුභව කිරීමේ වස්තුවෙහි පැනවිණි. "**අනතිරිත්තං**" අනුප්‍රඥප්තියයි. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඊ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| පවාරිතයෙකු අනතිරිත්ත ආමිසයක් ගිල දැමීමට **පිළිගැනීම** | DK
+| ගිල දමන **පිඩක් පාසා** — අනතිරිත්ත බව දැන, සැක ඇතිව, හෝ අතිරිත්ත යැයි සිතා (**තික පාචිත්තිය**) | PC
+| **යාමකාලික, සත්තාහකාලික, යාවජීවික** දේ **ආහාරය පිණිස** ගැනීම / ගිල දැමීම | DK
+| අතිරිත්ත දෙයක් අනතිරිත්ත යැයි සිතීම හෝ සැක කිරීම | DK
+## (උ) අනාපත්ති
+# **අතිරිත්ත කරවා** අනුභව කිරීම; අතිරිත්ත යැයි සිතීම.
+# "**අතිරිත්ත කරවා කන්නෙමි**" යි ගැනීම.
+# **අනුන් සඳහා** ගැනීම.
+# **ගිලනාගේ ඉතිරිය**.
+# **යාමකාලික ආදිය** — ප්‍රත්‍යයක් ඇති විට අනුදත් පරිදි **නිරාමිසව** පරිභෝග කිරීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඌ) අංග (= තීණි — තුනකි)
+# **පවාරිත** බව.
+# ආමිසය **අනතිරිත්ත** වීම.
+# **කාලයේ** (මධ්‍යාහ්නයට පෙර) **ගිල දැමීම**.
+## (එ) සමුට්ඨානාදිය
+**කථින සමුට්ඨානයි, කිරියාකිරියයි** (කෑම කිරියාව; අතිරිත්ත නොකරවීම අකිරියාව), **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+A **brahmin** invited the monks to a meal. The monks ==ate, **refused further food**, and then went to their relatives' houses and ate there too; some even brought back alms and ate==. The brahmin was displeased: “**Isn't our meal enough?**” The Blessed One laid down: “**Should a monk who has eaten and refused eat staple or non-staple food — pācittiya.**”
+Later, when fine food given to **sick monks** was left over, the other monks, being scrupulous, would not eat it, and crows ate it. The Blessed One allowed **making food “leftover” (a Vinaya act)** and **a sick monk's leftovers**, adding the supplementary rule “**anatirittaṃ**.”
+## (A) Explanation of terms
+**Bhuttāvī** — one who has swallowed **even a mustard-seed's worth of the five foods**.
+**Pavārito** — one who has refused, **with five factors**:
+|! Factor | Meaning
+| **Asanaṃ paññāyati** | he **is eating** — there is food he still wants in his mouth, hand or bowl
+| **Bhojanaṃ paññāyati** | what is offered is **food that causes refusal** (one of the five)
+| **Hatthapāse ṭhito** | the donor stands **within two and a half cubits (arm's reach)**
+| **Abhiharati** | he **brings it forward with his body** (offers it)
+| **Paṭikkhepo paññāyati** | the monk **refuses by body (a finger gesture etc.) or speech (“Enough, don't give”)**
+## (B) Arm’s reach (hatthapāsa)
+**Arm’s reach** is **two and a half cubits** (*aḍḍhateyyahattha*). How it is measured (Vinayasaṅgaha and Pācittiya commentaries):
+|! Receiving monk | Measured from
+| Sitting | **the back edge of the seat**
+| Standing | **the heel**
+| Lying | **the far edge of the side he lies on**
+whether the giver is sitting, standing or lying, to his **nearest part** (head, knee and so on) — **excluding the outstretched hand** — within two and a half cubits.
+If one is **above (in the air, a tree, on a roof)** and the other **on the ground**: measure from **the head of the one on the ground** to the **nearest part** of the one above, excluding the hand stretched out to give or receive. Likewise for one in a well and one at its edge, or one in a tree and one on the ground.
+!dgm: hp-seated **1. A seated monk** — from the back edge of the seat to the head of the bending giver: 2½ cubits.
+!dgm: hp-standing **2. A standing monk** — from the heel to the giver’s head: 2½ cubits.
+!dgm: hp-lying **3. A lying monk** — from the far edge of the side he lies on (his back) to the giver’s knee: 2½ cubits.
+!dgm: hp-roof **4. On a roof and on a ladder** — between the sole of the one above and the head of the one below: 2½ cubits.
+!dgm: hp-tree **5. One in a tree and one on the ground** — between the climber’s foot and the head of the monk below: 2½ cubits.
+**Presenting** — one who stands with many dishes on his head and just says “Take” has not presented them; **if he bows even slightly**, the monk may stretch out his hand and receive the bottom dish at one point — all the dishes are then received. If someone beyond arm’s reach offers with a long ladle, he should be told, “Come near and give.”
+## (C) Foods that cause refusal
+|! Food | Causes refusal | Does not
+| **Odana** (rice) | from **the seven grains** — sāli, vīhi, barley, wheat, millet, varaka, kudrūsaka — if, when eaten, **the place taken from shows** (even if cooked as gruel) | hot, thin, drinkable gruel; rice of bamboo-seed, roots, fruit etc.
+| **Kummāsa** | made of **barley** | made of beans etc.
+| **Sattu** | made by roasting the seven grains | powder of evenly roasted, sun-dried grain; puffed grain
+| **Fish / meat** | allowable fish or meat — **even a mustard-seed-sized piece** | unallowable meat; unallowable food got by corrupting families etc.
+**Offering** — if a monk sitting next to him, **without lifting** the bowl in his hand, says “Take rice,” or a basket is **set on the ground** and offered, refusing is no pavāraṇā; if it is **lifted a little**, it is. Refusing what is offered **by words alone** is no pavāraṇā.
+**Naming** — refusing when told “**Take the broth**” is no pavāraṇā; “**meat broth**” or “**take this**” is. If it is offered under **a name that does not cause refusal** — “**Take the jackfruit curry**” (even if mixed with fish or meat) — it is not.
+**Posture** — he must eat **without breaking** the posture in which he refused.
+## (D) Not leftover — making it leftover
+**Anatirittaṃ** — not made leftover by **the seven Vinaya procedures**, or not **a sick monk's leftovers**. The seven ways it fails:
+# Made of something **unallowable** — fruit or roots not made allowable, unallowable meat or food.
+# Made of something **not received** by a monk.
+# Done without the monk who brings it **lifting or moving it even slightly**.
+# Done **outside arm's reach**.
+# Done by one who **has not eaten** food that causes refusal.
+# Done by one who has **refused and risen from his seat**.
+# “**Alametaṃ sabbaṃ**” (“All this is enough”) **not said aloud**.
+One who made it leftover counts as having eaten even if he took **a single grain from the bowl of the monk beside him**. Food **added after** it was made leftover cannot be done again in the same vessel, but can be in **another vessel**. What was made leftover may be eaten by **other monks who have refused**, except the one who did it.
+**Sick monk's leftovers** — not only what a sick monk left, but ==**everything** brought for a sick monk “to eat today or tomorrow, whenever he wishes.”==
+## (E) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a number of monks, on the matter of eating elsewhere. “**Anatirittaṃ**” is a supplementary rule. It is a **rule not shared**, **anāṇattika**, and a **triple pācittiya**.
+## (F) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| One who has refused **receiving** non-leftover food to swallow | DK
+| **Each mouthful** — perceiving it as not leftover, in doubt, or as leftover (**triple pācittiya**) | PC
+| Taking or swallowing **later-time, seven-day or lifelong medicines as food** | DK
+| Leftover food perceived as not leftover, or in doubt | DK
+## (G) No offence
+# Eating after **having it made leftover**; perceiving it as leftover.
+# Taking it thinking, “**I'll have it made leftover and eat it**.”
+# Taking it **for another**.
+# **A sick monk's leftovers**.
+# Using **later-time medicines** etc. **without food** as allowed, when there is need.
+# For the insane and so on, and the first offender.
+## (H) Factors (= tīṇi — three)
+# **Having refused**.
+# The food **not made leftover**.
+# **Swallowing** it **in the proper time** (before noon).
+## (I) Origin and the rest (samuṭṭhāna)
+**Kathina origin, by doing and not doing** (eating; not having it made leftover), **no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac36
+T: දුතියපවාරණා සික්ඛාපදය || Pressing Food on One Who Has Refused
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: එක්තරා භික්ෂුවක් || A certain monk
+V: වරදට පත් කිරීමේ අදහසින් පවාරිතයෙකුට අනතිරිත්ත ආහාර පිළිගැන්වීම || Offering non-leftover food to one who has refused, to get him into trouble
+K: AD sd=a an=a anu=0 ved=D
+Z: පවාරිත නොවේ යැයි සිතා; අතිරිත්ත කරවා දීම; "අතිරිත්ත කරවා කන්න" යි දීම; "අනුන් සඳහා ගෙන යන්න" යි දීම; යාමකාලික ආදිය "ප්‍රත්‍යයක් ඇති විට පරිභෝග කරන්න" යි දීම; උමතු ආදීන් || Perceiving him as not having refused; giving after having it made leftover; giving with “Have it made leftover and eat”; “take it for another”; later-time medicines “use when needed”; the insane etc.
+G: 5
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+භික්ෂූන් දෙදෙනෙක් කොසොල් රටේ සිට සැවැත් නුවරට යද්දී **එක් භික්ෂුවක් නුසුදුසු ලෙස හැසිරුණි**. අනෙකා "මෙසේ නොකරන්න" යි අවවාද කළේය; ඔහු ==ඒ ගැන වෛර බැඳ ගත්තේය==. සැවැත් නුවරට පැමිණ, එක් දානයක **අනෙකා වළඳා පවාරණය කොට සිටියදී**, ඔහු පිඬු ගෙනවුත් "**ඇවැත්නි, මෙය වළඳන්න**" යි දුන්නේය. "කමක් නැත ඇවැත්නි, මම පවාරිතයෙමි" යි කීව ද, "**හොඳ පිඩකි, කන්න**" යි නැවත නැවත කී හෙයින් ඔහු එය කෑවේය. ඉන්පසු ඔහු "**ඔබ පවාරිතව අනතිරිත්ත ආහාර කෑවේ ය**" යි ==චෝදනා කළේය==. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**අභිහට්ඨුං පවාරෙය්‍ය** — ළං කොට "**හන්ද භික්ඛු, ඛාද වා භුඤ්ජ වා**" (මෙන්න භික්ෂුව, කන්න / වළඳන්න) යි ආරාධනා කරයි.
+**ජානං** — අසා හෝ දැක **ඔහු පවාරිත බව දැනගෙන**.
+**ආසාදනාපෙක්ඛො** — **චෝදනා කිරීමට, ලජ්ජාවට පත් කිරීමට (මඞ්කු කිරීමට)** අපේක්ෂාවෙන්.
+**භුත්තස්මිං පාචිත්තියං** — ඔහු අනුභව කළ කල්හි පාචිත්තිය.
+## (ආ) ඇවැත් ක්‍රමය
+|! අවස්ථාව | පිළිගන්වන්නාගේ ඇවැත
+| **ළං කිරීම** (අභිහරණය) | DK
+| අනෙකා **පිළිගැනීම** | DK
+| අනෙකා **ගිල දමන පිඩක් පාසා** | DK
+| අනෙකාගේ **භෝජනය අවසානයේ** | PC
+(කන්නා ද අනතිරිත්ත දැන කෑවේ නම් **පඨම පවාරණා ශික්ෂාපදයෙන්** ඔහුට ද ඇවැත් වේ.)
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** එක්තරා භික්ෂුවක් අරබයා අනතිරිත්ත භෝජනයෙන් ආරාධනා කිරීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| පවාරිතයෙකු පවාරිත බව දැන, චෝදනා අපේක්ෂාවෙන් අනතිරිත්ත ආහාර දී ඔහු අනුභව කොට අවසන් වූ කල්හි | PC
+| පවාරිත බවේ **සැක** ඇතිව | DK
+| යාමකාලික ආදිය **ආහාරය පිණිස** ළං කිරීම; ඒවා පිළිගැනීමේ හා ගිල දැමීමේ | DK
+| පවාරිත නොවූ කෙනෙකු පවාරිත යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# පවාරිත **නොවේ යැයි** සිතා දීම.
+# **අතිරිත්ත කරවා** දීම.
+# "**අතිරිත්ත කරවා කන්න**" යි දීම.
+# "**අනුන් සඳහා ගෙන යන්න**" යි දීම.
+# යාමකාලික ආදිය "**ප්‍රත්‍යයක් ඇති විට පරිභෝග කරන්න**" යි දීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= පඤ්ච — පහකි)
+# **පවාරිත** බව.
+# **පවාරිත බව දැනීම**.
+# **චෝදනා අපේක්ෂාව**.
+# **අනතිරිත්ත ආහාරයෙන් ආරාධනා කිරීම**.
+# අනෙකාගේ **භෝජනය අවසන් වීම**.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Two monks were travelling from Kosala to Sāvatthī, and **one behaved improperly**. The other admonished him, “Don't do that,” and ==he bore a grudge==. At Sāvatthī, at a meal **where the other had eaten and refused**, he brought alms and said, “**Friend, eat this**.” “Enough, friend; I have refused.” “**It's good alms — eat**,” he insisted, so the other ate it. Then he ==accused him: “**You ate non-leftover food after refusing!**”== The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Abhihaṭṭhuṃ pavāreyya** — brings it near and invites: “**Handa bhikkhu, khāda vā bhuñja vā**” (“Here, monk, eat”).
+**Jānaṃ** — **knowing**, from hearing or seeing, **that he has refused**.
+**Āsādanāpekkho** — **wishing to accuse him or put him to shame**.
+**Bhuttasmiṃ pācittiyaṃ** — pācittiya when he has eaten.
+## (B) How the offences fall
+|! Stage | Offence of the one offering
+| **bringing it forward** | DK
+| the other **receiving** it | DK
+| **each mouthful** the other swallows | DK
+| **the end** of the other's meal | PC
+(If the eater knowingly eats non-leftover food, he too commits an offence **under the first pavāraṇā rule**.)
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a certain monk, on the matter of inviting with non-leftover food. It is a **rule not shared**, and **anāṇattika**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Knowing one has refused, wishing to accuse him, giving non-leftover food — when he finishes eating | PC
+| **In doubt** whether he has refused | DK
+| Bringing later-time medicines etc. **as food**; on his receiving and swallowing them | DK
+| One who has not refused, perceived as having refused, or in doubt | DK
+## (E) No offence
+# Giving **perceiving him as not having refused**.
+# Giving **after having it made leftover**.
+# Giving with “**Have it made leftover and eat**.”
+# Giving with “**Take it for another**.”
+# Giving later-time medicines etc. with “**Use them when there is need**.”
+# For the insane and so on, and the first offender.
+## (F) Factors (= pañca — five)
+# He **has refused**.
+# **Knowing** he has refused.
+# **Wishing to accuse**.
+# **Inviting with non-leftover food**.
+# **The end of his meal**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins, by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac37
+T: විකාලභෝජන සික්ඛාපදය || Eating at the Wrong Time
+R: - || -
+N: රජගහ නුවර, වේළුවනය || Rājagaha, Veḷuvana
+P: සත්තරසවග්ගිය භික්ෂූන් || The group-of-seventeen monks
+V: විකාලයේ ආහාර අනුභව කිරීම || Eating at the wrong time
+K: EL sd=s an=a anu=0
+Z: කාලයේ කාලය යැයි සිතා; යාමකාලික ආදිය ප්‍රත්‍යයක් ඇති විට; රොමට්ඨකයාට (වමනය නැවත හැපීම); උමතු ආදීන් || Perceiving the right time as such; later-time medicines etc. when there is need; one who regurgitates; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ රජගහ නුවර · වේළුවනය කලන්දක නිවාපය
+රජගහයේ **ගිරග්ග සමජ්ජය** (කඳු මුදුනේ උත්සවය) පැවැත්විණ. **සත්තරසවග්ගිය භික්ෂූහු** එය නරඹන්නට ගියහ. මිනිස්සු ඔවුන් දැක ==නහවා, ගඳ විලවුන් ගල්වා, කෑම බීම දුන්හ==; ඔවුහු **ආහාර ද ගෙන ආරාමයට** පැමිණියහ. **විකාලයේ** ඔවුන් කෑ බව ඇසූ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**විකාලෙ** — කාලය ඉක්ම ගිය කල්හි — **මධ්‍යාහ්නය ඉක්මවූ තැන් පටන් අරුණ නැගෙන තෙක්**.
+**ඛාදනීයං වා භොජනීයං වා** — **වනමූල ඵල** ආදී **ආමිස ගණයට** අයත් — අමු හෝ පිසූ — ඕනෑම **යාවකාලික** ආහාරයක්.
+==මේ කාලය තුළ ගිල දැමීමට **පිළිගැනීමේ දුක්කට**; **පිඩක් පාසා පාචිත්තිය**.==
+## (ආ) කාලික සතර
+|! කාලිකය | කාල සීමාව | උදාහරණ
+| **යාවකාලික** | **මධ්‍යාහ්නය** දක්වා | බත්, කැවිලි, පලතුරු ආදී සියලු ආහාර
+| **යාමකාලික** | **රාත්‍රියේ පශ්චිම යාමය** දක්වා | අඹ, දඹ, කෙසෙල් ආදී **පාන අට** (පෙරූ, නොපිසූ)
+| **සත්තාහකාලික** | **දින සතක්** | ගිතෙල්, වෙඬරු, තෙල්, මී පැණි, හකුරු
+| **යාවජීවික** | **දිවි ඇති තාක්** | ආහාර නොවන අල, මුල්, ගෙඩි ආදී බෙහෙත්
+යාමකාලික ආදිය **ප්‍රත්‍යයක් (පිපාසය, රෝගය)** ඇති විට විකාලයේ ද වටී; **ආහාරය පිණිස** ගැනීම දුක්කටයි.
+**රොමට්ඨකයා** — ආමාශයෙන් නැවත මුවට එන ආහාරය ගිල දමන ස්වභාව ඇත්තාට — "**මුඛ ද්වාරයෙන් පිටතට නොගෙන ගිල දැමිය යුතුය**" යන අනුදැනීමෙන් ඇවැත් නැත.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**රජගහ නුවරදී** **සත්තරසවග්ගිය** භික්ෂූන් අරබයා විකාල භෝජනයේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| විකාලයේ යාවකාලික ආහාරයක් පිළිගැනීම | DK
+| ගිල දැමීම — විකාලය බව දැන, සැක ඇතිව, හෝ කාලය යැයි සිතා (**තික පාචිත්තිය**) — පිඩක් පාසා | PC
+| යාමකාලික ආදිය **ආහාරය පිණිස** පිළිගැනීම / ගිල දැමීම | DK
+| කාලයේ විකාලය යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# **කාලයේ කාලය යැයි** සිතා අනුභව කිරීම.
+# යාමකාලික ආදිය **ප්‍රත්‍යයක් ඇති විට** පරිභෝග කිරීම.
+# **රොමට්ඨකයාට**.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **විකාලය** වීම.
+# **යාවකාලික** ආහාරයක් වීම.
+# **ගිල දැමීම**.
+## (උ) සමුට්ඨානාදිය
+**එළකලෝම සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කායකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Rājagaha · Veḷuvana, the squirrels' feeding place
+There was a **hilltop festival** at Rājagaha, and **the group-of-seventeen** went to watch. People ==bathed them, anointed them with perfume and gave them food and drink==, and they **took food back** to the monastery. Hearing that they had eaten **at the wrong time**, the monks criticised them, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Vikāle** — when the time has passed — **from just after midday until dawn**.
+**Khādanīyaṃ vā bhojanīyaṃ vā** — any **allowable-until-noon** food of the class of **solid food** — forest roots and fruit included, raw or cooked.
+==In this period **receiving** it to swallow is **dukkaṭa**; **each mouthful** is **pācittiya**.==
+## (B) The four time-limited foods (kālika)
+|! Kind | Time limit | Examples
+| **yāvakālika** | until **midday** | rice, cakes, fruit — all food
+| **yāmakālika** | until **the last watch of the night** | **the eight juices** (mango, rose-apple, banana etc.), strained and uncooked
+| **sattāhakālika** | **seven days** | ghee, butter, oil, honey, molasses
+| **yāvajīvika** | **for life** | roots, fruits etc. that are medicine, not food
+Later-time and other medicines are allowable at the wrong time **when there is need (thirst, illness)**; taking them **as food** is dukkaṭa.
+**One who regurgitates** — for one whose food comes back up from the stomach, there is no offence by the allowance “**it is to be swallowed without taking it out of the mouth**.”
+## (C) The laying down of the rule and the command
+It was laid down at **Rājagaha** concerning **the group-of-seventeen**, on the matter of eating at the wrong time. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Receiving allowable-until-noon food at the wrong time | DK
+| Swallowing it — perceiving it as the wrong time, in doubt, or as the right time (**triple pācittiya**) — each mouthful | PC
+| Receiving or swallowing later-time medicines etc. **as food** | DK
+| The right time perceived as wrong, or in doubt | DK
+## (E) No offence
+# Eating **at the right time perceiving it as such**.
+# Using later-time medicines etc. **when there is need**.
+# For **one who regurgitates**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **The wrong time**.
+# **Allowable-until-noon** food.
+# **Swallowing**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Eḷakaloma origin, by doing, no release by perception, without intention, an offence by convention, bodily action, three kinds of consciousness, three feelings**.
+
+@pac38
+T: සන්නිධිකාරක සික්ඛාපදය || Stored Food
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: බෙලට්ඨසීස ස්ථවිර || Ven. Belaṭṭhasīsa
+V: රැස් කොට තැබූ ආහාර අනුභව කිරීම || Eating food that had been stored
+K: EL sd=s an=a anu=0
+Z: සන්නිධි නොවේ යැයි සිතා; යාවකාලික ආදිය තම කාලය නොඉක්මවා; යාවජීවික ප්‍රත්‍යයක් ඇති විට; උමතු ආදීන් || Perceiving it as not stored; the time-limited foods within their own time; lifelong medicines when needed; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+ආනන්ද තෙරුන්ගේ උපාධ්‍යාය **බෙලට්ඨසීස** තෙරුන් ආරණ්‍යයේ වාසය කළහ. උන්වහන්සේ පිඬු සිඟා ගොස් ==වියළි බත් ගෙනවුත් වියළා තබා==, **ආහාර අවශ්‍ය වූ විට** එය දියේ පොඟවා වැළඳූහ; බොහෝ දිනකින් පිඬු සිඟා ගමට නොගියහ. භික්ෂූහු "කෙසේ නම් රැස් කොට තබා වළඳන්නෝ ද?" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සන්නිධිකාරකං** — "සන්නිධි කිරීම ඇති" — **පිළිගෙන එක් රැයක් ඉක්මවූ** දෙයේ නමයි.
+එසේ සන්නිධි කළ **යාවකාලික හෝ යාමකාලික** දෙයක් "ගිල දමමි" යි ගැනීමේ **දුක්කටයි**; **පිඩක් පාසා පාචිත්තියයි**.
+==**හොඳින් නොසේදූ පාත්‍රයක**== — ඇඟිල්ලෙන් අතගෑ විට ඉරක් පෙනෙන තරම්, හෝ **ගැට පාත්‍රයේ ගැට අතර** රශ්මියේ තැබූ විට වැගිරෙන, උණු කැඳ ගත් විට පෙනෙන **තෙල් ලප** ඇති විට — **පසු දින** අනුභව කිරීම ද පාචිත්තියයි.
+## (ආ) විශේෂ විනිශ්චය
+|! අවස්ථාව | විනිශ්චය
+| **අපේක්ෂා රහිතව සාමණේරයන්ට අත්හැර** දී, ඔවුන් තබා දුන් දෙය | වටී
+| තමා පිළිගෙන **අත් නොහළ** දෙය පසු දින — කැප භෝජනය | PC
+| **මිනිස් මස්** | PC + **ථුල්ලච්චය**
+| අනෙක් **අකැප මස්** | PC + **දුක්කට**
+| යාමකාලිකය **ප්‍රත්‍යයක් ඇති විට** ගිල දැමීම | PC
+| යාමකාලිකය **ආහාරය පිණිස** | PC + DK
+| **පවාරිතව** අනතිරිත්ත ලෙස ද | තවත් **පාචිත්තියක්** වැඩේ
+| **විකාලයේ** ද | විකාල භෝජනයෙන් තවත් **පාචිත්තියක්** (යාමකාලික ප්‍රත්‍යයක් ඇති විට හැර)
+==**භික්ෂුවගේ සන්නිධිය භික්ෂුණියට ද, භික්ෂුණියගේ සන්නිධිය භික්ෂුවට ද** වටී== (භික්ඛුනීඛන්ධකයේ අනුදැන ඇත).
+## (ඇ) කාලික මිශ්‍ර වීම හා කප්පිය භූමි
+==මිශ්‍ර කළ විට **කෙටි කාලයක් ඇති** කාලිකය අනෙක ද **තම ස්වභාවයට** පමුණුවයි== (රස මිශ්‍ර නම් හෝ හොඳින් නොසේදුවේ නම්):
+|! මිශ්‍ර කළේ | පරිභෝග කාලය
+| යාවකාලික + යාමකාලික / සත්තාහකාලික / යාවජීවික | **මධ්‍යාහ්නය දක්වා** පමණි
+| යාමකාලික + සත්තාහකාලික / යාවජීවික | **රාත්‍රී පශ්චිම යාමය** දක්වා
+| සත්තාහකාලික + යාවජීවික | සත්තාහකාලිකය පිළිගත් දින සිට **දින සත** — දෙවන දින පිළිගත්තේ නම් දින සය … සත්වන දින නම් **එදින පමණි**
+| රස මිශ්‍ර නොවූ / හොඳින් සේදූ | **තම තම කාලය** අනුව
+**අන්තෝවුට්ඨ, අන්තෝපක්ක, සාමංපක්ක** — සංඝයාගේ හෝ උපසම්පන්නයෙකුගේ **වාසයට කළ (අකප්පිය) කුටියක** සහසෙය්‍යාවට තරම් ඉඩක රැය ගෙවූ **යාවකාලික, යාමකාලික** (අන්තෝවුට්ඨ), එහි පිසූ දෙය (අන්තෝපක්ක), කොතැනක හෝ **තමා ම පිසූ** දෙය (සාමංපක්ක) — ==ගිල දැමීම **දුක්කටයි**==. එය වැළැක්වීමට **කප්පිය භූමි සතරක්** අනුදැන ඇත; ඒවා නැති තැන **අනුපසම්පන්නයෙකු සතු** කොට පරිභෝග කළ හැකිය. සත්තාහකාලික හා යාවජීවික අකප්පිය කුටියක තැබිය හැකිය; සන්නිධියක් ද නොවේ.
+## (ඈ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ආයුෂ්මත් **බෙලට්ඨසීස** තෙරුන් අරබයා සන්නිධි භෝජනයේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඉ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| සන්නිධි කළ යාවකාලික / යාමකාලික ගිල දැමීමට පිළිගැනීම | DK
+| ගිල දැමීම — සන්නිධි බව දැන, සැක ඇතිව, හෝ නොවේ යැයි සිතා (**තික පාචිත්තිය**) — පිඩක් පාසා | PC
+| සත්තාහකාලික, යාවජීවික **ආහාරය පිණිස** පිළිගැනීම / ගිල දැමීම | DK
+| අන්තෝවුට්ඨ, අන්තෝපක්ක, සාමංපක්ක ගිල දැමීම | DK
+| සන්නිධි නොවූ දෙයක් සන්නිධි යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඊ) අනාපත්ති
+# **සන්නිධි නොවේ යැයි** සිතා.
+# **යාවකාලික, යාමකාලික, සත්තාහකාලික** තබා **තම තම කාලය නොඉක්මවා** පරිභෝග කිරීම.
+# **යාවජීවික** — **සෑම විට ම**, ප්‍රත්‍යයක් ඇති විට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (උ) අංග (= තීණි — තුනකි)
+# **ආමිසයක්** (යාවකාලික / යාමකාලික) වීම.
+# **සන්නිධි** බව.
+# එය **ගිල දැමීම**.
+## (ඌ) සමුට්ඨානාදිය
+**එළකලෝම සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කායකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Ven. **Belaṭṭhasīsa**, Ven. Ānanda's preceptor, lived in the forest. Going for alms, he ==brought back dry rice, dried it and stored it==, and **when he needed food** he moistened it in water and ate it; for many days he did not go to the village for alms. The monks criticised him: “How can he store food and eat it?” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sannidhikārakaṃ** — “having storing done” — the name for what has been **received and kept over one night**.
+Taking such stored **allowable-until-noon or later-time** food, intending to swallow it, is **dukkaṭa**; **each mouthful** is **pācittiya**.
+==Even in **a badly washed bowl**== — where a line shows when one runs a finger over it, or where **grease has got between the joints of a mended bowl** and seeps out in the sun or shows when hot gruel is taken — eating **the next day** is pācittiya.
+## (B) Special rulings
+|! Situation | Ruling
+| given up **without attachment to novices**, and received back from them after they stored it | allowable
+| what he received himself and **did not give up**, eaten the next day — allowable food | PC
+| **human flesh** | PC + **thullaccaya**
+| other **unallowable meat** | PC + **dukkaṭa**
+| later-time medicine swallowed **when needed** | PC
+| later-time medicine **as food** | PC + DK
+| also **having refused** (not leftover) | **another pācittiya** added
+| also **at the wrong time** | **another pācittiya** for wrong-time eating (except later-time medicine when needed)
+==**A monk's stored food is allowable to a nun, and a nun's to a monk**== (allowed in the Nuns' Chapter).
+## (C) Mixing time-limited foods; allowable sites
+==When mixed, **the one with the shorter limit** brings the other **to its own nature**== (if the flavours blend or it is badly washed):
+|! Mixed | Usable
+| allowable-until-noon + later-time / seven-day / lifelong | **until midday** only
+| later-time + seven-day / lifelong | **until the last watch of the night**
+| seven-day + lifelong | **seven days** from receiving the seven-day item — if received on the second day, six … on the seventh day, **that day only**
+| not blended / well washed | **each by its own limit**
+**Stored inside, cooked inside, self-cooked** — allowable-until-noon and later-time foods that have **spent the night** inside a **dwelling (an unallowable hut)** of the Saṅgha or of an ordained person, in a space large enough for sharing a sleeping place (stored inside), what was cooked there (cooked inside), or what one **cooked oneself** anywhere (self-cooked) — ==swallowing it is **dukkaṭa**==. To avoid this, **four allowable sites (kappiyabhūmi)** were allowed; where there are none, food may be made **the property of an unordained person** and used. Seven-day and lifelong medicines may be kept in an unallowable hut and are not stored food.
+## (D) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning Ven. **Belaṭṭhasīsa**, on the matter of eating stored food. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (E) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Receiving stored allowable-until-noon / later-time food to swallow | DK
+| Swallowing it — perceiving it as stored, in doubt, or as not (**triple pācittiya**) — each mouthful | PC
+| Receiving or swallowing seven-day or lifelong medicines **as food** | DK
+| Swallowing what was stored inside, cooked inside or self-cooked | DK
+| Not stored, perceived as stored or in doubt | DK
+## (F) No offence
+# Perceiving it **as not stored**.
+# Keeping allowable-until-noon, later-time and seven-day items and using them **within their own time**.
+# **Lifelong** medicines — **at any time**, when needed.
+# For the insane and so on, and the first offender.
+## (G) Factors (= tīṇi — three)
+# **Food** (allowable-until-noon / later-time).
+# **Stored**.
+# **Swallowing** it.
+## (H) Origin and the rest (samuṭṭhāna)
+**Eḷakaloma origin, by doing, no release by perception, without intention, an offence by convention, bodily action, three kinds of consciousness, three feelings**.
+
+@pac39
+T: පණීතභෝජන සික්ඛාපදය || Asking for Fine Foods
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: නොගිලන්ව තමා සඳහා ප්‍රණීත භෝජන ඉල්ලා අනුභව කිරීම || Asking for fine foods for oneself when not ill
+K: AH sd=a an=a anu=1
+Z: ගිලනාට; ගිලන් කල ඉල්ලා නොගිලන් වූ පසු අනුභව කිරීම; ගිලනාගේ ඉතිරිය; ඥාතීන් / පවාරණය කළ අය; අනුන් සඳහා; තමාගේ ධනයෙන්; උමතු ආදීන් || The sick; asking when sick and eating after recovery; a sick monk's leftovers; relatives / those who invited; for another; own funds; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==තමන් සඳහා ප්‍රණීත භෝජන ඉල්ලා අනුභව කළහ==. මිනිස්සු "**සුභෝජනය කාට අමිහිරි ද, මිහිරි දේ කාට අප්‍රිය ද?**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+පසුව **ගිලන් භික්ෂූන්** ප්‍රණීත භෝජන ඉල්ලීමට කුකුස් ඇති කරගත් හෙයින් "**අගිලානො — නොගිලනා**" අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**පණීතභොජනානි** — **ප්‍රණීත දේ මිශ්‍ර කළ**, **ධාන්‍ය සතෙන්** සෑදූ භෝජන. ("ආජඤ්ඤයන් යෙදූ රථය ආජඤ්ඤ රථය" මෙන්.)
+|! ප්‍රණීත දේ නවය | සටහන
+| **සප්පි, නවනීත, තෙල, මධු, ඵාණිත** | භේසජ්ජ ශික්ෂාපදයේ (නි. 23) ලක්ෂණයෙන්
+| **මච්ඡ** | ජලයේ හටගත් ඕනෑම මාළුවෙක්
+| **මංස, ඛීර, දධි** | **මස් කැප වන** සතුන්ගේ මස්, කිරි, දී
+**අගිලානො** — ඒවා නැතිව ද **පහසුවෙන් සිටිය හැකි** තැනැත්තා.
+## (ආ) කුමන ශික්ෂාපදයෙන් ද
+|! ඉල්ලන දේ | ශික්ෂාපදය
+| **සුද්ධ** සප්පි ආදිය **බෙහෙත් සඳහා** (නොගිලන්ව) | **මහානාම ශික්ෂාපදය (පා. 47)**
+| **සුද්ධ** මාළු, මස්, කිරි, දී | **සූපොදනවිඤ්ඤත්ති** (සේඛිය 37) — DK
+| සප්පි ආදිය **මිශ්‍ර කළ භෝජන** | **මෙම ශික්ෂාපදය** — PC
+**ඉල්ලීමේ ආකාරය** — "**ගිතෙල් සමඟ බත් දෙන්න, ගිතෙල් දමා දෙන්න, ගිතෙල් මිශ්‍ර කොට දෙන්න, ගිතෙල් හා බත් දෙන්න**" යි ඉල්ලීමේ **දුක්කට**, පිළිගැනීමේ **දුක්කට**, **පිඩක් පාසා පාචිත්තිය**. "**ගිතෙල් බත් දෙන්න**" යි කීමෙන් (සාලි බත මෙන් "ගිතෙල් බත" නමැති දෙයක් නැති බැවින්) **සූපොදනවිඤ්ඤත්තියෙන් දුක්කට** පමණි.
+**විසංකේත** — "**ගව ගිතෙල්**" ඉල්ලූ විට **එළු ගිතෙල්** දුන්නොත්, හෝ "**කැප ගිතෙල්**" ඉල්ලූ විට **අකැප ගිතෙල්** දුන්නොත් — ඉල්ලූ දෙයට වෙනත් දෙයක් දුන් බැවින් **අනාපත්ති**. ගිතෙල් වෙනුවට **වෙඬරු, කිරි, හෝ ගවයා ම** දී "මෙයින් ගිතෙල් කරගෙන කන්න" යි දුන්නොත් **වස්තුව අනුව** ම ඇවැත් වේ.
+==ප්‍රණීත දේ නවය ම වෙන වෙනම ඉල්ලා ලබා **එකට මිශ්‍ර** කොට, ඉන් **කුසතණ අගකින් එක බිඳුවක්** ගිල දැමුව ද — **පාචිත්තිය නවයකි**.==
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා ප්‍රණීත භෝජන ඉල්ලීමේ වස්තුවෙහි පැනවිණි. "**අගිලානො**" අනුප්‍රඥප්තියයි. **අසාධාරණ ප්‍රඥප්තියකි** (භික්ෂුණීන්ට පාටිදේසනීය ලෙස ඇත). **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ඉල්ලීම; පිළිගැනීම | DK
+| නොගිලනෙකු ගිල දැමීම — නොගිලන් බව දැන, සැක ඇතිව, හෝ ගිලන් යැයි සිතා (**තික පාචිත්තිය**) — පිඩක් පාසා | PC
+| ගිලනෙකු නොගිලන් යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# **ගිලනාට** — ගිලන් යැයි සිතා.
+# **ගිලන් කාලයේ ඉල්ලා**, නොගිලන් වූ පසු අනුභව කිරීම.
+# **ගිලනාගේ ඉතිරිය**.
+# **ඥාතීන්ගෙන්**, **පවාරණය කළ අයගෙන්**.
+# **අනුන් සඳහා** ඉල්ලීම; **තමාගේ ධනයෙන්** ගැනීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **ප්‍රණීත භෝජනයක්** වීම.
+# **නොගිලන්** බව.
+# **ඉල්ලීමෙන් ලැබීම**.
+# **ගිල දැමීම**.
+## (උ) සමුට්ඨානාදිය
+**අද්ධාන සමුට්ඨානයි** (කාය, කාය-වාචා, කාය-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==asked for fine foods for themselves and ate them==. People complained, “**Who doesn't like good food? Who dislikes what is sweet?**” The Blessed One laid down the rule.
+Later, as **sick monks** became scrupulous about asking for fine foods, he added “**agilāno — one who is not ill**.”
+## (A) Explanation of terms
+**Paṇītabhojanāni** — meals made of **the seven grains** **mixed with fine things**. (As “a thoroughbred chariot” is one drawn by thoroughbreds.)
+|! The nine fine things | Note
+| **ghee, butter, oil, honey, molasses** | as defined in the medicine rule (NP 23)
+| **fish** | any creature of the water
+| **meat, milk, curd** | from animals **whose flesh is allowable**
+**Agilāno** — one who **is at ease** even without them.
+## (B) Which rule applies
+|! What is asked for | Rule
+| **plain** ghee etc. **as medicine** (when not ill) | **the Mahānāma rule (Pāc. 47)**
+| **plain** fish, meat, milk, curd | **asking for curry and rice** (Sekhiya 37) — DK
+| meals **mixed with** ghee etc. | **this rule** — PC
+**How it is asked** — “**Give rice with ghee, pour ghee on and give it, mix it with ghee, give ghee and rice**”: **dukkaṭa** for asking, **dukkaṭa** for receiving, **pācittiya for each mouthful**. Saying “**Give ghee-rice**” (since there is no such thing as “ghee-rice” the way there is “sāli rice”) is only **dukkaṭa** under the curry-and-rice rule.
+**Different from what was asked** — asked for **cow's ghee** and given **goat's ghee**, or asked for **allowable ghee** and given **unallowable**: as something other than what was asked was given, **no offence**. If instead of ghee one is given **butter, milk or even a cow** — “make ghee from this and eat” — the offence is **by what it is**.
+==If all nine are asked for separately, obtained, **mixed together**, and **a single drop on a grass-tip** is swallowed — **nine pācittiyas**.==
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of asking for fine foods. “**Agilāno**” is a supplementary rule. It is a **rule not shared** (for nuns it is a pāṭidesanīya), **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Asking; receiving | DK
+| One not ill swallowing it — perceiving himself as not ill, in doubt, or as ill (**triple pācittiya**) — each mouthful | PC
+| One ill perceiving himself as not ill, or in doubt | DK
+## (E) No offence
+# For **the sick** — perceiving himself as sick.
+# **Asked for while sick** and eaten after recovering.
+# **A sick monk's leftovers**.
+# From **relatives** or **those who invited**.
+# Asking **for another**; getting it with **one's own funds**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **Fine food**.
+# **Not ill**.
+# **Obtained by asking**.
+# **Swallowing**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Journey origin** (body; body–speech; body–mind; body–speech–mind), **by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@pac40
+T: දන්තපෝන සික්ඛාපදය || Food Not Formally Given
+R: - || -
+N: වේසාලිය, මහාවනය || Vesālī, Great Wood
+P: එක්තරා භික්ෂුවක් || A certain monk
+V: නොපිළිගත් ආහාරය මුඛ ද්වාරයට ඇතුළු කිරීම || Putting food not formally given into the mouth
+K: EL sd=s an=a anu=1
+Z: ජලය හා දැහැටි; පිළිගත් යැයි සිතා; මහා විකට සතර (සර්ප දෂ්ට වූ විට); උමතු ආදීන් || Water and tooth-sticks; perceiving it as received; the four great unclean things (snakebite); the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ වේසාලිය · මහාවනය කූටාගාර ශාලාව
+**සියල්ල පංසුකූල** කොට දරන එක් භික්ෂුවක් **සොහොනේ** වාසය කළේය. මිනිසුන්ගෙන් දන් පිළිගැනීමට අකමැති වූ ඔහු ==සොහොනේ, නගර දොරටුවේ, ගස් මුල්වල **මළවුන්ට පිදූ ආහාර** තමා ම ගෙන අනුභව කළේය==. මිනිස්සු "**මේ භික්ෂුව අපගේ මළ ඥාතීන්ට පිදූ දේ කයි; මහත ය, ශක්තිමත් ය; මිනිස් මස් කන්නෙක් දෝ?**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ **නොදුන් (නොපිළිගත්) ආහාරය** මුවට ඇතුළු කිරීම පාචිත්තිය යි පැනවූහ.
+පසුව භික්ෂූහු **ජලය හා දැහැටි** ගැන ද කුකුස් ඇති කරගත් හෙයින් "**අඤ්ඤත්‍ර උදකදන්තපොනා**" අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**අදින්නං** — **පිළිගැන්වීමක් (පටිග්ගහණය) නොවූ** දෙය. ==නොපිළිගත් දෙය **තමාගේ ම** වුව ද ගිල දැමීම නොවටී; පිළිගත් දෙය **විශ්වාසිකයෙකු සතු** වුව ද වටී.==
+**මුඛද්වාරං** — **ගෙල නාළය**. මුවෙන් හෝ නාසයෙන් ඇතුළු වුව ද ගිල දමන බැවින් සියල්ල මුඛ ද්වාරයට ගෙනෙන ලද්දකි.
+**ආහාරං** — **යාවකාලික, යාමකාලික, සත්තාහකාලික, යාවජීවික** — සියල්ල ම ගිල දැමිය යුතු බැවින් "ආහාර" යි කියනු ලැබේ.
+**අඤ්ඤත්‍ර උදකදන්තපොනා** — ජලය (ආහාරයක් නොවූව ද) "ආහාරයක්" යැයි ද, දැහැටිය "මුවට ගෙනෙන ලද්දක්" යැයි ද කුකුස් ඇති වූවන්ගේ කුකුස් දුරු කිරීමට කීවකි. ජලය කැමති සේ බීමට, දැහැටිය දැහැටි ලෙස පරිහරණයට වටී.
+## (ආ) පිළිගැනීමේ අංග පහ
+# දෙන දෙය **මධ්‍යම පුරුෂයෙකුට ඔසවිය හැකි** තරම් වීම.
+# දායකයා **හත්ථපාසයේ** (රියන් 2½ ඇතුළත) සිටීම.
+# **කයින්, කායප්පටිබද්ධයකින් (හැන්ද, බඳුන ආදී) හෝ නිස්සග්ගියකින් (විසි කොට)** දීම.
+# දායකයා **මිනිසෙක්, දෙවියෙක්, තිරිසනෙක්** — **ඕනෑම අනුපසම්පන්නයෙක්** වීම.
+# භික්ෂුව **කයින් හෝ කායප්පටිබද්ධයකින්** (ඇඳකින් වුව ද, ගසේ කොළයකින් වුව ද) පිළිගැනීම — **ආභෝගය (සිතින් පිළිගැනීම) ම** මෙහි ප්‍රමාණයයි.
+**විශේෂ** — නස්‍ය බෙහෙත **නාසයෙන්**, හෝ රෝගියෙක් **මුවෙන්** පිළිගැනීම ද වටී. පෙර ආභෝගය ඇතිව **නිදා සිටියදී** පාත්‍රයට දුන් දෙය ද හත්ථපාසයේ නම් පිළිගත්තක් ම ය. ==පිඬු සිඟා යද්දී පාත්‍රයට වැටෙන **දූවිලි** නොපිළිගත් දෙයකි== — එබැවින් පිළිගැනීමෙන් පසු ම භික්ෂාව ගත යුතුය; නොපිළිගෙන ගැනීමේ **විනය දුක්කටයි**. මහා සුළඟින් දූවිලි වැටෙන විට "**අනුපසම්පන්නයෙකුට දෙමි**" යි සිතා ගෙන ඔහුට දී, ඔහු නැවත දුන් පසු අනුභව කළ හැකිය. **කඳුළු, සෙම, හොටු** — ස්ථානයෙන් චුත වී අතට හෝ පාත්‍රයට වැටුණේ නම් පිළිගත යුතුය; **ශරීරයෙහි ඇලී ඇත්තේ** පිළිගත්තක් ම ය. ඵල ඇති අත්තක් ගෙන යද්දී ගසේ ම **හටගත්** අත්තක් සොලවා ලද පලතුරු ඔහුට නොවටී (**දුරූපචිණ්ණ දුක්කට**); අනෙකාට වටී.
+## (ඇ) හත්ථපාසය (අත්පස)
+**හත්ථපාසය** යනු **රියන් දෙකහමාරකි** (අඩ්ඪතෙය්‍යහත්ථ). එය මනින ආකාරය (විනයසංග්‍රහ අට්ඨකථාව, පාචිත්තිය අට්ඨකථාව):
+|! පිළිගන්නා භික්ෂුව | මැනීම ආරම්භ වන්නේ
+| හිඳ සිටී නම් | **ආසනයේ පසු කෙළවරේ** සිට
+| සිටගෙන සිටී නම් | **විළුඹේ** (විළුඹ කෙළවරේ) සිට
+| සැතපී සිටී නම් | **සැතපුණු පැත්තේ පිටත කෙළවරේ** සිට
+දෙන්නා හිඳ, සිට හෝ සැතපී සිටියත්, **දිගු කළ අත හැර**, ඔහුගේ **ළඟම ඇති අඟ** (හිස, දණහිස ආදිය) දක්වා — රියන් දෙකහමාරක් ඇතුළත විය යුතුය.
+එක් අයෙකු **ඉහළ (අහසේ / ගසේ / වහලයේ)** ද අනෙකා **බිම** ද සිටී නම්: **බිම සිටින්නාගේ හිසේ** සිට, ඉහළ සිටින්නාගේ දීමට හෝ ගැනීමට දිගු කළ අත හැර **ළඟම අඟ** දක්වා මැනිය යුතුය. ළිඳක හා ළිං කට්ටේ, ගසක හා පොළොවේ සිටින විට ද මෙසේ ම ය.
+!dgm: hp-seated **1. හිඳ සිටින භික්ෂුව** — ආසනයේ පසු කෙළවරේ සිට, නැමී දෙන්නාගේ හිස දක්වා රියන් 2½.
+!dgm: hp-standing **2. සිටගෙන සිටින භික්ෂුව** — විළුඹේ සිට, දෙන්නාගේ හිස දක්වා රියන් 2½.
+!dgm: hp-lying **3. සැතපී සිටින භික්ෂුව** — සැතපුණු පැත්තේ පිටත කෙළවරේ (පිටුපස) සිට, දෙන්නාගේ දණහිස දක්වා රියන් 2½.
+!dgm: hp-roof **4. වහලය මත හා ඉණිමඟ මත** — ඉහළ සිටින්නාගේ පතුල හා පහළ සිටින්නාගේ හිස අතර රියන් 2½.
+!dgm: hp-tree **5. ගසක සිටින්නා හා බිම සිටින්නා** — ගසේ සිටින්නාගේ පය හා බිම සිටින භික්ෂුවගේ හිස අතර රියන් 2½.
+**අභිහාරය** — හිසේ භාජන රැසක් තබාගෙන සිටගෙන "ගන්න" යි කීමෙන් පමණක් අභිහාරය නොපෙනේ; **මඳක් වුව ද නැමුණොත්** පහළ භාජනය අත දිගු කොට එක් කොටසකින් පිළිගැනීම ප්‍රමාණවත් ය — සියලු භාජන පිළිගත්තේ වේ. හත්ථපාසය ඉක්මවා දිගු හැන්දකින් දෙන්නේ නම් "ළඟට ඇවිත් දෙන්න" යි කිව යුතුය.
+## (ඈ) කාලික සතර හා මහා විකට සතර
+|! කාලිකය | අර්ථය
+| **යාවකාලික** | සියලු ධාන්‍ය, ධාන්‍යානුලෝම; තල්, පොල්, කොස්, දෙල්, ලබු, කොමඩු ආදී **මහා ඵල නවය**, අපරණ්ණ; ආහාරය ලෙස යොදන වනමූල, පත්‍ර, පුෂ්ප, ඵල — **මධ්‍යාහ්නය දක්වා**
+| **යාමකාලික** | **අඹ, දඹ, චෝච, මෝච, මී, මුද්දරප්පලම්, සාලූක, ඵාරුසක** යන **පාන අට** හා ඒවාට අනුලෝම කුඩා ගෙඩි පාන — අනුපසම්පන්නයන් සිසිල් දියෙන් මැඩ කළ, හෝ හිරු රශ්මියෙන් පිසූ — **රාත්‍රී පශ්චිම යාමය දක්වා**
+| **සත්තාහකාලික** | සප්පි ආදී **බෙහෙත් පහ** — **දින සතක්**
+| **යාවජීවික** | ඉහත තුන හා **ජලය** හැර, ආහාරයක් ලෙස නොයෙදෙන සියලු මුල්, ගෙඩි ආදිය — **දිවි ඇති තාක්**, ප්‍රත්‍යයක් ඇති විට
+**මහා විකට සතර** — **ගොම, මුත්‍ර, අළු, මැටි** — **සර්ප දෂ්ට වූ මොහොතේ ම**, කැප කාරකයෙක් නැති විට **තමා ම ගෙන** පරිභෝග කළ හැකිය (කාලොදිස්ස). කැප කාරකයා **කීකරු නොවේ නම් හෝ අසමර්ථ නම්** නැති පක්ෂයට ම වැටේ. අළු නැති විට **වියළි දර දවා**, ඒ ද නැත්නම් **ගසෙන් අමු දර කපා** දැවීම ද, මැටි සඳහා **පොළොව හෑරීම** ද වටී. අන් කලෙක පිළිගන්වා ම පරිභෝග කළ යුතුය.
+## (ඉ) ප්‍රඥප්තිය හා ආණත්තිය
+**වේසාලියේදී** එක්තරා භික්ෂුවක් අරබයා නොදුන් ආහාරය මුවට ඇතුළු කිරීමේ වස්තුවෙහි පැනවිණි. "**අඤ්ඤත්‍ර උදකදන්තපොනා**" අනුප්‍රඥප්තියයි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඊ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ජලය හා දැහැටි හැර නොපිළිගත් ආහාරයක් ගිල දැමීමට ගැනීම | DK
+| ගිල දැමීම — නොපිළිගත් බව දැන, සැක ඇතිව, හෝ පිළිගත් යැයි සිතා (**තික පාචිත්තිය**) — පිඩක් පාසා; **නොදැනුවත්ව දැහැටියේ රසය** ඇතුළු වුව ද | PC
+| පිළිගත් දෙයක් නොපිළිගත් යැයි සිතීම හෝ සැක කිරීම | DK
+| ගසේ ම හටගත් ඵල අත්තක් සොලවා ලද පලතුරු (දුරූපචිණ්ණ) | DK
+## (උ) අනාපත්ති
+# **ජලය** හා **දැහැටි**.
+# **පිළිගත් යැයි** සිතා.
+# **මහා විකට සතර** — ප්‍රත්‍යයක් ඇති විට, කැප කාරකයෙකු නැති විට — තමා ම ගෙන.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඌ) අංග (= චත්තාරි — සතරකි)
+# **නොපිළිගත්** දෙයක් වීම.
+# **අනුදත් නොවූ** දෙයක් වීම (ජලය, දැහැටි, මහා විකට නොවේ).
+# **දුම් ආදී අබ්බෝහාරික** (ගණනට නොගන්නා) දෙයක් **නොවීම**.
+# **ගිල දැමීම**.
+## (එ) සමුට්ඨානාදිය
+**එළකලෝම සමුට්ඨානයි, කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කායකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Vesālī · the Gabled Hall in the Great Wood
+A monk who **wore only rag-robes** lived in **a cemetery**. Unwilling to accept from people, he ==took for himself and ate **the food offered to the dead** in the cemetery, at the city gate and at the foot of trees==. People complained, “**This monk eats what we offer to our departed relatives; he is stout and strong — does he eat human flesh?**” The Blessed One laid down that putting **food not given (not formally received)** into the mouth is pācittiya.
+Later, as monks became scrupulous about **water and tooth-sticks**, he added “**aññatra udakadantaponā**.”
+## (A) Explanation of terms
+**Adinnaṃ** — what has **not been formally offered (received)**. ==What is not received may not be swallowed even if it is **one's own**; what is received is allowable even if it **belongs to a trusted friend**.==
+**Mukhadvāraṃ** — **the throat**. Whether it enters by mouth or nose, since it is swallowed, it counts as brought to the mouth-door.
+**Āhāraṃ** — **allowable-until-noon, later-time, seven-day or lifelong** — all called “food” because they are swallowed.
+**Aññatra udakadantaponā** — said to remove the scruples of those who thought water (though not food) was “food” and a tooth-stick was “brought to the mouth.” Water may be drunk freely, and a tooth-stick used as such.
+## (B) The five factors of receiving
+# The thing is **liftable by a man of average strength**.
+# The giver is **within arm's reach** (2½ cubits).
+# It is given **by body, by something attached to the body (spoon, vessel etc.), or by releasing it (tossing)**.
+# The giver is **a human, deity or animal** — **any unordained being**.
+# The monk receives it **with his body or something attached to it** (even a bed, even a tree leaf) — **the mental noting (ābhoga)** is the decisive point.
+**Details** — snuff received **through the nose**, or by a sick person **with the mouth**, is fine. With prior intention, what is put in his bowl **while he dozes**, within arm's reach, counts as received. ==**Dust falling into the bowl** on alms round is not received==, so alms should be taken only after receiving; taking without receiving is a **Vinaya dukkaṭa**. When a strong wind blows dust, he may take it intending, “**I'll give it to an unordained person**,” give it, and eat it after receiving it back. **Tears, phlegm, mucus** — what falls from its place into hand or bowl must be received; **what clings to the body** counts as received. Fruit got by shaking a fruit-bearing branch **still growing on the tree** is not allowable to him (**dukkaṭa for misbehaviour**), though it is to others.
+## (C) Arm’s reach (hatthapāsa)
+**Arm’s reach** is **two and a half cubits** (*aḍḍhateyyahattha*). How it is measured (Vinayasaṅgaha and Pācittiya commentaries):
+|! Receiving monk | Measured from
+| Sitting | **the back edge of the seat**
+| Standing | **the heel**
+| Lying | **the far edge of the side he lies on**
+whether the giver is sitting, standing or lying, to his **nearest part** (head, knee and so on) — **excluding the outstretched hand** — within two and a half cubits.
+If one is **above (in the air, a tree, on a roof)** and the other **on the ground**: measure from **the head of the one on the ground** to the **nearest part** of the one above, excluding the hand stretched out to give or receive. Likewise for one in a well and one at its edge, or one in a tree and one on the ground.
+!dgm: hp-seated **1. A seated monk** — from the back edge of the seat to the head of the bending giver: 2½ cubits.
+!dgm: hp-standing **2. A standing monk** — from the heel to the giver’s head: 2½ cubits.
+!dgm: hp-lying **3. A lying monk** — from the far edge of the side he lies on (his back) to the giver’s knee: 2½ cubits.
+!dgm: hp-roof **4. On a roof and on a ladder** — between the sole of the one above and the head of the one below: 2½ cubits.
+!dgm: hp-tree **5. One in a tree and one on the ground** — between the climber’s foot and the head of the monk below: 2½ cubits.
+**Presenting** — one who stands with many dishes on his head and just says “Take” has not presented them; **if he bows even slightly**, the monk may stretch out his hand and receive the bottom dish at one point — all the dishes are then received. If someone beyond arm’s reach offers with a long ladle, he should be told, “Come near and give.”
+## (D) The four kālikas and the four great unclean things
+|! Kind | Meaning
+| **yāvakālika** | all grains and grain-like foods; **the nine great fruits** — palmyra, coconut, jackfruit, breadfruit, gourds, pumpkins etc.; pulses; forest roots, leaves, flowers and fruit used as food — **until midday**
+| **yāmakālika** | **the eight juices** — mango, rose-apple, coca, banana, madhuka, grape, lotus-root, phārusaka — and similar small-fruit juices, pressed in cold water by unordained people or sun-cooked — **until the last watch of the night**
+| **sattāhakālika** | **the five medicines**, ghee etc. — **seven days**
+| **yāvajīvika** | apart from the three above and **water**, every root, fruit etc. not used as food — **for life**, when needed
+**The four great unclean things** — **dung, urine, ash, clay** — **at the very moment of a snakebite**, with no one to make them allowable, may be **taken by oneself** and used (a time-specified allowance). A helper who is **uncooperative or incapable** counts as absent. If there is no ash, one may **burn dry wood**, or even **cut green wood from a tree**, and **dig the earth** for clay. At other times they must be received before use.
+## (E) The laying down of the rule and the command
+It was laid down at **Vesālī** concerning a certain monk, on the matter of putting food not given into the mouth. “**Aññatra udakadantaponā**” is a supplementary rule. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (F) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Taking food not received, other than water and tooth-sticks, to swallow | DK
+| Swallowing it — perceiving it as not received, in doubt, or as received (**triple pācittiya**) — each mouthful; even **tooth-stick juice** entering unawares | PC
+| Something received perceived as not received, or in doubt | DK
+| Fruit got by shaking a growing branch (misbehaviour) | DK
+## (G) No offence
+# **Water** and **tooth-sticks**.
+# Perceiving it **as received**.
+# **The four great unclean things** — when needed and no helper is available — taken oneself.
+# For the insane and so on, and the first offender.
+## (H) Factors (= cattāri — four)
+# **Not received**.
+# **Not allowed** (not water, tooth-stick or the great unclean things).
+# **Not something negligible** like smoke.
+# **Swallowing**.
+## (I) Origin and the rest (samuṭṭhāna)
+**Eḷakaloma origin, by doing, no release by perception, without intention, an offence by convention, bodily action, three kinds of consciousness, three feelings**.

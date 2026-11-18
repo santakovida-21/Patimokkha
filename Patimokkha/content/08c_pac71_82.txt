@@ -1,0 +1,853 @@
+@pac71
+T: සහධම්මික සික්ඛාපදය || Refusing to Train when Admonished
+R: - || -
+N: කොසඹෑ නුවර, ඝෝසිතාරාමය || Kosambī, Ghositārāma
+P: ඡන්න ස්ථවිර || Ven. Channa
+V: "ව්‍යක්ත විනයධරයෙකුගෙන් අසන තෙක් මේ ශික්ෂාපදයේ නොහික්මෙමි" යි කීම || Saying “I won't train in this rule until I've asked a learned Vinaya expert”
+K: AD sd=s an=a anu=0 ved=D
+Z: "දැනගන්නෙමි, හික්මෙන්නෙමි" යි කීම; උමතු ආදීන් || Saying “I will find out, I will train”; the insane etc.
+G: 2
+#si
+## කථා වස්තුව
+@ කොසඹෑ නුවර · ඝෝසිතාරාමය
+**ඡන්න** තෙරුන් නුසුදුසු ලෙස හැසිරුණු කල්හි භික්ෂූහු "**ඇවැත්නි, මෙසේ නොකරන්න; මෙය නොවටී**" යි කීහ. ඔහු ==**"ව්‍යක්ත, විනයධර වෙනත් භික්ෂුවකගෙන් අසන තෙක් මම මේ ශික්ෂාපදයේ නොහික්මෙමි"**== යි කීය. භික්ෂූහු දොස් කීහ; භාග්‍යවතුන් වහන්සේ "**හික්මෙන භික්ෂුවක් දැනගත යුතුය, විමසිය යුතුය, සිතා බැලිය යුතුය**" යි වදාරා ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සහධම්මිකං වුච්චමානො** — **සහධාර්මිකයන් පස් දෙනා** හික්මිය යුතු, **භාග්‍යවතුන් වහන්සේ පැනවූ ශික්ෂාපදයකින්** කියනු ලබන්නේ (**දුබ්බච ශික්ෂාපදයේ** — සංඝාදිසේස 12 — කී අර්ථයෙන්).
+**එතස්මිං සික්ඛාපදෙ** — "මේ ශික්ෂාපදයේ කියූ දෙයෙහි **තවම නොහික්මෙමි**."
+**පාචිත්තියං** — ==**අනාදරය කිරීමේ (පා. 54) බියෙන්** — **ලේසයකින් (උපක්‍රමයකින්)** — එසේ කියන්නාට **වචනයක් පාසා** පාචිත්තිය==.
+**සික්ඛමානෙන** — අවවාදය **හිස් මුදුනින් පිළිගෙන** හික්මෙනු කැමති වූවෙකු වී.
+**අඤ්ඤාතබ්බං** — දැනගත යුතුය. **පරිපුච්ඡිතබ්බං** — "**මෙහි අර්ථය කුමක් ද?**" යි විමසිය යුතුය. **පරිපඤ්හිතබ්බං** — **සිතා, කිරා** බැලිය යුතුය.
+## (ආ) අනාදරිය ශික්ෂාපදය සමඟ
+|! ශික්ෂාපදය | ආකාරය
+| **පාචිත්තිය 54 — අනාදරිය** | අවවාද කළ විට **සෘජුව ම අනාදරය** කිරීම
+| **පාචිත්තිය 71 — සහධම්මික** | අනාදරයේ ඇවතට බියෙන්, "**වෙනත් අයෙකුගෙන් අසන තෙක් නොහික්මෙමි**" යි **වංක ලෙස (ලේසයෙන්)** කීම
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**කොසඹෑ නුවරදී** **ඡන්න** තෙරුන් අරබයා එසේ කීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| උපසම්පන්නයෙකු පනවූ ශික්ෂාපදයකින් අවවාද කරද්දී එසේ කීම — උපසම්පන්න බව දැන, සැක ඇතිව, හෝ අනුපසම්පන්න යැයි සිතා (**තික පාචිත්තිය**) — වචනයක් පාසා | PC
+| **අනුපසම්පන්නයෙකු** අවවාද කරද්දී — තුන් සඤ්ඤාවෙහි ම | DK
+| දෙදෙනාගෙන් ම **නොපනවූ දෙයකින්** ("මෙය සල්ලේඛයට නොපවතී" ආදිය) අවවාද කරද්දී එසේ කීම | DK
+## (ඉ) අනාපත්ති
+# "**දැනගන්නෙමි, හික්මෙන්නෙමි**" යි කීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= ද්වේ — දෙකකි)
+# **උපසම්පන්නයෙකු පනවූ ශික්ෂාපදයකින්** කියන වචනය.
+# **නොහික්මෙනු කැමැත්තෙන්** එසේ කීම.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Kosambī · Ghositārāma
+When Ven. **Channa** behaved improperly, the monks said, “**Friend, don't do that; it is not allowable.**” He replied, ==“**I won't train in this rule until I've asked another monk, learned and expert in Vinaya.**”== The monks criticised him, and the Blessed One, declaring, “**A monk in training should understand, ask and investigate,**” laid down the rule.
+## (A) Explanation of terms
+**Sahadhammikaṃ vuccamāno** — being spoken to with **a rule laid down by the Blessed One** in which **the five co-religionists** must train (in the sense given in **the rule on being difficult to admonish** — saṅghādisesa 12).
+**Etasmiṃ sikkhāpade** — “**I won't yet train** in what is said in this rule.”
+**Pācittiyaṃ** — ==for one who says so **evasively**, **out of fear of the offence of disrespect (Pāc. 54)**, a pācittiya **for each utterance**==.
+**Sikkhamānena** — as one who **accepts the admonition respectfully** and wishes to train.
+**Aññātabbaṃ** — it should be understood. **Paripucchitabbaṃ** — one should ask, “**What does this mean?**” **Paripañhitabbaṃ** — one should **think it over and weigh it**.
+## (B) Compared with the disrespect rule
+|! Rule | Manner
+| **Pācittiya 54 — disrespect** | showing **disrespect directly** when admonished
+| **Pācittiya 71 — co-religionist** | out of fear of that offence, saying **evasively**: “**I won't train until I've asked someone else**”
+## (C) The laying down of the rule and the command
+It was laid down at **Kosambī** concerning **Channa**, on the matter of speaking thus. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Speaking thus when an ordained person admonishes with a rule laid down — perceiving him as ordained, in doubt, or as unordained (**triple pācittiya**) — each utterance | PC
+| When **an unordained person** admonishes — in all three perceptions | DK
+| Speaking thus when either admonishes with **what was not laid down** (“This does not lead to effacement” etc.) | DK
+## (E) No offence
+# Saying, “**I will find out, I will train**.”
+# For the insane and so on, and the first offender.
+## (F) Factors (= dve — two)
+# Words of **an ordained person, based on a rule laid down**.
+# Speaking thus **not wishing to train**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins, by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac72
+T: විලේඛන සික්ඛාපදය || Disparaging the Training Rules
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ශික්ෂාපද ගරහමින් විනය පිළිබඳ අරුචිය ඇති කිරීම || Disparaging the training rules
+K: AD sd=s an=a anu=0 ved=D
+Z: ගරහනු කැමැත්තක් නැතිව "පළමුව සූත්‍ර, ගාථා, අභිධර්මය උගන්න; පසුව විනය උගන්නහු" යි කීම; උමතු ආදීන් || Without wishing to disparage, saying “First learn the suttas, verses or Abhidhamma; later you'll learn the Vinaya”; the insane etc.
+G: 2
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+භාග්‍යවතුන් වහන්සේ නොයෙක් අයුරින් **විනය කථාව** කොට, **විනයයේ ද විනයධරයාගේ ද ගුණ** වර්ණනා කළහ; **උපාලි** තෙරුන්ගේ ද ගුණ කීහ. බොහෝ භික්ෂූහු උපාලි තෙරුන් වෙත විනය ඉගෙන ගත්හ. **ෂඩ්වර්ගීය භික්ෂූහු** "**මොවුන් විනයයෙහි ප්‍රගුණ වුවහොත් අපව කැමති සේ කලඹති**" යි බියෙන්, ==**"මේ සුළු සුළු ශික්ෂාපද උද්දේශ කිරීමෙන් කවර ප්‍රයෝජන ද? ඒවා කුකුස, වෙහෙස, විලේඛනය පිණිස ම පවතී"**== යි විනය ගැරහූහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**උද්දිස්සමානෙ** — **ආචාර්‍යයා අන්තේවාසිකයාට** කියන විට, හෝ **සජ්ඣායනය** වශයෙන් නැවත නැවත කියන විට.
+**ඛුද්දානුඛුද්දකෙහි** — **සුළු හා අනු-සුළු** ශික්ෂාපදවලින්.
+**යාවදෙව** — ඒවායේ ප්‍රතිඵලයේ **සීමාව** දක්වන වචනයකි: "**මේවා උද්දේශ කරන, කරවන, සජ්ඣායනා කරන අයට, 'වටී ද, නොවටී ද' යන කුකුස (විප්පටිසාරය), වෙහෙස, සැකය, මනෝ විලේඛනය ඇති වනතුරු ම පවතී**." නැතහොත් **අතිශය** අර්ථයෙන්: "**කුකුසටත් වෙහෙසටත් විලේඛනයටත් අතිශයින් ම පවතී**."
+**සික්ඛාපදවිවණ්ණකෙ** — මෙසේ **ශික්ෂාපදවලට ගැරහීමෙහි** පාචිත්තියයි.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා **විනයයට ගැරහීමේ** වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| උපසම්පන්නයෙකු ඉදිරියේ ශික්ෂාපද ගැරහීම — උපසම්පන්න බව දැන, සැක ඇතිව, හෝ අනුපසම්පන්න යැයි සිතා (**තික පාචිත්තිය**) | PC
+| **අනුපසම්පන්නයෙකු** ඉදිරියේ ගැරහීම — තුන් සඤ්ඤාවෙහි ම | DK
+| දෙදෙනා ඉදිරියේ ම **විනය හැර අන් ධර්මයකට** (සූත්‍ර, අභිධර්ම) ගැරහීම | DK
+## (ඈ) අනාපත්ති
+# **ගරහනු කැමැත්තක් නැතිව**, "**පළමුව සූත්‍රාන්ත, ගාථා හෝ අභිධර්මය උගන්න; පසුව විනය උගන්නහු**" යි කීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= ද්වේ — දෙකකි)
+# **ගරහනු කැමැත්ත**.
+# **උපසම්පන්නයෙකු ඉදිරියේ ශික්ෂාපද ගැරහීම**.
+## (ඊ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+The Blessed One gave talks on **the Vinaya** in many ways, praising **the Vinaya and the one expert in it**, and praising Ven. **Upāli**. Many monks learnt the Vinaya from Upāli. **The group-of-six**, afraid — “**If they become expert in the Vinaya they'll push us around as they please**” — disparaged it: ==“**What's the use of reciting these lesser and minor rules? They only lead to anxiety, vexation and perplexity.**”== The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Uddissamāne** — while **a teacher recites it to his pupil**, or while it is **being repeated in recitation**.
+**Khuddānukhuddakehi** — by the **lesser and minor** rules.
+**Yāvadeva** — marks the **limit** of their effect: “**For those who recite them, have them recited or repeat them, they lead only so far as the anxiety and remorse, vexation, doubt and mental perplexity of ‘Is it allowable or not?’**” Or, as intensive: “**They lead exceedingly to anxiety, vexation and perplexity.**”
+**Sikkhāpadavivaṇṇake** — **in disparaging the training rules** thus, there is pācittiya.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of **disparaging the Vinaya**. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Disparaging the training rules before an ordained person — perceiving him as ordained, in doubt, or as unordained (**triple pācittiya**) | PC
+| Disparaging before **an unordained person** — in all three perceptions | DK
+| Disparaging **Dhamma other than the Vinaya** (suttas, Abhidhamma) before either | DK
+## (D) No offence
+# **Without wishing to disparage**, saying, “**First learn the suttas, verses or Abhidhamma; later you'll learn the Vinaya**.”
+# For the insane and so on, and the first offender.
+## (E) Factors (= dve — two)
+# **Wishing to disparage**.
+# **Disparaging the training rules before an ordained person**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Three origins, by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac73
+T: මෝහන සික්ඛාපදය || Feigning Ignorance of the Rules
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ප්‍රාතිමෝක්ෂය දේශනා කරද්දී නොදන්නාක් මෙන් රැවටීම || Pretending ignorance while the Pātimokkha is being recited
+K: AD sd=s an=a anu=0 ved=D
+Z: විස්තර වශයෙන් අසා නැති විට; දෙතුන් වරකට අඩුවෙන් අසා ඇති විට; රවටනු කැමැත්තක් නැති විට; උමතු ආදීන් || Not having heard it in full; having heard it in full fewer than two or three times; no wish to deceive; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** නුසුදුසු ලෙස හැසිර, "**නොදැන ඇවතට පැමිණියෙමු යැයි දැනගනිත්වා**" යි සිතා, ප්‍රාතිමෝක්ෂය දේශනා කරද්දී ==**"මේ ධර්මය ද සූත්‍රයෙහි ආවක් ය, සූත්‍රයට ඇතුළත් ය, සෑම අඩ මසකම උද්දේශයට එයි යන්න අපි දැන් ම දැනගත්තෙමු"**== යි කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**අන්වඩ්ඪමාසං** — **පිළිවෙළින් සෑම අඩ මසකම**.
+**උද්දිස්සමානෙ** — **උපෝසථය වශයෙන්** උද්දේශ කරන විට.
+**යඤ්ච තත්ථ ආපත්තිං ආපන්නො** — **නොදැනීමෙන්** ඇවතට පැමිණි බව හඟවනු කැමතිව ඔහු මෙසේ කියයි ද, ඒ අනාචාරයෙන් යම් ඇවතකට පැමිණියේ ද.
+**තඤ්ච යථාධම්මො කාරෙතබ්බො** — ==**නොදැනීමෙන් පැමිණි නිසා මිදීමක් නැත**==; ධර්මය හා විනය පිහිටි පරිදි — **දේසනාගාමිනී** ඇවත **දෙස්සවා**, **වුට්ඨානගාමිනී** ඇවතින් **නැගිටුවා** — කරවිය යුතුය.
+**උත්තරි චස්ස මොහො ආරොපෙතබ්බො** — ඊට වැඩියෙන්, "**ආවුසො, ඔබට අලාභයකි, ඔබට දුර්ලාභයකි…**" ආදී වචනයෙන් නින්දා කොට, ඒ පුද්ගලයාට **ඤත්තිදුතිය කර්මයෙන් මෝහාරෝපණය** කළ යුතුය.
+**ඉදං තස්මිං මොහනකෙ පාචිත්තියං** — එසේ **මෝහය ආරෝපණය කළ පසු** නැවත රවටන පුද්ගලයාට මේ පාචිත්තිය — **ආරෝපණය නොකළ** කල්හි නොවේ.
+## (ආ) "විස්තර වශයෙන් ඇසීම"
+|! තත්ත්වය | විනිශ්චය
+| ප්‍රාතිමෝක්ෂය **විස්තර වශයෙන් දෙතුන් වරක්** අසා ඇති අයෙකු — මෝහාරෝපණයෙන් පසු නැවත රවටයි | PC
+| **මෝහාරෝපණය නොකළ** කල්හි රවටයි | DK
+| **විස්තර වශයෙන් අසා නැති**, හෝ **දෙතුන් වරකට අඩුවෙන්** අසා ඇති අයෙකු | අනාපත්ති
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා රැවටීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ධර්ම කර්මයෙන් මෝහාරෝපණය කළ පසු රැවටීම — ධර්ම කර්ම බව දැන, සැක ඇතිව, හෝ අධර්ම යැයි සිතා (**තික පාචිත්තිය**) | PC
+| **අධර්ම කර්මයෙහි** — තුන් සඤ්ඤාවෙහි ම | DK
+| **මෝහාරෝපණය නොකළ** කල්හි රැවටීම | DK
+## (ඉ) අනාපත්ති
+# **විස්තර වශයෙන් අසා නැති** අයට.
+# **දෙතුන් වරකට අඩුවෙන්** විස්තර වශයෙන් අසා ඇති අයට.
+# **රවටනු කැමැත්තක් නැති** අයට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **මෝහාරෝපණය** කර තිබීම.
+# **රවටනු කැමැත්ත**.
+# ප්‍රාතිමෝක්ෂය **විස්තර වශයෙන් දෙතුන් වරක් අසා ඇති** බව.
+# **රැවටීම**.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six**, having behaved improperly and wishing it to be thought “**they offended out of ignorance**,” said while the Pātimokkha was being recited: ==“**Only now do we learn that this rule too is handed down in the text, included in the text, and comes up for recitation every half-month.**”== The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Anvaḍḍhamāsaṃ** — **every half-month in turn**.
+**Uddissamāne** — while it is being recited **at the Uposatha**.
+**Yañca tattha āpattiṃ āpanno** — whatever offence he committed by that misconduct, about which he speaks this way wishing it to be known that he offended **out of ignorance**.
+**Tañca yathādhammo kāretabbo** — ==**there is no release because he offended out of ignorance**==; he must be dealt with according to the Dhamma and Vinaya — made to **confess** an offence cleared by confession, made to **emerge** from one cleared by rehabilitation.
+**Uttari cassa moho āropetabbo** — further, after rebuking him with words like “**Friend, it is a loss for you, it is ill-gotten for you…**”, **the charge of feigned ignorance is to be imposed** on him **by a motion-and-one-announcement act**.
+**Idaṃ tasmiṃ mohanake pācittiyaṃ** — this pācittiya falls on the one who feigns ignorance **after the charge has been imposed** — not if it has not been imposed.
+## (B) “Having heard it in full”
+|! Situation | Ruling
+| one who has heard the Pātimokkha **in full two or three times** feigns ignorance after the charge is imposed | PC
+| feigns ignorance **before the charge is imposed** | DK
+| one who has **not heard it in full**, or heard it in full **fewer than two or three times** | no offence
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of feigning ignorance. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Feigning ignorance after the charge was imposed by a legitimate act — perceiving it as legitimate, in doubt, or as illegitimate (**triple pācittiya**) | PC
+| **An illegitimate act** — in all three perceptions | DK
+| Feigning ignorance **before the charge is imposed** | DK
+## (E) No offence
+# For one who has **not heard it in full**.
+# For one who has heard it in full **fewer than two or three times**.
+# For one **not wishing to deceive**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **The charge of feigned ignorance imposed**.
+# **Wishing to deceive**.
+# **Having heard** the Pātimokkha **in full two or three times**.
+# **Feigning ignorance**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins, by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac74
+T: පහාර සික්ඛාපදය || Striking a Monk
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කිපී භික්ෂුවකට පහර දීම || Striking a monk in anger
+K: P1 sd=s an=a anu=0 ved=D
+Z: යමෙකුගෙන් පීඩා විඳිද්දී මිදීමේ අදහසින් පහර දීම; උමතු ආදීන් || Striking in order to free oneself when being harassed; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==කිපී නොසතුටුව **සත්තරසවග්ගිය** භික්ෂූන්ට **පහර දුන්හ**==. ඔවුහු **හඬා වැලපුණහ**. "**කුමක් නිසා හඬන්නහු ද?**" යි ඇසූ භික්ෂූන්ට සිදු වූ දේ කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**කුපිතො අනත්තමනො** — නොසතුටු වූ, ගැටුණු සිත් ඇති.
+**පහාරං දදෙය්‍ය** — **කයින්, කායප්පටිබද්ධයකින් හෝ නිස්සග්ගියකින් (විසි කොට)**, **උපුල් පෙත්තකින් වුව ද** පහර දෙයි.
+==**පහර දෙනු කැමැත්තෙන්** දුන් පහරින් ඔහු **මැරුණ ද පාචිත්තිය ම** ය== (වධක චේතනාවක් නැති බැවින්).
+## (ආ) පහර හා විරූප කිරීම
+|! ආකාරය | ඇවැත
+| කෝපයෙන් **උපසම්පන්නයෙකුට** පහර දීම | PC
+| **අනුපසම්පන්නයෙකුට** (ගිහියෙකු, ස්ත්‍රියක, තිරිසනෙකු ද) — තුන් සඤ්ඤාවෙහි ම | DK
+| **විරූප කිරීමේ අදහසින්** උපසම්පන්නයෙකුගේ වුව ද **කන්, නාසය** ආදිය සිඳීම | DK
+| **රාගයෙන්** ස්ත්‍රියකට පහර දීම | SD (කායසංසග්ග)
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පහර දීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| කිපී උපසම්පන්නයෙකුට පහර දීම — උපසම්පන්න බව දැන, සැක ඇතිව, හෝ අනුපසම්පන්න යැයි සිතා (**තික පාචිත්තිය**) | PC
+| අනුපසම්පන්නයෙකුට — තික දුක්කට; විරූප කිරීමේ අදහසින් කන් ආදිය සිඳීම | DK
+## (ඉ) අනාපත්ති
+# **යමෙකුගෙන් පීඩා විඳිද්දී** — සතෙකු, මිනිසෙකු, සොරෙකුගෙන් — **මිදීමේ අදහසින්** පහර දීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **කිපුණු** බව.
+# **මිදීමේ අදහසක් නැති** බව.
+# **උපසම්පන්නයෙකුට පහර දීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි** (කාය-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six**, ==angry and displeased, **struck** monks of **the group-of-seventeen**==, who **wept**. Asked by the monks, “**Why are you weeping?**”, they told what had happened. The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Kupito anattamano** — displeased, with a mind struck by anger.
+**Pahāraṃ dadeyya** — strikes **with the body, something attached to it, or a thrown object** — **even with a lotus petal**.
+==If he dies from a blow given **with the intention of striking**, it is **still pācittiya**== (there being no intention to kill).
+## (B) Striking and disfiguring
+|! Act | Offence
+| striking **an ordained person** in anger | PC
+| striking **an unordained person** (layman, woman, even an animal) — in all three perceptions | DK
+| cutting off **ears, nose** etc., even of an ordained person, **intending to disfigure** | DK
+| striking a woman **out of lust** | SD (bodily contact)
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of striking. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Striking an ordained person in anger — perceiving him as ordained, in doubt, or as unordained (**triple pācittiya**) | PC
+| An unordained person — triple dukkaṭa; cutting off ears etc. to disfigure | DK
+## (E) No offence
+# Striking **to free oneself** when **being harassed** by someone — an animal, a person, a thief.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Being angry**.
+# **No intention of freeing oneself**.
+# **Striking an ordained person**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin** (body–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@pac75
+T: තලසත්තික සික්ඛාපදය || Raising the Hand Threateningly
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කිපී පහර දෙන ආකාරයෙන් අත ඔසවා තර්ජනය කිරීම || Raising the hand in anger as if to strike
+K: P1 sd=s an=a anu=0 ved=D
+Z: යමෙකුගෙන් පීඩා විඳිද්දී මිදීමේ අදහසින් අත ඔසවීම; උමතු ආදීන් || Raising the hand to free oneself when being harassed; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==කිපී **සත්තරසවග්ගිය** භික්ෂූන්ට **අත්ල ඔසවා (තලසත්තිකය)** තර්ජනය කළහ==. පහර කෑමට පුරුදු ඔවුහු **බියෙන් හඬා වැලපුණහ**. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**තලසත්තිකං උග්ගිරෙය්‍ය** — **පහර දෙන ආකාරය පෙන්වමින්** **කය** (අත, අත්ල ආදිය) හෝ **කායප්පටිබද්ධයක්** (දණ්ඩ, පාත්‍රය ආදිය) **ඔසවයි**.
+==මෙහි **ඔසවීම නිසා ම** පාචිත්තිය==.
+## (ආ) ඔසවා පහරක් වැදුණොත්
+|! අවස්ථාව | ඇවැත
+| අත / දණ්ඩ **ඔසවීම** | PC
+| ඔසවා **වරදවා (නොසිතූ ලෙස) පහරක් වැදුණු** විට — පහර දෙනු කැමැත්තෙන් නොදුන් බැවින් | DK
+| ඒ පහරින් **අතක් ආදිය බිඳුණ ද** | DK
+
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා අත ඔසවීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| කිපී උපසම්පන්නයෙකුට අත ඔසවීම — උපසම්පන්න බව දැන, සැක ඇතිව, හෝ අනුපසම්පන්න යැයි සිතා (**තික පාචිත්තිය**) | PC
+| අනුපසම්පන්නයෙකුට — තුන් සඤ්ඤාවෙහි ම | DK
+| ඔසවා වරදවා පහරක් වැදීම | DK
+## (ඉ) අනාපත්ති
+# **යමෙකුගෙන් පීඩා විඳිද්දී මිදීමේ අදහසින්** අත ඔසවීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **කිපුණු** බව.
+# **මිදීමේ අදහසක් නැති** බව.
+# **උපසම්පන්නයෙකුට අත ඔසවීම**.
+## (උ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six**, angry, ==**raised their palms** threateningly at monks of **the group-of-seventeen**==, who, used to being struck, **wept in fear**. The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Talasattikaṃ uggireyya** — **showing the gesture of striking**, he **raises** the body (hand, palm etc.) or **something attached to it** (a stick, a bowl etc.).
+==Here the pācittiya is **for the raising itself**==.
+## (B) If a blow lands after raising
+|! Situation | Offence
+| **raising** the hand / stick | PC
+| having raised it, **a blow lands by mistake** — not given with intent to strike | DK
+| even if that blow **breaks a hand** etc. | DK
+
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of raising the hand. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Raising the hand in anger at an ordained person — perceiving him as ordained, in doubt, or as unordained (**triple pācittiya**) | PC
+| At an unordained person — in all three perceptions | DK
+| A blow landing by mistake after raising | DK
+## (E) No offence
+# Raising the hand **to free oneself when being harassed**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **Being angry**.
+# **No intention of freeing oneself**.
+# **Raising the hand at an ordained person**.
+## (G) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@pac76
+T: අමූලක සික්ඛාපදය || Groundless Saṅghādisesa Charge
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: භික්ෂුවකට අමූලක සංඝාදිසේසයකින් චෝදනා කිරීම || Charging a monk with a groundless saṅghādisesa
+K: AD sd=s an=s anu=0 ved=D
+Z: එසේ යැයි සිතා චෝදනා කිරීම; උමතු ආදීන් || Charging him believing it to be so; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**සත්තරසවග්ගිය** භික්ෂූන්ට **අමූලක සංඝාදිසේසයකින්** චෝදනා කළහ==. ඔවුහු හඬා වැලපුණහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**අමූලකෙන** — **දුටු, ඇසූ, සැක කළ** යන **මූලයක් නැති**.
+**අනුද්ධංසෙය්‍ය** — **චෝදනා කරයි** හෝ **චෝදනා කරවයි**.
+**පාචිත්තියං** — චෝදනා ලබන්නා ==**එකෙණෙහි ම "මට චෝදනා කරයි" යි දැනගත්තේ** නම්== චෝදකයාට පාචිත්තිය.
+## (ආ) අමූලක චෝදනා සංසන්දනය
+|! චෝදනාව | ශික්ෂාපදය | ඇවැත
+| අමූලක **පාරාජිකයකින්** — ද්වේෂයෙන් | සංඝාදිසේස 8 (දුට්ඨදෝස) | SD
+| අමූලක **සංඝාදිසේසයකින්** | **පාචිත්තිය 76** | PC
+| **ආචාර විපත්තියෙන්** හෝ **දිට්ඨි විපත්තියෙන්** | — | DK
+| **අනුපසම්පන්නයෙකුට** | — | DK
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා අමූලක සංඝාදිසේසයකින් චෝදනා කිරීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි** — චෝදනා කරවීමෙන් ද වේ. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| උපසම්පන්නයෙකුට අමූලක සංඝාදිසේසයකින් චෝදනා කිරීම / කරවීම — උපසම්පන්න බව දැන, සැක ඇතිව, හෝ අනුපසම්පන්න යැයි සිතා (**තික පාචිත්තිය**) | PC
+| ආචාර විපත්තියෙන් හෝ දිට්ඨි විපත්තියෙන් චෝදනාව; අනුපසම්පන්නයෙකුට (තික දුක්කට) | DK
+## (ඉ) අනාපත්ති
+# **එසේ යැයි සිතා** (සත්‍ය යැයි විශ්වාසයෙන්) චෝදනා කිරීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **උපසම්පන්නයෙක්** වීම.
+# සංඝාදිසේසය **අමූලක** වීම.
+# **චෝදනා කිරීම**.
+# **එකෙණෙහි ම දැනගැනීම**.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==charged monks of **the group-of-seventeen** with **groundless saṅghādisesa** offences==. They wept, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Amūlakena** — **without the grounds** of having **seen, heard or suspected**.
+**Anuddhaṃseyya** — **charges** him or **has him charged**.
+**Pācittiyaṃ** — if the one charged ==**knows at that very moment, “He is charging me,”**== the accuser incurs a pācittiya.
+## (B) Groundless charges compared
+|! Charge | Rule | Offence
+| a groundless **pārājika** — out of hatred | saṅghādisesa 8 | SD
+| a groundless **saṅghādisesa** | **pācittiya 76** | PC
+| **failure in conduct** or **failure in view** | — | DK
+| against **an unordained person** | — | DK
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of charging with a groundless saṅghādisesa. It is a **common rule**, **sāṇattika** — also by having him charged — and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Charging or having an ordained person charged with a groundless saṅghādisesa — perceiving him as ordained, in doubt, or as unordained (**triple pācittiya**) | PC
+| Charging with failure in conduct or view; an unordained person (triple dukkaṭa) | DK
+## (E) No offence
+# Charging him **believing it to be so**.
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **An ordained person**.
+# The saṅghādisesa **being groundless**.
+# **Charging** him.
+# **His knowing at that very moment**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins, by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac77
+T: සඤ්චිච්ච කුක්කුච්ච සික්ඛාපදය || Deliberately Arousing Anxiety
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිතාමතා භික්ෂූන්ට කුකුස් ඇති කිරීම || Deliberately arousing anxiety in monks
+K: AD sd=s an=a anu=0 ved=D
+Z: කුකුස් ඇති කරනු කැමැත්තක් නැතිව, හිතවත්කම නිසා පමණක් එසේ කීම; උමතු ආදීන් || Without wishing to arouse anxiety, speaking so only out of concern for his welfare; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**සත්තරසවග්ගිය** භික්ෂූන්ට හිතාමතා කුකුස් ඇති කළහ==: "**ඇවැත්නි, විසි වයසට අඩු අයෙකු උපසම්පදා නොකළ යුතු යැයි ශික්ෂාපදයක් පනවා ඇත; ඔබ ද විසි වයසට අඩුව උපසම්පදා වූවහු ය; ඔබ අනුපසම්පන්නයෝ නොවෙත් ද?**" ඔවුහු හඬා වැලපුණහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සඤ්චිච්ච** — දැන, හඳුනා, චේතනා කොට.
+**කුක්කුච්චං උපදහෙය්‍ය** — "**ඔබ විසි වයසට අඩු යැයි සිතමි**", "**ඔබ විකාලයේ කෑවා යැයි සිතමි**", "**ඔබ මත්පැන් බීවා යැයි සිතමි**", "**ඔබ ස්ත්‍රියක් සමඟ රහසින් හුන්නා යැයි සිතමි**" ආදී ලෙස කියමින් **කුකුස උපදවයි**.
+==**වෙනත් හේතුවක් නැතිව**, හිතාමතා කුකුස් උපදවන්නාට **වචනයක් පාසා** පාචිත්තිය==.
+**ඉතිපි'ස්ස මුහුත්තම්පි අඵාසු භවිස්සති** — "**මේ නිසා ඔහුට මොහොතක් වත් අපහසුවක් වේවා**" යන අදහසින්.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා කුකුස් ඇති කිරීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| උපසම්පන්නයෙකුට හිතාමතා කුකුස් ඇති කිරීම — උපසම්පන්න බව දැන, සැක ඇතිව, හෝ අනුපසම්පන්න යැයි සිතා (**තික පාචිත්තිය**) — වචනයක් පාසා | PC
+| **අනුපසම්පන්නයෙකුට** — තුන් සඤ්ඤාවෙහි ම | DK
+## (ඈ) අනාපත්ති
+# **කුකුස් ඇති කරනු කැමැත්තක් නැතිව**, "**ඔබ විසි වයසට අඩු යැයි පෙනේ; දැනගන්න**" වැනි — **හිතවත්කම නිසා පමණක්** — කීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **උපසම්පන්නයෙක්** වීම.
+# **අපහසුවක් ඇති කරනු කැමැත්ත**.
+# **කුකුස් ඇති කිරීම**.
+## (ඊ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==deliberately aroused anxiety in monks of **the group-of-seventeen**==: “**Friends, a rule has been laid down that one under twenty should not be ordained; you were ordained under twenty — aren't you unordained?**” They wept, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sañcicca** — knowingly, consciously, intentionally.
+**Kukkuccaṃ upadaheyya** — **arouses anxiety** by saying, “**I think you were under twenty**,” “**I think you ate at the wrong time**,” “**I think you drank alcohol**,” “**I think you sat in private with a woman**” and the like.
+==For one who deliberately arouses anxiety **with no other reason**, a pācittiya **for each utterance**==.
+**Itipi'ssa muhuttampi aphāsu bhavissati** — with the thought, “**Let him be uneasy, even for a moment**.”
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of arousing anxiety. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Deliberately arousing anxiety in an ordained person — perceiving him as ordained, in doubt, or as unordained (**triple pācittiya**) — each utterance | PC
+| In **an unordained person** — in all three perceptions | DK
+## (D) No offence
+# **Without wishing to arouse anxiety**, speaking **only out of concern for his welfare** — “**You seem to be under twenty; find out**.”
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **An ordained person**.
+# **Wishing to make him uneasy**.
+# **Arousing anxiety**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Three origins, by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac78
+T: උපස්සුති සික්ඛාපදය || Eavesdropping
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: විවාදයට පත් භික්ෂූන්ගේ කථා සවන් දීමට සැඟවී සිටීම || Eavesdropping on monks in a dispute
+K: TS sd=s an=a anu=0 kr=KoA vj=L cit=A ved=D
+Z: "මොවුන්ගේ කථා අසා නවතින්නෙමි, වළකින්නෙමි, සංසිඳෙන්නෙමි, මා නිදහස් කරගන්නෙමි" යි යාම; උමතු ආදීන් || Going thinking, “Having heard them, I'll desist, abstain, calm things down, clear myself”; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** සුසිල් භික්ෂූන් සමඟ **කලහ කරද්දී**, ==ඔවුන් කථා කරන විට **සවන් දීමට සැඟවී සිටියහ**== — "**මොවුන් කියන දෙය අසා ඔවුන්ට චෝදනා කරන්නෙමු, සිහි කරන්නෙමු, ලජ්ජාවට පත් කරන්නෙමු**" යි. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**විවාදාපන්නානං** — **ආරවුල් හා කලහවලින් වර්ධනය වූ විවාදාධිකරණයට** පැමිණි භික්ෂූන්ගේ.
+**උපස්සුතිං** — **ශ්‍රවණයට ළඟ** — **ඔවුන්ගේ වචන ඇසිය හැකි** තැනක **සිටියි**.
+## (ආ) ඇවැත් පිළිවෙළ
+|! අවස්ථාව | ඇවැත
+| "**එහි සිට අසන්නෙමි**" යි **චෝදනා කිරීමේ අදහසින් යන පියවරක් පාසා** | DK
+| **ඉක්මනින් යාමේදී** හෝ **පසුපසින් සිටීමේදී** ද එසේ ම | DK
+| **සිට ඇසීම** | PC
+| තමා සිටින තැනට **ඔවුන් පැමිණ** කථා කරද්දී **කැස්සෙන් හෝ "මම මෙහි සිටිමි" යි** දැනුම් නොදී **ඇසීම** | PC
+==තමා සිටි තැනට ඔවුන් පැමිණියහොත් **කැස්සෙන් හෝ "මම මෙහි සිටිමි" යි කියා දැනුම් දිය යුතුය**== — එසේ නොකළොත් ඇසීමෙන් පාචිත්තිය ම ය (එබැවින් මෙය **සමහර විට අකිරිය** ද වේ).
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා සවන් දීමට සිටීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| යාමේ පියවරක් පාසා | DK
+| චෝදනා අදහසින් උපසම්පන්නයන්ගේ කථා ඇසීම — උපසම්පන්න බව දැන, සැක ඇතිව, හෝ අනුපසම්පන්න යැයි සිතා (**තික පාචිත්තිය**) | PC
+| **අනුපසම්පන්නයන්ගේ** කථා ඇසීම — තුන් සඤ්ඤාවෙහි ම | DK
+## (ඉ) අනාපත්ති
+# "**මොවුන්ගේ කථා අසා නවතින්නෙමි, වළකින්නෙමි, සංසිඳෙන්නෙමි, මා නිදහස් කරගන්නෙමි**" යි යාම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **උපසම්පන්නයෙක්** වීම.
+# **චෝදනා කිරීමේ අදහස**.
+# **ඇසීම**.
+## (උ) සමුට්ඨානාදිය
+**ථෙය්‍යසත්ථ සමුට්ඨානයි** (කාය-චිත්ත, කාය-වාචා-චිත්ත); මෙය **සමහර විට කිරිය, සමහර විට අකිරිය** (දැනුම් නොදීම); **සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six**, **quarrelling** with well-behaved monks, ==**stood eavesdropping** while those monks were talking==, thinking, “**We'll hear what they say and then accuse them, remind them, shame them.**” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Vivādāpannānaṃ** — of monks who have entered into **a dispute that has grown out of strife and quarrels**.
+**Upassutiṃ** — **near enough to hear** — he **stands where their words can be heard**.
+## (B) How the offences fall
+|! Stage | Offence
+| **each step** in going there **intending to accuse**, thinking “**I'll listen from there**” | DK
+| likewise **hurrying ahead** or **lagging behind** | DK
+| **standing and hearing** | PC
+| when **they come** to where he stands and talk, **hearing** without letting them know **by coughing or saying “I'm here”** | PC
+==If they come to where he is, he must **let them know by coughing or saying “I'm here”**== — otherwise hearing is still pācittiya (hence this is **sometimes by not doing**).
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of eavesdropping. It is a **common rule**, **anāṇattika**, and a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Each step in going | DK
+| Intending to accuse, hearing ordained persons' talk — perceiving them as ordained, in doubt, or as unordained (**triple pācittiya**) | PC
+| Hearing **unordained persons'** talk — in all three perceptions | DK
+## (E) No offence
+# Going thinking, “**Having heard them, I'll desist, abstain, calm things down, clear myself**.”
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **An ordained person**.
+# **Intending to accuse**.
+# **Hearing**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Thieves'-caravan origin** (body–mind; body–speech–mind); this is **sometimes by doing, sometimes by not doing** (not letting them know); **release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac79
+T: කම්මප්පටිබාහන සික්ඛාපදය || Objecting after Giving Consent
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: ධාර්මික කර්මයකට ඡන්දය දී පසුව එයට විරෝධය දැක්වීම || Complaining about a legitimate act after giving consent
+K: AD sd=s an=a anu=0 ved=D
+Z: අධර්මයෙන්, වර්ගයෙන්, හෝ කර්මයට නුසුදුසු අයෙකුට කර්මය කරන බව දැන විරෝධය; උමතු ආදීන් || Objecting knowing they are acting unlawfully, as an incomplete assembly, or against one not deserving it; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** නුසුදුසු ලෙස හැසිර, තමන්ගෙන් එකෙකුට කර්මයක් කරන විට එය ==**වළක්වා**== සිටියහ. එක් දිනක ඔවුන් **සිවුරු කටයුත්තකට යෙදී** සිටියදී, සංඝයා කිසියම් කටයුත්තකට රැස් වූ කල්හි, ඔවුහු **තම ඡන්දය එක් භික්ෂුවක් අතේ** යැවූහ. සංඝයා "**මොහු ෂඩ්වර්ගීයයන්ගෙන් එකෙකි; එකෙක් ම පැමිණ ඇත; මොහුට කර්මය කරමු**" යි ඔහුට කර්මය කළහ. ආපසු ගිය ඔහුගෙන් අසා, ෂඩ්වර්ගීයයෝ ==**"සංඝයා කළේ අධර්ම කර්මයකි"** යි විරෝධය (ඛීයනය) දැක්වූහ==. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ධම්මිකානං කම්මානං** — **ධර්මයෙන්, විනයෙන්, ශාස්තෘ ශාසනයෙන්** කළ සංඝ කර්ම සතර:
+|! කර්මය | කරන ආකාරය | යෙදෙන ස්ථාන
+| **අපලෝකන කර්මය** | සමග්ග සංඝයාගේ අනුමතියෙන් වස්තුව කියා "**රුච්චති සඞ්ඝස්ස**" යි **තෙවරක් අසා** | **5** — ඔසාරණ, නිස්සාරණ, භණ්ඩුකම්ම, බ්‍රහ්මදණ්ඩ, කම්මලක්ඛණ
+| **ඤත්ති කර්මය** | **එක් ඤත්තියකින්** | **9** — ඔසාරණ, නිස්සාරණ, උපෝසථ, පවාරණා, සම්මුති, දාන, පටිග්ගහ, පච්චුක්කඩ්ඪන, කම්මලක්ඛණ
+| **ඤත්තිදුතිය කර්මය** | **එක් ඤත්තියක් හා එක් අනුස්සාවනයකින්** | **7** — ඔසාරණ, නිස්සාරණ, සම්මුති, දාන, උද්ධාර, දේසනා, කම්මලක්ඛණ
+| **ඤත්තිචතුත්ථ කර්මය** | **එක් ඤත්තියක් හා අනුස්සාවන තුනකින්** | **7** — ඔසාරණ, නිස්සාරණ, සම්මුති, දාන, නිග්ගහ, සමනුභාසන, කම්මලක්ඛණ
+**ඛීයනධම්මං ආපජ්ජෙය්‍ය** — ඒ ධාර්මික කර්මවලට **ඡන්දය දී**, පසුව "**අධර්ම කර්මයකි, නරක ලෙස කළ කර්මයකි**" යි **විරෝධය (ඛීයනය) දක්වයි** — ==**වචනයක් පාසා** පාචිත්තිය==.
+## (ආ) කර්මයක් ධාර්මික වන්නේ
+සෑම කර්මයක් ම **තම තමන්ගේ ලක්ෂණයෙන්** ම කළ යුතුය — **අපලෝකන කර්මය** අපලෝකනයෙන් ම, **ඤත්ති කර්මය** එක් ඤත්තියකින් ම ය. **ඤත්තිදුතිය** කර්මවලින් **සීමා සම්මුතිය, සීමා සමූහනය, කඨින චීවර දානය, කඨිනුද්ධාරය, කුටිවත්ථු දේසනාව, විහාරවත්ථු දේසනාව** යන **ගරු කර්ම සය** අපලෝකනයෙන් නොකළ යුතුය — ඤත්තිදුතිය කර්මවාචාව ම අසවා කළ යුතුය; සෙසු **ලහු සම්මුති** අපලෝකනයෙන් ද කළ හැකිය.
+මෙසේ **වස්තු, ඤත්ති, අනුස්සාවන, සීමා, පරිෂත් සම්පත්තියෙන්** කළ කර්ම **ධාර්මික** වේ.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා විරෝධය දැක්වීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ධාර්මික කර්මයකට ඡන්දය දී, ධර්ම කර්ම බව දැන පසුව විරෝධය — වචනයක් පාසා | PC
+| ධර්ම කර්මයෙහි **සැක** ඇතිව | DK
+| අධර්ම කර්මයක් ධර්ම කර්ම යැයි සිතීම හෝ සැක කිරීම | DK
+## (ඉ) අනාපත්ති
+# **අධර්ම කර්ම යැයි** සිතා.
+# "**අධර්මයෙන්**, **වර්ගයෙන්**, හෝ **කර්මයට නුසුදුසු අයෙකුට** කර්මය කරති" යි **දැන** විරෝධය දැක්වීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# **ධර්ම කර්මයක්** වීම.
+# **ධර්ම කර්ම යැයි දැනීම**.
+# **ඡන්දය දී විරෝධය දැක්වීම**.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six**, behaving improperly, would ==**block**== any act being done against one of them. One day, while they were **busy with robe-making**, the Saṅgha met for some business, and they sent **their consent by one monk**. The Saṅgha said, “**This is one of the group-of-six, and he has come alone; let's do the act against him,**” and did so. When he returned and they heard of it, the group-of-six ==**complained: “The Saṅgha did an illegitimate act.”**== The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Dhammikānaṃ kammānaṃ** — the four Saṅgha acts done **by the Dhamma, the Vinaya and the Teacher's instruction**:
+|! Act | How it is done | Applications
+| **by announcement (apalokana)** | with the consent of a united Saṅgha, stating the matter and **asking three times** “**Ruccati saṅghassa?**” | **5** — reinstatement, expulsion, shaving permission, the higher penalty, act-defined
+| **by motion (ñatti)** | **a single motion** | **9** — reinstatement, expulsion, Uposatha, Pavāraṇā, authorisation, giving, receiving, postponement, act-defined
+| **motion and one announcement** | **a motion and one proclamation** | **7** — reinstatement, expulsion, authorisation, giving, lifting, designation, act-defined
+| **motion and three announcements** | **a motion and three proclamations** | **7** — reinstatement, expulsion, authorisation, giving, rebuke, formal admonition, act-defined
+**Khīyanadhammaṃ āpajjeyya** — having **given consent** to such legitimate acts, he afterwards **complains**: “**It was an illegitimate act, a badly done act**” — ==a pācittiya **for each utterance**==.
+## (B) When an act is legitimate
+Every act must be done **by its own form** — an announcement act only by announcement, a motion act only by a single motion. Of the motion-and-one-announcement acts, **the six weighty ones** — **authorising a boundary, abolishing a boundary, giving the kaṭhina cloth, ending the kaṭhina, designating a hut site, designating a dwelling site** — may not be done by announcement; the proclamation must be recited. **The lighter authorisations** may also be done by announcement.
+Acts done thus, **complete in matter, motion, proclamation, boundary and assembly**, are **legitimate**.
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of complaining. It is a **common rule**, and **anāṇattika**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Having given consent to a legitimate act, knowing it legitimate, complaining afterwards — each utterance | PC
+| **In doubt** about a legitimate act | DK
+| An illegitimate act perceived as legitimate, or in doubt | DK
+## (E) No offence
+# Perceiving it **as an illegitimate act**.
+# Complaining **knowing** that “they are acting **unlawfully**, **as an incomplete assembly**, or **against one not deserving it**.”
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# **A legitimate act**.
+# **Perceiving it as legitimate**.
+# **Complaining after giving consent**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins, by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac80
+T: ඡන්දං අදත්වා ගමන සික්ඛාපදය || Leaving without Giving Consent
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: එක්තරා භික්ෂුවක් || A certain monk
+V: සංඝ විනිශ්චය කරද්දී ඡන්දය නොදී පිටත් වීම || Leaving while the Saṅgha is deciding, without giving consent
+K: SB sd=s an=a anu=0 kr=KA
+Z: සංඝයාට ආරවුල් ඇති වේ යැයි, හෝ අධර්මයෙන් ආදී ලෙස කර්මය කරති යැයි දැන; ගිලන්ව; ගිලනෙකුගේ කටයුත්තකට; මල මූත්‍ර පීඩාවෙන්; කර්මය කුප්‍ය කරනු නොකැමතිව "නැවත එන්නෙමි" යි යාම; උමතු ආදීන් || Knowing there will be strife or that the act will be unlawful etc.; being ill; on a sick person's business; pressed by the call of nature; going without wishing to invalidate the act, intending to return; the insane etc.
+G: 6
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+සංඝයා කිසියම් කටයුත්තකට රැස්ව **විනිශ්චය කරමින්** සිටියදී, **එක් භික්ෂුවක්** "**ඔබ කවරෙකුට කර්මය කරන්නහු ද?**" යි ==**ඡන්දය නොදී නැගිට පිටත් විය**==. ඔහු නිසා **කර්මය කළ නොහැකි** වූයේය. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**විනිච්ඡයකථාය** — **ඉදිරිපත් කළ වස්තුව විනිශ්චය නොකළ තාක්**, හෝ **ඤත්තිය තබා කර්මවාචාව නිම නොකළ තාක්** "විනිශ්චය කථාව පවතී" යි කියනු ලැබේ.
+**ඡන්දං අදත්වා** — ඡන්දය නොදී.
+**උට්ඨායාසනා පක්කමෙය්‍ය** — යම් භික්ෂුවක් මේ අතර **කර්මය කුප්‍ය කරනු කැමැත්තෙන්** **පිරිසේ හත්ථපාසය** හරියි ද —
+|! අවස්ථාව | ඇවැත
+| හත්ථපාසය **හරින විට** (පළමු පිය) | DK
+| හත්ථපාසය **හැරිය කල්හි** | PC
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** එක්තරා භික්ෂුවක් අරබයා ඡන්දය නොදී පිටත් වීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඇ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ධර්ම කර්මයක විනිශ්චය කථාව පවතිද්දී කුප්‍ය කරනු කැමැත්තෙන් හත්ථපාසය හැරීම | PC
+| හත්ථපාසය හරින විට (පළමු පිය) | DK
+| ධර්ම කර්මයෙහි **සැක** ඇතිව; අධර්ම කර්මයක් ධර්ම යැයි සිතීම / සැක කිරීම | DK
+## (ඈ) අනාපත්ති
+# **අධර්ම කර්ම යැයි** සිතා.
+# "**සංඝයාට ආරවුල්, කලහ, විවාද ඇති වේ**" යි දැන.
+# "**අධර්මයෙන්, වර්ගයෙන්, හෝ කර්මයට නුසුදුසු අයෙකුට කර්මය කරති**" යි දැන.
+# **ගිලන්ව**; **ගිලනෙකුගේ කටයුත්තකට**.
+# **මල මූත්‍ර ආදියෙන් පීඩිතව**.
+# **කර්මය කුප්‍ය කරනු නොකැමතිව**, "**නැවත එන්නෙමි**" යි යාම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= ඡ — සයකි)
+# **විනිශ්චය කථාව පවතින** බව.
+# **ධර්ම කර්මයක්** වීම.
+# **ධර්ම කර්ම යැයි දැනීම**.
+# **සමාන සීමාවේ** සිටීම.
+# **සමාන සංවාසක** බව.
+# **කුප්‍ය කරනු කැමැත්තෙන් හත්ථපාසය හැරීම**.
+## (ඊ) සමුට්ඨානාදිය
+**සමනුභාසන සමුට්ඨානයි** (කාය-වාචා-චිත්ත), **කිරියාකිරියයි** (යාම කිරියාව; ඡන්දය නොදීම අකිරියාව), **සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+While the Saṅgha had assembled for some business and **was deliberating**, **a certain monk**, saying, “**Against whom are you doing this act?**”, ==**got up and left without giving his consent**==. Because of him **the act could not be done**. The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Vinicchayakathāya** — “the deliberation is going on” as long as **the matter raised has not been decided**, or **the motion has been set but the proclamation not finished**.
+**Chandaṃ adatvā** — without giving consent.
+**Uṭṭhāyāsanā pakkameyya** — if a monk in that interval, **wishing to invalidate the act**, leaves **arm's reach of the assembly** —
+|! Stage | Offence
+| **leaving** arm's reach (first foot) | DK
+| **having left** arm's reach | PC
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a certain monk, on the matter of leaving without giving consent. It is a **common rule**, and **anāṇattika**.
+## (C) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| During the deliberation on a legitimate act, leaving arm's reach wishing to invalidate it | PC
+| In the act of leaving arm's reach (first foot) | DK
+| **In doubt** about a legitimate act; an illegitimate act perceived as legitimate or in doubt | DK
+## (D) No offence
+# Perceiving it **as an illegitimate act**.
+# Knowing “**there will be strife, quarrels, disputes in the Saṅgha**.”
+# Knowing “**they will act unlawfully, as an incomplete assembly, or against one not deserving it**.”
+# **Being ill**; **on a sick person's business**.
+# **Pressed by the call of nature**.
+# Going **without wishing to invalidate the act**, intending “**I'll come back**.”
+# For the insane and so on, and the first offender.
+## (E) Factors (= cha — six)
+# **The deliberation going on**.
+# **A legitimate act**.
+# **Perceiving it as legitimate**.
+# Standing **within the same boundary**.
+# Being **in the same communion**.
+# **Leaving arm's reach wishing to invalidate it**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Samanubhāsana origin** (body–speech–mind), **by doing and not doing** (leaving; not giving consent), **release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac81
+T: දුබ්බල සික්ඛාපදය || Complaining after Giving a Robe
+R: - || -
+N: රජගහ නුවර, වේළුවනය || Rājagaha, Veḷuvana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සමග්ග සංඝයා සමඟ සිවුරක් දී පසුව "මිතුරුකම් අනුව දුන්නා" යි විරෝධය || Complaining after giving a robe together with the united Saṅgha
+K: AD sd=s an=a anu=0 ved=D
+Z: ප්‍රකෘතියෙන් ම ඡන්දාදියෙන් කරන්නෙකු දැක "ඔහුට දීමෙන් කවර ප්‍රයෝජන ද" යි විරෝධය; උමතු ආදීන් || Seeing one who habitually acts from bias and complaining “What's the use of giving to him?”; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ රජගහ නුවර · වේළුවනය කලන්දක නිවාපය
+ආයුෂ්මත් **දබ්බ මල්ලපුත්ත** තෙරුන් සංඝයාගේ **සෙනසුන් පනවන්නා හා බත් උද්දේශකයා** ලෙස සේවය කළහ; උන්වහන්සේගේ සිවුර **දුර්වල** විය. එකල සංඝයාට **සිවුරක්** ලැබිණ. සංඝයා එය **දබ්බ තෙරුන්ට දුන්නේය**. **ෂඩ්වර්ගීය භික්ෂූහු** ද සමග්ගව සිවුර දී, පසුව ==**"භික්ෂූහු සංඝ ලාභය මිතුරුකම් අනුව බෙදති"**== යි විරෝධය දැක්වූහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සමග්ගෙන සඞ්ඝෙන** — **සමාන සංවාසක**, **සමාන සීමාවේ** සිටින සංඝයා සමඟ **සිවුර දී**.
+**යථාසන්ථුතං** — **මිත්‍ර, සන්දිට්ඨ, සම්භත්ත** වශයෙන් යමෙක් යමෙකු හා හුරු ද — ඔහුට.
+**පාචිත්තියං** — සංඝයා සමඟ **තමා ම**, **සෙනසුන් පනවන්නා ආදී ලෙස සම්මත** භික්ෂුවකට සිවුර දී, පසුව විරෝධය දක්වන්නාට ==**වචනයක් පාසා** පාචිත්තිය==.
+## (ආ) ගරුභාණ්ඩ පස
+**සිවුර හැර** අන් **විස්සජ්ජිය-වේභංගිය** (දිය හැකි, බෙදිය හැකි) පිරිකරක් දී පසුව විරෝධය **දුක්කට** ය. "විස්සජ්ජිය-වේභංගිය" නම් **ගරුභාණ්ඩ පස හැර** සෙසු දේ ය:
+|! රාශිය | ගරුභාණ්ඩ
+| 1 | **ආරාමය** හා **ආරාම භූමිය**
+| 2 | **විහාරය** හා **විහාර භූමිය**
+| 3 | **ඇඳ, පුටුව, මෙට්ට, කොට්ටය**
+| 4 | **ලෝහ කුම්භිය, ලෝහ භාණකය, ලෝහ වාරකය, ලෝහ කටාහය, වෑය, පොරොව, කෙටේරිය, උදැල්ල, නිඛාදනය** (කණින උපකරණය)
+| 5 | **වැල්, උණ, මුංජ, පබ්බජ තණ, තණකොළ, මැටි, දැව භාණ්ඩ, මැටි භාණ්ඩ**
+==මේ පස **සංඝයාට හෝ ගණ පුද්ගලයන්ට අත්හැරීමට හෝ බෙදීමට නොවටී**; අත්හළ ද බෙදූ ද **සාංඝික ම** වේ.== ථාවරයෙන් ථාවරය ද, සංඝයාගේ උපකාරය සලකා කැප පරිවර්තනයෙන් ද හුවමාරු කළ හැකිය. බලයෙන් දෙන්නා **ථුල්ලච්චයට** පැමිණේ; සොර සිතින් ගන්නා භාණ්ඩ මිල අනුව විනිශ්චය කළ යුතුය.
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**රජගහ නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා සිවුරක් දී පසුව විරෝධය දැක්වීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. ධර්ම කර්මයෙහි **තික පාචිත්තියකි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| සංඝයා සමඟ ධර්මයෙන් සම්මත භික්ෂුවකට සිවුරක් දී පසුව විරෝධය — වචනයක් පාසා (**තික පාචිත්තිය**) | PC
+| සිවුර හැර අන් විස්සජ්ජිය පිරිකරක් දී විරෝධය | DK
+| සංඝයා **සම්මත නොකළ** අයෙකුට සිවුර හෝ අන් පිරිකර දී විරෝධය | DK
+| **අනුපසම්පන්නයෙකුට** — සෑම තැනම | DK
+## (ඉ) අනාපත්ති
+# **ප්‍රකෘතියෙන් ම ඡන්ද, දෝස, මෝහ, භයෙන් කරන්නෙකු** දැක, "**ඔහුට දීමෙන් කවර ප්‍රයෝජන ද? ලැබුව ද නස්සයි, මනාව නොයොදයි**" යි විරෝධය.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= චත්තාරි — සතරකි)
+# **උපසම්පන්නයෙක්** වීම.
+# **ධර්මයෙන් සම්මුතිය ලැබූ** බව.
+# **සංඝයා සමඟ විකප්පනයට සුදුසු සිවුරක් දීම**.
+# **පසුව විරෝධය දක්වනු කැමැත්තෙන් විරෝධය**.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Rājagaha · Veḷuvana, the squirrels' feeding place
+Ven. **Dabba the Mallian** served the Saṅgha as **assigner of lodgings and allocator of meals**, and his robe was **worn out**. A **robe** came to the Saṅgha, and the Saṅgha **gave it to Ven. Dabba**. **The group-of-six**, having joined in giving it, afterwards ==complained: “**The monks share out the Saṅgha's gains according to friendship.**”== The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Samaggena saṅghena** — having **given the robe** together with a Saṅgha **in the same communion** and **within the same boundary**.
+**Yathāsanthutaṃ** — to whoever one is familiar with as **friend, acquaintance or companion**.
+**Pācittiyaṃ** — for one who, together with the Saṅgha, **himself** gives a robe to a monk **authorised as assigner of lodgings etc.**, and afterwards complains, ==a pācittiya **for each utterance**==.
+## (B) The five kinds of heavy goods
+Giving **some requisite other than a robe** that is **distributable and divisible** and afterwards complaining is **dukkaṭa**. “Distributable and divisible” means everything **except the five heavy goods**:
+|! Group | Heavy goods
+| 1 | **a monastery** and **monastery land**
+| 2 | **a dwelling** and **dwelling site**
+| 3 | **bed, chair, mattress, pillow**
+| 4 | **metal pot, metal jar, metal jug, metal cauldron, adze, axe, hatchet, hoe, digging tool**
+| 5 | **creepers, bamboo, muñja and pabbaja grass, thatch, clay, wooden goods, clay goods**
+==These five **may not be given away or divided by the Saṅgha, a group or an individual**; even if given away or divided, they **remain Saṅgha property**.== Fixed may be exchanged for fixed, and others exchanged in an allowable way with regard to the Saṅgha's benefit. One who gives them away by authority incurs **a thullaccaya**; one who takes them with intent to steal is judged by their value.
+## (C) The laying down of the rule and the command
+It was laid down at **Rājagaha** concerning the group-of-six, on the matter of complaining after giving a robe. It is a **common rule**, **anāṇattika**, and for a legitimate act a **triple pācittiya**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Having given a robe with the Saṅgha to a monk legitimately authorised, complaining afterwards — each utterance (**triple pācittiya**) | PC
+| Complaining after giving a distributable requisite other than a robe | DK
+| Complaining after giving a robe or other requisite to one **not authorised** by the Saṅgha | DK
+| **An unordained person** — in every case | DK
+## (E) No offence
+# Seeing one who **habitually acts from desire, hatred, delusion or fear**, complaining: “**What's the use of giving to him? He'll waste it and not use it properly.**”
+# For the insane and so on, and the first offender.
+## (F) Factors (= cattāri — four)
+# **An ordained person**.
+# **Legitimately authorised**.
+# **Giving a robe of assignable size together with the Saṅgha**.
+# **Complaining, wishing to complain afterwards**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins, by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling**.
+
+@pac82
+T: පරිණාමන සික්ඛාපදය || Diverting Gains to Another
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සංඝයාට පරිණත ලාභය අන් පුද්ගලයෙකුට හැරවීම || Diverting to another individual gains intended for the Saṅgha
+K: AD sd=s an=a anu=0
+Z: "කොහි දෙමු ද?" යි ඇසූ විට "ඔබේ සිත පහදින, පරිභෝගයට යෙදෙන, බොහෝ කල් පවතින තැනක දෙන්න" යි කීම; පරිණත නොවේ යැයි සිතා; උමතු ආදීන් || When asked “Where shall we give?”, saying “Where your mind is inspired, where it will be used and last long”; perceiving it as not intended; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+සැවැත් නුවර එක් **පූගයක්** "**සංඝයාට දන් දී සිවුරුවලින් පුදන්නෙමු**" යි **සිවුරු සහිත දානයක්** පිළියෙළ කළේය. **ෂඩ්වර්ගීය භික්ෂූහු** ඔවුන් වෙත ගොස් ==**"මේ සිවුරු අසවල් අසවල් භික්ෂූන්ට දෙන්න"**== යි — **තමන්ට නොව, අන් පුද්ගලයන්ට** — හැරවූහ. භික්ෂූහු දොස් කීහ; භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**ජානං** — **තමා ම දැන**, හෝ **අනුන් කියා**, හෝ **දායකයා ම කියා**.
+**සඞ්ඝිකං** — සංඝයාට **පරිණත** වූ බැවින් **අතට නොපැමිණිය ද** එක් පරියායකින් සංඝයා සතු වූ.
+**ලාභං** — **සිවුරු, පිණ්ඩපාත, සෙනසුන්, ගිලන්පස බෙහෙත් පිරිකර**; අවම වශයෙන් **සුණු පිඩක්, දැහැටියක්, දසිකාවේ නූලක්** වුව ද.
+**පරිණතං** — "**දෙන්නෙමු, කරන්නෙමු**" යි **වචනය බිඳ** හෝ **අත් සන්නයකින්** — සංඝයාට **නැඹුරු වී** සිටින.
+**පුග්ගලස්ස පරිණාමෙය්‍ය** — "**මේ භික්ෂුවට දෙන්න**" යි **වෙනත් පුද්ගලයෙකුට** හරවයි. පරිණාමනයේ **පයෝගයේ දුක්කට**; **ඔහුට ලැබීමෙන් පාචිත්තිය**.
+## (ආ) නිස්සග්ගිය 30 සමඟ
+**නිස්සග්ගිය 30** (තමාට හැරවීම) සමඟ සැසඳීම:
+|! කරුණ | නිස්සග්ගිය 30 | පාචිත්තිය 82
+| හරවන්නේ | **තමාට** | **අන් පුද්ගලයෙකුට**
+| ඇවැත | **නිස්සග්ගිය පාචිත්තිය** (දෙය අත්හළ යුතුය) | **සුද්ධ පාචිත්තිය**
+| එකක් තමාට, එකක් අනෙකෙකුට | — | ඇවැත් **දෙක ම**
+| සංඝ / චෛත්‍ය / පුද්ගල අතර වෙනත් හැරවීම් | DK | DK
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා අන් පුද්ගලයෙකුට පරිණාමනය කිරීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| පරිණාමනයේ පයෝගය | DK
+| සංඝයාට පරිණත බව දැන අන් පුද්ගලයෙකුට හරවා **ලැබීම** | PC
+| පරිණත දෙයෙහි සැක ඇතිව; අපරිණත දෙයක් පරිණත යැයි සිතා / සැක ඇතිව | DK
+| සංඝ / චෛත්‍ය / පුද්ගල අයෙකුට පරිණත දෙය අන් සංඝ / චෛත්‍යයකට හැරවීම | DK
+## (ඉ) අනාපත්ති
+# **පරිණත දෙය අපරිණත යැයි** සිතා.
+# "**කොහි දෙමු ද?**" යි ඇසූ විට "**ඔබේ දෙය්‍යධර්මය පරිභෝගයට යෙදෙන, ප්‍රතිසංස්කරණයට යෙදෙන, බොහෝ කල් පවතින තැනක**, හෝ **ඔබේ සිත පහදින තැනක** දෙන්න" යි කීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= තීණි — තුනකි)
+# ලාභය **සංඝයාට පරිණත** වීම.
+# **එය දැන** අන් පුද්ගලයෙකුට පරිණාමනය කිරීම.
+# **ලැබීම**.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+At Sāvatthī a certain **guild** prepared **a meal with robes**: “**We'll feed the Saṅgha and present them with robes.**” **The group-of-six** went to them and ==diverted them — “**Give these robes to such-and-such monks**” — **not to themselves but to other individuals**==. The monks criticised them, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Jānaṃ** — **knowing it himself**, or **told by others**, or **told by the donor**.
+**Saṅghikaṃ** — belonging to the Saṅgha in a sense, being **intended** for it **even if not yet handed over**.
+**Lābhaṃ** — **robes, almsfood, lodgings, medicines**; even **a lump of bath powder, a tooth stick, a fringe thread**.
+**Pariṇataṃ** — **inclined** towards the Saṅgha by **words spoken** (“we will give, we will make”) or **by a gesture**.
+**Puggalassa pariṇāmeyya** — diverts it **to another individual**: “**Give it to this monk**.” **Dukkaṭa in the effort** of diverting; **pācittiya when he receives it**.
+## (B) Compared with nissaggiya 30
+Compared with **nissaggiya 30** (diverting to oneself):
+|! Point | Nissaggiya 30 | Pācittiya 82
+| diverted to | **oneself** | **another individual**
+| offence | **nissaggiya pācittiya** (the item forfeited) | **pure pācittiya**
+| one to oneself, one to another | — | **both** offences
+| other diversions among Saṅgha / shrine / individual | DK | DK
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of diverting to another individual. It is a **common rule**, and **anāṇattika**.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| The effort of diverting | DK
+| Knowing it was intended for the Saṅgha, diverting it to another individual and its **being received** | PC
+| In doubt whether intended; not intended, perceived as intended or in doubt | DK
+| Diverting what was intended for a Saṅgha / shrine / individual to another Saṅgha / shrine | DK
+## (E) No offence
+# Perceiving what was intended **as not intended**.
+# When asked “**Where shall we give?**”, saying, “**Give where your gift will be used, kept in repair and last long**, or **where your mind is inspired**.”
+# For the insane and so on, and the first offender.
+## (F) Factors (= tīṇi — three)
+# The gain **intended for the Saṅgha**.
+# **Knowing this**, diverting it to another individual.
+# **Its being received**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins, by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, three feelings**.

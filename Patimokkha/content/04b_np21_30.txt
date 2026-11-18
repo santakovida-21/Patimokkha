@@ -1,0 +1,607 @@
+@np21
+T: පත්ත සික්ඛාපදය || The Extra Bowl
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අතිරේක පාත්‍ර දැරීම || Keeping extra bowls
+K: KT sd=a an=a anu=1
+Z: දින දහය ඇතුළත අධිෂ්ඨාන, විකප්පන, දීම, නැති වීම, විනාශ වීම, බිඳීම, පැහැර ගැනීම, විශ්වාසයෙන් ගැනීම; උමතු ආදීන් || Within ten days determined, assigned, given away, lost, destroyed, broken, snatched, taken on trust; the insane etc.
+G: 5
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==බොහෝ පාත්‍ර රැස් කොට තබා ගත්හ==. විහාර චාරිකාවේ ආ මිනිස්සු එය දැක "ශාක්‍යපුත්‍රීය ශ්‍රමණයෝ ගම් නියම්ගම්වල ඇවිද **පාත්‍ර වෙළඳාමක්** කරන්නෝ ද? නැතහොත් **මැටි බඳුන් කඩයක්** (ආමත්තිකාපණ) දමන්නෝ දැ?" යි දොස් කීහ. අල්පේච්ඡ භික්ෂූන් මේ බව සැළ කළ කල්හි භාග්‍යවතුන් වහන්සේ "**යමෙක් අතිරේක පාත්‍රයක් දරයි නම් නිස්සග්ගිය පාචිත්තියයි**" යි ශික්ෂාපදය පැනවූහ.
+පසුව **ආනන්ද** තෙරුන්ට අතිරේක පාත්‍රයක් ලැබිණ. උන්වහන්සේ එය සාකේතයේ වැඩ සිටි **සාරිපුත්ත** තෙරුන්ට දීමට කැමති වූහ. "සාරිපුත්ත කවදා පැමිණේ ද?" යි ඇසූ භාග්‍යවතුන් වහන්සේට "නවවන හෝ දසවන දිනයේ" යි සැළ කළ හෙයින්, ==අතිරේක පාත්‍රයක් දින දහයක් දක්වා දැරීමට== අනුදැන "**දසාහපරමං**" අනුප්‍රඥප්තිය පැනවූහ.
+## (අ) පද විවරණය
+**දසාහපරමං** — දින දහයක් උපරිම සීමාව කොට දැරිය යුතුය.
+**අතිරෙකපත්තො** — **අධිෂ්ඨාන නොකළ, විකප්පන නොකළ** පාත්‍රය. එය ද **උක්කට්ඨ, මජ්ඣිම, ඔමක** යන ප්‍රමාණ තුනෙන් එකකට අයත් **ප්‍රමාණයුක්ත** පාත්‍රයක් ම විය යුතුය.
+**පත්තො** — පාත්‍ර දෙවර්ගයකි: **අයෝ පාත්‍රය** (යකඩ) හා **මැටි පාත්‍රය**.
+|! ප්‍රමාණය | ගන්නා බත (මගධ නැළියෙන්) | ඊට අමතරව
+| **උක්කට්ඨ** (විශාල) | අඩ්ඪාළ්හක — සහල් නැළි **2**ක බත | බතින් හතරෙන් කොටසක් "ඛාදන" (මුං හොද්ද), ඊට සුදුසු ව්‍යඤ්ජන
+| **මජ්ඣිම** (මධ්‍යම) | නාළික — සහල් නැළි **1**ක බත | එසේ ම
+| **ඔමක** (කුඩා) | පත්ථ — සහල් නැළි **½**ක බත | එසේ ම
+උක්කට්ඨයට වඩා විශාල දෙය හා ඔමකයට වඩා කුඩා දෙය **පාත්‍ර නොවේ (අපත්ත)**. *මගධ නැළිය* සාමාන්‍ය ප්‍රමාණයයි; මහා අට්ඨකථාවට අනුව මගධ නැළි එකහමාරක් එක් සිංහල නැළියකි.
+!dgm: pt-sizes පාත්‍ර ප්‍රමාණ තුන — ධාරිතාව 4 : 2 : 1 (විශාල කර දක්වා ඇත)
+## (ආ) පාත්‍රය මැනීමේ විනිශ්චය
+කඞ්ඛාවිතරණියේ (සමන්තපාසාදිකාවේ ද) කියන ක්‍රමය:
+# නොහැපුණු **පැරණි හැල් සහල්**, හොඳින් කොටා පිරිසිදු කළ **මගධ නැළි දෙකක්** ගත යුතුය.
+# ඉන් **නොහැඳුණු, නොදියවූ, ගුලි නොවූ**, සමන් කැකුළු රාශියක් වැනි ලිහිල් බතක් (කැඳ නොහළා) පිස, **සියල්ල ම** පාත්‍රයට දැමිය යුතුය.
+# ඒ බතින් **හතරෙන් කොටසක්** තරම්, ඉතා ඝන නොවූ, ඉතා දියාරු නොවූ, අතින් ගත හැකි, සියලු කුළුබඩු සහිත **මුං හොද්දක්** දැමිය යුතුය.
+# ඉන්පසු අවසන් බත් පිඩ දක්වා ප්‍රමාණවත් වන සේ **මාළු මස් ආදී ව්‍යඤ්ජන** දැමිය යුතුය.
+# **ගිතෙල්, තෙල්, මෝරු, කාඩි** ආදිය ගණනට නොගැනේ — ඒවා බතට ම අයත් ය; අඩු කිරීමට හෝ වැඩි කිරීමට නොහැකිය.
+මෙසේ දැමූ සියල්ල පාත්‍රයේ **මුව දාරයට පහළ රේඛාවට (හෙට්ඨිම රාජිය) සම ව** — නූලකින් හෝ තණ පතකින් සිඳින විට එහි යටි කෙළවර ස්පර්ශ වන සේ — තිබේ නම් එය **උක්කට්ඨ** පාත්‍රයයි. රේඛාව ඉක්මවා **ගොඩ වී** තිබේ නම් **උක්කට්ඨොමක**; රේඛාවට **නොපැමිණ** ඇතුළත ම තිබේ නම් **උක්කට්ඨුක්කට්ඨ** ය.
+!dgm: pt-levels මගධ නැළි 2ක බත් හා ව්‍යඤ්ජන දැමූ විට රේඛාවට සාපේක්ෂව තිබෙන මට්ටම
+නැළි එකක බතින් මැනීමෙන් **මජ්ඣිම, මජ්ඣිමොමක, මජ්ඣිමුක්කට්ඨ** ද, නැළි භාගයක බතින් **ඔමක, ඔමකොමක, ඔමකුක්කට්ඨ** ද ලෙස — **පාත්‍ර නවයකි**.
+|! වර්ගය | ගොඩ වී (…ඔමක) | සමව | නොපැමිණ (…උක්කට්ඨ)
+| උක්කට්ඨ (නැළි 2) | උක්කට්ඨොමක ✓ | උක්කට්ඨ ✓ | ==උක්කට්ඨුක්කට්ඨ ✕==
+| මජ්ඣිම (නැළි 1) | මජ්ඣිමොමක ✓ | මජ්ඣිම ✓ | මජ්ඣිමුක්කට්ඨ ✓
+| ඔමක (නැළි ½) | ==ඔමකොමක ✕== | ඔමක ✓ | ඔමකුක්කට්ඨ ✓
+**උක්කට්ඨුක්කට්ඨ** හා **ඔමකොමක** යන දෙක **අපත්ත** ය — "තතො උක්කට්ඨො අපත්තො, ඔමකො අපත්තො" යනු මේවා ගැන ය. ඒවා **භාජනයක් ලෙස** පරිහරණය කළ හැකි නමුත් අධිෂ්ඨානයට හෝ විකප්පනයට සුදුසු නොවේ. සෙසු **සතක් ප්‍රමාණයුක්ත** ය; ඒවා අධිෂ්ඨාන හෝ විකප්පන කොට පරිහරණය කළ යුතුය.
+## (ඇ) අධිෂ්ඨානය, විකප්පනය හා පච්චුද්ධරණය
+**අධිෂ්ඨානයට සුදුසු වීම** — අයෝ පාත්‍රය **පාක පහකින්**, මැටි පාත්‍රය **පාක දෙකකින්** ශ්‍රමණ සාරූප්‍ය ලෙස පිළිස්සී තිබිය යුතු අතර, ==ගෙවිය යුතු මිලෙන් **කාකණිකයක් තරම්වත්** ඉතිරි නොවිය යුතුය==. පාකයක් අඩු නම් හෝ මිල ඉතිරි නම් අධිෂ්ඨානයට සුදුසු නොවේ; එවිට පැරණි පාත්‍රය පච්චුද්ධරණය නොකොට නව පාත්‍රය **විකප්පනය** කළ යුතුය. පාත්‍රකරුවා "අසවල් දිනයේ පිස තබමි" යි කීවේ නම් ඒ දින සිට දින දහය ගණන් වේ.
+**අධිෂ්ඨාන ක්‍රමය** — පැරණි පාත්‍රය "**ඉමං පත්තං පච්චුද්ධරාමි**" (ඈත නම් "එතං…") යි පච්චුද්ධරණය කොට හෝ අනුන්ට දී, නව පාත්‍රය —
+- **කයින්**: අතින් අල්ලා "ඉමං පත්තං අධිට්ඨාමි" යි සිතින් සලකා;
+- **වචනයෙන්**: හත්ථපාසයේ ඇත්නම් "**ඉමං පත්තං අධිට්ඨාමි**", කාමරයක, උඩුමහලක හෝ ළඟ විහාරයක ඇත්නම් තැබූ තැන සලකා "**එතං පත්තං අධිට්ඨාමි**" යි.
+තනිව ම හෝ අනෙකෙකු ඉදිරියේ හෝ අධිෂ්ඨාන කළ හැකිය; අනෙකෙකු ඉදිරියේ කිරීමේ ආනිසංසය — "අධිෂ්ඨාන කළා ද නැද්ද" යන සැකය ඔහු සිහි කරවා සිඳින්නේ ය.
+==පාත්‍ර දහයක් ලැබූ පාත්‍ර නැති භික්ෂුවක්== ඒ සියල්ල තමා ම පරිහරණය කිරීමට කැමති නම්, සියල්ල අධිෂ්ඨාන නොකළ යුතුය. එකක් අධිෂ්ඨාන කොට, පසු දින එය පච්චුද්ධරණය කොට අනෙකක් අධිෂ්ඨාන කළ යුතුය — මේ උපායෙන **අවුරුදු සියයක්** වුව ද පරිහරණය කළ හැකිය.
+|! විකප්පන ක්‍රමය | කියන ආකාරය
+| සම්මුඛා විකප්පනා (1) | "ඉමං පත්තං තුය්හං විකප්පෙමි"
+| සම්මුඛා විකප්පනා (2) | ඒ භික්ෂුව ඉදිරියේ ම සහධාර්මිකයන් පස් දෙනාගෙන් කෙනෙකුගේ නමින් — "ඉමං පත්තං **තිස්සස්ස භික්ඛුනො** විකප්පෙමි"
+| පරම්මුඛා විකප්පනා | "ඉමං පත්තං තුය්හං විකප්පනත්ථාය දම්මි" — "කො තෙ මිත්තො වා සන්දිට්ඨො වා?" — "තිස්සො භික්ඛූ" — "අහං තිස්සස්ස භික්ඛුනො දම්මි"
+විකප්පනයෙන් පසු **තැබීමට පමණක්** වටී; පරිහරණය, දීම, අධිෂ්ඨානය නොවටී. විකප්පනය ලැබූ භික්ෂුව "**…සන්තකං පරිභුඤ්ජ වා විස්සජ්ජෙහි වා යථාපච්චයං වා කරොහි**" යි කීමෙන් **පච්චුද්ධාරය** සිදු වූ පසු පරිහරණය ආදිය වටී.
+**අධිෂ්ඨානය බිඳෙන කරුණු** — අනුන්ට **දීම**, **සිවුරු හැරීම**, **ශික්ෂාව ප්‍රතික්ෂේප කිරීම**, **මරණය**, **ලිංගය පෙරළීම**, **පච්චුද්ධරණය**, **සිදුරක්** (සත්වන කරුණ); සොරුන් පැහැර ගැනීමෙන් හා විශ්වාසයෙන් ගැනීමෙන් ද බිඳේ.
+> දින්නවිබ්භන්තපච්චක්ඛා, කාලංකිරියකතෙන ච;
+> ලිඞ්ගපච්චුද්ධරා චෙව, ඡිද්දෙන භවති සත්තමං.
+**සිදුර** — මුව දාරයේ සිට **අඟල් දෙකකට පහළින්** කොතැනක හෝ **තණහාල් (කඞ්ගු) ඇටයක් රිංගා යන තරම්** සිදුරක් ඇති වූ විට අධිෂ්ඨානය බිඳේ. යකඩ කුඩු හෝ ඇණයකින් පෙර පරිදි සකසා **දින දහය ඇතුළත** නැවත අධිෂ්ඨාන කළ යුතුය.
+## (ඈ) නිස්සජ්ජනය
+එකොළොස්වන අරුණ නැගීමෙන් පාත්‍රය නිස්සග්ගිය වේ. **සංඝයාට, ගණයකට හෝ පුද්ගලයෙකුට** නිස්සජ්ජනය කළ යුතුය:
+> අයං මෙ, භන්තෙ, පත්තො දසාහාතික්කන්තො නිස්සග්ගියො, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි.
+ඉන්පසු ඇවත දෙසා, ව්‍යක්ත භික්ෂුවක් එය පිළිගෙන, "සඞ්ඝො ඉමං පත්තං ඉත්ථන්නාමස්ස භික්ඛුනො දදෙය්‍ය" යි ඤත්තියෙන් **පාත්‍රය ආපසු දිය යුතුය**. ෂඩ්වර්ගීයයන් නිස්සජ්ජනය කළ පාත්‍රය ආපසු නොදුන් හෙයින් "**නිස්සට්ඨ පාත්‍රය ආපසු නොදෙන්නාට දුක්කටයි**" යි වදාළහ.
+## (ඉ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා අතිරේක පාත්‍ර දැරීමේ වස්තුවෙහි පැනවිණි. "දසාහපරමං" **අනුප්‍රඥප්තියයි**. **අසාධාරණ ප්‍රඥප්තියකි** (භික්ෂුණීන්ට "පාත්‍ර සන්නිචය" නම් වෙනම ශික්ෂාපදයක් ඇත). **අනාණත්තිකයි**.
+## (ඊ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| දින දහය ඉක්මවූ විට — ඉක්මවූ බව දැන, සැක ඇතිව, හෝ නොඉක්මවූ යැයි සිතා (**තික පාචිත්තිය**) | NP
+| අධිෂ්ඨාන නොකළ, විකප්පන නොකළ, නොදුන්, නැති නොවූ, විනාශ නොවූ, නොබිඳුණු, පැහැර නොගත් පාත්‍රයක් ඒවා සිදු වූ යැයි සිතා දින දහය ඉක්මවීම | NP
+| නිස්සග්ගිය පාත්‍රය නිස්සජ්ජනය නොකොට පරිභෝග කිරීම — කැඳ බී සේදූ විට, කැවිලි කා බත් අනුභව කොට සේදූ විට ආදී ලෙස **පයෝගයක් පාසා** | DK
+| දින දහය නොඉක්මවූ නමුත් ඉක්මවූ යැයි සිතීම හෝ සැක කිරීම | DK
+| නිස්සජ්ජනය කළ පාත්‍රය ආපසු නොදීම | DK
+## (උ) අනාපත්ති
+දින දහය ඇතුළත —
+# **අධිෂ්ඨාන** කළ විට; **විකප්පන** කළ විට; **දුන්** විට.
+# **නැති වූ**, **විනාශ වූ**, **බිඳුණු** විට.
+# **පැහැර ගත්** විට; **විශ්වාසයෙන් ගත්** විට.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඌ) අංග (= පඤ්ච — පහකි)
+# පාත්‍රය **තමා සතු** වීම (මිල සම්පූර්ණයෙන් ගෙවා).
+# **ජාතියෙන් හා ප්‍රමාණයෙන් යුක්ත** වීම (පාක සම්පූර්ණ, ප්‍රමාණ සතෙන් එකක්).
+# **අධිෂ්ඨාන නොකළ** බව.
+# **විකප්පන නොකළ** බව — එනම් අතිරේක පාත්‍රයක් වීම.
+# **දින දහය ඉක්මවීම** (එකොළොස්වන අරුණ).
+## (එ) සමුට්ඨානාදිය
+**කථින සමුට්ඨානයි** (කාය-වාචා හෝ කාය-වාචා-චිත්ත), **අකිරියයි** (අධිෂ්ඨාන / විකප්පන නොකිරීම), **නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six monks** ==hoarded many bowls==. People touring the monastery saw this and complained, “Are the Sakyan ascetics going round the villages and towns **dealing in bowls**, or will they open **a crockery shop** (āmattikāpaṇa)?” When the monks of few wishes reported it, the Blessed One laid down the rule: “**Whoever keeps an extra bowl — nissaggiya pācittiya.**”
+Later Ven. **Ānanda** received an extra bowl, which he wished to give to Ven. **Sāriputta**, then staying at Sāketa. Asked when Sāriputta would come, he answered, “On the ninth or tenth day,” so the Blessed One ==allowed an extra bowl to be kept for up to ten days== and added the supplementary rule “**dasāhaparamaṃ**.”
+## (A) Explanation of terms
+**Dasāhaparamaṃ** — it may be kept with ten days as the utmost limit.
+**Atirekapatto** — a bowl **neither determined nor assigned**. It must be a bowl **of proper size**, i.e. of one of the three sizes: **large, medium or small**.
+**Patto** — there are two kinds of bowl: the **iron bowl** and the **clay bowl**.
+|! Size | Holds (Magadha measure) | Besides
+| **Ukkaṭṭha** (large) | aḍḍhāḷhaka — cooked rice of **2** nāḷi of grain | a quarter of that in “khādana” (bean curry) and suitable side dishes
+| **Majjhima** (medium) | nāḷika — rice of **1** nāḷi | likewise
+| **Omaka** (small) | pattha — rice of **½** nāḷi | likewise
+One larger than the large and one smaller than the small **are not bowls (apatta)**. The *Magadha nāḷi* is the standard measure; according to the Mahā-aṭṭhakathā one and a half Magadha nāḷi make one Sinhala nāḷi.
+!dgm: pt-sizes The three bowl sizes — capacity 4 : 2 : 1 (drawn enlarged)
+## (B) How a bowl is measured
+The method given in the Kaṅkhāvitaraṇī (and the Samantapāsādikā):
+# Take **two Magadha nāḷi of old sāli rice**, unbroken, well pounded and cleaned.
+# Cook it so it is **neither undercooked, nor mushy, nor lumpy** — loose like a heap of jasmine buds, without draining off the water — and put **all of it** into the bowl.
+# Add **bean soup** amounting to **a quarter** of that rice, neither too thick nor too thin, such as can be taken by hand, with all its seasonings.
+# Then add **fish, meat and other curries** enough for every mouthful down to the last.
+# **Ghee, oil, buttermilk, sour gruel** and the like are not counted — they go with the rice and can neither reduce nor increase it.
+If all this stands **level with the line below the mouth-rim** (heṭṭhima-rāji) — so that a thread or blade of grass drawn across touches it with its lower edge — it is a **large (ukkaṭṭha)** bowl. If it is **heaped above** the line it is **ukkaṭṭhomaka**; if it **does not reach** the line but stays inside, it is **ukkaṭṭhukkaṭṭha**.
+!dgm: pt-levels Two nāḷi of rice with curries: where the food stands against the line
+Measured likewise with one nāḷi there are **majjhima, majjhimomaka, majjhimukkaṭṭha**, and with half a nāḷi **omaka, omakomaka, omakukkaṭṭha** — **nine bowls** in all.
+|! Class | Heaped (…omaka) | Level | Below (…ukkaṭṭha)
+| Large (2 nāḷi) | ukkaṭṭhomaka ✓ | ukkaṭṭha ✓ | ==ukkaṭṭhukkaṭṭha ✕==
+| Medium (1 nāḷi) | majjhimomaka ✓ | majjhima ✓ | majjhimukkaṭṭha ✓
+| Small (½ nāḷi) | ==omakomaka ✕== | omaka ✓ | omakukkaṭṭha ✓
+The **ukkaṭṭhukkaṭṭha** and the **omakomaka** are **not bowls** — “tato ukkaṭṭho apatto, omako apatto” refers to these. They may be used as **ordinary vessels** but are fit neither for determining nor for assigning. The other **seven are of proper size** and must be determined or assigned before use.
+## (C) Determining, assigning and relinquishing
+**Fit for determination** — an iron bowl fired in **five firings**, a clay bowl in **two**, in a manner befitting ascetics, and ==not even a **kākaṇika** of its price left unpaid==. If a firing is lacking or any price remains, it is not fit for determination; then, without relinquishing the old bowl, the new one should be **assigned** (vikappana). If the potter has said, “I will fire it and keep it ready on such-and-such day,” the ten days count from that day.
+**How to determine** — relinquish the old bowl with “**imaṃ pattaṃ paccuddharāmi**” (if distant, “etaṃ…”), or give it away; then determine the new one —
+- **by body**: touching it with the hand and resolving in mind, “I determine this bowl”;
+- **by speech**: if within arm's reach, “**imaṃ pattaṃ adhiṭṭhāmi**”; if it is in a room, an upper storey or a nearby monastery, noting where it is, “**etaṃ pattaṃ adhiṭṭhāmi**.”
+One may determine alone or in another's presence; the advantage of the latter is that if doubt arises — “Did I determine it or not?” — he can remind him and cut the doubt.
+==A bowl-less monk who gets ten bowls== and wants to use them all himself should not determine them all. He determines one, the next day relinquishes it and determines another — by this means he can keep them **even for a hundred years**.
+|! Way of assigning | What is said
+| In presence (1) | “Imaṃ pattaṃ tuyhaṃ vikappemi”
+| In presence (2) | before that monk, naming one of the five co-religionists — “Imaṃ pattaṃ **Tissassa bhikkhuno** vikappemi”
+| In absence | “Imaṃ pattaṃ tuyhaṃ vikappanatthāya dammi” — “Ko te mitto vā sandiṭṭho vā?” — “Tisso bhikkhū” — “Ahaṃ Tissassa bhikkhuno dammi”
+After assigning it may **only be stored**; using it, giving it away or determining it is not allowed. Once the recipient says, “**…santakaṃ paribhuñja vā vissajjehi vā yathāpaccayaṃ vā karohi**,” it is **relinquished back (paccuddhāra)**, and use and the rest are allowed.
+**What breaks the determination** — **giving** it to another, **leaving the robes**, **renouncing the training**, **death**, **change of sex**, **relinquishing**, and **a hole** (the seventh); also being stolen and being taken on trust.
+> Dinnavibbhantapaccakkhā, kālaṃkiriyakatena ca;
+> liṅgapaccuddharā ceva, chiddena bhavati sattamaṃ.
+**The hole** — a hole anywhere **below two finger-breadths from the rim**, big enough for **a millet (kaṅgu) grain** to pass through, breaks the determination. When it has been made good with iron powder or a rivet, the bowl is to be determined again **within ten days**.
+## (D) Forfeiture
+At the eleventh dawn the bowl becomes nissaggiya. It is to be forfeited **to a Saṅgha, a group or an individual**:
+> Ayaṃ me, bhante, patto dasāhātikkanto nissaggiyo, imāhaṃ saṅghassa nissajjāmi.
+Then the offence is confessed, received by a competent monk, and with a motion — “saṅgho imaṃ pattaṃ itthannāmassa bhikkhuno dadeyya” — **the bowl is returned**. Because the group-of-six did not return forfeited bowls, it was laid down: “**Whoever does not return a forfeited bowl — dukkaṭa.**”
+## (E) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six monks, on the matter of keeping extra bowls. “Dasāhaparamaṃ” is a **supplementary rule**. It is a **rule not shared** with the nuns (they have their own rule on hoarding bowls), and **anāṇattika**.
+## (F) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Ten days passed — knowing it, in doubt, or perceiving them as not passed (**triple pācittiya**) | NP
+| A bowl not determined, not assigned, not given, not lost, not destroyed, not broken, not snatched — perceived as such — kept beyond ten days | NP
+| Using a nissaggiya bowl without forfeiting it — after drinking gruel and washing, after eating snacks, after a meal — **for each act of use** | DK
+| Ten days not passed, perceived as passed or in doubt | DK
+| Not returning a forfeited bowl | DK
+## (G) No offence
+Within ten days it is —
+# **determined**, **assigned** or **given away**;
+# **lost**, **destroyed** or **broken**;
+# **snatched** or **taken on trust**;
+# for the insane and so on, and the first offender.
+## (H) Factors (= pañca — five)
+# The bowl **belonging to oneself** (price fully paid).
+# Of **proper material and size** (firings complete; one of the seven sizes).
+# **Not determined**.
+# **Not assigned** — i.e. an extra bowl.
+# **Ten days passing** (the eleventh dawn).
+## (I) Origin and the rest (samuṭṭhāna)
+**Kathina origin** (body–speech, or body–speech–mind), **by not doing** (not determining / not assigning), **no release by perception, without intention, an offence by convention (paṇṇattivajja), bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@np22
+T: ඌනපඤ්චබන්ධන සික්ඛාපදය || The Bowl with Fewer than Five Mends
+R: - || -
+N: ශාක්‍ය ජනපදය, කපිලවස්තු නිග්‍රෝධාරාමය || Sakyan country, Nigrodhārāma at Kapilavatthu
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කුඩා හානියකට පවා බොහෝ පාත්‍ර ඉල්ලීම || Asking for many bowls even for slight damage
+K: SC sd=s an=a anu=1
+Z: පාත්‍රය නැති වූ / බිඳුණු විට; ඥාතීන් හෝ පවාරණය කළ අයගෙන්; අනුන් සඳහා; තමාගේ ධනයෙන්; උමතු ආදීන් || Bowl lost or broken; from relatives or those who invited; for another; with one's own funds; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ කපිලවස්තු · නිග්‍රෝධාරාමය
+එක් **කුම්භකාරයෙක්** "පාත්‍රයක් ඕනෑ ආර්‍යයන්ට මම පාත්‍ර දෙමි" යි භික්ෂූන්ට පවාරණය කළේය. භික්ෂූහු ==පමණ නොදැන බොහෝ පාත්‍ර ඉල්ලූහ== — කුඩා පාත්‍ර ඇත්තෝ විශාල ඒවා ද, විශාල ඇත්තෝ කුඩා ඒවා ද ඉල්ලූහ. කුම්භකාරයා භික්ෂූන්ට පාත්‍ර සාදමින් **විකිණීමට වෙනත් බඩු සෑදිය නොහැකිව**, තමා ද යැපිය නොහැකි විය; අඹුදරුවෝ ද දුකට පත් වූහ. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ "**යමෙක් පාත්‍රයක් ඉල්ලයි නම් නිස්සග්ගියයි**" යි පැනවූහ.
+එකල එක් භික්ෂුවකගේ පාත්‍රය බිඳිණ. ඔහු කුකුස් ඇතිව නොඉල්ලා **අත්වලින් පිඬු සිඟා ගියේය**. මිනිස්සු "තීර්ථකයන් මෙන්" යි දොස් කීහ. එවිට භාග්‍යවතුන් වහන්සේ **පාත්‍රය නැති වූ හෝ බිඳුණු භික්ෂුවට** පාත්‍රයක් ඉල්ලීමට අනුදැන්නහ.
+ඉන්පසු **ෂඩ්වර්ගීය භික්ෂූහු** ඒ අනුදැනීම මුවා කොට ==සුළු බිඳීමකට, සුළු කැබැල්ලක් ගැලවීමකට, සීරීමකට පවා== බොහෝ පාත්‍ර ඉල්ලූහ. කුම්භකාරයා පෙර සේ ම දුකට පත් විය. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය නැවත සකසා පැනවූහ.
+## (අ) පද විවරණය
+**ඌනපඤ්චබන්ධනෙන** — "බැඳුම් පහක් සම්පූර්ණ නොවූ" පාත්‍රයක් ඇතිව. (ඉත්ථම්භූත ලක්ඛණයෙහි කරණ විභක්තියයි.) **කිසිදු බැඳුමක් නැති** පාත්‍රයට ද බැඳුම් පහ සම්පූර්ණ නොවන බැවින් පදභාජනයේ "**අබන්ධන, එකබන්ධන, ද්විබන්ධන, තිබන්ධන, චතුබන්ධන**" යි කීහ.
+**අබන්ධනොකාස** — අඟල් දෙකක රේඛාවක් (පිපිරුමක්) නැති පාත්‍රය. **බන්ධනොකාස** — අඟල් දෙකක රේඛාවක් ඇති, බැඳුමකට ඉඩ ඇති පාත්‍රය.
+**නවො** — "අලුත්" යනු ඉල්ලීම නිසා ලැබෙන බැවින් කියනු ලැබේ.
+**චෙතාපෙය්‍ය** — ඉල්ලයි. ඉල්ලන **පයෝගයේ දුක්කටයි**; **ලැබීමෙන් නිස්සග්ගියයි**.
+"ඌනපඤ්චබන්ධනෙන" යි කී බැවින් ==බැඳුම් පහක් හෝ බැඳුම් පහක ඉඩ ඇති පාත්‍රය **අපත්ත** ය==; එබැවින් එවැන්නෙකුට අනෙකක් ඉල්ලීම වටී.
+## (ආ) බැඳුම් ගණන් කිරීම
+**මැටි පාත්‍රය** — මුව දාරයේ සිට පහළට **අඟල් දෙකක** එක් රේඛාවක් වුව ද ඇත්නම්, ඒ රේඛාවේ **යටි කෙළවරේ** පාත්‍ර විදිනයකින් විද, රත් කොට, නූල් රැහැන්, මකචි රැහැන් ආදියෙන් හෝ **තිපු (ඊයම්) කම්බියකින්** බැඳිය යුතුය. ආහාර නොඇලෙන පිණිස ඒ බැඳුම **තිපු පට්ටයකින්** හෝ ඇලෙන ද්‍රව්‍යයකින් වසා, පාත්‍රය **අධිෂ්ඨාන කොට** පරිහරණය කළ යුතුය. සියුම් සිදුරක් කොට බැඳීම ද, **පැණි රත් කොට ගල් කුඩු සමඟ** බැඳීම ද වටී.
+|! රේඛා | බැඳුම් | තත්ත්වය
+| අඟල් 2 ට අඩු | 0 | අබන්ධනොකාස — තවම පාත්‍රයකි
+| එක් රේඛාවක් අඟල් 2 | 1 | ඌනපඤ්චබන්ධන — ඉල්ලීම නොවටී
+| රේඛා 2ක්, හෝ එකක් අඟල් 4 | 2 | ඉල්ලීම නොවටී
+| රේඛා 3ක්, හෝ එකක් අඟල් 6 | 3 | ඉල්ලීම නොවටී
+| රේඛා 4ක්, හෝ එකක් අඟල් 8 | 4 | ඉල්ලීම නොවටී
+| රේඛා 5ක්, හෝ එකක් **අඟල් 10** | 5 | ==බැඳුවත් නොබැඳුවත් **අපත්ත**== — අනෙකක් ඉල්ලිය හැක
+!dgm: pt-mends මැටි පාත්‍රයේ රේඛා හා බැඳුම් (විශාල කර දක්වා ඇත)
+**අයෝ පාත්‍රය** — සිදුරු **පහක් හෝ ඊට වැඩි** වුව ද, ඒවා **යකඩ කුඩු, ඇණ, ලෝහ මණ්ඩල** ආදියෙන් බැඳ **මට්ටම්** කර ඇත්නම් ඒ පාත්‍රය ම පරිහරණය කළ යුතුය; අනෙකක් නොඉල්ලිය යුතුය. එහෙත් **එක් සිදුරක් වුව ද විශාල** නම්, ලෝහ මණ්ඩලයකින් බැඳුව ද මට්ටම් නොවේ නම්, **ආහාර ඇලේ** නම් එය **අකැප** පාත්‍රයකි; අනෙකක් ඉල්ලිය හැකිය.
+## (ඇ) නිස්සජ්ජනය හා පත්තපරියන්තය
+**භික්ෂු පිරිසට** — එනම් **සංඝ මධ්‍යයේ ම** — නිස්සජ්ජනය කළ යුතුය:
+> අයං මෙ, භන්තෙ, පත්තො ඌනපඤ්චබන්ධනෙන පත්තෙන චෙතාපිතො නිස්සග්ගියො, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි.
+# සියලු භික්ෂූන් **තම තමන් අධිෂ්ඨාන කළ පාත්‍රය** ගෙන රැස් විය යුතුය. "මිල අධික පාත්‍රය ගනිමි" යි ==නරක පාත්‍රයක් අධිෂ්ඨාන කිරීම දුක්කටයි==.
+# අගතියට නොයන, ගත් නොගත් දේ දන්නා අංග පහකින් යුත් භික්ෂුවක් **ඤත්තිදුතිය කර්මයෙන් "පත්තග්ගාහාපක"** ලෙස සම්මත කළ යුතුය.
+# හේ පාත්‍රයේ ඇති ගුණ කියා "**ගණ්හාතු, භන්තෙ, ථෙරො පත්තං**" යි **ස්ථවිරයන්ට** පිළිගැන්විය යුතුය. ස්ථවිරයන්ට එය නොරුචි නම්, හෝ අල්පේච්ඡතාවයෙන් නොගනී නම් වරදක් නැත; ඒ භික්ෂුව කෙරෙහි ==අනුකම්පාවෙන් නොගන්නේ නම් දුක්කටයි==.
+# ගත්තේ නම් ස්ථවිරයන්ගේ පාත්‍රය **දෙවන ස්ථවිරයන්ට** — මේ ක්‍රමයෙන් **සංඝනවකයා දක්වා** — පිළිගැන්විය යුතුය. පාත්‍ර නැති අයෙකුට නොදිය යුතුය.
+# අවසානයේ ඉතිරි වන **පත්තපරියන්තය** ඒ භික්ෂුවට "**අයං තෙ, භික්ඛු, පත්තො යාව භෙදනාය ධාරෙතබ්බො**" යි දිය යුතුය.
+ඔහු ද එය **ඉල්ලා ගත් පාත්‍රයක් මෙන් ම සකසුරුවමින්** පරිහරණය කළ යුතුය. "කෙසේ නම් මෙය නැති වේ ද, බිඳේ ද" යි පිළිකුලෙන් **නුසුදුසු තැනක තැබීම, නුසුදුසු ලෙස පරිහරණය, අත්හැරීම** දුක්කටයි. "**අයං තත්ථ සාමීචි**" — මෙය එහි අනුධර්මතාවයි.
+## (ඈ) ප්‍රඥප්තිය හා ආණත්තිය
+**ශාක්‍ය ජනපදයේදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා බොහෝ පාත්‍ර ඉල්ලීමේ වස්තුවෙහි පැනවිණි. පාත්‍රය නැති / බිඳුණු අයට අනුදැනීම **අනුප්‍රඥප්තියයි**. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඉ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ඌනපඤ්චබන්ධන පාත්‍රයක් ඇතිව ඥාති නොවන, පවාරණය නොකළ අයගෙන් අලුත් පාත්‍රයක් ඉල්ලීමේ **පයෝගය** | DK
+| ඉල්ලා **ලැබීම** — අබන්ධනයෙන් අබන්ධන, එකබන්ධන … චතුබන්ධන, අබන්ධනොකාස … චතුබන්ධනොකාස පාත්‍රයක් ගැනීම: එක් පාත්‍රයකින් දස ආකාරයකින් දස වර්ගයක් = **නිස්සග්ගිය පාචිත්තිය සියයක්** | NP
+| "මිල අධික පාත්‍රය ගනිමි" යි නරක පාත්‍රයක් අධිෂ්ඨාන කිරීම | DK
+| ස්ථවිරයන් අනුකම්පාවෙන් පාත්‍රය නොගැනීම | DK
+| පත්තපරියන්තය නුසුදුසු තැනක තැබීම / නුසුදුසු ලෙස පරිහරණය / අත්හැරීම | DK
+## (ඊ) අනාපත්ති
+# **පාත්‍රය නැති වූ** හෝ **බිඳුණු** අයට.
+# **තමාගේ ඥාතීන්ගෙන්** හෝ **පවාරණය කළ අයගෙන්**.
+# **අනුන් සඳහා** — ඔහුගේ ඥාතීන්ගෙන් හෝ පවාරණය කළ අයගෙන් — ඉල්ලීම.
+# **තමාගේ ධනයෙන්** ගැනීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (උ) අංග (= චත්තාරි — සතරකි)
+# **අධිෂ්ඨානයට සුදුසු** පාත්‍රය **ඌනපඤ්චබන්ධන** වීම.
+# **තමා සඳහා** වීම.
+# **අකැප විඤ්ඤත්තියක්** (ඉල්ලීමක්) කිරීම.
+# එයින් **ලැබීම**.
+## (ඌ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (සමුට්ඨාන සය), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Kapilavatthu · Nigrodhārāma
+A **potter** invited the monks: “Whichever of the venerables needs a bowl, I will supply it.” The monks, ==not knowing moderation, asked for many bowls== — those with small bowls asked for large ones and those with large ones for small. Making bowls for the monks, the potter **could not make other goods for sale**; he could not support himself and his wife and children suffered. People complained. The Blessed One laid down: “**Whoever asks for a bowl — nissaggiya.**”
+Then a certain monk's bowl broke. Being scrupulous he did not ask, but **went for alms with his hands**. People complained, “Just like the sectarians!” So the Blessed One allowed **one whose bowl is lost or broken** to ask for a bowl.
+Then **the group-of-six**, taking advantage of this allowance, asked for many bowls ==even for a slight break, a slight chip, a mere scratch==. The potter suffered as before. The Blessed One reformulated the rule.
+## (A) Explanation of terms
+**Ūnapañcabandhanena** — with a bowl “whose five mends are not complete.” (Instrumental of characteristic.) Since even **a bowl with no mend** does not have five, the word-analysis says “**with no mend, one, two, three or four mends**.”
+**Abandhanokāsa** — a bowl without a two-finger crack. **Bandhanokāsa** — a bowl with a two-finger crack, i.e. with room for a mend.
+**Navo** — “new” is said with reference to the asking.
+**Cetāpeyya** — asks. **Dukkaṭa in the effort** of asking; **nissaggiya on obtaining**.
+Because it says “ūnapañcabandhanena,” ==a bowl with five mends, or room for five mends, is **no longer a bowl**==; one who has such may ask for another.
+## (B) Counting the mends
+**Clay bowl** — if there is even one crack of **two finger-breadths** running down from the rim, one should bore through at **the lower end** of the crack with a bowl-borer, heat it, and bind it with string, makaci cord or **tin wire**. So that food does not stick, the mend should be covered with **a tin plate** or some adhesive, and the bowl **determined** and used. It is also allowable to make a fine hole and bind it, or to bind it with **heated molasses and stone powder**.
+|! Cracks | Mends | Status
+| under 2 fingers | 0 | no room for a mend — still a bowl
+| one of 2 fingers | 1 | fewer than five — may not ask
+| two, or one of 4 fingers | 2 | may not ask
+| three, or one of 6 fingers | 3 | may not ask
+| four, or one of 8 fingers | 4 | may not ask
+| five, or one of **10 fingers** | 5 | ==mended or not, **no longer a bowl**== — may ask for another
+!dgm: pt-mends Cracks and mends on a clay bowl (drawn enlarged)
+**Iron bowl** — even with **five or more holes**, if they have been closed with **iron powder, rivets or metal discs** and made **smooth**, that bowl must be used; another may not be asked for. But if **even one hole is large**, so that even closed with a metal disc it is not smooth and **food sticks**, the bowl is **unallowable**; another may be asked for.
+## (C) Forfeiture and the “last bowl”
+It is forfeited **to the assembly of monks** — **only in the midst of the Saṅgha**:
+> Ayaṃ me, bhante, patto ūnapañcabandhanena pattena cetāpito nissaggiyo, imāhaṃ saṅghassa nissajjāmi.
+# All the monks should assemble, each bringing **his own determined bowl**. ==Determining a poor bowl, thinking “I'll get the costly one,” is dukkaṭa==.
+# A monk with the five qualities (not going astray through bias, and knowing what has and has not been taken) is appointed **bowl-distributor (pattaggāhāpaka)** by a **motion-and-one-announcement** act.
+# He speaks of the bowl's merits and offers it to **the senior monk**: “**Gaṇhātu, bhante, thero pattaṃ.**” If the senior does not like it, or out of fewness of wishes does not take it, that is fine; ==if he declines out of sympathy for the offender, dukkaṭa==.
+# If he takes it, the senior's bowl is offered **to the second senior**, and so on **down to the most junior**. It is not to be given to one without a bowl.
+# The **last bowl (pattapariyanta)** left at the end is given to that monk: “**Ayaṃ te, bhikkhu, patto yāva bhedanāya dhāretabbo.**”
+He must use it **as carefully as a bowl obtained by asking**. Thinking, “How might this get lost or break?”, to **put it in an unsuitable place, use it improperly, or give it away** is dukkaṭa. “**Ayaṃ tattha sāmīci**” — this is the proper course there.
+## (D) The laying down of the rule and the command
+It was laid down **among the Sakyans** concerning the group-of-six, on the matter of asking for many bowls. The allowance for lost or broken bowls is a **supplementary rule**. It is a **common rule**, and **anāṇattika**.
+## (E) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| With a bowl of fewer than five mends, **the effort** of asking unrelated people who have not invited him for a new bowl | DK
+| **Obtaining** it — with an unmended bowl getting an unmended, one-, two-, three- or four-mend bowl, or one with room for none … four mends: ten kinds for each of ten = **a hundred nissaggiya pācittiyas** | NP
+| Determining a poor bowl, thinking “I'll get the costly one” | DK
+| A senior declining the bowl out of sympathy | DK
+| Putting the last bowl in an unsuitable place / using it improperly / giving it away | DK
+## (F) No offence
+# For one whose bowl is **lost** or **broken**.
+# From **one's relatives** or from **those who have invited**.
+# Asking **for another** — from his relatives or those who invited him.
+# Getting it with **one's own funds**.
+# For the insane and so on, and the first offender.
+## (G) Factors (= cattāri — four)
+# The bowl **fit for determination** having **fewer than five mends**.
+# **For oneself**.
+# Making an **unallowable request**.
+# **Obtaining** by it.
+## (H) Origin and the rest (samuṭṭhāna)
+**Go-between origin** (six origins), **by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@np23
+T: භේසජ්ජ සික්ඛාපදය || The Medicine Rule
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: බොහෝ භික්ෂූන් || A number of monks
+V: බෙහෙත් සත් දින ඉක්මවා තබා ගැනීම || Keeping medicines beyond seven days
+K: KT sd=s an=a anu=0
+Z: සත් දින ඇතුළත අධිෂ්ඨාන කිරීම, දීම, නැති වීම, විනාශ වීම, පිළිස්සීම, පැහැර ගැනීම, විශ්වාසයෙන් ගැනීම; අපේක්ෂා රහිතව අනුපසම්පන්නයෙකුට දී නැවත ලැබීම; උමතු ආදීන් || Within seven days determined (for external use), given away, lost, destroyed, burnt, snatched, taken on trust; given without attachment to an unordained person and received back; the insane etc.
+G: 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+රජගහ නුවර **පිළින්දිවච්ඡ** තෙරුන් ලෙනක් කරනු පිණිස ගල් කුහරයක් පිරිසිදු කරවද්දී **බිම්බිසාර** රජතුමා ආරාමිකයෙකු දීමට කැමති විය. භාග්‍යවතුන් වහන්සේ ආරාමිකයන් අනුදැන්නහ. රජතුමා පොරොන්දුව අමතක කොට බොහෝ කලකට පසු සිහි වී **ආරාමිකයන් පන්සියයක්** දුන්නේය; ඔවුන් වාසය කළ ගම "**පිළින්ද ගම**" නම් විය.
+එක් උත්සව දිනයක සැරසුණු දරුවන් දැක **දුප්පත් ආරාමිකයෙකුගේ දියණිය** "මට මල් මාලයක් දෙන්න" යි හැඬුවාය. තෙරුන් **තණ කොළ ඉදිකට්ටක්** ඇගේ හිසෙහි පළඳවන්නැයි දුන් කල්හි එය ==රජ මාලිගාවේ වත් නැති අලංකාර **රන් මාලයක්** විය==. "සොරකමින් ගෙනා දෙයකැ" යි රජතුමා ඒ පවුල සිරගත කළේය. තෙරුන් රජු වෙත ගොස් ඍද්ධියෙන් **රජ මාලිගාව ම රන්මය කොට** පෙන්වා ඔවුන් නිදහස් කරවූහ.
+පැහැදුණු මිනිස්සු තෙරුන්ට **ගිතෙල්, වෙඬරු, තෙල්, මී පැණි, හකුරු** යන **බෙහෙත් පහ** බොහෝ සෙයින් පිදූහ. තෙරුන් එය භික්ෂූන්ට බෙදා දුන් කල්හි, භික්ෂූහු ==කළ, බඳුන්, පෙරහන්, කවුළු පවා පුරවා තැබූහ==; ඒවා කාන්දු වී විහාර **මීයන්ගෙන් පිරිණ**. විහාර චාරිකාවේ ආ මිනිස්සු "**රජුගේ මෙන් ගබඩා**" යි දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**පටිසායනීයානි** — පරිභෝග කළ යුතු (අනුභව කළ යුතු) දේ. මෙයින් — ==තමා ම **උග්ගහිත** (නොපිළිගෙන ගත්) කොට තැබූ බෙහෙත් පරිභෝගයට නොවටින බැවින්== — ඒවා සත් දින ඉක්මවුව ද නිස්සග්ගිය නොවන බව දැක්වේ.
+**භෙසජ්ජානි** — බෙහෙත් කාර්‍යය කළත් නොකළත් "බෙහෙත්" යන නම ලද දේ.
+|! බෙහෙත | අර්ථය
+| **සප්පි** (ගිතෙල්) | ගව, එළු, මී ආදී — **මස් කැප වන** සතුන්ගේ ගිතෙල්
+| **නවනීත** (වෙඬරු) | ඔවුන්ගේ ම වෙඬරු
+| **තෙල** (තෙල්) | තල, අබ, මීඇට, එඬරු තෙල් හා **වසා තෙල්** (සත්ව මේද)
+| **මධු** (මී පැණි) | මී මැස්සන්ගේ මී පැණි පමණි
+| **ඵාණිත** (හකුරු) | උක් රසයෙන් සෑදූ — නොපිසූ හෝ **වස්තුව රහිතව** පිසූ — සියලු උක් විකාර
+**තානි පටිග්ගහෙත්වා** — ඒ **බෙහෙත්** පිළිගෙන; ඒවායේ **වස්තූන්** (කිරි, දී, තල ආදිය) නොවේ. එබැවින් — **වසා තෙල් හැර** — යාවකාලික වස්තූන් පිළිගෙන ඒවායින් සෑදූ ගිතෙල් ආදිය සත් දින ඉක්මවුව ද නිස්සග්ගිය නොවේ.
+**සත්තාහපරමං සන්නිධිකාරකං පරිභුඤ්ජිතබ්බානි** — සන්නිධි කොට (තබා) **දින හතක් උපරිම කොට** පරිභෝග කළ යුතුය.
+## (ආ) සාමිස / නිරාමිස පරිභෝගය
+|! පිළිගත් කාලය | එදින පෙරවරු | පස්වරු සිට
+| **පෙරවරු** පිළිගත් | **සාමිස** (ආහාර සමඟ) ද වටී | දින 7ක් **නිරාමිස** පරිභෝගයෙන් පමණි
+| **පස්වරු** පිළිගත් | — | දින 7ක් **නිරාමිස** පරිභෝගයෙන් පමණි
+**වසා තෙල්** — **මිනිස් මේදය හැර** අන් ඕනෑම මේදයක් **පෙරවරු** පිළිගෙන, **පෙරවරු ම** තමා ම පිස සාදාගත් තෙල් සත් දිනක් **නිරාමිසව** වටී. අනුපසම්පන්නයෙකු පිස දුන් තෙල් එදින පෙරවරු **සාමිසව** ද වටී. (කාලයේ පිළිගෙන, කාලයේ පිස, කාලයේ පෙරා ගත් — "කාලෙ පටිග්ගහිතං කාලෙ නිප්පක්කං කාලෙ සංසට්ඨං".) අනෙක් යාවකාලික වස්තූන් තමා පිසීම නොවටී.
+**පෙරවරු පිළිගත් කිරි ආදියෙන්** අනුපසම්පන්නයෙකු සෑදූ ගිතෙල් ආදිය එදින පෙරවරු සාමිසව ද වටී; පස්වරු සිට ==**අනජ්ඣෝහරණීය** (ගිල දැමිය නොහැකි)== වේ — එබැවින් සත් දින ඉක්මවුව ද නිස්සග්ගිය නොවේ (බාහිර පරිභෝගයට යෙදිය හැකිය).
+"**පරිභුඤ්ජිතබ්බානි**" යි කී බැවින් සත් දින ඇතුළත **ඇඟ ගෑම ආදිය** සඳහා **අධිෂ්ඨාන කොට** තැබූ ඒවායේ ඇවැත් නැත.
+## (ඇ) තෙල් ඇට හා අන් විශේෂ
+**යාවජීවික** අබ, මීඇට, එඬරු ඇට තෙල් සෑදීමට පිළිගෙන —
+|! තෙල් සෑදූ දිනය | පරිභෝග කාලය
+| පිළිගත් දිනයේ ම | සත්තාහකාලික — දින **7**
+| දෙවන දින | දින **6**
+| තෙවන දින | දින **5**
+| සතර, පස්, සය, සත්වන දිනවල | පිළිගත් දින සිට ගණන් කළ **සත් දින සීමාව තුළ පමණි**
+| සත් දින ඉක්මවා **අරුණ නැගෙන තෙක්** තිබුණොත් | NP
+| අටවන දින සෑදූ තෙල් | අනජ්ඣෝහරණීය — නිස්සග්ගිය නොවන බැවින් **බාහිර පරිභෝගයට** වටී
+තෙල් නොසෑදුව ද, තෙල් සඳහා පිළිගත් අබ ආදිය හා **පාළියේ නොආ** (පොල්, කොහොඹ, කෝසම්, හීන් අළසි ආදී) තෙල් සත් දින ඉක්මවීමෙන් **දුක්කටයි**. සිසිල් ජලයෙන් සෑදූ **මීමල් හකුරු** හකුරු ගණයට ම ය; **අඹ හකුරු** ආදිය යාවකාලික ය.
+**ගණන් කිරීම** — වෙන් වෙන්ව තැබූ, හෝ එක් බඳුනක නොමිශ්‍රව තැබූ ගිතෙල් ආදියේ **වස්තු ගණනින්** ඇවැත් වේ. සියල්ල එක් කළයක **නොවෙන් කළ හැකි සේ** මිශ්‍ර කොට තැබුවොත් **එක්** නිස්සග්ගියකි; ==අබ ඇටයක් තරම් හෝ ඇඟිල්ලෙන් ගෙන දිවෙන් රස බැලීමට තරම්== වුව ද ඉක්මවූයේ නම් නිස්සජ්ජනය කොට පාචිත්තිය දෙසිය යුතුය.
+## (ඈ) නිස්සට්ඨ බෙහෙත
+> ඉදං මෙ, භන්තෙ, භෙසජ්ජං සත්තාහාතික්කන්තං නිස්සග්ගියං, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි.
+නිස්සජ්ජනය කොට ආපසු ලැබුණ ද ඒ බෙහෙත ==**කයේ ගෑමට හෝ ගිල දැමීමට** නොවටී==; **පහනට** හෝ **කළු වර්ණයට** (දැව ආරක්ෂාවට) යෙදිය යුතුය. **අනෙක් භික්ෂුවකට** කායික පරිභෝගය වටී (ගිල දැමීම නොවේ). **අපේක්ෂා රහිතව** අත්හැර දී නැවත ලැබුණ දෙය නම් ගිල දැමීම ද වටී.
+## (ඉ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** බොහෝ භික්ෂූන් අරබයා සත් දින ඉක්මවීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**.
+## (ඊ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| සත් දින ඉක්මවූ විට — ඉක්මවූ බව දැන, සැක ඇතිව හෝ නොඉක්මවූ යැයි සිතා (**තික පාචිත්තිය**) — අටවන අරුණ නැගීමෙන් | NP
+| අධිෂ්ඨාන නොකළ, නොදුන්, නැති නොවූ, විනාශ නොවූ, නොපිළිස්සුණු, පැහැර නොගත් දෙයක් ඒවා සිදු වූ යැයි සිතා සත් දින ඉක්මවීම | NP
+| තෙල් සඳහා පිළිගත් ඇට, පාළියේ නොආ තෙල්, සිසිල් ජල මීමල් හකුරු — සත් දින ඉක්මවීම | DK
+| සත් දින නොඉක්මවූ නමුත් ඉක්මවූ යැයි සිතීම හෝ සැක කිරීම | DK
+## (උ) අනාපත්ති
+සත් දින ඇතුළත —
+# **අධිෂ්ඨාන** කිරීම (ගිතෙල්, තෙල්, වසා — හිසට / ඇඟ ගෑමට; මී පැණි — තුවාලවලට; හකුරු — ගෙය දුම් ගැසීමට).
+# **දීම**; **නැති වීම**, **විනාශ වීම**, **පිළිස්සීම**.
+# **පැහැර ගැනීම**; **විශ්වාසයෙන් ගැනීම**.
+# **චත්ත, වන්ත, මුත්ත** සිතින් — අපේක්ෂා රහිතව — **අනුපසම්පන්නයෙකුට දී** නැවත ලැබ පරිභෝග කිරීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඌ) අංග (= චත්තාරි — සතරකි)
+# **සප්පි ආදී බෙහෙත් පහෙන්** එකක් වීම.
+# **පිළිගත්** බව (සවස්තුකව නොව).
+# **සත් දින ඉක්මවීම** (අටවන අරුණ).
+# **අනජ්ඣෝහරණීය බවට පත් නොවීම** (අධිෂ්ඨාන ආදිය නොකිරීම).
+## (එ) සමුට්ඨානාදිය
+**කථින සමුට්ඨානයි, අකිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+At Rājagaha, while Ven. **Pilindavaccha** was having a rock overhang cleared to make a cave dwelling, King **Bimbisāra** wished to give him a monastery attendant. The Blessed One allowed monastery attendants. The king forgot his promise; remembering long after, he gave **five hundred attendants**, and their village became known as “**Pilinda village**.”
+On a festival day **a poor attendant's daughter**, seeing other children adorned, cried for a garland. The elder gave a **pad of grass** to be put on her head, and it ==became **a golden garland** more beautiful than any in the royal harem==. Suspecting theft, the king had the family imprisoned. The elder went to the king and, by his psychic power, **turned the king's palace to gold**, and the family was released.
+Delighted, people brought the elder the **five medicines — ghee, fresh butter, oil, honey and molasses** — in abundance. He shared them with the monks, who ==filled pots, jars, strainers and even window recesses==; these leaked and the dwellings **swarmed with rats**. People touring the monastery complained, “**Storehouses like the king's!**” The Blessed One laid down the rule.
+## (A) Explanation of terms
+**Paṭisāyanīyāni** — to be consumed. This shows that ==medicines one has **taken without formal receiving (uggahita)** and stored are not allowable to consume==, so there is no offence for them even beyond seven days.
+**Bhesajjāni** — things so called, whether or not they serve as medicine.
+|! Medicine | Meaning
+| **Sappi** (ghee) | from cows, goats, buffaloes — animals **whose flesh is allowable**
+| **Navanīta** (fresh butter) | from the same animals
+| **Tela** (oil) | sesame, mustard, madhuka, castor oil, and **tallow oil**
+| **Madhu** (honey) | only bee honey
+| **Phāṇita** (molasses) | every sugar-cane product, uncooked or **cooked without its source matter**
+**Tāni paṭiggahetvā** — having received **the medicines**, not **their sources** (milk, curd, sesame etc.). So, **except for tallow oil**, ghee etc. made from allowable-until-noon sources one has received do not become nissaggiya even after seven days.
+**Sattāhaparamaṃ sannidhikārakaṃ paribhuñjitabbāni** — they may be stored and consumed for **seven days at most**.
+## (B) With and without food
+|! Received | That morning | From the afternoon
+| in the **morning** | allowed **with food** too | 7 days, **without food** only
+| in the **afternoon** | — | 7 days, **without food** only
+**Tallow oil** — the fat of any animal **except human**, received **in the morning** and rendered by oneself **in the morning**, is allowable for seven days **without food**. Rendered and given by an unordained person, it is allowable that morning **with food** too. (“Received in time, cooked in time, strained in time.”) Other allowable-until-noon sources may not be cooked by oneself.
+Ghee etc. made by an unordained person **from milk etc. received in the morning** are allowable with food that morning; from the afternoon they become ==**not to be swallowed (anajjhoharaṇīya)**== — hence no nissaggiya even beyond seven days (they may be used externally).
+Because it says “**paribhuñjitabbāni**,” there is no offence for those **determined** within the seven days for **anointing** and the like.
+## (C) Oil-seeds and other details
+**Lifelong** mustard seed, madhuka seed or castor seed received for making oil —
+|! Oil made on | Usable
+| the day received | seven-day medicine — **7** days
+| the second day | **6** days
+| the third day | **5** days
+| the 4th, 5th, 6th, 7th day | **only within the seven days** counted from receiving
+| kept till **the dawn** after the seventh day | NP
+| made on the eighth day | not to be swallowed — not nissaggiya, so allowable for **external use**
+Even if no oil is made, seeds received for oil, and oils **not mentioned in the text** (coconut, neem, kosamba, linseed etc.), kept beyond seven days are **dukkaṭa**. Madhuka-flower molasses made with **cold water** counts as molasses; **mango molasses** and the like are allowable-until-noon.
+**Counting** — ghee etc. kept separately, or unmixed in one vessel, entail offences **by the number of items**. All mixed **inseparably** in one pot make **one** nissaggiya; ==even an amount the size of a mustard seed, or enough to taste once on a fingertip==, if kept beyond, must be forfeited and the pācittiya confessed.
+## (D) The forfeited medicine
+> Idaṃ me, bhante, bhesajjaṃ sattāhātikkantaṃ nissaggiyaṃ, imāhaṃ saṅghassa nissajjāmi.
+Even when returned, ==it may **not be used on the body nor swallowed**== by him; it is to be used **for a lamp** or **for black colouring** (wood-dressing). **Another monk** may use it on the body (not swallow it). What was given away **without attachment** and later received back may be swallowed too.
+## (E) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning a number of monks, on the matter of exceeding seven days. It is a **common rule**, and **anāṇattika**.
+## (F) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Seven days passed — knowing, in doubt, or perceiving as not passed (**triple pācittiya**) — at the eighth dawn | NP
+| Not determined, not given, not lost, not destroyed, not burnt, not snatched — perceived as such — kept beyond seven days | NP
+| Seeds received for oil, oils not in the text, cold-water madhuka molasses — beyond seven days | DK
+| Seven days not passed, perceived as passed or in doubt | DK
+## (G) No offence
+Within seven days —
+# **Determining** it (ghee, oil, tallow for head or body; honey for sores; molasses for fumigating the house).
+# **Giving it away**; its being **lost**, **destroyed** or **burnt**.
+# Its being **snatched**; **taken on trust**.
+# Having **given it to an unordained person** with a mind that has **abandoned, rejected, released** it — then receiving it back and using it.
+# For the insane and so on, and the first offender.
+## (H) Factors (= cattāri — four)
+# Being **one of the five medicines**, ghee etc.
+# **Received** (not together with its source).
+# **Seven days passing** (the eighth dawn).
+# **Not having become unfit for swallowing** (not determined etc.).
+## (I) Origin and the rest (samuṭṭhāna)
+**Kathina origin, by not doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@np24
+T: වස්සිකසාටික සික්ඛාපදය || The Rains-bathing Cloth
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: කල් ඇතිව වැසි සළු සොයා, ඇඳ, ජීර්ණ වූ පසු නිරුවතින් වැස්සේ තෙමීම || Seeking and wearing rains-cloths too early, then bathing naked in the rain
+K: SC sd=a an=a anu=0
+Z: ගිම්හානයේ අවසන් මාසයේ සෙවීම, අඩ මාසයේ කොට ඇඳීම; වස් කල් දැමූ විට; සේදූ තබා කාලයේ ඇඳීම; සිවුරු පැහැර ගත් / නැති වූ විට; ආපදාවලදී; උමතු ආදීන් || Seeking it in the last month and wearing it in the last half-month of summer; when the rains are postponed; storing it washed; robes snatched or lost; emergencies; the insane etc.
+G: 3 + 4
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+භාග්‍යවතුන් වහන්සේ භික්ෂූන්ට **වස්සිකසාටිකාව** (වැසි සළුව) අනුදැන වදාළහ. **ෂඩ්වර්ගීය භික්ෂූහු** "වැසි සළුව අනුදැන ඇත" යි ==කල් ඇතිව ම වැසි සළු රෙදි සොයා, කල් ඇතිව ම කොට ඇඳ==, වැසි කාලය පැමිණෙන විට එය **ජීර්ණ වූ හෙයින් නිරුවතින් ශරීරය වැස්සේ තෙමූහ**. අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ "**ගිම්හානයේ මසක් ඉතිරිව සොයා, අඩ මසක් ඉතිරිව කොට ඇඳිය යුතුය**" යි කාලය නියම කොට ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**මාසො සෙසො ගිම්හාන** — ගිම්හානයේ මාස සතරෙන් **අවසන් එක් මාසයක්** ඉතිරිව (එනම් **ජේට්ඨ මාසයේ** — වප් පුර පසළොස්වක දක්වා).
+**පරියෙසිතබ්බං** — ගිම්හානයේ අවසන් මාසයේ පළමු දින සිට **කත්තික මාසයේ අවසන් දිනය** දක්වා —
+- පෙර වැසි සළු දුන් මිනිසුන් වෙත ගොස් "**වැසි සළුවට කාලයයි, වැසි සළුවට සමයයි; අනෙක් මිනිස්සු ද වැසි සළු දෙති**" යි ==සිහි කැඳවීමෙන් (සතුප්පාද)== සෙවිය යුතුය;
+- "**මට වැසි සළුව දෙන්න, ගෙනෙන්න, හුවමාරු කරන්න, මිලට ගන්න**" යි නොකිව යුතුය — එය වටින්නේ **සංඝයාට පවාරණය කළ තැනකින්** හෝ **තමාගේ ඥාතීන්ගෙන් / පවාරණය කළ අයගෙන්** පමණි.
+**කත්වා නිවාසෙතබ්බං** — ගිම්හානයේ **අවසන් අඩ මාසයේ පළමු දින සිට** කත්තික මාසයේ අවසන් දිනය දක්වා, **ඉඳිකටු වැඩ නිම කොට**, **එක් වරක් වත් වර්ණ භේදයක්** වන සේ පඬු පොවා, **කප්ප බින්දුව** තබා ඇඳිය යුතුය.
+## (ආ) කාල සීමාව
+|! කාලය | කළ හැකි දේ
+| ගිම්හානයේ **අවසන් මාසය** | ==සෙවීමේ ක්ෂේත්‍රය== — සිහි කැඳවීමෙන් සෙවිය හැක; **අධිෂ්ඨාන කිරීම නොවටී**
+| ගිම්හානයේ **අවසන් අඩ මාසය** | ==කොට ඇඳීමේ ක්ෂේත්‍රය== ද වේ
+| වස්සානයේ **මාස සතර** | සෙවීම, කිරීම, ඇඳීම සියල්ල වටී; වස් එළඹෙන දින **අධිෂ්ඨාන** කළ යුතුය
+| ඉතිරි **මාස හත** (පිට්ඨි සමය) | සෙවීම / කොට ඇඳීම නොවටී
+**වස් කල් දැමූ** (උක්කඩ්ඪන) විට — ඒ මාසය ඉක්මගිය පසු නැවත **මාසයක පරිහාරයක්** ලැබේ; එවිට **සෝදා තබා** වස් එළඹෙන දින අධිෂ්ඨාන කළ යුතුය.
+සිහිමුළාවෙන් හෝ රෙද්ද ප්‍රමාණවත් නොවීමෙන් නොකොට තිබුණු වැසි සළු රෙද්දට — **එම මාස දෙක හා වස්සානයේ මාස සතර** = **මාස සයක** පරිහාරයක් ලැබේ. කත්තික මාසයේ **කඨිනය අතුළොත්** තවත් මාස සතරක් — **මාස දහයකි**. ඉන්පසු සිවුරු ලැබෙන **බලාපොරොත්තුවක්** ඇතිව මූල සිවුරක් ලෙස තබන්නේ නම් තවත් මසක් — ==**උපරිම මාස එකොළොසකි**; ඉන් පසු එක් දිනක් වත් නොලැබේ==.
+## (ඇ) "ඔරෙන" — කලින් කිරීම
+**ඔරෙන චෙ මාසො සෙසො ගිම්හාන** — ගිම්හානයේ අවසන් මාසයට **මෙපිට** — හේමන්තයේ පළමු දින දක්වා — එනම් ඉතිරි **පිට්ඨි සමය මාස හත තුළ**:
+- **ඥාති නොවන, පවාරණය නොකළ** තැනකින් **සිහි කැඳවීමෙන්** සෙවීම → **මේ ශික්ෂාපදයෙන්** නිස්සග්ගිය පාචිත්තිය;
+- "දෙන්න" ආදී ලෙස **ඉල්ලීම** → **අඤ්ඤාතකවිඤ්ඤත්ති ශික්ෂාපදයෙන් (නිස්සග්ගිය 6)** නිස්සග්ගිය පාචිත්තිය;
+- **ඥාතීන්ගෙන් / පවාරණය කළ අයගෙන්** ඉල්ලීම → ඒ ශික්ෂාපදයෙන් අනාපත්ති; එහෙත් සිහි කැඳවීමෙන් සෙවුවොත් **මේ ශික්ෂාපදයෙන්** ඇවැත්.
+**ඔරෙනද්ධමාසො සෙසො ගිම්හාන** — ගිම්හානයේ අවසන් අඩ මාසයට මෙපිට අඩ මාසයේ. ==ධාර්මිකව ලැබුණු වැසි සළුවක් වුව ද== ඒ කාලයේ කොට ඇඳීමෙන් නිස්සග්ගිය වේ.
+> ඉදං මෙ, භන්තෙ, වස්සිකසාටිකචීවරං අතිරෙකමාසෙ සෙසෙ ගිම්හානෙ පරියිට්ඨං, අතිරෙකද්ධමාසෙ සෙසෙ ගිම්හානෙ කත්වා පරිදහිතං නිස්සග්ගියං, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි.
+## (ඈ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා වැසි සළු සෙවීමේ වස්තුවෙහි පැනවිණි. **අසාධාරණ ප්‍රඥප්තියකි** (භික්ෂුණීන්ට වැසි සළුව නැත; ඔවුන්ට දියනාන සළුව ඇත). **අනාණත්තිකයි**.
+## (ඉ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| ගිම්හානයේ මසකට වඩා ඉතිරිව සෙවීම — වැඩි බව දැන, සැක ඇතිව හෝ අඩු යැයි සිතා (**තික පාචිත්තිය**) | NP
+| ගිම්හානයේ අඩ මසකට වඩා ඉතිරිව කොට ඇඳීම — තික පාචිත්තිය | NP
+| ඥාති නොවන, පවාරණය නොකළ තැනකින් කාලයේ සිහි කැඳවීමෙන් සෙවීම — **වත්ත භේදය** | DK
+| මසට / අඩ මසට අඩුව ඉතිරි වූ කල්හි වැඩි යැයි සිතීම හෝ සැක කිරීම | DK
+| **වැසි සළුවක් තිබියදී** නිරුවතින් ශරීරය වැස්සේ තෙමීම | DK
+## (ඊ) අනාපත්ති
+# "**මසක් ඉතිරි**" යි සෙවීම; "**අඩ මසක් ඉතිරි**" යි කොට ඇඳීම; ඊටත් අඩු කාලයක් ඉතිරිව සෙවීම / ඇඳීම.
+# සොයා ගත් හෝ ඇඳගත් පසු **වස් කල් දැමීම** — එවිට **සෝදා තැබිය යුතුය**; කාලය පැමිණි විට ඇඳිය යුතුය.
+# **පොකුණු ආදියේ නාන** විට.
+# **සිවුරු පැහැර ගත්**, **සිවුරු නැති වූ** අයට.
+# **ආපදාවලදී** — "නොඇඳ තැබුවොත් සොරු පැහැර ගනිති" වැනි අවස්ථාවල ඇඳීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (උ) අංග
+**සෙවීමේ ඇවතට අංග තුනකි:**
+# වැසි සළුව **තමා සඳහා** වීම.
+# **අකාලයේ සෙවීම**.
+# එයින් **ලැබීම**.
+**ඇඳීමේ ඇවතට අංග සතරකි:**
+# **සිවුරු සහිත** වීම (සිවුරු පැහැර ගත් / නැති වූ අයෙකු නොවීම).
+# **ආපදාවක් නැති** බව.
+# වැසි සළුව **තමා සතු** වීම.
+# **අකාලයේ ඇඳීම**.
+## (ඌ) සමුට්ඨානාදිය
+**සඤ්චරිත්ත සමුට්ඨානයි** (සමුට්ඨාන සය), **කිරියයි, නෝසඤ්ඤාවිමොක්ඛයි, අචිත්තකයි, පණ්ණත්තිවජ්ජයි, කාය-වචීකම්මයි, තිචිත්තයි, තිවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+The Blessed One had allowed the monks the **rains-bathing cloth** (vassikasāṭikā). **The group-of-six**, saying “The rains-cloth has been allowed,” ==sought rains-cloth material well in advance and made it up and wore it well in advance==, so that by the time the rains came it was **worn out and they bathed naked in the rain**. The monks of few wishes complained. The Blessed One laid down the rule, fixing the time: “**It is to be sought when one month of the hot season remains, and made and worn when half a month remains.**”
+## (A) Explanation of terms
+**Māso seso gimhānaṃ** — when **the last one** of the four months of the hot season remains.
+**Pariyesitabbaṃ** — from the first day of the last month of the hot season until **the last day of Kattika**, it should be sought —
+- by going to people who have given rains-cloths before and ==reminding them== (satuppāda): “**It is the time for the rains-cloth, the season for the rains-cloth; others too are giving rains-cloths**”;
+- not saying, “**Give me a rains-cloth, bring one, exchange one, buy one**” — that is allowable only **where the Saṅgha has been invited**, or **from one's own relatives or those who have invited him**.
+**Katvā nivāsetabbaṃ** — from the first day of **the last half-month of summer** until the last day of Kattika, it should be worn after **finishing the needlework**, dyeing it **at least once to change its colour**, and making **the allowable mark**.
+## (B) The time limits
+|! Period | What may be done
+| **last month** of the hot season | ==the field for seeking== — by reminding; **it may not yet be determined**
+| **last half-month** of the hot season | ==also the field for making and wearing==
+| the **four months** of the rains | seeking, making and wearing all allowable; it is **determined** on the day of entering the rains
+| the other **seven months** | neither seeking nor making/wearing
+If **the rains are postponed** — after that month has passed he gets **another month's exemption**; he should then **wash and store it** and determine it on the day he enters the rains.
+For rains-cloth material not made up through forgetfulness or because it was insufficient, he gets an exemption of **those two months plus the four months of the rains** = **six months**. If **the kaṭhina is spread** in Kattika, four months more — **ten months**. Beyond that, if he keeps it as base-cloth **with an expectation** of more cloth, one month more — ==**eleven months at most**; after that, not a single day==.
+## (C) “Orena” — doing it too early
+**Orena ce māso seso gimhānaṃ** — **before** the last month of the hot season, up to the first day of the cold season, i.e. within **the remaining seven months**:
+- seeking by **reminding** from those **not related and not inviting** → nissaggiya pācittiya **under this rule**;
+- **asking** with “Give me” etc. → nissaggiya pācittiya **under the asking-unrelated-people rule (nissaggiya 6)**;
+- asking **relatives / those who invited** → no offence under that rule; but seeking by reminding → an offence **under this rule**.
+**Orenaddhamāso seso gimhānaṃ** — in the half-month before the last half-month of summer. ==Even a rains-cloth obtained rightfully==, if made up and worn then, becomes nissaggiya.
+> Idaṃ me, bhante, vassikasāṭikacīvaraṃ atirekamāse sese gimhāne pariyiṭṭhaṃ, atirekaddhamāse sese gimhāne katvā paridahitaṃ nissaggiyaṃ, imāhaṃ saṅghassa nissajjāmi.
+## (D) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six, on the matter of seeking rains-cloths. It is a **rule not shared** with the nuns (they have no rains-cloth, but a bathing cloth). It is **anāṇattika**.
+## (E) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Seeking when more than a month of summer remains — knowing, in doubt, or perceiving it as less (**triple pācittiya**) | NP
+| Making and wearing when more than half a month remains — triple pācittiya | NP
+| In season, seeking by reminding from those not related and not inviting — **breach of duty** | DK
+| Less than a month / half-month remaining, perceived as more, or in doubt | DK
+| **Having a rains-cloth**, bathing naked in the rain | DK
+## (F) No offence
+# Seeking “**when a month remains**”; making and wearing “**when half a month remains**”; seeking or wearing when less remains.
+# **The rains being postponed** after it was sought or worn — it is then **to be washed and stored** and worn when the time comes.
+# **Bathing in a pond** and the like.
+# For one whose **robes were snatched** or **lost**.
+# **In emergencies** — wearing it when “if left unworn, thieves will take it.”
+# For the insane and so on, and the first offender.
+## (G) Factors
+**For the offence of seeking — three:**
+# The rains-cloth being **for oneself**.
+# **Seeking out of season**.
+# **Obtaining** by it.
+**For the offence of wearing — four:**
+# **Having robes** (not one whose robes were snatched or lost).
+# **No emergency**.
+# The rains-cloth **being one's own**.
+# **Wearing it out of season**.
+## (H) Origin and the rest (samuṭṭhāna)
+**Go-between origin** (six origins), **by doing, no release by perception, without intention, an offence by convention, bodily and verbal action, three kinds of consciousness, three feelings**.
+
+@np25
+T: චීවරඅච්ඡින්දන සික්ඛාපදය || Snatching Back a Robe
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිර || Ven. Upananda the Sakyan
+V: තමා දුන් සිවුර කිපී ආපසු උදුරා ගැනීම || Angrily snatching back a robe he had given
+K: AD sd=s an=s anu=0 ved=D
+Z: ඔහු ම ආපසු දීම; ඔහු කෙරෙහි විශ්වාසයෙන් ගැනීම; උමතු ආදීන් || He gives it back himself; taking it on trust from him; the insane etc.
+G: 5
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**උපනන්ද** තෙරුන් තම සහෝදරයාගේ සද්ධිවිහාරික භික්ෂුවකට "එන්න ඇවැත්නි, ජනපද චාරිකාවේ යමු" යි කීහ. "මගේ සිවුර දුර්වලයි, නොයමි" යි ඔහු කී කල්හි, "**එන්න, මම ඔබට සිවුරක් දෙමි**" යි ==ඔහුට සිවුරක් දුන්හ==. පසුව "භාග්‍යවතුන් වහන්සේ චාරිකාවේ වඩිති" යි ඇසූ ඒ භික්ෂුව "උපනන්ද තෙරුන් සමඟ නොව, **භාග්‍යවතුන් වහන්සේ සමඟ** යමි" යි සිතීය. "දැන් යමු" යි තෙරුන් කී කල්හි ඔහු "භාග්‍යවතුන් වහන්සේ සමඟ යමි" යි කීය. එවිට තෙරුන් ==කිපී නොසතුටුව "මා ඔබට දුන් සිවුර ඔබ සමඟ ම යන්නේ ය"== යි කියා **ඒ සිවුර උදුරා ගත්හ**. අල්පේච්ඡ භික්ෂූහු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**භික්ඛුස්ස** — වෙනත් භික්ෂුවකට.
+**සාමං චීවරං දත්වා** — වතාවත් ආදිය (තමාට කරන සේවා) බලාපොරොත්තුවෙන් **තමා ම** දී.
+**චීවරං** — සය වර්ගයේ සිවුරුවලින් එකක් — **විකප්පනයට සුදුසු අවම ප්‍රමාණයේ** (දිග අඟල් 8, පළල අඟල් 4) හෝ ඊට වැඩි.
+**කුපිතො අනත්තමනො** — නොසතුටු වූ, **ගැටුණු සිත් ඇති**, **කටු හටගත්** (ඛිලජාත).
+**අච්ඡින්දෙය්‍ය** — වතාවත් නොකරන බව දැක ==**තමාගේ යැයි සඤ්ඤාවෙන්**== ආපසු උදුරා ගනී නම් **වස්තු ගණනින්** ඇවැත් වේ.
+**අච්ඡින්දාපෙය්‍ය** — "උදුරා ගන්න" යි **අණ කිරීමෙන් දුක්කටයි**; ඔහු උදුරා ගත් කල්හි **අණ කළ වස්තු ගණනින්** නිස්සග්ගිය වේ. **එක් වරක් අණ කළ පසු** හේ බොහෝ දේ උදුරා ගත්ත ද එක ම ප්‍රයෝගයක් ලෙස නිස්සග්ගිය වේ.
+## (ආ) "තමාගේ යැයි" සහ "අනුන් සතු යැයි"
+==තමා දුන් දේ "තමාගේ" යැයි සිතා== කෝපයෙන් ගැනීම මේ ශික්ෂාපදයයි. එය **දී අවසන් වූ**, ඔහු සතු වූ දෙයක් බව දැන **සොර සිතින්** ගන්නේ නම් **අදින්නාදාන** විනිශ්චයට (භාණ්ඩ මිල අනුව පාරාජික, ථුල්ලච්චය හෝ දුක්කට) යටත් වේ — මෙහි කියනුයේ "මා දුන්නේ ඔහු සේවය කරන නිසාය, මගේ ම ය" යන සඤ්ඤාවෙන් ගැනීමයි.
+|! පිළිගන්නා තැනැත්තා | දුන් දේ | උදුරා ගැනීම
+| උපසම්පන්න | විකප්පනුපග පච්ඡිම **සිවුර** | NP
+| උපසම්පන්න | සිවුර හැර **අන් පිරිකර** (පාත්‍රය, පෙරහන ආදිය) | DK
+| අනුපසම්පන්න | **සිවුර හෝ ඕනෑම දෙයක්** | DK
+## (ඇ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** උපනන්ද ශාක්‍යපුත්‍ර ස්ථවිරයන් අරබයා සිවුර උදුරා ගැනීමේ වස්තුවෙහි පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **සාණත්තිකයි** — අණ කිරීමෙන් ද ඇවැත් වේ. **තික පාචිත්තියකි**.
+> ඉදං මෙ, භන්තෙ, චීවරං භික්ඛුස්ස සාමං දත්වා අච්ඡින්නං නිස්සග්ගියං, ඉමාහං සඞ්ඝස්ස නිස්සජ්ජාමි.
+## (ඈ) ආපත්ති භේදය — කඞ්ඛාවිතරණී අනුව
+|! ආකාරය | ඇවැත
+| උපසම්පන්නයෙකුට තමා දුන් සිවුර කෝපයෙන් උදුරා ගැනීම — උපසම්පන්න බව දැන, සැක ඇතිව, හෝ අනුපසම්පන්න යැයි සිතා (**තික පාචිත්තිය**) | NP
+| "උදුරා ගන්න" යි අණ කිරීම | DK
+| අණ ලත් තැනැත්තා උදුරා ගැනීම (අණ කළ වස්තු ගණනින්) | NP
+| උපසම්පන්නයෙකුට දුන් සිවුර හැර අන් පිරිකරක් උදුරා ගැනීම | DK
+| අනුපසම්පන්නයෙකුට දුන් ඕනෑම දෙයක් උදුරා ගැනීම — තුන් සඤ්ඤාවෙහි ම | DK
+## (ඉ) අනාපත්ති
+# **ඔහු ම** — සතුටින් හෝ කෝපයෙන් — **ආපසු දෙයි**.
+# **ඔහු කෙරෙහි විශ්වාසයෙන්** ගැනීම.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඊ) අංග (= පඤ්ච — පහකි)
+# **විකප්පනයට සුදුසු අවම ප්‍රමාණයේ සිවුරක්** වීම.
+# **තමා ම දුන්** දෙයක් වීම.
+# **තමාගේ යැයි සඤ්ඤාව** (සකසඤ්ඤිතා).
+# පිළිගත් තැනැත්තා **උපසම්පන්නයෙකු** වීම.
+# **කෝපය නිසා** උදුරා ගැනීම හෝ උදුරා ගැන්වීම.
+## (උ) සමුට්ඨානාදිය
+**තිසමුට්ඨානයි** (කාය-චිත්ත, වාචා-චිත්ත, කාය-වාචා-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි**; වේදනාව මෙහි ==**දුක්ඛ වේදනාව පමණි**== (කෝපයෙන් කරන බැවින්).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+Ven. **Upananda** said to a monk who was a co-resident pupil of his brother, “Come, friend, let's go wandering in the country.” When the monk said, “My robes are worn; I won't go,” Upananda said, “**Come, I'll give you a robe**,” and ==gave him a robe==. Later, hearing that the Blessed One was setting out on tour, the monk thought, “I'll go not with Ven. Upananda but **with the Blessed One**.” When Upananda said, “Let's go now,” he said, “I'll go with the Blessed One.” Then Upananda, ==angry and displeased, saying “The robe I gave you will go with you!”==, **snatched the robe back**. The monks of few wishes complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Bhikkhussa** — to another monk.
+**Sāmaṃ cīvaraṃ datvā** — having given it **himself**, expecting services and the like in return.
+**Cīvaraṃ** — any of the six kinds of robe-cloth — **at least the minimum size for assigning** (8 by 4 finger-breadths).
+**Kupito anattamano** — displeased, **with a mind struck**, **with resentment arisen**.
+**Acchindeyya** — seeing him not doing services, he snatches it back ==**perceiving it as his own**==: offences **by the number of items**.
+**Acchindāpeyya** — **ordering** “Snatch it” is **dukkaṭa**; when it is snatched, nissaggiya **by the number of items ordered**. **Ordered once**, even if the other snatches many things, it is nissaggiya as one effort.
+## (B) “His own” versus “another's”
+This rule concerns taking back in anger what one gave ==while perceiving it as **one's own**==. If, knowing it was **given away and now belongs to the other**, one takes it **with intent to steal**, it falls under the **adinnādāna** ruling (pārājika, thullaccaya or dukkaṭa by value) — here it is taking with the notion, “I gave it because he would serve me; it is still mine.”
+|! Recipient | What was given | Snatching back
+| ordained | the **robe** of assignable minimum size | NP
+| ordained | **another requisite** (bowl, strainer etc.) | DK
+| unordained | **a robe or anything** | DK
+## (C) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning Ven. Upananda the Sakyan, on the matter of snatching a robe. It is a **common rule**. It is **sāṇattika** — an offence also by ordering. A **triple pācittiya**.
+> Idaṃ me, bhante, cīvaraṃ bhikkhussa sāmaṃ datvā acchinnaṃ nissaggiyaṃ, imāhaṃ saṅghassa nissajjāmi.
+## (D) Division of offences — according to the Kaṅkhāvitaraṇī
+|! Case | Offence
+| Angrily snatching back a robe one gave to an ordained person — perceiving him as ordained, in doubt, or as unordained (**triple pācittiya**) | NP
+| Ordering “Snatch it” | DK
+| The one ordered snatching it (by the number of items ordered) | NP
+| Snatching back a requisite other than a robe given to an ordained person | DK
+| Snatching back anything given to an unordained person — in all three perceptions | DK
+## (E) No offence
+# **He himself gives it back** — whether pleased or angry.
+# Taking it **on trust** from him.
+# For the insane and so on, and the first offender.
+## (F) Factors (= pañca — five)
+# A **robe of at least the assignable minimum size**.
+# **Given by oneself**.
+# **Perceiving it as one's own**.
+# The recipient being **ordained**.
+# **Snatching or having it snatched out of anger**.
+## (G) Origin and the rest (samuṭṭhāna)
+**Three origins** (body–mind, speech–mind, body–speech–mind), **by doing, release by perception, with intention, blameworthy by nature (lokavajja), bodily and verbal action, unwholesome mind**; the feeling here is ==**painful feeling only**== (since it is done in anger).

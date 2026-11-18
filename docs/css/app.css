@@ -377,7 +377,7 @@ html[data-pali="1"] .lv{display:none!important}
 .plbtn[aria-pressed="true"] svg{color:#fff}
 [data-theme="night"] .plbtn{color:var(--cl)}
 [data-theme="night"] .plbtn[aria-pressed="true"],[data-theme="night"] .plbtn[aria-pressed="true"] svg{color:#0D1412}
-.pv p,.pv li{line-height:1.85}
+.pv p,.pv li{line-height:1.85;overflow-wrap:anywhere}
 @media (max-width:560px){.plbtn{font-size:.74rem;padding:.3rem .6rem .3rem .5rem}.plbtn svg{width:.9rem;height:.9rem}}
 /* tab labels: never overlap — stack icon over label and let long words wrap inside their own tab */
 .rtab{min-width:0;overflow:hidden}

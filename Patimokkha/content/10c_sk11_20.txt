@@ -1,0 +1,583 @@
+@sk11
+T: උජ්ජග්ඝික ගමන සික්ඛාපදය || Not Going Laughing Loudly
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මහ හඬින් සිනාසෙමින් ගම් අතර යාම || Laughing loudly while going among the houses
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; සිනා උපදවන කරුණක සිනහවක් පමණක් පෑම; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; merely smiling at something funny; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**මහ හඬින් සිනාසෙමින්** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**උජ්ජග්ඝිකාය** — **මහා හඬින් සිනාසෙමින්** (ඉත්ථම්භූත ලක්ෂණයෙහි කරණ විභක්තිය).
+**හසනීයස්මිං වත්ථුස්මිං මිහිතමත්තං** — ==**සිනා උපදවන කරුණක** දී **සිනහවක් (මඳ සිනාවක්) පමණක්** පෑම **අනාපත්ති** ය==.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** මහ හඬින් සිනාසෙමින් ගම් අතර යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **සිනා උපදවන කරුණක** දී **සිනහවක් පමණක්** පෑම.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **මහ හඬින් සිනාසෙමින් ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**සමනුභාසන සමුට්ඨානයි** (කාය-වාචා-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි** (කඞ්ඛාවිතරණී සාරාංශය).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **laughing loudly**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Ujjagghikāya** — **laughing loudly** (instrumental of manner).
+**Hasanīyasmiṃ vatthusmiṃ mihitamattaṃ** — ==merely **smiling** at **something funny** is **no offence**==.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Going among the houses laughing loudly **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# Merely **smiling** at **something funny**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses laughing loudly**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Samanubhāsana origin** (body–speech–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling** (Kaṅkhāvitaraṇī summary).
+
+@sk12
+T: උජ්ජග්ඝික නිසීදන සික්ඛාපදය || Not Sitting Laughing Loudly
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: මහ හඬින් සිනාසෙමින් ගම් අතර හිඳීම || Laughing loudly while sitting among the houses
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; සිනා උපදවන කරුණක සිනහවක් පමණක් පෑම; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; merely smiling at something funny; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**මහ හඬින් සිනාසෙමින්** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**උජ්ජග්ඝිකාය** — **මහා හඬින් සිනාසෙමින්** (ඉත්ථම්භූත ලක්ෂණයෙහි කරණ විභක්තිය).
+**හසනීයස්මිං වත්ථුස්මිං මිහිතමත්තං** — ==**සිනා උපදවන කරුණක** දී **සිනහවක් (මඳ සිනාවක්) පමණක්** පෑම **අනාපත්ති** ය==.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** මහ හඬින් සිනාසෙමින් ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **සිනා උපදවන කරුණක** දී **සිනහවක් පමණක්** පෑම.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **මහ හඬින් සිනාසෙමින් ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**සමනුභාසන සමුට්ඨානයි** (කාය-වාචා-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි** (කඞ්ඛාවිතරණී සාරාංශය).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **laughing loudly**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Ujjagghikāya** — **laughing loudly** (instrumental of manner).
+**Hasanīyasmiṃ vatthusmiṃ mihitamattaṃ** — ==merely **smiling** at **something funny** is **no offence**==.
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Sitting among the houses laughing loudly **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# Merely **smiling** at **something funny**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses laughing loudly**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Samanubhāsana origin** (body–speech–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling** (Kaṅkhāvitaraṇī summary).
+
+@sk13
+T: අප්පසද්ද ගමන සික්ඛාපදය || Going Quietly
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: උස් හඬින් කෑ ගසමින් ගම් අතර යාම || Making a loud noise while going among the houses
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**උස් හඬින්, මහ හඬින්** කථා කරමින් ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය හා "මඳ හඬ" සීමාව
+**අප්පසද්දො** — **උස් හඬ, මහ හඬ නොනගා**.
+|! ආසන පිළිවෙළ (රියන් 12 ක ගෙයක) | ඇසෙන දේ | විනිශ්චය
+| මුලදී **සංඝස්ථවිර**, මැද **දෙවන ස්ථවිර**, අගදී **තෙවන ස්ථවිර** හිඳ, සංඝස්ථවිර දෙවැන්නා සමඟ කථා කරයි | දෙවැන්නාට **හඬ ද ඇසේ, කථාව ද තේරේ**; තෙවැන්නාට **හඬ පමණක්** ඇසේ, **කථාව නොතේරේ** | **අප්පසද්ද** (මඳ හඬ)
+| එසේ ම | **තෙවැන්නාට ද කථාව තේරේ** | **මහාසද්ද** (මහ හඬ)
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** උස් හඬ, මහ හඬ නගමින් ගම් අතර යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **උස් හඬ නගමින් ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**සමනුභාසන සමුට්ඨානයි** (කාය-වාචා-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි** (කඞ්ඛාවිතරණී සාරාංශය).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **making a loud noise and clamour**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms and the limit of “quiet”
+**Appasaddo** — **without loud noise or clamour**.
+|! Seating (in a house of 12 cubits) | What is heard | Ruling
+| **the senior elder** at the start, **the second** in the middle, **the third** at the end; the senior speaks with the second | the second **hears the sound and follows the talk**; the third **hears only the sound**, **not following the talk** | **quiet**
+| the same | **the third also follows the talk** | **loud**
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Going among the houses making a loud noise **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses making a loud noise**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Samanubhāsana origin** (body–speech–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling** (Kaṅkhāvitaraṇī summary).
+
+@sk14
+T: අප්පසද්ද නිසීදන සික්ඛාපදය || Sitting Quietly
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: උස් හඬින් කෑ ගසමින් ගම් අතර හිඳීම || Making a loud noise while sitting among the houses
+K: SB kr=K sd=s an=a anu=0
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**උස් හඬින්, මහ හඬින්** කථා කරමින් ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය හා "මඳ හඬ" සීමාව
+**අප්පසද්දො** — **උස් හඬ, මහ හඬ නොනගා**.
+|! ආසන පිළිවෙළ (රියන් 12 ක ගෙයක) | ඇසෙන දේ | විනිශ්චය
+| මුලදී **සංඝස්ථවිර**, මැද **දෙවන ස්ථවිර**, අගදී **තෙවන ස්ථවිර** හිඳ, සංඝස්ථවිර දෙවැන්නා සමඟ කථා කරයි | දෙවැන්නාට **හඬ ද ඇසේ, කථාව ද තේරේ**; තෙවැන්නාට **හඬ පමණක්** ඇසේ, **කථාව නොතේරේ** | **අප්පසද්ද** (මඳ හඬ)
+| එසේ ම | **තෙවැන්නාට ද කථාව තේරේ** | **මහාසද්ද** (මහ හඬ)
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** උස් හඬ, මහ හඬ නගමින් ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **උස් හඬ නගමින් ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**සමනුභාසන සමුට්ඨානයි** (කාය-වාචා-චිත්ත), **කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කාය-වචීකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි** (කඞ්ඛාවිතරණී සාරාංශය).
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **making a loud noise and clamour**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms and the limit of “quiet”
+**Appasaddo** — **without loud noise or clamour**.
+|! Seating (in a house of 12 cubits) | What is heard | Ruling
+| **the senior elder** at the start, **the second** in the middle, **the third** at the end; the senior speaks with the second | the second **hears the sound and follows the talk**; the third **hears only the sound**, **not following the talk** | **quiet**
+| the same | **the third also follows the talk** | **loud**
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Sitting among the houses making a loud noise **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses making a loud noise**.
+## (F) Origin and the rest (samuṭṭhāna)
+**Samanubhāsana origin** (body–speech–mind), **by doing, release by perception, with intention, blameworthy by nature, bodily and verbal action, unwholesome mind, painful feeling** (Kaṅkhāvitaraṇī summary).
+
+@sk15
+T: කායප්පචාලක ගමන සික්ඛාපදය || Not Swaying the Body while Going
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිරුර එල්ලා (නමා) සොලවමින් ගම් අතර යාම || Swaying the body while going among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**සිරුර සොලවමින්** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**කායප්පචාලකං** — සිරුර **සොලවමින් සොලවමින්** ("කායප්පචාලකං" ආදී සෑම පදයක ම මේ ක්‍රමය ය).
+**කායං පග්ගහෙත්වා** — ==සිරුර **නොසොල්වා (නිශ්චල කොට)**, **සෘජු සිරුරෙන්**, **සම ඉරියව්වෙන්**== යා යුතුය. පාළියේ "**සිරුර එල්ලා (ඔලම්බෙන්තො)**" යි ද කියයි.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** සිරුර එල්ලා (නමා) සොලවමින් ගම් අතර යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සිරුර සොලවමින් ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **swaying the body**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Kāyappacālakaṃ** — **swaying** the body again and again (the same pattern in every such term).
+**Kāyaṃ paggahetvā** — one should go ==keeping the body **still**, **upright**, in **an even posture**==. The Pāli also says “**letting the body droop (olambento)**.”
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Going among the houses swaying, letting the body droop **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses swaying the body**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk16
+T: කායප්පචාලක නිසීදන සික්ඛාපදය || Not Swaying the Body while Sitting
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: සිරුර එල්ලා (නමා) සොලවමින් ගම් අතර හිඳීම || Swaying the body while sitting among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; වාසය සඳහා පැමිණ සිටින විට; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; when staying there; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**සිරුර සොලවමින්** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**කායප්පචාලකං** — සිරුර **සොලවමින් සොලවමින්** ("කායප්පචාලකං" ආදී සෑම පදයක ම මේ ක්‍රමය ය).
+**කායං පග්ගහෙත්වා** — ==සිරුර **නොසොල්වා (නිශ්චල කොට)**, **සෘජු සිරුරෙන්**, **සම ඉරියව්වෙන්**== හිඳිය යුතුය. පාළියේ "**සිරුර එල්ලා (ඔලම්බෙන්තො)**" යි ද කියයි.
+**වාසූපගතස්ස** — ==හිඳීම සම්බන්ධ (කාය, බාහු, සීස) ශික්ෂාපද **තුනෙහි** **වාසය සඳහා පැමිණ සිටින්නාට අනාපත්ති**== (කඞ්ඛාවිතරණී).
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** සිරුර එල්ලා (නමා) සොලවමින් ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# ==**වාසය සඳහා පැමිණ සිටින** විට (වාසූපගත)==.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **සිරුර සොලවමින් ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **swaying the body**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Kāyappacālakaṃ** — **swaying** the body again and again (the same pattern in every such term).
+**Kāyaṃ paggahetvā** — one should sit ==keeping the body **still**, **upright**, in **an even posture**==. The Pāli also says “**letting the body droop (olambento)**.”
+**Vāsūpagatassa** — ==in **the three** sitting rules (body, arms, head), **no offence for one staying there**== (Kaṅkhāvitaraṇī).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Sitting among the houses swaying, letting the body droop **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# ==When **staying there** (vāsūpagata)==.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses swaying the body**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk17
+T: බාහුප්පචාලක ගමන සික්ඛාපදය || Not Swinging the Arms while Going
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත් එල්ලා වනමින් ගම් අතර යාම || Swinging the arms while going among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**අත් සොලවමින්** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**බාහුප්පචාලකං** — අත් **සොලවමින් සොලවමින්** ("බාහුප්පචාලකං" ආදී සෑම පදයක ම මේ ක්‍රමය ය).
+**බාහුං පග්ගහෙත්වා** — ==අත් **නොසොල්වා (නිශ්චල කොට)**== යා යුතුය. පාළියේ "**අත් එල්ලා (ඔලම්බෙන්තො)**" යි ද කියයි.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** අත් එල්ලා වනමින් ගම් අතර යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **අත් සොලවමින් ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **swinging the arms**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Bāhuppacālakaṃ** — **swinging** the arms again and again (the same pattern in every such term).
+**Bāhuṃ paggahetvā** — one should go ==keeping the arms **still**==. The Pāli also says “**letting the arms droop (olambento)**.”
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Going among the houses swinging, letting the arms dangle **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses swinging the arms**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk18
+T: බාහුප්පචාලක නිසීදන සික්ඛාපදය || Not Swinging the Arms while Sitting
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: අත් එල්ලා වනමින් ගම් අතර හිඳීම || Swinging the arms while sitting among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; වාසය සඳහා පැමිණ සිටින විට; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; when staying there; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**අත් සොලවමින්** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**බාහුප්පචාලකං** — අත් **සොලවමින් සොලවමින්** ("බාහුප්පචාලකං" ආදී සෑම පදයක ම මේ ක්‍රමය ය).
+**බාහුං පග්ගහෙත්වා** — ==අත් **නොසොල්වා (නිශ්චල කොට)**== හිඳිය යුතුය. පාළියේ "**අත් එල්ලා (ඔලම්බෙන්තො)**" යි ද කියයි.
+**වාසූපගතස්ස** — ==හිඳීම සම්බන්ධ (කාය, බාහු, සීස) ශික්ෂාපද **තුනෙහි** **වාසය සඳහා පැමිණ සිටින්නාට අනාපත්ති**== (කඞ්ඛාවිතරණී).
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** අත් එල්ලා වනමින් ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# ==**වාසය සඳහා පැමිණ සිටින** විට (වාසූපගත)==.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **අත් සොලවමින් ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **swinging the arms**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Bāhuppacālakaṃ** — **swinging** the arms again and again (the same pattern in every such term).
+**Bāhuṃ paggahetvā** — one should sit ==keeping the arms **still**==. The Pāli also says “**letting the arms droop (olambento)**.”
+**Vāsūpagatassa** — ==in **the three** sitting rules (body, arms, head), **no offence for one staying there**== (Kaṅkhāvitaraṇī).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Sitting among the houses swinging, letting the arms dangle **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# ==When **staying there** (vāsūpagata)==.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses swinging the arms**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk19
+T: සීසප්පචාලක ගමන සික්ඛාපදය || Not Shaking the Head while Going
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිස එල්ලා සොලවමින් ගම් අතර යාම || Shaking the head while going among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**හිස සොලවමින්** ගම් අතර ගියහ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සීසප්පචාලකං** — හිස **සොලවමින් සොලවමින්** ("සීසප්පචාලකං" ආදී සෑම පදයක ම මේ ක්‍රමය ය).
+**සීසං පග්ගහෙත්වා** — ==හිස **නොසොල්වා, සෘජුව** තබා== යා යුතුය. පාළියේ "**හිස එල්ලා (ඔලම්බෙන්තො)**" යි ද කියයි.
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** හිස එල්ලා සොලවමින් ගම් අතර යාම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **හිස සොලවමින් ගම් අතර යාම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==went among the houses **shaking the head**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sīsappacālakaṃ** — **shaking** the head again and again (the same pattern in every such term).
+**Sīsaṃ paggahetvā** — one should go ==keeping the head **still and upright**==. The Pāli also says “**letting the head droop (olambento)**.”
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Going among the houses shaking, letting the head droop **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Going among the houses shaking the head**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
+
+@sk20
+T: සීසප්පචාලක නිසීදන සික්ඛාපදය || Not Shaking the Head while Sitting
+R: - || -
+N: සැවැත් නුවර, ජේතවනය || Sāvatthī, Jetavana
+P: ෂඩ්වර්ගීය භික්ෂූන් || The group-of-six monks
+V: හිස එල්ලා සොලවමින් ගම් අතර හිඳීම || Shaking the head while sitting among the houses
+K: P1 sd=s an=a anu=0 ved=D
+Z: නොසිතා, නොසිහියෙන්, නොදැන; ගිලන්ව; වාසය සඳහා පැමිණ සිටින විට; ආපදාවල දී; උමතු ආදීන් || Unintentionally, unmindfully, not knowing; ill; when staying there; emergencies; the insane etc.
+G: 3
+#si
+## කථා වස්තුව
+@ සැවැත් නුවර · ජේතවනාරාමය
+**ෂඩ්වර්ගීය භික්ෂූහු** ==**හිස සොලවමින්** ගම් අතර හිඳගත්හ==. මිනිස්සු දොස් කීහ. භාග්‍යවතුන් වහන්සේ ශික්ෂාපදය පැනවූහ.
+## (අ) පද විවරණය
+**සීසප්පචාලකං** — හිස **සොලවමින් සොලවමින්** ("සීසප්පචාලකං" ආදී සෑම පදයක ම මේ ක්‍රමය ය).
+**සීසං පග්ගහෙත්වා** — ==හිස **නොසොල්වා, සෘජුව** තබා== හිඳිය යුතුය. පාළියේ "**හිස එල්ලා (ඔලම්බෙන්තො)**" යි ද කියයි.
+**වාසූපගතස්ස** — ==හිඳීම සම්බන්ධ (කාය, බාහු, සීස) ශික්ෂාපද **තුනෙහි** **වාසය සඳහා පැමිණ සිටින්නාට අනාපත්ති**== (කඞ්ඛාවිතරණී).
+## (ආ) ප්‍රඥප්තිය හා ආණත්තිය
+**සැවැත් නුවරදී** ෂඩ්වර්ගීය භික්ෂූන් අරබයා පැනවිණි. **සාධාරණ ප්‍රඥප්තියකි**. **අනාණත්තිකයි**. **දුක්කට පමණි**.
+## (ඇ) ආපත්ති භේදය
+|! ආකාරය | ඇවැත
+| **අනාදරයෙන්** හිස එල්ලා සොලවමින් ගම් අතර හිඳීම | DK
+## (ඈ) අනාපත්ති
+# **නොසිතා**; **නොසිහියෙන්**; **නොදැන**.
+# **ගිලන්ව**.
+# ==**වාසය සඳහා පැමිණ සිටින** විට (වාසූපගත)==.
+# **ආපදාවල** දී.
+# උමතු ආදීන්ට හා ආදිකම්මිකයාට.
+## (ඉ) අංග (= තීණි — තුනකි)
+# **අනාදරය**.
+# **අනාපත්ති හේතුවක් නැති** බව.
+# **හිස සොලවමින් ගම් අතර හිඳීම**.
+## (ඊ) සමුට්ඨානාදිය
+**පඨමපාරාජික සමුට්ඨානයි, කිරියයි, සඤ්ඤාවිමොක්ඛයි, සචිත්තකයි, ලෝකවජ්ජයි, කායකම්මයි, අකුසලචිත්තයි, දුක්ඛවේදනයි**.
+#en
+## The Story
+@ Sāvatthī · Jetavana monastery
+**The group-of-six** ==sat among the houses **shaking the head**==. People complained, and the Blessed One laid down the rule.
+## (A) Explanation of terms
+**Sīsappacālakaṃ** — **shaking** the head again and again (the same pattern in every such term).
+**Sīsaṃ paggahetvā** — one should sit ==keeping the head **still and upright**==. The Pāli also says “**letting the head droop (olambento)**.”
+**Vāsūpagatassa** — ==in **the three** sitting rules (body, arms, head), **no offence for one staying there**== (Kaṅkhāvitaraṇī).
+## (B) The laying down of the rule and the command
+It was laid down at **Sāvatthī** concerning the group-of-six. It is a **common rule**, **anāṇattika**, **dukkaṭa only**.
+## (C) Division of offences
+|! Case | Offence
+| Sitting among the houses shaking, letting the head droop **out of disrespect** | DK
+## (D) No offence
+# **Unintentionally**; **unmindfully**; **not knowing**.
+# When **ill**.
+# ==When **staying there** (vāsūpagata)==.
+# In **emergencies**.
+# For the insane and so on, and the first offender.
+## (E) Factors (= tīṇi — three)
+# **Disrespect**.
+# **No reason for exemption**.
+# **Sitting among the houses shaking the head**.
+## (F) Origin and the rest (samuṭṭhāna)
+**First-pārājika origin, by doing, release by perception, with intention, blameworthy by nature, bodily action, unwholesome mind, painful feeling**.
